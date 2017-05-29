@@ -1,0 +1,29 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 21764 invoked from network); 28 Apr 2017 10:17:39 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Apr 2017 10:17:39 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Apr 2017 10:17:39 -0000
+Received: (qmail 22331 invoked from network); 28 Apr 2017 10:17:39 -0000
+Received: from ec2-35-162-132-87.us-west-2.compute.amazonaws.com (HELO dmlqoqbgmztf.ti) (35.162.132.87)
+  by zak.futurequest.net with SMTP; 28 Apr 2017 10:17:39 -0000
+Date: Fri, 28 Apr 2017 19:17:32 +0900 (JST)
+From: =?Shift_JIS?B?jZWTYyCRj4jq?= <9n@a8k519gnx.com>
+To: bruce@bruce-guenter.dyndns.org
+Message-ID: <d34jrjut6g@3eh63r_.fu4>
+Subject: =?Shift_JIS?B?grGCzILcgtyCxSqCzZGnLY5xpYLJlp6Rq4K1gr2QtoqILoLwXpGX?=
+ =?Shift_JIS?B?guctgrktgsQrgqCCsILpOoKxgsaCqo9vl4gngtyCuYLxgWOXYSI=?=
+ =?Shift_JIS?B?gq8tgumCxiqCsYLrguCCyIKigrWBY4LggqSCUZBsi6SCsi6U0YLgkEg=?=
+ =?Shift_JIS?B?gteC6SyCsYLGgqqPbyKXiILILYKtO4LIguiC3CqCt6WBY36BQg==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+çï"ìc ëè*àÍ
+
+ì‡ óe 
+http://4x4t.a8k519gnx.com/rd/bbfdh/_/11007638/m4981531263/4341264a68670ff2a74f5aaffbdc5ee4ce28760cfa1161ab6e39e860cdc113e6
+
+
+2017/04/28 19:16

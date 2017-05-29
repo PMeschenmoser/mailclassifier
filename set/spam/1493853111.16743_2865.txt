@@ -1,0 +1,46 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 30079 invoked from network); 29 Apr 2017 13:03:30 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by 10.170.1.173 ([10.170.1.173])
+  with FQDP via TCP; 29 Apr 2017 13:03:30 -0000
+Received: (qmail 31887 invoked from network); 29 Apr 2017 13:03:30 -0000
+Received: from brought.quoterh.us (customer.sharktech.net [204.188.245.211])
+  by mx04.futurequest.net ([69.5.6.175])
+  with ESMTP via TCP; 29 Apr 2017 13:03:30 -0000
+Date: Sat, 29 Apr 2017 05:39:33 -0700
+Message-ID: <f8f706c3938feec43d1f111ad3c0a047.13458231.1348668@brought.quoterh.us>
+Subject: Notification: Sex Offenders Registered
+To: <bruce@untroubled.org>
+Content-Type: multipart/alternative; boundary="13458231_1348668_13458231"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 8bit
+From: Sex Offender Alerts - KidsLiveSafe <SexOffenderAlerts-KidsLiveSafe@brought.quoterh.us>
+
+
+--13458231_1348668_13458231
+Content-Type: text/plain
+
+Notification: Sex Offenders Registered, Only Here: http://clicktoday.quoterh.us/l/13458231
+
+
+
+--13458231_1348668_13458231
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+<meta http-equiv="Content-Language" content="en-us"/>
+</head>
+<body>
+<center><p><center><p><span style="font-family: arial, helvetica, sans-serif; font-size: 14pt; color: #000000;"><strong><a href="http://clicktoday.quoterh.us/l/13458231">Notification: Sex Offenders Registered</a></strong></span></p>
+<p><a href="http://clicktoday.quoterh.us/l/13458231"><img src="http://clicktoday.quoterh.us/img/QpSU7Qg.png" alt="f8f706c3938feec43d1f111ad3c0a047" /></a></p>
+<p><br><br><br><br><br><br><br><br><br><br><a href="http://clicktoday.quoterh.us/c/1348668"><img src="http://clicktoday.quoterh.us/img/XPUF0JD.png" alt="f8f706c3938feec43d1f111ad3c0a047" /></a></p>
+<p><br><br><br><br><br><br><br><span style="font-size: 12px; color: #f4f5f5;">f8f706c3938feec43d1f111ad3c0a047</span></p>
+</center>
+<img src="http://happy.firedsf.us/trace78/?email=bruce@untroubled.org&sid=giob" alt="" />
+</body>
+</html>
+--13458231_1348668_13458231--

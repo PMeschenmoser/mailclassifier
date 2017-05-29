@@ -1,0 +1,40 @@
+Delivered-To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Received: (qmail 4804 invoked from network); 3 May 2017 07:45:16 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 03 May 2017 07:45:16 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 03 May 2017 07:45:16 -0000
+Received: (qmail 2390 invoked from network); 3 May 2017 07:45:15 -0000
+Received: from ec2-54-71-75-69.us-west-2.compute.amazonaws.com (HELO jqleozhd.wy) (54.71.75.69)
+  by zak.futurequest.net with SMTP; 3 May 2017 07:45:15 -0000
+Date: Wed, 3 May 2017 16:44:44 +0900 (JST)
+From: =?Shift_JIS?B?k/oglnuNkYt+iYcvi+CXWotAjVyBc5JTIJOWgXSS1oy0?= <wu2i87@h2kbr73z5.net>
+To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Message-ID: <1587062283.707645.1493797484744.JavaMail.return-938976091@h2kbr73z5.net>
+Subject: =?Shift_JIS?B?Z2VzdJdsKoKqLoKyX5BTKpR6O4LJLILILoLB?=
+ =?Shift_JIS?B?LoLELoKiLYLpLoKxpYLGL4LNIJK3LYKiOpBsLpC2?=
+ =?Shift_JIS?B?K4KpLoLnJ4LdOoLpLILGLoFBIILZK4LxL4LMOo+s?=
+ =?Shift_JIS?B?XoKzKoLIpYNHKoNzX4NcX4FbL4NoX4LFLoFBfoKi?=
+ =?Shift_JIS?B?OoK4XoLqK5ZZpYLqK4LEIoK1IoLcpYLtX4LqpQ==?=
+ =?Shift_JIS?B?gukqgsUqgrUvguUvgqQsgUIggrEsgr8ugucrgswu?=
+ =?Shift_JIS?B?jZE6icYujncukugni34qiYcri+AugvArgqgnjvM7?=
+ =?Shift_JIS?B?juYugvAugrUsgsR+grUqgtwtgqYvgs5fjaEsgqk7?=
+ =?Shift_JIS?B?gqlegqYvgsQugqIqguktlFlfgt0igqosgtktgvE=?=
+ =?Shift_JIS?B?foLMfo+spYKzK4LIK46WLYK+LYLBIoK9OoLGLZJ6?=
+ =?Shift_JIS?B?X4KvKoLpIoLNfoK4LoLFIIK3foFCK42hKpP6MjE=?=
+ =?Shift_JIS?B?jp4sgtwvgsUqgskngrE6gr8qgucsgswvgqgvjugv?=
+ =?Shift_JIS?B?kbEqgqtegvAtiq6ll7k6grMqgrkugsR+krh+gqI=?=
+ =?Shift_JIS?B?LILEX4FBLpFTX4LEL4LwLYOKLoNaKoNiIoNnLIK1?=
+ =?Shift_JIS?B?pYLEIIKtKoK+LYKzKoKiO4LLfoFCfo6EL5JCO4Lg?=
+ =?Shift_JIS?B?LImeO4mHL4K1foLEJ4LcL4K3O4KpfoLnpYLLLIFC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+gest様+が･ご'心.配;に:な_っ~て,い*る_こ/と'は 長_い+人.生.か*ら*み-る/と_、 ほ.ん"の+小~さ:な;エ.ピ~ソ/ー~ド+で,、*い-ず_れ+忘/れ+て･し:ま わ/れ;る.で･し･ょ/う.。 こ*ち*ら_の:国,家~指,定,救.援-金*を お+受*取-を_し,て.し'ま+え~ば.今-か,か.え/て/い'る:悩*み:が.ほ.ん~の/小,さ/な:事,だ･っ'た:と.築/け.る+は/ず で;す/。.今~日21時'ま+で-に_こ'ち ら･の:お,手_続~き+を.完.了_さ:せ~て,頂'い+て,、,全:て+を,リ･セ+ッ_ト:し*て_く~だ_さ~い"ね^。.私.達.も･応_援,し:て-ま_す+か.ら-ね_。
+
+詳.　 細
+http://5z1nda7.h2kbr73z5.net/hlkk6cjkpfi53elob/69932211/m9201899293/c3f7e6dce3fc5f7f9b5a783bde9eaf4537ef2dfe8ee6834bd0ca79af86f858a3
+
+2017/05/03 16:44

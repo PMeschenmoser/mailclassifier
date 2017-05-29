@@ -1,0 +1,39 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 29848 invoked from network); 29 Apr 2017 02:28:36 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 29 Apr 2017 02:28:36 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 29 Apr 2017 02:28:36 -0000
+Received: (qmail 18227 invoked from network); 29 Apr 2017 02:28:35 -0000
+Received: from ec2-35-160-239-193.us-west-2.compute.amazonaws.com (HELO vytyjh.xl) (35.160.239.193)
+  by zak.futurequest.net with SMTP; 29 Apr 2017 02:28:35 -0000
+Date: Sat, 29 Apr 2017 11:28:31 +0900 (JST)
+From: =?Shift_JIS?B?k/qWe42Ri36Jh4vgl1qLQI1cgXMtklOTloF0ktaMtA==?= <jnsch@h2kbr73z5.net>
+To: bruce@bruce-guenter.dyndns.org
+Message-ID: <1133709111.336182.1493432911271.JavaMail.return-933921995@h2kbr73z5.net>
+Subject: =?Shift_JIS?B?lnsuk/pQTTE1OjAwgskxMomtMjUwMJacL4l+X5GXpYvgJ5dcfpbxK5J2?=
+ =?Shift_JIS?B?IIK1pYLcX4K1LoK9LoFCK46eLorUIA==?=
+ =?Shift_JIS?B?gskugsgqgugugtw6grc6gsYxMomtMjU=?=
+ =?Shift_JIS?B?MDCWnDqJfi6CqiuOqSCTri2TSaWCyQ==?=
+ =?Shift_JIS?B?Z2VzdJdsLYLMIoz7K43AX4LJMTKJrQ==?=
+ =?Shift_JIS?B?MjUwMJacK4l+X4KqKpGXLYvgKoKz?=
+ =?Shift_JIS?B?O4LqKoLcIIK3X4LMLoLFX4KoK46epYrU?=
+ =?Shift_JIS?B?X4LcOoLFJ4LJLIKxLYK/XoLnX4LMfg==?=
+ =?Shift_JIS?B?gqgijugukbEugqtegsxfiq4sl7kigvAg?=
+ =?Shift_JIS?B?grWlgsQskrh+gq8rguoqgs4xMomtMg==?=
+ =?Shift_JIS?B?NTAwlpw6iX4ugs0vjaFek/pnZXN0?=
+ =?Shift_JIS?B?l2wugswujPsrjcBfgsw7lftegsk7lL0=?=
+ =?Shift_JIS?B?folmJ4KzX4LqLILcLIK3L4LMOoLFIIKo?=
+ =?Shift_JIS?B?L46epYrULILcOoLFLYLJLYquLZe5K4Lw?=
+ =?Shift_JIS?B?IoKoKoroLoKiK4K1K4LcLoK3K4LLIIFC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+ñ{;ì˙PM15:00Ç…12â≠2500ñú_â~*ëó/ã‡.ó\/ñÒ+ív_Çµ;Ç‹~Çµ"ÇΩ;ÅB•éû ä‘*Ç….Ç»-ÇË_Ç‹.Ç∑,Ç∆12â≠2500ñú:â~ Ç™/é©~ìÆ/ìI~Ç…gestól:ÇÃ+å˚;ç¿*Ç…12â≠2500ñú"â~•Ç™"ëó+ã‡~Ç≥.ÇÍ.Ç‹,Ç∑~ÇÃ'Ç≈~Ç®_éû-ä‘-Ç‹_Ç≈_Ç….Ç± Çø:ÇÁ-ÇÃ-Ç®~éË/ë± Ç´*ÇÃ;äÆ+óπ+Ç,Çµ/Çƒ_í∏/ÇØ~ÇÍ"ÇŒ12â≠2500ñú+â~~ÇÕ-ç°~ì˙gestól:ÇÃ/å˚.ç¿_ÇÃ_ï˚_Ç…_îΩ+âf.Ç≥-ÇÍ^Ç‹,Ç∑•ÇÃ,Ç≈:Ç®,éû_ä‘.Ç‹-Ç≈+Ç…;äÆ*óπ/Ç+Ç®_äË.Ç¢/Çµ•Ç‹~Ç∑/ÇÀ-ÅB
+
+è⁄+Å@,ç◊
+http://yi26f2s.h2kbr73z5.net/zlso1i3d0bp2s9w7c/69932211/m8862258649/76e62de2a18e0f8b782bd013bb5a51261a028a8f648f30f594ca313e097095ca
+
+2017/04/29 11:28

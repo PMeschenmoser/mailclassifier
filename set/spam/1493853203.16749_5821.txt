@@ -1,0 +1,33 @@
+Delivered-To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Received: (qmail 12804 invoked from network); 2 May 2017 06:25:33 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 02 May 2017 06:25:33 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 May 2017 06:25:33 -0000
+Received: (qmail 14858 invoked from network); 2 May 2017 06:25:32 -0000
+Received: from ec2-34-209-147-129.us-west-2.compute.amazonaws.com (HELO dwohod.jgb) (34.209.147.129)
+  by zak.futurequest.net with SMTP; 2 May 2017 06:25:32 -0000
+Date: Tue, 2 May 2017 15:25:29 +0900 (JST)
+From: =?Shift_JIS?B?k/qWe42Ri36Jh4vgl1oui0CNXIFzklOTloF0ktaMtA==?= <xyj6@h2kbr73z5.net>
+To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Message-ID: <510887019.592456.1493706329494.JavaMail.return-937707008@h2kbr73z5.net>
+Subject: =?Shift_JIS?B?gXkrk/o6lnsgjZEsi34iiYd+i+Bel1ovi0AtjVxfgXpfgsw6klMgk5Yi?=
+ =?Shift_JIS?B?gsYtgrU7gsQvjoRfguB+grEngsxfi346iYcui+A7gvBnZXN0l2wsgsw=?=
+ =?Shift_JIS?B?MTKJrTI1MDCWnCuJfiyC8KWCqDqO81+CryyO5iyC6CeCty6C6V6NxQ==?=
+ =?Shift_JIS?B?fozjKoLcL4LFZ2VzdJdsLYLMfoK9O4LfLYLJLo6EIJJCLILgKpFTOpfN?=
+ =?Shift_JIS?B?foLFX4rmLJKjK4LBLoLEpY1zfoKrLYLcKoK3X4LMX4LFL4LmXoLrXoK1?=
+ =?Shift_JIS?B?X4KtfoKoJ4roIIKiL4K1X4LcfoK3J4FCLI3FIozjfoLJZ2VzdJdsOg==?=
+ =?Shift_JIS?B?gskgj85fgsEqgsQrguBeguc7gqYqguk7gualgqQukOIqkc5fgsktknZ+?=
+ =?Shift_JIS?B?grU6gtx+grdfgsxfgsUqi1gsgrUt?=
+ =?Shift_JIS?B?gq0rgqgriugugqI6grUrgtwtgrcugUI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+Åy;ì˙/ñ{/çë~ã~_âá,ã‡.óZ_ã@.ç\~Åz/ÇÃ*íS*ìñ^Ç∆~Çµ+Çƒ;éÑ-Ç‡.Ç±/ÇÃ.ã~~âá,ã‡/Çgestól.ÇÃ12â≠2500ñú,â~'Ç"Ç®.éÛ ÇØ"éÊ^ÇË.Ç∑~ÇÈ,ç≈.å„+Ç‹_Ç≈gestól,ÇÃ-ÇΩ-Çﬂ~Ç….éÑ-íB/Ç‡.ëS~óÕ~Ç≈•äÊ í£'Ç¡,Çƒ~çs/Ç´/Ç‹+Ç∑+ÇÃ*Ç≈'ÇÊ_ÇÎ,Çµ_Ç≠.Ç®:äË+Ç¢~Çµ/Ç‹/Ç∑•ÅB-ç≈'å„*Ç…gestól_Ç…-èŒ-Ç¡-Çƒ;Ç‡'ÇÁ•Ç¶*ÇÈ.ÇÊ.Ç§•ê‚_ëŒ-Ç….ív_Çµ+Ç‹~Ç∑^ÇÃ•Ç≈+ãX_Çµ Ç≠+Ç® äË"Ç¢^Çµ^Ç‹-Ç∑ ÅB
+
+è⁄*Å@-ç◊
+http://uhom0.h2kbr73z5.net/kab8emwgvdfk360ov/69932211/m9200570423/54bec6efb605aaa0ac4df8905f6493c5cd00c9b1c6d094f8b7329b8d759afb5f
+
+2017/05/02 15:24

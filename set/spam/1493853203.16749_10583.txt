@@ -1,0 +1,40 @@
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 14741 invoked from network); 1 May 2017 06:27:47 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 May 2017 06:27:47 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 May 2017 06:27:47 -0000
+Received: (qmail 31089 invoked from network); 1 May 2017 06:27:46 -0000
+Received: from ec2-52-34-249-158.us-west-2.compute.amazonaws.com (HELO fpeg.fax) (52.34.249.158)
+  by zak.futurequest.net with SMTP; 1 May 2017 06:27:46 -0000
+Date: Mon, 1 May 2017 15:27:42 +0900 (JST)
+From: =?Shift_JIS?B?IJP6lnuNkYt+iYeL4JdaIItAjVyBc5JTk5YggXSS1oy0?= <6d807@h2kbr73z5.net>
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Message-ID: <1838803804.642079.1493620063095.JavaMail.return-936427186@h2kbr73z5.net>
+Subject: =?Shift_JIS?B?guYigqkugsE7gr1fgsUtgrcigUEigrE=?=
+ =?Shift_JIS?B?LILqOoLFO4LILYLxIILGKoKpIILIIILo?=
+ =?Shift_JIS?B?LYK7J4KkLILFK4K3LoFCK4t+IomHK4vg?=
+ =?Shift_JIS?B?XoLMLY7zIpV0LY6eforUXoLMXomELJK3?=
+ =?Shift_JIS?B?X4K3L4LpL46WfoLJLJCsLYz3X4K1Jw==?=
+ =?Shift_JIS?B?gtwsgrWlgr1fgUIugrErgswuk8Esjup+?=
+ =?Shift_JIS?B?juhfkbGlgqsvgsx+iNdfk4wvlnoukLw7?=
+ =?Shift_JIS?B?kZZegrUtgtx+grVfgr0ugq9egscuguAq?=
+ =?Shift_JIS?B?gUFnZXN0l2wrgsxfjUsigrkvgvAr?=
+ =?Shift_JIS?B?jnZ+gqYqgs4rgsdfgqRegsYvgqIigqQ7?=
+ =?Shift_JIS?B?jpYggs0ggqA7gugqgtwvgrksgvEsgUIr?=
+ =?Shift_JIS?B?jcVfj0lekvd+gt8qkNgvgug6gs0gglEt?=
+ =?Shift_JIS?B?glB+jp4sgsYvgsgugugsgtwqgrcsgsw=?=
+ =?Shift_JIS?B?L4LFL4ptpY7AXoLJKoKoK47oLZGxLIKr?=
+ =?Shift_JIS?B?J4m6K4KzLoKiX4LcL4K3L4LmJ4KkL4Ko?=
+ =?Shift_JIS?B?L4roX4KiKoKiLoK9LoK1O4LcpYK3LoFC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+よ~か+っ/た~で~す･、~こ,れ,で-な*ん;と/か~な/り"そ*う+で+す+。,救,援/金.の 受-付.時^間_の:延+長*す~る 事.に-成･功_し,ま･し*た/。:こ/の,特-殊~手'続-き'の_為-東~奔,西_走･し+ま･し;た-け~ど'も･、gest様/の"幸^せ:を-思"え-ば*ど.う,と:い/う,事_は/あ.り:ま.せ_ん/。;最-終*締"め"切'り-は_２+１,時.と-な_り+ま+す'の.で_確,実+に:お.手 続-き^下'さ_い ま_す"よ_う^お+願+い+い/た.し:ま-す~。
+
+詳.　.細
+http://ferdk.h2kbr73z5.net/w4ivjd36406qecqbp/69932211/m3197158152/b6ce478aa1d64eb719fca0ba626e3ce96e481cbeb6b08bee7de5dd6a0f65fe5a
+
+2017/05/01 15:27

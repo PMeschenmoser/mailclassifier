@@ -1,0 +1,26 @@
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 11535 invoked from network); 2 May 2017 02:06:01 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 02 May 2017 02:06:01 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 May 2017 02:06:01 -0000
+Received: (qmail 3372 invoked from network); 2 May 2017 02:06:00 -0000
+Received: from srv01-108.manishjp.com (HELO rfgn.rd6-31kmi.com) (103.56.212.108)
+  by zak.futurequest.net with SMTP; 2 May 2017 02:06:00 -0000
+Date: Tue, 2 May 2017 11:05:40 +0900
+From: =?Shift_JIS?B?grOCwYK1gVsuIA==?=<yes.yes0502s_hyn.naisyo@rfgn.rd6-31kmi.com>
+To: lists-linux-xfs@bruce-guenter.dyndns.org<lists-linux-xfs>
+Message-id: <Ufx9l1hPwr3qW9@nzntEbI0mIwxu.com>
+Subject: =?Shift_JIS?B?jaGCwYLEgWOBSCA=?=
+Mime-version: 1.0
+Content-type: text/plain; charset=Shift_JIS
+Content-transfer-encoding: 7bit
+
+何度か連絡先送ってるけど、どうして送った連絡先のほうに貰えないのかな？
+そっちのアドレスは『naisho2017@～』じゃないでしょ？
+今ってお互いにサイトのサブアド同士って事は把握してるよね？
+メール一通400円かかってるわけだし、ポイント代ももったいないから直接連絡取り合いたいんだ。
+あなただってポイント気にしながら連絡するのは嫌でしょ？
+だから送った連絡先のほうに送ってほしいな。
+

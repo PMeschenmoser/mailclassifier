@@ -1,0 +1,24 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 16369 invoked from network); 29 Apr 2017 06:34:06 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 29 Apr 2017 06:34:06 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 29 Apr 2017 06:34:06 -0000
+Received: (qmail 25715 invoked from network); 29 Apr 2017 06:34:05 -0000
+Received: from srv01-31.manishjp.com (HELO fvgby.jz-ihq-keg.com) (103.56.212.31)
+  by zak.futurequest.net with SMTP; 29 Apr 2017 06:34:05 -0000
+Date: Sat, 29 Apr 2017 15:33:57 +0900
+From: =?Shift_JIS?B?grOCwYK1gVsuIA==?=<0429t.k.nais0yo-s_hyn.yes@fvgby.jz-ihq-keg.com>
+To: lists-linux-kernel@bruce-guenter.dyndns.org<lists-linux-kernel>
+Message-id: <9Rho4on0Iw0khz2wVK@4s31UnDkiYYQR.com>
+Subject: =?Shift_JIS?B?jneMtILMgrGC8YLIkXqCooLNk82CqYLIgqKCzIKpgsiBYyA=?=
+Mime-version: 1.0
+Content-type: text/plain; charset=Shift_JIS
+Content-transfer-encoding: 7bit
+
+また普通に何気ない感じで会話する事が出来たらいいなって思ってるんだけどな…。
+
+無理なのかな。
+もしかして…。
+

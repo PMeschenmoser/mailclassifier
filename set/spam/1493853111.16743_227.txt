@@ -1,0 +1,30 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 26365 invoked from network); 28 Apr 2017 06:06:33 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Apr 2017 06:06:33 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Apr 2017 06:06:33 -0000
+Received: (qmail 16488 invoked from network); 28 Apr 2017 06:06:32 -0000
+Received: from fikqhli.ijagdad7.net (113.212.140.171)
+  by zak.futurequest.net with SMTP; 28 Apr 2017 06:06:32 -0000
+Received: from hyjehlbjla (feotrwa.ijagdad7.net [113.212.140.163])
+	by dkocemk.ijagdad7.net (Postfix) with ESMTP id 860E3704DE5
+	for <bruce@bruce-guenter.dyndns.org>; Fri, 28 Apr 2017 15:06:30 +0900 (JST)
+Received: from localhost (61-63-36-host226.kbtelecom.net.tw [61.63.36.226])
+	by hyjehlbjla (Postfix) with ESMTP id 6801C50CED9
+	for <bruce@bruce-guenter.dyndns.org>; Fri, 28 Apr 2017 15:06:29 +0900 (JST)
+To: bruce@bruce-guenter.dyndns.org
+Message-ID: <ab2958ead68eeca72cdc0ef9e3915398@vi28xkhe.com>
+Date: Fri, 28 Apr 2017 15:06:31 +0900
+From: "guide@vi28xkhe.com" <guide@vi28xkhe.com>
+Subject: =?Shift_JIS?B?joSCqo6AgvGCvoLngUGOhILwgqKCtoLfgsSCvZBsgr2Cv4LNiuyC1IK+guuCpILIgUI=?=
+ 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=Shift_JIS
+Content-Transfer-Encoding: base64
+
+IFuRsYKrgs2CsYK/guddDQogaHR0cDovL2xrbHZrcmtva2dnNjBsZWdtZ2VsZmh3LnZpMjh4a2hl
+LmNvbQ0KDQogW47zkE2De4Nig06DWF0NCiBodHRwOi8vbGtsdmtya29rZ2dmdy52aTI4eGtoZS5j
+b20=
+

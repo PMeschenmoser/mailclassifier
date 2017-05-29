@@ -1,0 +1,71 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 15395 invoked from network); 01 May 2017 06:15:52 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by 10.170.1.170 ([10.170.1.170])
+  with FQDP via TCP; 01 May 2017 06:15:52 -0000
+Received: (qmail 2752 invoked from network); 1 May 2017 06:15:52 -0000
+Received: from go4mail.se (static-83-168-252-43.cust.crystone.se [83.168.252.43])
+  by mx08.futurequest.net ([69.5.6.180])
+  with ESMTP via TCP; 01 May 2017 06:15:52 -0000
+Received: from User (unknown [193.150.15.62])
+	by go4mail.se (Postfix) with ESMTPA id 5B15522E83FB;
+	Tue,  4 Apr 2017 11:47:58 -0400 (EDT)
+Reply-To: <arabbank.cfc@o2.pl>
+From: "Arab Bank"<info@go4mail.se>
+Subject: Deposit Notification
+Date: Tue, 4 Apr 2017 08:48:18 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+ARAB BANK ALERT (Deposit Notification)</DIV>
+<DIV>
+&nbsp; </DIV>
+<DIV>
+ This is to notify you of a deposit in your favor with Arab Bank, with details below:</DIV>
+<DIV>
+ Transaction Type:&nbsp; DEPOSIT</DIV>
+<DIV>
+ Transaction Amount: 5,500,000.00</DIV>
+<DIV>
+ Transaction Currency USD</DIV>
+<DIV>
+ Account Number 3XX..06X</DIV>
+<DIV>
+ Transaction Narration WEB Dr @ 29866007-NEXT OF KIN*DEPOSIT 18006994264 800-699</DIV>
+<DIV>
+ Transaction Remarks 413618896864 / 000000000730</DIV>
+<DIV>
+ Date and Time 04-April-2017. 05:22:26</DIV>
+<DIV>
+ Deposit charges: 2,345.97</DIV>
+<DIV>
+ Cleared Balance 5,497,654.03</DIV>
+<DIV>
+ Uncleared 0.00</DIV>
+<DIV>
+&nbsp; </DIV>
+<DIV>
+For any other inquiries and log in details to your account, please contact our Customer Fulfillment Center (CFC) at arabbank.cfc@o2.pl</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+ Legal</DIV>
+<DIV>
+ This email message is confidential and for use by the addressee only. If the message is received by anyone other than the addressee, please delete it from your computer. Arab Bank does not accept responsibility for changes made to this message after it was sent.</DIV>
+<DIV>
+&nbsp; </DIV>
+<DIV>
+ Whilst all reasonable care has been taken to avoid the transmission of viruses, it is the responsibility of the recipient to ensure that onward transmission, opening or use of this message and any attachments will not adversely affect its systems or data. No responsibility is accepted by Arab Bank in this regard and the recipient should carry out such virus and other checks as it considers appropriate.</DIV>
+</FONT>
+</BODY></HTML>

@@ -1,0 +1,35 @@
+Delivered-To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Received: (qmail 21243 invoked from network); 3 May 2017 09:47:08 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 03 May 2017 09:47:08 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 03 May 2017 09:47:08 -0000
+Received: (qmail 5672 invoked from network); 3 May 2017 09:47:07 -0000
+Received: from gixvayehkj.mubfe4cgh.net (111.223.219.199)
+  by zak.futurequest.net with SMTP; 3 May 2017 09:47:07 -0000
+Received: from rekcawzflk.mubfe4cgh.net (rekcawzflk.mubfe4cgh.net [111.223.219.195])
+	by nlmhgjhwxa.mubfe4cgh.net (Postfix) with ESMTP id 42CE71200BE
+	for <lists-djb-ezmlm@bruce-guenter.dyndns.org>; Wed,  3 May 2017 18:47:06 +0900 (JST)
+Received: from dkocemk.ijagdad7.net (dkocemk.ijagdad7.net [113.212.140.165])
+	by rekcawzflk.mubfe4cgh.net (Postfix) with ESMTP id 291051200B1
+	for <lists-djb-ezmlm@bruce-guenter.dyndns.org>; Wed,  3 May 2017 18:47:06 +0900 (JST)
+Received: from qhrxxmraag (feotrwa.ijagdad7.net [113.212.140.163])
+	by dkocemk.ijagdad7.net (Postfix) with ESMTP id 14A0C6CF035
+	for <lists-djb-ezmlm@bruce-guenter.dyndns.org>; Wed,  3 May 2017 18:47:05 +0900 (JST)
+Received: from localhost (61-63-36-host226.kbtelecom.net.tw [61.63.36.226])
+	by qhrxxmraag (Postfix) with ESMTP id A1CF25044DA
+	for <lists-djb-ezmlm@bruce-guenter.dyndns.org>; Wed,  3 May 2017 18:47:05 +0900 (JST)
+To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Message-ID: <0ec624cc9f861e40bf0a5534bdff272f@fx3zsgpu.com>
+Date: Wed, 03 May 2017 18:47:06 +0900
+From: "info@fx3zsgpu.com" <info@fx3zsgpu.com>
+Subject: =?Shift_JIS?B?g1GDWINngrOC8YLNkm2CwYLEgumCqYLtgqmC54LIgqKCxYK3gq+Cx4FBg4iDS4LwjuaC6JP8guqCvYNag2KDToNYgqqNxY2CgsmLQ46dgr+CooKigsGCxA==?=
+ 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=Shift_JIS
+Content-Transfer-Encoding: base64
+
+IFuRsYKrgs2CsYK/guddDQogaHR0cDovL2J0Ynp3bHJncjcwdnJiYmNsZ3djeGYuZngzenNncHUu
+Y29tDQoNCiBbjvOQTYN7g2KDToNYXQ0KIGh0dHA6Ly9idGJ6d2xyZ3JoZi5meDN6c2dwdS5jb20=
+

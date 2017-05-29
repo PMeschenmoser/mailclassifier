@@ -1,0 +1,29 @@
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 22678 invoked from network); 2 May 2017 07:42:20 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 02 May 2017 07:42:20 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 May 2017 07:42:20 -0000
+Received: (qmail 17925 invoked from network); 2 May 2017 07:42:19 -0000
+Received: from wtzsisd.ijagdad7.net (113.212.140.174)
+  by zak.futurequest.net with SMTP; 2 May 2017 07:42:19 -0000
+Received: from uviguwnwye (feotrwa.ijagdad7.net [113.212.140.163])
+	by dkocemk.ijagdad7.net (Postfix) with ESMTP id E761F720247
+	for <lists-bikini@bruce-guenter.dyndns.org>; Tue,  2 May 2017 16:42:17 +0900 (JST)
+Received: from localhost (61-63-36-host226.kbtelecom.net.tw [61.63.36.226])
+	by uviguwnwye (Postfix) with ESMTP id 9358E51542D
+	for <lists-bikini@bruce-guenter.dyndns.org>; Tue,  2 May 2017 16:42:17 +0900 (JST)
+To: lists-bikini@bruce-guenter.dyndns.org
+Message-ID: <ad9ade8ccaf2fb1c5bc15d81db37b94f@hg3qfvku.com>
+Date: Tue, 02 May 2017 16:42:18 +0900
+From: "guide@hg3qfvku.com" <guide@hg3qfvku.com>
+Subject: =?Shift_JIS?B?gXmBni2CsojEk+AtgZ6BepOWg1SDQ4NngvCWs5e/gsWCspeYl3CJwpRcgsaCyILogtyCtYK9gUI=?=
+ 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=Shift_JIS
+Content-Transfer-Encoding: base64
+
+IFuRsYKrgs2CsYK/guddDQogaHR0cDovL2JhdmlzYXN5dGM5NWFmcmlpYXNibGouaGczcWZ2a3Uu
+Y29tDQoNCiBbjvOQTYN7g2KDToNYXQ0KIGh0dHA6Ly9iYXZpc2FzeXRjZmouaGczcWZ2a3UuY29t
+

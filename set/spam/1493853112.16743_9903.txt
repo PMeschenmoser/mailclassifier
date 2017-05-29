@@ -1,0 +1,39 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 11978 invoked from network); 29 Apr 2017 05:35:14 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 29 Apr 2017 05:35:14 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 29 Apr 2017 05:35:14 -0000
+Received: (qmail 24008 invoked from network); 29 Apr 2017 05:35:13 -0000
+Received: from scaverzsav.zdomht.com (113.212.133.165)
+  by zak.futurequest.net with SMTP; 29 Apr 2017 05:35:13 -0000
+Received: from tdymjgftmp.zdomht.com (unknown [113.212.133.163])
+	by scaverzsav.zdomht.com (Postfix) with ESMTP id 59CCBF4423A
+	for <bruce@bruce-guenter.dyndns.org>; Sat, 29 Apr 2017 14:33:36 +0900 (JST)
+Received: from 113.212.133.163 (111x223x202x52.adv-server.net [111.223.202.52])
+	by tdymjgftmp.zdomht.com (Postfix) with ESMTP id 054C8CA073E
+	for <bruce@bruce-guenter.dyndns.org>; Sat, 29 Apr 2017 14:32:49 +0900 (JST)
+To: bruce@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?44CM6L+U5riI5LiN6KaB44Gu5pSv5o+06YeR44CN44Gn44GC44KL44CM?=
+	=?UTF-8?B?MeWEhOWGhuOAjeOCkuiytOaWueOBq+W3ruOBl+S4iuOBkuOCi+OBqOOBhOOBhg==?=
+	=?UTF-8?B?5LqL44Gv5pei44Gr44GK5Lyd44GI44GX44Gm44G+44GZ44GM44CB56eB44Gv5pyr?=
+	=?UTF-8?B?5pyf55mM44Gn44CB44GK5Yy76ICF5qeY44GL44KJ5L2Z5ZG944KS5a6j5ZGK44GV?=
+	=?UTF-8?B?44KM44Gm44GX44G+44GE44G+44GX44Gf44CC44Gn44GZ44GL44KJ56eB44Gr44Gv?=
+	=?UTF-8?B?44KC44GG44CB44GC44G+44KK5pmC6ZaT44GM5q6L44GV44KM44Gm44GE44G+44Gb?=
+	=?UTF-8?B?44KT44CC6ZmQ44KJ44KM44Gf5pmC6ZaT44KS6LK05pa544Gu54K644Gr5L2/44Gj?=
+	=?UTF-8?B?44Gm44G+44GZ44CC44Gd44Gu54q25rOB44KS5YWI44Ga44GU55CG6Kej6aCC44GN?=
+	=?UTF-8?B?44Gf44GE44Gu44Gn44GZ44CC?=
+From: =?UTF-8?B?44GK55+l44KJ44Gb?= <mailmaster@u7j3tmn4.com>
+Date: Sat, 29 Apr 2017 14:35:12 +0900
+Message-ID: <b92deb03c6f5f872de6cf230df4528278b596e58>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: BASE64
+MIME-Version: 1.0
+
+PGEgaHJlZj0iaHR0cDovL3U3ajN0bW40LmNvbS9sb2dfaW5kZXgucGhwP3BhZ2U9bWVzc19taXJ1
+JnM9MTQ5MzQ0MzkzNyZjaWQ9MTIzOTcmbWlkPTE0OTY5NTQmZGR2PTEwMDAxNjZkYjUxNTk4MDk1
+YmY1YTIwNmVhOTRiNGQ2Ij5odHRwOi8vdTdqM3RtbjQuY29tL0lZL3IvR3JaL3l5Z0kxdksveS9K
+Smw5PC9hPjxicj4NCuKIqu+8nu+8vuKUrOKIoOOAk+KXhuKUu+KWoeKUo+KImuKIte+8ieOAjSnj
+gJDjgIvvv6Nd
+

@@ -1,0 +1,218 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 12296 invoked from network); 01 May 2017 18:13:27 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by 10.170.1.170 ([10.170.1.170])
+  with FQDP via TCP; 01 May 2017 18:13:27 -0000
+Received: (qmail 10773 invoked from network); 1 May 2017 18:13:27 -0000
+Received: from mail.allskintricks.com (162-144-98-216.unifiedlayer.com [162.144.98.216])
+  by mx08.futurequest.net ([69.5.6.180])
+  with ESMTP via TCP; 01 May 2017 18:13:27 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=allskintricks.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=rachel_vreeland@allskintricks.com;
+ bh=9B0rtqJqO+cyxHFypZ/aBFC1HgA=;
+ b=gdG3S8pAdm06lUCtayE3THFvivoDvt+KOglRu9uyeg8jxVEra8h6LKbhOcEVn62lNE7j2zjEehIV
+   ihePhiJ1P0qoZOpEFCSde9g4pap2OIjpg65r42x27bsCaayYDsDCMQoh/jXGOtKlFTAmccUOWnLe
+   160XPyb9dF4DT5rZSqQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=allskintricks.com;
+ b=pbAE9bBmAafXJTqBbCxgMoCYKyqBESqJCjQhBP5iLMrFKE54tv2lmg7SEuSSmI4Knsav3IL7ld09
+   52T2vVL3suuQ8dPCY6aa0wnuAWZtKHjblEq7j8Z5Pf4vaL91CsNcY7CGHiolUDwnLa9sDyhn4was
+   pmIxJ017i6SFQZ/9wWQ=;
+Received: by mail.allskintricks.com id h0tt1a0001gb for <bruce@untroubled.org>; Mon, 1 May 2017 14:04:06 -0400 (envelope-from <rachel_vreeland-bruce=untroubled.org@allskintricks.com>)
+Date: Mon, 1 May 2017 14:04:06 -0400
+From: "Rachel Vreeland" <rachel_vreeland@allskintricks.com>
+To:   <bruce@untroubled.org>
+Subject: NBC: Ellen fired from her hit-daytime show Monday:
+ 06155138
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_196_551862254.1493662019579"
+List-Unsubscribe: <http://www.allskintricks.com/Cecropia-deadwood/3_089tPPi1M1R279kLkVMOFVgUkhVLxONzhkrdd8>
+Message-ID: <0.0.0.15.1D2C2A5532331DA.2D514E@mail.allskintricks.com>
+Content-Length: 10594
+
+------=_Part_196_551862254.1493662019579
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/htm=
+l4/strict.dtd">
+<html>
+ <head>=20
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" =
+/>=20
+  <title>fancy answers</title>=20
+  <style>.paginator-indicator-bullet:after{background-color:#ebebeb; backgr=
+ound-color:rgba(255,255,255,.1); border-radius:4px; content:''; display:blo=
+ck; height:8px; margin:2px; width:8px}.no-touch .paginator-indicator-target=
+:hover .paginator-indicator-bullet.active:after{background-color:#fff}.pagi=
+nator-indicator-bullet{background-color:#b2b2b2; background-color:rgba(0,0,=
+0,.3); border-radius:6px; box-shadow:0 1px 0 0 rgba(255,255,255,.2),inset 0=
+ 1px 0 1px rgba(0,0,0,.3); display:inline-block; height:12px; width:12px}.p=
+aginator-indicator-bullet.active{cursor:default}.paginator-indicator-bullet=
+active:after{background-color:#fff; border-radius:4px; box-shadow:0 1px 0 =
+1px rgba(0,0,0,.6); content:''; display:block; height:8px; margin:2px; widt=
+h:8px}.split-two{list-style:none; margin:0; padding:0; display:table}.table=
+-row{display:table-row}.clst-text-meta{display:table}.clst-text-meta-timest=
+amp,.meta-section-link{display:table-cell; vertical-align:top}.table-row>.s=
+plit-two-odd{padding-right:10px}.table-row>.split-two-even{padding-left:10p=
+x}.ui-sprite-after:after,.ui-sprite-before:before{background:url(../../imag=
+es/sprites/ui-sprite.png) no-repeat; content:''; display:inline-block; heig=
+ht:20px; width:20px; position:relative; top:-4px; vertical-align:top}.ui-bt=
+n{background:0 0; border:1px solid; border-radius:3px; box-shadow:0 2px 0 0=
+ rgba(0,0,0,.1); box-sizing:border-box; cursor:pointer; display:block; font=
+:700 13px Helvetica,Arial,sans-serif; height:30px; line-height:28px; paddin=
+g:0 20px; position:relative; text-align:center}.ui-btn.icon:before{backgrou=
+nd:url(../../images/sprites/ui-sprite.png) no-repeat; content:''; display:i=
+nline-block; position:relative; top:5px; height:20px; margin-right:5px; ove=
+rflow:hidden; width:20px}.ui-light .ui-btn,.ui-light.ui-btn{background:#efe=
+fef; border-color:#bdbdbd; color:#666}.ui-dark .ui-btn,.ui-dark.ui-btn{back=
+ground:#4c4c4c; border-color:#1e1e1e; color:#fff}.ui-light .ui-btn:hover,.u=
+i-light.ui-btn:hover{background:#fafafa; border-color:#bdbdbd; color:#333}.=
+ui-dark .ui-btn:hover,.ui-dark.ui-btn:hover{background:#606060; border-colo=
+r:#1e1e1e; color:#fff}.ui-light .ui-btn:active,.ui-light.ui-btn:active{back=
+ground:#fafafa; color:#333; box-shadow:inset 0 2px 3px 0 rgba(0,0,0,.17)}.u=
+i-dark .ui-btn:active,.ui-dark.ui-btn:active{background:#606060; box-shadow=
+:inset 0 2px 3px 0 rgba(0,0,0,.17)}.ui-light .ui-btn.active,.ui-light.ui-bt=
+n.active{background:gray; border-color:#757575; color:#fff}.ui-dark .ui-btn=
+active,.ui-dark.ui-btn.active{background:#292929; border-color:#1e1e1e; co=
+lor:#fff}.ui-opaque .ui-btn,.ui-opaque.ui-btn{border:1px solid; background:=
+0 0; box-shadow:none; text-shadow:none}.ui-light.ui-opaque .ui-btn,.ui-ligh=
+t.ui-opaque.ui-btn{background:#efefef; border-color:#bdbdbd; color:#666}.ui=
+-dark.ui-opaque .ui-btn,.ui-dark.ui-opaque.ui-btn{background:#4c4c4c; borde=
+r-color:#1e1e1e; color:#fff}.ui-chunky-btn{background:#21acff; background:-=
+moz-linear-gradient(top,rgba(33,172,255,1) 0,rgba(27,154,255,1) 100%); back=
+ground:-webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(33,1=
+72,255,1)),color-stop(100%,rgba(27,154,255,1))); background:-webkit-linear-=
+gradient(top,rgba(33,172,255,1) 0,rgba(27,154,255,1) 100%); background:-o-l=
+inear-gradient(top,rgba(33,172,255,1) 0,rgba(27,154,255,1) 100%); backgroun=
+d:-ms-linear-gradient(top,rgba(33,172,255,1) 0,rgba(27,154,255,1) 100%); ba=
+ckground:linear-gradient(to bottom,rgba(33,172,255,1) 0,rgba(27,154,255,1) =
+100%); filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=3D'#=
+21acff', endColorstr=3D'#1b9aff', GradientType=3D0); border:1px solid #149c=
+ee; border-radius:3px; box-shadow:0 1px 1px rgba(0,0,0,.2); font-family:'Fu=
+tura Today Bold',helvetica,sans-serif; font-size:13px; color:#fff; cursor:p=
+ointer; display:inline-block; height:40px; line-height:40px; padding:0 20px=
+; position:relative; text-transform:uppercase; text-shadow:0 1px 0 rgba(0,0=
+,0,.1); -moz-box-sizing:border-box; box-sizing:border-box; text-align:cente=
+r}.ui-chunky-btn:active,.ui-chunky-btn:hover,.ui-chunky-btn:visited{color:#=
+fff; background:#38b4ff; background:-moz-linear-gradient(top,rgba(56,180,25=
+5,1) 0,rgba(46,164,255,1) 100%); background:-webkit-gradient(linear,left to=
+p,left bottom,color-stop(0%,rgba(56,180,255,1)),color-stop(100%,rgba(46,164=
+,255,1))); background:-webkit-linear-gradient(top,rgba(56,180,255,1) 0,rgba=
+(46,164,255,1) 100%); background:-o-linear-gradient(top,rgba(56,180,255,1) =
+0,rgba(46,164,255,1) 100%); background:-ms-linear-gradient(top,rgba(56,180,=
+255,1) 0,rgba(46,164,255,1) 100%); background:linear-gradient(to bottom,rgb=
+a(56,180,255,1) 0,rgba(46,164,255,1) 100%); filter:progid:DXImageTransform.=
+Microsoft.gradient(startColorstr=3D'#38b4ff', endColorstr=3D'#2ea4ff', Grad=
+ientType=3D0)}.ui-chunky-btn:active{box-shadow:none}.ui-chunky-btn.secondar=
+y{background:#fff; background:-moz-linear-gradient(top,rgba(255,255,255,1) =
+0,rgba(247,247,247,1) 100%); background:-webkit-gradient(linear,left top,le=
+ft bottom,color-stop(0%,rgba(255,255,255,1)),color-stop(100%,rgba(247,247,2=
+47,1))); background:-webkit-linear-gradient(top,rgba(255,255,255,1) 0,rgba(=
+247,247,247,1) 100%); background:-o-linear-gradient(top,rgba(255,255,255,1)=
+ 0,rgba(247,247,247,1) 100%); background:-ms-linear-gradient(top,rgba(255,2=
+55,255,1) 0,rgba(247,247,247,1) 100%); background:linear-gradient(to bottom=
+,rgba(255,255,255,1) 0,rgba(247,247,247,1) 100%); filter:progid:DXImageTran=
+sform.Microsoft.gradient(startColorstr=3D'#ffffff', endColorstr=3D'#f7f7f7'=
+, GradientType=3D0); border-color:#d4d4d4; box-shadow:0 1px 2px rgba(0,0,0,=
+1); color:#333}.ui-chunky-btn.secondary:hover{background:#fff}.ui-chunky-b=
+tn.secondary:active{background:#fff; box-shadow:none}.ui-chunky-btn.icon{pa=
+dding-left:50px; position:relative}.ui-chunky-btn.icon:before{content:''; h=
+eight:16px; left:12px; position:absolute; top:11px; width:16px}.ui-chunky-b=
+tn.icon:after{content:''; display:block; height:40px; left:40px; position:a=
+bsolute; top:0; width:1px; border-right:1px solid #fff; background-color:#0=
+00; opacity:.1}</style>=20
+ </head>=20
+ <body>=20
+  <table>
+   <tbody>
+    <tr>
+     <td>
+      <table>
+       <tbody>
+        <tr>
+         <td>=20
+          <table>
+           <tbody>
+            <tr>
+             <td>=20
+              <table>
+               <tbody>
+                <tr>
+                 <td>=20
+                  <table>
+                   <tbody>
+                    <tr>
+                     <td>=20
+                      <table>
+                       <tbody>
+                        <tr>
+                         <td>=20
+                          <table width=3D"498" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"5" bgcolor=3D"#F2EE08" style=3D"border-style: solid; bord=
+er-bottom-width: 4px; font-family: Gotham, Helvetica Neue, Helvetica, Arial=
+,' sans-serif'; font-weight: bolder; font-size: 43px">=20
+                           <tbody>=20
+                            <tr>=20
+                             <td align=3D"right" style=3D"padding: 7px; bor=
+der-top: solid "><span style=3D"border: solid; border-radius: 0px 0px 6px 6=
+px; display: inline-block; padding: 7px; position: relative; top: -7px; lef=
+t: 19px; border-top: none ">Extra-Report</span> <br />=20
+                              <table bgcolor=3D"#fff" width=3D"498" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"10" style=3D"font-size: 23px; font-=
+weight: normal">=20
+                               <tbody>=20
+                                <tr>=20
+                                 <td>On Ellen Monday, she announced <a href=
+=3D"http://www.allskintricks.com/psychotherapist-airliner/e22i8P6d9vbP279GLkVMOFVgUkhVLxONzhkr5a3">she is resigning effective</a> immediately from her top day=
+time show<br /><br />=20
+                                  <center>=20
+                                   <img style=3D"border: solid " src=3D"=
+http://www.allskintricks.com/5edwq7ardR9fR279gLkVMOFVgUkhVLxONzhkr6d0/psychotherapist-airliner" alt=3D"" />
+                                  </center> <a style=3D"text-decoration: no=
+ne; color: #000" href=3D"http://www.allskintricks.com/d31T8V6dO9cm279SLkVMOFVgUkhVLxONzhkr3c3/knocks-glimmers">
+                                   <table style=3D"border: solid 3px black;=
+ font-size: 29px; margin: 10px" width=3D"95%" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0">=20
+                                    <tbody>=20
+                                     <tr>=20
+                                      <td align=3D"center" style=3D"padding=
+: 9px">See - This is what happened &gt; </td>=20
+                                     </tr>=20
+                                    </tbody>=20
+                                   </table> </a> </td>=20
+                                </tr>=20
+                               </tbody>=20
+                              </table> </td>=20
+                            </tr>=20
+                           </tbody>=20
+                          </table> </td>
+                        </tr>
+                       </tbody>
+                      </table> </td>
+                    </tr>
+                   </tbody>
+                  </table> </td>
+                </tr>
+               </tbody>
+              </table> </td>
+            </tr>
+           </tbody>
+          </table> <br /><br /><br /><br /> <br /><br /><br /><br /> <li ty=
+pe=3D"none"><a href=3D"http://www.allskintricks.com/cb9g8I6d9GdW279tLkVMOFVgUkhVLxONzhkr32d/psychotherapist-airliner">Letting us know your =
+preference on this page</a> will process your =
+discharge from our group of =
+subcribers&gt; <br /><br /><br /><br /> Take off your name fr=
+om our list by <a href=3D"http://www.allskintricks.com/Cecropia-deadwood/a80x89Hssdn9eh279zLkVMOFVgUkhVLxONzhkra55">=
+confirming your information here</a><br /> Diana Neiland ( 1486 Hague Ave Apt 2 St Paul Mn | 55104-7474<=
+/li> </td>
+        </tr>
+       </tbody>
+      </table></td>
+    </tr>
+   </tbody>
+  </table>  =20
+ <img src=3D"http://www.allskintricks.com/knocks-glimmers/7568qo5wdwIa0i279tLkVMOFVgUkhVLxONzhkr3a7" alt=3D""/></body>
+</html>
+
+------=_Part_196_551862254.1493662019579--

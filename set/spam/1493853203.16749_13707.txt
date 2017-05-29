@@ -1,0 +1,25 @@
+Delivered-To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Received: (qmail 4112 invoked from network); 28 Apr 2017 07:46:19 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Apr 2017 07:46:19 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Apr 2017 07:46:19 -0000
+Received: (qmail 19667 invoked from network); 28 Apr 2017 07:46:18 -0000
+Received: from ec2-34-208-127-183.us-west-2.compute.amazonaws.com (HELO ndueyms.vaybb) (34.208.127.183)
+  by zak.futurequest.net with SMTP; 28 Apr 2017 07:46:18 -0000
+Date: Fri, 28 Apr 2017 16:46:05 +0900 (JST)
+From: =?Shift_JIS?B?g3yDQ4OTg2eKt4vgkYuM+4FFkIWSSg==?= <cr0b@941mwdd6k.net>
+To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Message-ID: <7dUAp3z884eY7ZtWG@941mwdd6k.net>
+Subject: =?Shift_JIS?B?g3yDQ4OTg2cngvAqisiSUILJLoq3LYvggreC6WyOloKq?=
+ =?Shift_JIS?B?j28nl4gqgtxggrchIY/ajdeCzYKxYIK/LoLngauBqw==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+http://j7y5z.941mwdd6k.net/rrv2clzb9rjs86opd/14116392/m45007896744/d9b26d2037fd098f98adbf4123bb868fcbf66712f6c522348af2edda24c20212
+
+HaertÅöÉâÉCÉì
+
+

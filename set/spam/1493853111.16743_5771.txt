@@ -1,0 +1,130 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 6173 invoked from network); 01 May 2017 20:43:29 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by 10.170.1.170 ([10.170.1.170])
+  with FQDP via TCP; 01 May 2017 20:43:29 -0000
+Received: (qmail 3515 invoked from network); 1 May 2017 20:43:28 -0000
+Received: from webforbusiness.vn (mail.yenquan.vn [45.117.77.15])
+  by mx02.futurequest.net ([69.5.6.172])
+  with ESMTP via TCP; 01 May 2017 20:43:28 -0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=yenquan.vn; s=mail;
+	h=Message-Id:Content-Transfer-Encoding:Content-Type:MIME-Version:Date:Subject:From:Reply-To; bh=nJ+Xv2smfDnzkkJh1K8pdpWB3JeQ12n9BKo9u507wak=;
+	b=Sv/hE9trcZ13DAdBLSdVLeRi3mlnhken0IKNkNTDga1T7JRITGLndasz2K63WXn8ZfKcLU8Prc+F15IQ6kcgZKokClv91kMWuS4WaFSwSDmGJYxbEJzBbl5dMidLHLBAWixc/I0l2L4ClFMWaIdlVI/SOHp6q/eq1mfxUy7wq2I=;
+Received: from [169.159.98.126] (helo=User)
+	by webforbusiness.vn with esmtpa (Exim 4.84_2)
+	(envelope-from <info@yenquan.vn>)
+	id 1d5I96-0005AS-Cy; Tue, 02 May 2017 03:42:22 +0700
+Reply-To: <jblew57@gmail.com>
+From: "Adam Pratt"<info@yenquan.vn>
+Subject: GoodNews For You!!!
+Date: Mon, 1 May 2017 13:42:12 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <E1d5I96-0005AS-Cy@webforbusiness.vn>
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+<FONT color=#444444 face="Consolas"><B>&nbsp;</B></FONT></DIV>
+<DIV>
+<IMG align=baseline border=0 width=250 height=131 src="cid:+CID_ID+___img1.jpg"></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>&nbsp;</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>Serial No.: GUK/33678483123/13</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>Batch No.: UK13/789/WIN3/EU</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>Reference No.: GOOGLE/01/13/CLAIMS</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>&nbsp;</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>Attention Email User!!</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>&nbsp;</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>We wish to inform you that your email address has been selected as our jackpot winner for todays Google email jackpot award held this morning in London United Kingdom, were your email address attached to email ballot ball number (23-34-98-0-12) has emerged as a lucky winner for jackpot number 2 amounting to the sum of £950,000.00 {Nine Hundred and Fifty Thousand Great British Pounds Sterling}.</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>&nbsp;</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B> This promotion was set-up to encourage the active users of the Google search engine and the Google ancillary services. Hence we do believe with you winning prize, you will continue to be active and patronage to the Google search engine. Google is now the biggest search engine worldwide and in an effort to make sure that it remains the most widely used search engine, we put up this daily email jackpot award which will run for 2 weeks. For Claims and verification, do provided the following information</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>&nbsp;</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B><U>VERIFICATION AND FUNDS RELEASE FORM</B></U></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>&nbsp;</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>(1) Your Contact Address:</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>(2) Your Mobile/Fax Numbers:</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>(3) Your Nationality/Country:</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>(4) Your Full Name:</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>(5) Occupation/Company:</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>(6) Age/Gender:</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>(7) Email:</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>(8) A scan copy of your International Passport or Drivers License:</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>(9) Private Contact Email Address</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>&nbsp;</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>Your Preferred Method of Receiving Your Prize (From Below):</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>&nbsp;</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cheque / Bank Draft Pickup (Coming To London To Pickup Your Cheuqe / Bank Draft.)</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Network Logistics (Courier Delivery of your Certified Winning Cheque and other Winning Documents safely to you.)</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>&nbsp;</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>Send all required information to: </B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>&nbsp;</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>Mr. Williams Reeale</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>Director People Operations</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>Google Promotion Award Team</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>Google Inc, United Kingdom Payment Office</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>Email: </B></FONT><FONT color=#0070C0 face="Consolas"><B>gv9435637@gmail.com</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>Tel: </B></FONT><FONT size=2 color=#222222><B>+44&nbsp;&nbsp; 745&nbsp; 208&nbsp;&nbsp;&nbsp; 8959</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>Fax: +44 702 361 2710</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B> </B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>The Google Promotion Award Team has discovered a huge number of double claims due to winners informing close friends relatives and third parties about their winning and also sharing their pin numbers. As a result of this, these friends try to claim the lottery on behalf of the real winners. The Google Promotion Award Team has reached a decision from headquarters that any double claim discovered by the Lottery Board will result to the canceling of that particular winning, making a loss for both the double claimer and the real winner, as it is taken that the real winner was the informer to the double claimer about the lottery. So you are hereby strongly advised once more to keep your winnings strictly confidential until you claim your prize.</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>&nbsp;</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>Congratulations from the Staffs &amp; Members of the Google interactive Lotteries Board Commission.</B></FONT></DIV>
+<DIV>
+<FONT face="Consolas"><B>&nbsp;</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>Sincerely,</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>DR. Pichai Sundar</B></FONT></DIV>
+<DIV>
+<FONT color=#444444 face="Consolas"><B>Executive Officer, Director, Member of Executive Committee and Member of Acquisition Committee, Google inc</B></FONT></DIV>
+</FONT>
+</BODY></HTML>

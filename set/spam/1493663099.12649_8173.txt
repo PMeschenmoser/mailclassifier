@@ -1,0 +1,140 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 17741 invoked from network); 01 May 2017 17:32:05 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by 10.170.1.183 ([10.170.1.183])
+  with FQDP via TCP; 01 May 2017 17:32:05 -0000
+Received: (qmail 21016 invoked from network); 1 May 2017 17:32:04 -0000
+Received: from mail.stuffstoslim.com (162-144-94-153.unifiedlayer.com [162.144.94.153])
+  by mx02.futurequest.net ([69.5.6.172])
+  with ESMTP via TCP; 01 May 2017 17:32:04 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=stuffstoslim.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=earle@stuffstoslim.com;
+ bh=8vqh7uCE8tK2uU1t6T05oNDZZTE=;
+ b=LNL0c8MLl26b5gZzbBY98tcSb4RzW8/+tce+FFNL/k+N7DIaViRy5aLuV8/5eJYH0gwzkfNWmz2/
+   FXEP124Z8udIR8RIONbqI+ke70gP1DM/t0xErOtvJDKyZNzzK8a9WhC4Iq/Ok5liEM3rnlQnN5BJ
+   Oq/Ikroblnk3MYGihyM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=stuffstoslim.com;
+ b=RKnXwl4RXslx2vLrDLhE7p5bhSb15wXjDamF9OMg4ax+w8rm8yVsGtYxK4OQmRXPI/nDxawehXzv
+   BOe3narBfqvWnUHopatbYNQ3h63WEl9bu+La/jQJRG+IZ1oeOnEwCB8izzMxNfWChyxise3hA32y
+   FRfq0kAf2tnsAn2klos=;
+Received: by mail.stuffstoslim.com id h0toha0001gu for <bruce@untroubled.org>; Mon, 1 May 2017 13:26:06 -0400 (envelope-from <earle-bruce=untroubled.org@stuffstoslim.com>)
+Date: Mon, 1 May 2017 13:26:06 -0400
+From: Earle <earle@stuffstoslim.com>
+To:   <bruce@untroubled.org>
+Subject: FOX News scandal ends Bill OReillys career
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_46_1139684023.1493659556849"
+List-Unsubscribe: <http://www.stuffstoslim.com/1b58KY9OXFw11i278_LkVMOFVgUkhVLxONzhkrb09/destruction-naturally>
+Message-ID: <0.0.0.5.1D2C2A0041D7730.5E98A3@mail.stuffstoslim.com>
+Content-Length: 6748
+
+------=_Part_46_1139684023.1493659556849
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+ <head>=20
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" =
+/>=20
+  <title>uuuuuuuuuuuusad</title>=20
+  <style>abbr[title]{border-bottom:1px dotted}b,strong{font-weight:700}blo=
+ckquote{margin:1em 40px}hr{display:block; height:1px; border:0; border-top:=
+1px solid #ccc; margin:1em 0; padding:0}code,kbd,pre,samp{font-family:monos=
+pace,serif; font-size:1em}pre{white-space:pre; white-space:pre-wrap; word-w=
+rap:break-word}small{font-size:85%}sub,sup{font-size:75%; line-height:0; po=
+sition:relative; vertical-align:baseline}sup{top:-.5em}sub{bottom:-.25em}ol=
+,ul{margin:0; padding:0}dd{margin:0}nav ol,nav ul{list-style:none}img{borde=
+r:0; vertical-align:middle}.lt-ie9{-ms-interpolation-mode:bicubic; display:=
+block}svg:not(:root){overflow:hidden}figure,form{margin:0}fieldset{border:0=
+; margin:0; padding:0}label{cursor:pointer}legend{border:0; padding:0; whit=
+e-space:normal}button,input,select,textarea{font-size:100%; margin:0; verti=
+cal-align:baseline}button,input{line-height:normal}button,input[type=3Dbut=
+ton],input[type=3Dreset],input[type=3Dsubmit]{cursor:pointer; -webkit-app=
+earance:button}button[disabled],input[disabled]{cursor:default}input[typ=
+e=3Dcheckbox],input[type=3Dradio]{box-sizing:border-box; padding:0}input[=
+type=3Dsearch]{-webkit-appearance:textfield; -moz-box-sizing:content-box; -=
+webkit-box-sizing:content-box; box-sizing:content-box}input[type=3Dsearch]=
+::-webkit-search-cancel-button,input[type=3Dsearch]::-webkit-search-decora=
+tion{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inn=
+er{border:0; padding:0}textarea{overflow:auto; vertical-align:top; resize:v=
+ertical}input:invalid,textarea:invalid{background-color:#f0dddd}table{borde=
+r-collapse:collapse; border-spacing:0}td{vertical-align:top}.chromeframe{ma=
+rgin:.2em 0; background:#ccc; color:#000; padding:.2em 0}.no-touch{text-ren=
+dering:geometricPrecision; -webkit-font-smoothing:antialiased; -moz-osx-fon=
+t-smoothing:grayscale}body{background:url(../../images/patterns/noise_f6f6f=
+6.png) top left #f6f6f6; font-family:Arial,sans-serif; font-size:1em; line-=
+height:1.4; margin:0; min-height:100%; min-width:980px; position:relative; =
+width:100%}body.partner-background{background:url(../../images/patterns/noi=
+se.png) #f6f6f6}@-moz-document url-prefix(){img{display:inline-block}}.clst=
+-main-title,.static-page .page-content>.clst-main-title{color:#999; font-fa=
+mily:'Futura Today Bold',Arial,sans-serif; font-size:13px; font-weight:400;=
+ letter-spacing:1px; line-height:13px; margin:0; padding:14px 8px 10px; tex=
+t-align:center; text-shadow:0 1px 1px #fff; text-transform:uppercase}.clst-=
+main-title{color:#fff; margin-left:1px; text-shadow:0 1px 1px rgba(0,0,0,.1=
+5); width:109px}p{margin:0}.parent-label{color:#fff; font-family:'Futura To=
+day Bold',arial,sans-serif; font-size:10px; font-weight:400; left:20px; let=
+ter-spacing:1px; line-height:11px; padding:4px 6px 5px; position:absolute; =
+text-transform:uppercase; top:20px; z-index:40}.parent-label:hover,.parent-=
+label:visited{color:#fff}.hero .parent-label{z-index:54}.avatar{box-shadow:=
+0 1px 1px 0 rgba(0,0,0,.4); border:2px solid #fff; float:left; margin-right=
+:10px}.thumb{float:left; height:80px; position:relative; width:100px}.thumb=
+>img{box-shadow:0 2px 2px 0 rgba(0,0,0,.08); height:80px; width:80px}.avath=
+umb{float:left; height:92px; position:relative; width:100px}.avathumb>img:f=
+irst-child{box-shadow:0 2px 2px 0 rgba(0,0,0,.08); height:80px; margin-top:=
+12px; width:80px}.avathumb>.avatar{float:none; margin:0; position:absolute;=
+ right:8px; top:0}.byline{margin:15px 0 15px 20px}.hero .byline-block .byli=
+ne{margin:0}</style>=20
+ </head>=20
+ <body>=20
+  <big style=3D"font-family: arial black; display: block; color:#898B8E; fo=
+nt-size: 2.2pc; line-height: 34px"><span style=3D"color: #D56C73; text-deco=
+ration: underline">FOX News</span><br /> Bill O Reilly Collaspse<br /> </bi=
+g>=20
+  <br />=20
+  <small style=3D"display: block; width: 568px; border-top: 4px #898B8E sol=
+id; background-color: #F5F5F5; font-family: arial; padding: 7px; font-size:=
+ 15pt">He was in the middle of his show, and executives from the network pu=
+lled him off air in a shocking manner after they uncovered a new-scandal. <=
+/small>=20
+  <small style=3D"display: block; width: 568px; border: 1px  solid #F5F5F5;=
+ background-color: #fff; font-family: arial; padding: 7px; font-size: 15pt"=
+> <img width=3D"100%" src=3D"http://www.stuffstoslim.com/cautions-settable/738BJ7aLd9FN9N278nLkVMOFVgUkhVLxONzhkr36b" alt=3D"big head" /> </small>=20
+  <small style=3D"display: block; width: 568px; border-bottom: 4px #898B8E =
+solid; background-color: #F5F5F5; font-family: arial; padding: 7px; font-si=
+ze: 15pt">He was fired from the network <a href=3D"http://www.stuffstoslim.com/destruction-naturally/e4sA8K6dP96si278wLkVMOFVgUkhVLxONzhkr964" style=3D"col=
+or:#9A0600; ">for this very reason</a> <br /><br /> <a href=3D"http://www.stuffstoslim.com/destruction-naturally/e4sA8K6dP96si278wLkVMOFVgUkhVLxONzhkr964">=
+<p style=3D"-moz-box-shadow: 0px 10px 14px -7px #29bbff; -webkit-box-shadow=
+: 0px 10px 14px -7px #29bbff; box-shadow: 0px 10px 14px -7px #29bbff; backg=
+round-color:#2dabf9; -moz-border-radius:4px; -webkit-border-radius:4px; bor=
+der-radius:4px; border:1px solid #0b0e07; display:inline-block; cursor:poin=
+ter; color:#ffffff; font-family:Arial; font-size:19px; font-weight:bold; pa=
+dding:6px 12px; text-decoration:none; text-shadow:0px 1px 0px #263666; ">Se=
+e what happened &gt;&gt;</p></a> <br /><br /> </small>=20
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />=20
+  <br />
+  <br />
+  <br />
+  <br />=20
+  <footer style=3D"font-size: 11.3px; font-family: arial">
+   <a href=3D"http://www.stuffstoslim.com/qualitative-longings/bca8ri6Pdl97P278RLkVMOFVgUkhVLxONzhkr9dc">Submitting your email =
+on this page</a> will certify your =
+removal from our database of friends=20
+   <br /> 297 Kingsbury Grade, Suite 100, Mail Box 4470, Lake Tahoe=20
+   <br />=20
+   <br /> Cut out your name from our =
+list by=20
+   <a href=3D"http://www.stuffstoslim.com/7afm8l9d98_V278YLkVMOFVgUkhVLxONzhkrdf5/heads-do">submitting your preference =
+right here</a>
+   <br /> Martin Neiland = 333 Beach 32Nd St Apt 15D Far Rockaway Ny ) 11691-2060. You will not get these adverti.s.em-ents
+  </footer>  =20
+ <img src=3D"http://www.stuffstoslim.com/e7bvm85Rxd9aoS278uLkVMOFVgUkhVLxONzhkr677/destruction-naturally" alt=3D""/></body>
+</html>
+
+------=_Part_46_1139684023.1493659556849--

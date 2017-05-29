@@ -1,0 +1,74 @@
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 7480 invoked from network); 29 Apr 2017 12:12:42 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 29 Apr 2017 12:12:42 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 29 Apr 2017 12:12:42 -0000
+Received: (qmail 32036 invoked from network); 29 Apr 2017 12:12:42 -0000
+Received: from mail.munipuchuncavi.cl (HELO nodo2.cmet.net) (200.112.226.80)
+  by zak.futurequest.net with SMTP; 29 Apr 2017 12:12:42 -0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=munipuchuncavi.cl; s=default;
+	h=To:Date:Message-Id:Subject:Mime-Version:Content-Type:From; bh=6UvDcawYCwYOcV6Uyi0ALmBom1OrUQreToXMhAW4sXU=;
+	b=hhcn6rIo4+LgHkoH+pB+ZSJkXM09FTWBh/91SzDQurZ7Kl5ZFfDFJWCFNmPZLmNQIxP3PmWJMkcMVzo0WiieBDgGyEj+OYao4O3L/kbJoxSZkkKPPW4q+0CRN0jDt33W8VH+Y73uX0/BHtqnq95Y9VkpLw7ev1oqiFYBdsR34Ec=;
+Received: from 168.90.0-69.netwaytelecon.com.br ([168.90.0.69]:49224 helo=[127.0.0.1])
+	by nodo2.cmet.net with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.85_1)
+	(envelope-from <postmaster@munipuchuncavi.cl>)
+	id 1d4EhL-0001tx-97
+	for cvs@bruce-guenter.dyndns.org; Fri, 28 Apr 2017 19:49:12 -0300
+From: postmaster@munipuchuncavi.cl
+Content-Type: multipart/alternative;
+ boundary="Apple-Mail-645BED49-D050-3EBE-022D-384DF2E6C377"
+Mime-Version: 1.0 (1.0)
+Subject: We let the reviews do the talking (the greatest weight loss solution)
+Message-Id: <56A7A05E-9A1E-2392-16C8-43BA0A811926@munipuchuncavi.cl>
+Date: Sat, 29 Apr 2017 00:49:59 +0200
+To: cvs@bruce-guenter.dyndns.org
+X-Mailer: iPhone Mail (13E238)
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - nodo2.cmet.net
+X-AntiAbuse: Original Domain - bruce-guenter.dyndns.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - munipuchuncavi.cl
+X-Get-Message-Sender-Via: nodo2.cmet.net: authenticated_id: postmaster@munipuchuncavi.cl
+Content-Length: 2198
+
+This is a multi-part message in MIME format
+
+--Apple-Mail-645BED49-D050-3EBE-022D-384DF2E6C377
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+DQpJbnN0ZWFkIG9mIHRhbGtpbmcgYWJvdXQgb3VyIHByb2R1Y3QsIHdlJ3JlIGp1c3QgZ29pbmcg
+dG8gcGFzdGUgdGhpcyBnZW51aW5lIGZpdmUgc3RhciByZXZpZXcgb2YgaXQuDQoiaGVsbG8gZ3V5
+cywgSSBoYXZlIGxvc3QgMjAgbGJzIGR1cmluZyB0aGUgZmlyc3QgbW9udGggdGFraW5nIHRoaXMu
+DQpJIGJvdWdodCBpdCB5ZXQgYWdhaW4gYW5kIHdpbGwgY29udGludWUgdGFraW5nIGl0Lg0KWW91
+IGhhdmUgdG8gbm90IG92ZXJlYXQgYW5kIGV4ZXJjaXNlIG9yIGl0IHdvbid0IGhlbHAuDQpJdCBk
+b2VzIGNhdXNlIGJhdGhyb29tIGlzc3VlcyBidXQgbm90aGluZyB0ZXJyaWJsZS4NCkF0IGxhc3Qs
+IEkgZ290IHNraW5ueS4NClRvbnMgb2Ygc3VjY2VzcyB3aXRoIGdpcmxzLiINCmh0dHA6Ly9qb2hu
+a2VlZm92ZXIuY29tL3dwLWluY2x1ZGVzL1JlcXVlc3RzL1Byb3h5L2NvbnRlbnRfc2lkZW1lbnVf
+aW5zZXJ0LnBocD9ZM1p6UUdKeWRXTmxMV2QxWlc1MFpYSXVaSGx1Wkc1ekxtOXladz09DQo=
+
+--Apple-Mail-645BED49-D050-3EBE-022D-384DF2E6C377
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PEJPRFk+PERJVj4NCjxQPkluc3RlYWQgb2YgdGFsa2luZyBhYm91dCBvdXIgcHJvZHVjdCwgd2Un
+cmUganVzdCBnb2luZyB0byBwYXN0ZSB0aGlzIGdlbnVpbmUgZml2ZSBzdGFyIHJldmlldyBvZiBp
+dC48L1A+DQo8UD4iaGVsbG8gZ3V5cywgSSBoYXZlIGxvc3QgMjAgbGJzIGR1cmluZyB0aGUgZmly
+c3QgbW9udGggdGFraW5nIHRoaXMuPC9QPg0KPFA+SSBib3VnaHQgaXQgeWV0IGFnYWluIGFuZCB3
+aWxsIGNvbnRpbnVlIHRha2luZyBpdC48L1A+DQo8UD5Zb3UgaGF2ZSB0byBub3Qgb3ZlcmVhdCBh
+bmQgZXhlcmNpc2Ugb3IgaXQgd29uJ3QgaGVscC48L1A+DQo8UD5JdCBkb2VzIGNhdXNlIGJhdGhy
+b29tIGlzc3VlcyBidXQgbm90aGluZyB0ZXJyaWJsZS48L1A+DQo8UD5BdCBsYXN0LCBJIGdvdCBz
+a2lubnkuPC9QPg0KPFA+VG9ucyBvZiBzdWNjZXNzIHdpdGggZ2lybHMuIjwvUD4NCjxQPjxBIGhy
+ZWY9Imh0dHA6Ly9qb2hua2VlZm92ZXIuY29tL3dwLWluY2x1ZGVzL1JlcXVlc3RzL1Byb3h5L2Nv
+bnRlbnRfc2lkZW1lbnVfaW5zZXJ0LnBocD9ZM1p6UUdKeWRXTmxMV2QxWlc1MFpYSXVaSGx1Wkc1
+ekxtOXladz09Ij5DbGljayB0aGlzIGxpbmsgYW5kIGpvaW4gdGhvdXNhbmRzIG9mIHBlb3BsZSB3
+aG8gYWxyZWFkeSBiZXR0ZXJlZCB0aGVpciBsaXZlcy48L0E+PC9QPg0KPFA+PElNRyBzcmM9Imh0
+dHA6Ly9qb2hua2VlZm92ZXIuY29tL3dwLWluY2x1ZGVzL1JlcXVlc3RzL1Byb3h5L2NvbnRlbnRf
+c2lkZW1lbnVfaW5zZXJ0LnBocD9XVE5hZWxGSFNubGtWMDVzVEZka01WcFhOVEJhV0VsMVdraHNk
+VnBITlhwTWJUbDVXbmM5UFE9PSIgd2lkdGg9MSBoZWlnaHQ9MT48L1A+DQo8L0RJVj48L0JPRFk+
+DQo=
+
+--Apple-Mail-645BED49-D050-3EBE-022D-384DF2E6C377--

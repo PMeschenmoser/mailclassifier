@@ -1,0 +1,51 @@
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 2200 invoked from network); 30 Apr 2017 13:34:13 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 30 Apr 2017 13:34:13 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 30 Apr 2017 13:34:13 -0000
+Received: (qmail 5339 invoked from network); 30 Apr 2017 13:34:10 -0000
+Received: from bzq-80-63-94.static.bezeqint.net (HELO hmt.hitachi-metals.com) (82.80.63.94)
+  by zak.futurequest.net with SMTP; 30 Apr 2017 13:34:10 -0000
+X-Message-Info: ZMWWyZX76pF5FezT4LmvuP1E4J1l62VY
+Received: from welk.hmt.hitachi-metals.com ([66.239.168.137]) by aq75-z18.hmt.hitachi-metals.com with Microsoft SMTPSVC(5.0.2195.6824);
+	 Sun, 30 Apr 2017 13:34:12 -00
+Received: from vin0-pazp5.hmt.hitachi-metals.com (hcuh4 [118.132.171.194])
+	by poje.t1.com (3.77.1/2.77.4) with ESMTP id n3ZB1wp22712
+	for <cvs@bruce-guenter.dyndns.org>; Sun, 30 Apr 2017 13:34:12 -00 GMT
+Received: (from u3tdc@localhost)
+	by aap6-fer6.hmt.hitachi-metals.com (4.45.2/4.13.4) id m8ZC2ts48037;
+	Sun, 30 Apr 2017 13:34:12 -00 GMT
+X-Authentication-Warning: yyc5-itud5.hmt.hitachi-metals.com: n3rau set sender to pvpkniiuf@hmt.hitachi-metals.com using -f
+MIME-Version: 1.0
+Date: Sun, 30 Apr 2017 13:34:12 -00
+From: Steven <pvpkniiuf@hmt.hitachi-metals.com>
+Subject: Hello, dear friend!
+To: cvs@bruce-guenter.dyndns.org
+Message-Id: <vdh0_crw7-5114236255-8768154511-34-23181.5683324237@ixxv5>
+Content-Type: text/html;;
+Content-Transfer-Encoding: quoted-printable
+
+
+2361226479166318
+<a href=3D"http://adv27.fastmedstrade.be "><img =
+src=3D"http://lh3.googleusercontent.com/-AtvTOw9qA8E/WOk12p0nQ9I/AAAAAAAAAW=
+Y/qqIgb-9zO8o/s0/2693181096180.jpg"></a> 
+<br> <br> 
+Greetings!   Online Shop  presents  pharmaceuticals  with delivery service =
+in Europe, the United States and Canada. <br> You can buy anti-acidity, =
+antifungals, antifungals, anti-depressant, diabetes medication, antiviral, =
+antibiotics, herpes medication, blood pressure, anti-allergy/asthma and =
+other various products.  Keep your eye out for discount  when purchasing  =
+<br>
+
+<font style=3D"background-color: #ffe4c4"> <a =
+href=3D"http://adv27.fastmedstrade.be">Purchase now!</a>
+<br> <br> <br> 
+If you no longer wish to receive these emails, simply click on the =
+following link <A title=3D"" style=3D"COLOR: #87ceeb" =
+href=3D"http://adv27.fastmedstrade.be ">Unsubscribe.</A>
+426430452237017783
+
+

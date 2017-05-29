@@ -1,0 +1,50 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 27100 invoked from network); 1 May 2017 23:45:40 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 May 2017 23:45:40 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 May 2017 23:45:40 -0000
+Received: (qmail 30008 invoked from network); 1 May 2017 23:45:39 -0000
+Received: from ec2-35-167-83-124.us-west-2.compute.amazonaws.com (HELO mfwtl.vh) (35.167.83.124)
+  by zak.futurequest.net with SMTP; 1 May 2017 23:45:39 -0000
+Date: Tue, 2 May 2017 08:31:25 +0900 (JST)
+From: =?Shift_JIS?B?k/yL4JdclvGIxJPg?= <655@941mwdd6k.net>
+To: bruce@bruce-guenter.dyndns.org
+Message-ID: <_zf6sFTiAZ4WK5364@941mwdd6k.net>
+Subject: =?Shift_JIS?B?gXmT/Ivgl1yW8YF6gvCO84KvlXSCr4LcgrWCvYFC?=
+ =?Shift_JIS?B?joqLfZPgl2WCzIKyim2URoLwgqiK6IKigrWC3IK3gUI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+■■■■■■■■■■■
+【5月2日】入金予約完了。
+支援金の入金予約がありました。
+■■■■■■■■■■■
+
+gest 様
+
+ご利用いただき、ありがとうございます。
+
+このメールは、政府より「入金予約」を受け付けた方にお届けする特別案内です。
+
+==========================
+受付番号： 525242300200
+入金予定： 5月2日
+==========================
+
+入金予約を確定する為には内容を確認していただく必要があります。
+
+▽入金予約の確認はこちら
+http://7b5b.941mwdd6k.net/a1y8j18c27fwombjm2couf/ufj/62519e07cf5db3e746ac5bbc6b131d5f8243ed92fc8083d2a21bd9c0a3620752
+
+▽確認の前に内容を確認
+http://7b5b.941mwdd6k.net/0q974jdykcgidl05nua0ej/ufj/62519e07cf5db3e746ac5bbc6b131d5f8243ed92fc8083d2a21bd9c0a3620752
+
+
+■既に入金予約は受け付けた状態となっておりますので、迅速なご確認をお願いします。
+
+■本メールの送信アドレスは送信専用となっております。返信メールでのお問い合わせは承りかねますので、あらかじめご了承願います。(12984)
+-----------------------------
+--Copyright The Bank. All rights reserved.--

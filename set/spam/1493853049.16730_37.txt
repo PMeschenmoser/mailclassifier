@@ -1,0 +1,81 @@
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 31604 invoked from network); 25 Apr 2017 03:02:57 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 25 Apr 2017 03:02:57 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 25 Apr 2017 03:02:57 -0000
+Received: (qmail 26003 invoked from network); 25 Apr 2017 03:02:54 -0000
+Received: from 197.254.81.126.acesskenya.net (197.254.81.126)
+  by zak.futurequest.net with SMTP; 25 Apr 2017 03:02:54 -0000
+Date: 25 Apr 2017 07:50:52 +0200
+From: <sxiomaraix@activeware.com>
+X-Priority: 3
+Message-ID: <214028788.201704250802@activeware.com>
+To: <rait@bruce-guenter.dyndns.org>
+Subject: 2472
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----------6FDA1A5BB7AF9BF"
+X-Cyberoam-smtpxy-version: 1.0.6.3
+X-Cyberoam-AV-Policy: default
+X-CTCH-PVer:  0000001
+X-CTCH-Spam:  Confirmed
+X-CTCH-VOD:  Unknown
+X-CTCH-Flags:  8
+X-CTCH-RefID:  str=0001.0A0C0201.58FEBBBD.0096,ss=4,sh,re=0.000,recu=0.000,reip=0.000,pt=F_41516898,cl=4,cld=1,fgs=8
+X-CTCH-Score:  0.000
+X-CTCH-ScoreCust:  0.000
+X-CTCH-Rules:  
+
+------------6FDA1A5BB7AF9BF
+Content-Type: text/plain; charset="ibm852"
+Content-Transfer-Encoding: quoted-printable
+
+Hello!
+
+We are looking for employees working remotely.
+
+My name is Darius, I am the personnel manager of a large International =
+company.
+Most of the work you can do from home, that is, at a distance.
+
+Salary is $2500-$5000.
+
+If you are interested in this offer, please visit=20
+Our Site
+
+Best regards!
+
+
+Click here to unsubscribe
+------------6FDA1A5BB7AF9BF
+Content-Type: text/html; charset="ibm852"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><title>2472</title>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dibm852">
+</head>
+<body>
+Hello!<br>
+<br>
+We are looking for employees working remotely.<br>
+<br>
+My name is Darius, I am the personnel manager of a large International =
+company.<br>
+Most of the work you can do from home, that is, at a distance.<br>
+<b>Salary is $2500-$5000.</b><br>
+<br>
+If you are interested in this offer, please visit <a =
+href=3D"http://vienna-wildcats.com/administrator/components/com_zoo/views=
+/frontpage/tmpl/"><b>Our Site</b></a><br>
+<br>
+Best regards!<br>
+<br><br>
+<a =
+href=3D"http://www.aparecerprimeroengoogle.com/wp-includes/js/tinymce/plu=
+gins/tabfocus/89a9db5138.html"><font size=3D1>Click here to =
+unsubscribe</font></a></body>
+------------6FDA1A5BB7AF9BF--
+
+

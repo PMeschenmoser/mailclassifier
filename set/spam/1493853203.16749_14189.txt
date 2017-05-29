@@ -1,0 +1,23 @@
+Delivered-To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Received: (qmail 16217 invoked from network); 30 Apr 2017 23:22:59 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 30 Apr 2017 23:22:59 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 30 Apr 2017 23:22:59 -0000
+Received: (qmail 18283 invoked from network); 30 Apr 2017 23:22:58 -0000
+Received: from srv01-24.manishjp.com (HELO fvbhj.dvl-8wn0j.com) (103.56.212.24)
+  by zak.futurequest.net with SMTP; 30 Apr 2017 23:22:58 -0000
+Date: Mon, 1 May 2017 08:22:37 +0900
+From: =?Shift_JIS?B?grOCwYK1gVsuIA==?=<ttp.yes0501s_hyn.naisyo@fvbhj.dvl-8wn0j.com>
+To: lists-djb-ezmlm@bruce-guenter.dyndns.org<lists-djb-ezmlm>
+Message-id: <24dWAvajcGBsUo7mk@vFyCqyXJpJF9HWV.com>
+Subject: =?Shift_JIS?B?kryQ2phBl42R0oLBgsSCvYLxgr6Cr4LHgWM=?=
+Mime-version: 1.0
+Content-type: text/plain; charset=Shift_JIS
+Content-transfer-encoding: 7bit
+
+まだ確認して貰えて無い感じかな？
+もし直接連絡に抵抗あるならサイトに預けてあるポイント受け取ってよ。
+指原としてはサイトを卒業してリアルで繋がる方がいいけど…
+

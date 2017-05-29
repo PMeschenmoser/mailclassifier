@@ -1,0 +1,31 @@
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 28054 invoked from network); 2 May 2017 08:26:33 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 02 May 2017 08:26:33 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 May 2017 08:26:33 -0000
+Received: (qmail 19622 invoked from network); 2 May 2017 08:26:33 -0000
+Received: from ec2-35-166-198-154.us-west-2.compute.amazonaws.com (HELO mdklpoxh.gsj) (35.166.198.154)
+  by zak.futurequest.net with SMTP; 2 May 2017 08:26:33 -0000
+Date: Tue, 2 May 2017 17:26:27 +0900 (JST)
+From: =?Shift_JIS?B?gXmN4JS0k5aO5YF6iuKN6A==?= <89013@941mwdd6k.net>
+To: lists-bikini@bruce-guenter.dyndns.org
+Message-ID: <.NcIuTUXHw8K9x6+Cs23bB1la@941mwdd6k.net>
+Subject: =?Shift_JIS?B?iuInjeiBT4LFKoK3gUJnZXN0l2yCzYLcgr4ukVMqkKKKRZOd?=
+ =?Shift_JIS?B?J4jqbI54bImHbItAX41cgqk6gudsgsyOeCqJhzqL4ILMjvOBTw==?=
+ =?Shift_JIS?B?juYrguiCzYKzLYLqgsg7gqKCzILFbIK3J4KpgUiBT4m9K4LwJw==?=
+ =?Shift_JIS?B?51PnT4KzO4LqgsRggqIqguc7gsGCtTqC4YLpLoLMO4LFgU+Ct4FP?=
+ =?Shift_JIS?B?gqmBSF+RUy+QoopFK5OdiOqOeCuJh4tAjVwugqmC54LFgqCC6ic=?=
+ =?Shift_JIS?B?gs4tgUFfjvOO5l+C6I9vl4iC6WyOloLNitSI4V+CojuCoILoYILc?=
+ =?Shift_JIS?B?grmC8YK1gUFnZXN0l2yBT4LgjvMrjuYnguqCzi2NSzuCuTuCyQ==?=
+ =?Shift_JIS?B?LoLIgupggumOliuCzYrUiOE7gqIugsgrgqItgsyCxYK3J4LmgUg=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+http://naal.941mwdd6k.net/5on7yj3s6os8vuz0x/24410060/m14903567293/6464ada9f136163b0701f353e98a0a1d1c79d7bf1848e6d07881c5a2d2eb8587
+
+HaertÅö:ÉâÉCÉì
+
+

@@ -1,0 +1,27 @@
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 5240 invoked from network); 29 Apr 2017 11:36:39 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 29 Apr 2017 11:36:39 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 29 Apr 2017 11:36:39 -0000
+Received: (qmail 31146 invoked from network); 29 Apr 2017 11:36:38 -0000
+Received: from 14.sgdonkey.net (103.63.218.172)
+  by zak.futurequest.net with SMTP; 29 Apr 2017 11:36:38 -0000
+Return-Path: <prmail006200011901661@rh88z27zgt.net>
+Date: Sat, 29 Apr 2017 20:36:36 +0900
+MIME-Version: 1.0
+From: prmail@rh88z27zgt.net
+To: lists-bikini@bruce-guenter.dyndns.org
+Message-Id: 208244314_4978361590303e7be625@rh88z27zgt.net
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCJSolSiVLITwkTjgrJDs5ZyQkJEMkMyQ3JEokJCEpGyhCKCobJEIhLSJPIS4bKEIqKQ==?=
+
++ZGBeYNJg2mDSYNpgXqBfIKzgvGBRYLmgUWC6IFFDQoNCoNJg2mDaoFbgsyMqYK5jYeCooLBgrGC
+tYLIgqKBSCgqgUyBzYFNKikNCg0KgauWe4FRlbaBUYptgVGURg0KaHR0cDovL2o4bmFuandtYTJy
+dy5uZXQvJTdlYmwvbWFpbGJveC9QQzoxNzc4OTg4NTkwMzAzZTdiZDc1NC9NQzpkMTBiZDVkMmZm
+MmVlN2YwNWRjYjBhNjhmNjQ1ODg1MC8/Z3VpZD1PTg0KDQo=
+
+
+

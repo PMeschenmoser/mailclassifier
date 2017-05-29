@@ -1,0 +1,84 @@
+Delivered-To: bait@untroubled.org
+Received: (fqmail 32553 invoked from network); 01 May 2017 19:15:40 -0000
+Received: from mx16.futurequest.net (mx16.futurequest.net [69.5.6.192])
+  by 10.170.1.196 ([10.170.1.196])
+  with FQDP via TCP; 01 May 2017 19:15:40 -0000
+Received: (qmail 25501 invoked from network); 1 May 2017 19:15:40 -0000
+Received: from www.isolutions.hu (www.isolutions.hu [194.149.10.25])
+  by mx16.futurequest.net ([69.5.6.192])
+  with ESMTP via TCP; 01 May 2017 19:15:40 -0000
+Received: by www.isolutions.hu (Postfix, from userid 5001)
+	id 74B911DFB9; Mon,  1 May 2017 21:15:39 +0200 (CEST)
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on www.isolutions.hu
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.4 required=5.5 tests=ALL_TRUSTED,BAYES_99,
+	DEAR_WINNER,FORGED_MUA_OUTLOOK,KAM_LOTTO1,KAM_LOTTO2,MSOE_MID_WRONG_CASE,
+	SUBJ_ALL_CAPS autolearn=spam version=3.2.5
+X-Spam-Report: 
+	* -1.8 ALL_TRUSTED Passed through trusted hosts only via SMTP
+	*  3.5 BAYES_99 BODY: Bayesian spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  2.1 SUBJ_ALL_CAPS Subject is all capitals
+	*  3.2 DEAR_WINNER BODY: DEAR_WINNER
+	*  1.6 KAM_LOTTO2 Highly Likely to be a e-Lotto Scam Email
+	*  0.8 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  2.9 KAM_LOTTO1 Likely to be a e-Lotto Scam Email
+	*  3.1 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Received: from User (unknown [212.225.226.28])
+	by www.isolutions.hu (Postfix) with ESMTPA id 24FE41DFB3;
+	Mon,  1 May 2017 21:15:33 +0200 (CEST)
+Reply-To: <bmwlottdep17@aol.com>
+From: "Dr Juan Costa"<bmwlottdep17@aol.com>
+Subject: [***SPAM***] BMW LOTTERY DEPARTMENT
+Date: Mon, 1 May 2017 22:15:38 +0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20170501191533.24FE41DFB3@www.isolutions.hu>
+To: undisclosed-recipients:;
+X-Spam-Prev-Subject: BMW LOTTERY DEPARTMENT
+
+BMW LOTTERY DEPARTMENT
+Ortega y Gasset, 14, 28006 Madrid, Espana 
+TEL:+34 631-956-081  EMAIL: bmwlottdep17@aol.com
+ 
+NOTE: If you received this message in your SPAM/BULK folder, that is because of the restrictions implemented by your Internet Service Provider, we (BMW) urge you to treat it genuinely.
+ 
+Dear Winner,
+This is to inform you that you have been selected for a prize of a brand new 2017 Model BMW 7 Series Car and a Check of € 1,500,000.00 Euros from the international balloting programs held on the 2nd section in Spain although it is not limited to only Spain residents or citizens.
+ 
+Description of prize vehicle-Model: 750i xDrive Sedan Color, 4.4-LITER, BMW TwinPower Turbo technology V-8 engine
+ 
+Exterior: Metallic Silver Options: Cold weather package, premium package, fold down rear seats w/ski bag, am fm stereo with single in dash compact disc player.
+ 
+The selection process was carried out through random selection in our computerized email selection system (ESS) from a database of over 250,000 email addresses drawn from all the continents of the world which you were selected.
+ 
+The BMW Lottery is approved by the British Gaming Board and also Licensed by the International Association of Gaming Regulators (IAGR). To begin the processing of your prize you are to contact our fiduciary claims department for more information as regards procedures to the claim of your prize.
+ 
+Name: Dr. Juan Costa 
+Email: bmwlottdep17@aol.com
+ 
+Contact him by providing him with your secret pin code Number
+BMW:2541256004/25.
+ 
+You are also advised to provide him with the under listed information as soon as possible:
+ 1. Name In Full :                                                    2. Residential Address :
+3. Nationality :                 4. Age :                            5. Sex
+6. Occupation :                          7. Direct Phone :
+8. Present Country :                     9. Email address :
+10.Pin code Number BMW:2541256004/25
+ 
+Please you are to provide him with the above listed details as soon as possible so he can begin with the processing of your prize winnings.
+ 
+Congratulations again from all our staff and thank you for being part of our promotional program.
+ 
+Mrs. Rachael Adams.
+ THE DIRECTOR PROMOTIONS
+BMW LOTTERY DEPARTMENT
+OF SPAIN

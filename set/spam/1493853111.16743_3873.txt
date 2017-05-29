@@ -1,0 +1,77 @@
+Delivered-To: bruceg-bgware-owner@lists.untroubled.org
+Received: (qmail 11730 invoked from network); 3 May 2017 13:59:07 -0000
+Received: from zmx01.ifxnetworks.co ([190.61.2.22])
+  by genesis.futurequest.net ([69.5.31.4])
+  with ESMTP via TCP; 03 May 2017 13:59:07 -0000
+Received: from localhost (localhost [127.0.0.1])
+	by zmx01.ifxnetworks.co (Postfix) with ESMTP id 22FAD6C9911
+	for <bgware-owner@lists.untroubled.org>; Wed,  3 May 2017 08:59:05 -0500 (COT)
+Received: from zmx01.ifxnetworks.co ([127.0.0.1])
+	by localhost (zmx01.ifxnetworks.co [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id b8H9Wv73klGL for <bgware-owner@lists.untroubled.org>;
+	Wed,  3 May 2017 08:59:05 -0500 (COT)
+Received: from localhost (localhost [127.0.0.1])
+	by zmx01.ifxnetworks.co (Postfix) with ESMTP id 074FE6CA21D
+	for <bgware-owner@lists.untroubled.org>; Wed,  3 May 2017 08:59:05 -0500 (COT)
+X-Virus-Scanned: amavisd-new at zmx01.ifxnetworks.co
+Received: from zmx01.ifxnetworks.co ([127.0.0.1])
+	by localhost (zmx01.ifxnetworks.co [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id MIECJ39EezzU for <bgware-owner@lists.untroubled.org>;
+	Wed,  3 May 2017 08:59:04 -0500 (COT)
+Received: from [127.0.0.1] (177-91-118-167.waveup.com.br [177.91.118.167])
+	by zmx01.ifxnetworks.co (Postfix) with ESMTPA id EE6C16CA190
+	for <bgware-owner@lists.untroubled.org>; Wed,  3 May 2017 08:59:03 -0500 (COT)
+From: caja13@colyong.com.co
+To: bgware-owner@lists.untroubled.org
+Subject: No more nonsense, the first cutting-edge diet pills
+Message-ID: <E72E1ABC.ED0977D1C0CC3C72@colyong.com.co>
+X-Priority: 3
+Importance: Normal
+Date: Wed, 3 May 2017 15:58:53 +0200
+Content-Type: multipart/alternative;
+ boundary="--InfrawareEmailBoundaryDepth1_B27820D7--"
+MIME-Version: 1.0
+X-Mailer: Infraware POLARIS Mobile Mailer v2.5
+
+This is a multi-part message in MIME format
+
+----InfrawareEmailBoundaryDepth1_B27820D7--
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+DQpBcmUgeW91IG5vdCB0aXJlZCBvZiBzaG9kZHkgcGlsbHM/DQpUaXJlZCBvZiBkZWZyYXVkZXJz
+IGx1cmluZyB5b3UgaW4gd2l0aCByaWRpY3Vsb3VzIGNsYWltcz8NCkludHJvZHVjaW5nOiB0aGUg
+Zmlyc3QgZ3JvdW5kLWJyZWFraW5nIHdlaWdodCBsb3NzIG1lZGljYXRpb24gdGhhdCBhcmUgc2Np
+ZW50aWZpY2FsbHkgcHJvdmVuIHRvIHdvcmsgdmlhOg0K4oCiCUh1bmdlciBtaW5pbWl6YXRpb24s
+IG1ha2luZyB5b3UgZmVlbCBmdWxsIGZhc3Rlci4NCuKAoglMb3dlcmVkIGFic29ycHRpb24sIHlv
+dSdyZSBnb2luZyB0byB0YWtlIGluIGxlc3MgY2FyYnMuDQrigKIJQWxsZXZpYXRlZCBleHRyYSB3
+ZWlnaHQgYnVybmluZywgdXRpbGl6aW5nIHlvdXIgYm9keSdzIGluY3JlYXNlZCBtZXRhYm9saXNt
+Lg0KV2UgZ2l2ZSBhIG1vbmV5IGJhY2sgZ3VhcmFudGVlIHRvIGV2ZXJ5b25lIHdobydzIHJlYWR5
+IHRvIGJldHRlciB0aGVpciBsaWZlLg0KaHR0cDovL2p1cmFpZGFoZmxwLmNvbS9mb3JtdWxhLWFs
+aGlkYXlhaC5jb20vcGVzZXJ0YWZhaC93cC1hZG1pbi9hcnRpY2xlcy5pbmMucGhwP1ltZDNZWEps
+TFc5M2JtVnlRR3hwYzNSekxuVnVkSEp2ZFdKc1pXUXViM0puDQo=
+
+----InfrawareEmailBoundaryDepth1_B27820D7--
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PEJPRFk+PERJVj4NCjxQPkFyZSB5b3Ugbm90IHRpcmVkIG9mIHNob2RkeSBwaWxscz88L1A+DQo8
+UD5UaXJlZCBvZiBkZWZyYXVkZXJzIGx1cmluZyB5b3UgaW4gd2l0aCByaWRpY3Vsb3VzIGNsYWlt
+cz88L1A+DQo8UD5JbnRyb2R1Y2luZzogdGhlIGZpcnN0IGdyb3VuZC1icmVha2luZyB3ZWlnaHQg
+bG9zcyBtZWRpY2F0aW9uIHRoYXQgYXJlIHNjaWVudGlmaWNhbGx5IHByb3ZlbiB0byB3b3JrIHZp
+YTo8L1A+DQo8UD7igKIJSHVuZ2VyIG1pbmltaXphdGlvbiwgbWFraW5nIHlvdSBmZWVsIGZ1bGwg
+ZmFzdGVyLjwvUD4NCjxQPuKAoglMb3dlcmVkIGFic29ycHRpb24sIHlvdSdyZSBnb2luZyB0byB0
+YWtlIGluIGxlc3MgY2FyYnMuPC9QPg0KPFA+4oCiCUFsbGV2aWF0ZWQgZXh0cmEgd2VpZ2h0IGJ1
+cm5pbmcsIHV0aWxpemluZyB5b3VyIGJvZHkncyBpbmNyZWFzZWQgbWV0YWJvbGlzbS48L1A+DQo8
+UD5XZSBnaXZlIGEgbW9uZXkgYmFjayBndWFyYW50ZWUgdG8gZXZlcnlvbmUgd2hvJ3MgcmVhZHkg
+dG8gYmV0dGVyIHRoZWlyIGxpZmUuPC9QPg0KPFA+PEEgaHJlZj0iaHR0cDovL2p1cmFpZGFoZmxw
+LmNvbS9mb3JtdWxhLWFsaGlkYXlhaC5jb20vcGVzZXJ0YWZhaC93cC1hZG1pbi9hcnRpY2xlcy5p
+bmMucGhwP1ltZDNZWEpsTFc5M2JtVnlRR3hwYzNSekxuVnVkSEp2ZFdKc1pXUXViM0puIj5Tbywg
+YWxsIHlvdSBoYXZlIHRvIGRvIGlzIGpvaW4gdXAgcmlnaHQgaGVyZTwvQT48L1A+DQo8UD48SU1H
+IHNyYz0iaHR0cDovL2p1cmFpZGFoZmxwLmNvbS9mb3JtdWxhLWFsaGlkYXlhaC5jb20vcGVzZXJ0
+YWZhaC93cC1hZG1pbi9hcnRpY2xlcy5pbmMucGhwP1dXMWtNMWxZU214TVZ6a3pZbTFXZVZGSGVI
+QmpNMUo2VEc1V2RXUklTblprVjBweldsZFJkV0l6U200PSIgd2lkdGg9MSBoZWlnaHQ9MT48L1A+
+DQo8L0RJVj48L0JPRFk+DQo=
+
+----InfrawareEmailBoundaryDepth1_B27820D7----
+

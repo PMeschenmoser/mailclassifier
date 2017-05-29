@@ -1,0 +1,27 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 18506 invoked from network); 3 May 2017 01:25:27 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 03 May 2017 01:25:27 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 03 May 2017 01:25:27 -0000
+Received: (qmail 18445 invoked from network); 3 May 2017 01:25:26 -0000
+Received: from ec2-52-34-104-32.us-west-2.compute.amazonaws.com (HELO uavihnmvs.pfdn) (52.34.104.32)
+  by zak.futurequest.net with SMTP; 3 May 2017 01:25:26 -0000
+Date: Wed, 3 May 2017 10:01:06 +0900 (JST)
+From: =?Shift_JIS?B?pYt+jc+L4JP8i+A7iMST4A==?= <koc54@a8k519gnx.com>
+To: bruce@bruce-guenter.dyndns.org
+Message-ID: <ft35g6th4o5n4+dh@57544hf7gg.hoi>
+Subject: =?Shift_JIS?B?geGNkYnGlEaS6JPBlcqLfo3Pi+CB4g==?=
+ =?Shift_JIS?B?k/yL4JdcIJbxgvCPs4LogtyCtYK9gUI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+ã~çœã‡ì¸ã‡-àƒ-ì‡
+
+ì‡ óe 
+http://pesdic.a8k519gnx.com/rd/bbfdh/__/11180665/m7116140545/4341264a68670ff2a74f5aaffbdc5ee4ce28760cfa1161ab6e39e860cdc113e6
+
+
+2017/05/03 10:00

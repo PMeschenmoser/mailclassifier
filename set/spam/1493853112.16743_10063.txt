@@ -1,0 +1,36 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 27997 invoked from network); 30 Apr 2017 12:47:20 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 30 Apr 2017 12:47:20 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 30 Apr 2017 12:47:20 -0000
+Received: (qmail 4174 invoked from network); 30 Apr 2017 12:47:19 -0000
+Received: from qbhvqwjtvd.zdomht.com (113.212.133.191)
+  by zak.futurequest.net with SMTP; 30 Apr 2017 12:47:19 -0000
+Received: from tdymjgftmp.zdomht.com (unknown [113.212.133.163])
+	by scaverzsav.zdomht.com (Postfix) with ESMTP id CC841F40458
+	for <bruce@bruce-guenter.dyndns.org>; Sun, 30 Apr 2017 21:46:49 +0900 (JST)
+Received: from 113.212.133.163 (111x223x202x52.adv-server.net [111.223.202.52])
+	by tdymjgftmp.zdomht.com (Postfix) with ESMTP id C98CDCA0086
+	for <bruce@bruce-guenter.dyndns.org>; Sun, 30 Apr 2017 21:46:49 +0900 (JST)
+To: bruce@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?56eB44GM5q2744KT44Gg5pmC44Gu5YaZ55yf44Gn44GZ44GM44CB44Gd?=
+	=?UTF-8?B?44KM44Gv44GK6KaL44Gb44GZ44KL5LqL44GM5Ye65p2l44G+44Gb44KT44GX44CB?=
+	=?UTF-8?B?44Gd44Gu55+l44KJ44Gb44KC5p2l44Gq44GE44Gn44GX44KH44GG44GL44KJ5YiG?=
+	=?UTF-8?B?44GL44KJ44Gq44GE44GL44KC55+l44KM44G+44Gb44KT44GM44CB44KC44GX44KC?=
+	=?UTF-8?B?56qB54S244CB56eB44GL44KJ6YCj57Wh44GM6YCU57W244GI44Gf5pmC44CB56eB?=
+	=?UTF-8?B?44Gu5ZG944KS57WC54SJ44KS6L+O44GI44Gm44GE44KL44Go44GE44GG5LqL44KS?=
+	=?UTF-8?B?5Lyd44GI44Gm44GK44GN44G+44GZ44CC?=
+From: =?UTF-8?B?44GK55+l44KJ44Gb?= <mailmaster@dm6yafyi.com>
+Date: Sun, 30 Apr 2017 21:47:18 +0900
+Message-ID: <bf7ace68f93079c68907ae203e6f6a37882025c3>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: BASE64
+MIME-Version: 1.0
+
+PGEgaHJlZj0iaHR0cDovL2RtNnlhZnlpLmNvbS9sb2dfaW5kZXgucGhwP3BhZ2U9bWVzc19taXJ1
+JnM9MTQ5MzU1NjM3MSZjaWQ9MTIzOTcmbWlkPTE1MDI4MjImZGR2PTEwMDAxNjZkYjUxNTk4MDk1
+YmY1YTIwNmVhOTRiNGQ2Ij5odHRwOi8vZG02eWFmeWkuY29tL25NOVppYS9iNnJiZzdqTHFyPC9h
+Pjxicj4NCuKUsCjigLDiiKniiJ/ilLPvvLziiKDilKtd
+

@@ -1,0 +1,25 @@
+Delivered-To: bruceg-bgware-owner@lists.untroubled.org
+Received: (qmail 1281 invoked from network); 29 Apr 2017 21:46:01 -0000
+Received: from static.vnpt.vn ([14.164.22.78])
+  by genesis.futurequest.net ([69.5.31.4])
+  with ESMTP via TCP; 29 Apr 2017 21:46:00 -0000
+From: "sarahdave.wallace" <sarahdave.wallace@homecall.co.uk>
+To: "jake keith" <bgware-owner@lists.untroubled.org>
+Subject: =?utf-8?B?4piAbWVzc2FnZSBmcm9tIG1l?=
+Date: Sat, 29 Apr 2017 21:45:40 +0000
+Message-ID: <1250593795.20170430004540@homecall.co.uk>
+Content-Type: multipart/alternative;
+        boundary="----=_NextPart_003_0003_012823BC.6FD6D9A4"
+Content-Language: en-us
+MIME-Version: 1.0
+
+------=_NextPart_003_0003_012823BC.6FD6D9A4
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+R3JlZXRpbmdzISANCg0KSSBqdXN0IHdhbnRlZCB0byBzYXkgSGVsbG8gYW5kIHRvIHNob3cgeW91
+IHRoYXQgc3R1ZmYsIGp1c3QgY2hlY2sgIGl0IG91dCBodHRwOi8vd3d3LnNwdG10aGFpbGFuZC5j
+b20vd3AtY29udGVudC91cGxvYWRzL2dyYW5kY2hpbGQucGhwPzkyOTMNCg0Kc2FyYWhkYXZlLndh
+bGxhY2UNCg0K
+
+------=_NextPart_003_0003_012823BC.6FD6D9A4--

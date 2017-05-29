@@ -1,0 +1,53 @@
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 447 invoked from network); 28 Apr 2017 11:57:34 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Apr 2017 11:57:34 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Apr 2017 11:57:34 -0000
+Received: (qmail 25800 invoked from network); 28 Apr 2017 11:57:28 -0000
+Received: from 21.188.158.61.ha.cnc (HELO isf.edu.hk) (61.158.188.21)
+  by zak.futurequest.net with SMTP; 28 Apr 2017 11:57:28 -0000
+Message-ID: <69D8EE17.63CB7048@isf.edu.hk>
+Date: Fri, 28 Apr 2017 04:56:31 -0700
+Reply-To: "USPS Priority Delivery" <pvijacix21456264@isf.edu.hk>
+From: "USPS Station Management" <pvijacix21456264@isf.edu.hk>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.10) Gecko/20050716 Thunderbird/1.0.6
+X-Accept-Language: en-us
+MIME-Version: 1.0
+To: <cvs@bruce-guenter.dyndns.org>
+Subject: USPS courier can not deliver parcel # 781620873 to you.
+Content-Type: multipart/mixed;
+	boundary="------------642748201758323201506087"
+
+This is a multi-part message in MIME format.
+
+--------------642748201758323201506087
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your parcel was successfully delivered at Fri, 28 Apr 2017 04:56:31 -0700
+to USPS Station, but our courier could not contact you. 
+Please check the attachment for details!
+
+Yours respectfully.
+Davida Wesolowski -  USPS Office Manager.
+
+
+
+
+--------------642748201758323201506087
+Content-Type: message/external-body; access-type=x-deleted; length=1358
+
+
+Content-Type: application/octet-stream;
+	name="DeliveryDetails.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="DeliveryDetails.zip"
+
+--------------642748201758323201506087--
+

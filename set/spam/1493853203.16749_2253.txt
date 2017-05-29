@@ -1,0 +1,40 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 15907 invoked from network); 1 May 2017 06:43:21 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 May 2017 06:43:21 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 May 2017 06:43:21 -0000
+Received: (qmail 31525 invoked from network); 1 May 2017 06:43:20 -0000
+Received: from ec2-52-34-249-158.us-west-2.compute.amazonaws.com (HELO uoiu.rksat) (52.34.249.158)
+  by zak.futurequest.net with SMTP; 1 May 2017 06:43:20 -0000
+Date: Mon, 1 May 2017 15:43:17 +0900 (JST)
+From: =?Shift_JIS?B?k/qWey6NkYt+iYeL4Jdai0CNXIFzklOTloF0ktaMtA==?= <rbfto@h2kbr73z5.net>
+To: lists-linux-kernel@bruce-guenter.dyndns.org
+Message-ID: <1527115179.663975.1493620997279.JavaMail.return-936448789@h2kbr73z5.net>
+Subject: =?Shift_JIS?B?gr0vgqIugsQrgqJ+gswukGx+gs0ugtk=?=
+ =?Shift_JIS?B?foLxX4LGJ4KkIoLJLILIKoLJLYKqIoLZ?=
+ =?Shift_JIS?B?LIK1LYKiK4LMpYKpLoFBLJBTLILMLA==?=
+ =?Shift_JIS?B?koZfgsWlgu0ugqksgsFegsSlgqJ+gtwg?=
+ =?Shift_JIS?B?grcrgUIgkGwqkLYigswtltp+lVcqgvA=?=
+ =?Shift_JIS?B?IIuzpYKmKoLELIKtL4LqLILpfoLMLILN?=
+ =?Shift_JIS?B?OpK8Loq0KoK+LoKvOoFCIIK9X4K+XoFB?=
+ =?Shift_JIS?B?LIK7X4LqKoLJX46oLoLwLoxYLIKvL4LI?=
+ =?Shift_JIS?B?LIKiX5BsfoKqO5G9LoK3X4KsIoLpLQ==?=
+ =?Shift_JIS?B?gswsgsUugrd+gUIgZ2VzdJdsLY2hKg==?=
+ =?Shift_JIS?B?i0MulXQtgq0rjp4sgqosl4hfgsRegqgr?=
+ =?Shift_JIS?B?gugugtwqgrcqguYugUIglrJekoYsgsV+?=
+ =?Shift_JIS?B?jaEqgqBegul+luItkehfgskrl6degr8=?=
+ =?Shift_JIS?B?Xoz8K4KpK4LBK4LEL4KifoLqIoLOX4FB?=
+ =?Shift_JIS?B?X4KiIILCLoKpKoLNLYLtL4KpLILpK46e?=
+ =?Shift_JIS?B?KoKqLpeIJ4LcKoK3KoKpKoLnXoLLLYFC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+た/い_て~い-の,人~は.ほ~ん,と.う,に.な/に*が~ほ/し:い/の,か*、;心+の･中^で わ･か*っ-て.い~ま+す.。 人-生･の:目:標;を/教"え'て;く.れ-る~の"は+直*感-だ~け_。 た/だ;、'そ.れ*に*耳･を+傾*け+な*い~人*が,多^す*ぎ_る^の/で;す 。 gest様*今*気.付.く_時_が*来~て;お_り.ま*す.よ/。 夢/中,で^今.あ^る,問_題^に/立-ち,向~か.っ*て"い*れ･ば_、/い+つ^か.は_わ*か~る-時~が~来+ま^す,か^ら.ね+。
+
+詳;　~細
+http://2026rqpm.h2kbr73z5.net/i9uqlpfs77x1fes5h/69932211/m3197170112/4a26f61e78ee852dead8a0475f55a5076f2fd84b6dd58caf3cb082acd580a101
+
+2017/05/01 15:42

@@ -1,0 +1,22 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 25710 invoked from network); 1 May 2017 13:24:06 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 May 2017 13:24:06 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 May 2017 13:24:06 -0000
+Received: (qmail 12116 invoked from network); 1 May 2017 13:24:05 -0000
+Received: from srv01-180.takadaseisakujyo.com (HELO sc-823z-fhf.org) (103.60.36.180)
+  by zak.futurequest.net with SMTP; 1 May 2017 13:24:05 -0000
+Date: Mon, 1 May 2017 22:24:04 +0900 (JST)
+From:    <jjjr-j625n@sc-823z-fhf.org>
+To: lists-linux-kernel@bruce-guenter.dyndns.org<lists-linux-kernel>
+Message-id: <pajbP1goS7+vO8yd8fn5im7cl6>
+Subject: =?Shift_JIS?B?i0AglqeVtiCPkYLJIILIIILoIILcgrcggUIgldsgiscglfuWQCCCySA=?=
+ =?Shift_JIS?B?ko2I04K1gsQggq0ggr6CsyCCooFC?=
+Mime-version: 1.0
+Content-type: text/plain; charset=shift_jis
+Content-transfer-encoding: 7bit
+
+http://udcirp-dr.biz/rd/j3tugie6/rqa7j3p2c1z/v1xioanhej1/5afexdu9ol6/ziw36c9c9v7/c43gabio21g/ezibio59utr/phsdcieoa0a/s20rzuuveia/e9wuxt326ph/fx40222t69k/bwtwuu6dris/58537490/m2960298141/5163c9b60d707c62dbbd254be320df9ae6adc1ed571916c84e9574ad648c1706
+

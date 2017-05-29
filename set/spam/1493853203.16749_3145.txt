@@ -1,0 +1,26 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 22924 invoked from network); 2 May 2017 07:44:41 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 02 May 2017 07:44:41 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 May 2017 07:44:41 -0000
+Received: (qmail 17997 invoked from network); 2 May 2017 07:44:40 -0000
+Received: from ec2-54-68-191-140.us-west-2.compute.amazonaws.com (HELO cjds.gew) (54.68.191.140)
+  by zak.futurequest.net with SMTP; 2 May 2017 07:44:40 -0000
+Date: Tue, 2 May 2017 16:43:30 +0900 (JST)
+From: =?Shift_JIS?B?kVONkSyL4iyNc4xugUCOli2WsYvHkWeQRA==?= <n9iy@h2kbr73z5.net>
+To: lists-linux-kernel@bruce-guenter.dyndns.org
+Message-ID: <1337325395.672912.1493711010883.JavaMail.return-937787545@h2kbr73z5.net>
+Subject: =?Shift_JIS?B?i34riYcri+Avgsxfj2Qrl3YvjpYvjYAsgs1ekY1fie8=?=
+ =?Shift_JIS?B?J4FBIpedLI6WLInvXoLFfoyIK5LoKoK1LoLcK4K3LYFC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+救;援+金,の*重,要;事/項*は_総;会,、"理'事-会/で.決.定･し~ま;す~。
+
+詳.　.細
+http://smgnxb.h2kbr73z5.net/cqupefdohlekib8wf/83810000/m6977329900/4a26f61e78ee852dead8a0475f55a5076f2fd84b6dd58caf3cb082acd580a101
+
+2017/05/02 16:43

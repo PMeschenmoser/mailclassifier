@@ -1,0 +1,51 @@
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 20664 invoked from network); 29 Apr 2017 15:56:03 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 29 Apr 2017 15:56:03 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 29 Apr 2017 15:56:03 -0000
+Received: (qmail 5172 invoked from network); 29 Apr 2017 15:56:02 -0000
+Received: from unknown (HELO hmsmakina.com.tr) (5.135.195.166)
+  by zak.futurequest.net with SMTP; 29 Apr 2017 15:56:02 -0000
+X-Message-Info: TTFAsLN46uN0MhqX1ViolA0G4D6p14XX
+Received: from leo.hmsmakina.com.tr ([249.86.171.6]) by bp84-x12.hmsmakina.com.tr with Microsoft SMTPSVC(5.0.2195.6824);
+	 Sat, 29 Apr 2017 15:56:04 -00
+Received: from wio4-icp2.hmsmakina.com.tr (vvp3 [102.248.26.19])
+	by lyo.i1.com (6.03.3/8.20.2) with ESMTP id i4IZ8hj87877
+	for <cvs@bruce-guenter.dyndns.org>; Sat, 29 Apr 2017 15:56:04 -00 GMT
+Received: (from e8tge@localhost)
+	by hlo1-zzc2.hmsmakina.com.tr (4.36.4/0.25.6) id x8PH0aj57470;
+	Sat, 29 Apr 2017 15:56:04 -00 GMT
+X-Authentication-Warning: xtk0-poz0.hmsmakina.com.tr: u7cksy set sender to wvefimpjql@hmsmakina.com.tr using -f
+MIME-Version: 1.0
+Date: Sat, 29 Apr 2017 15:56:04 -00
+From: Daniel <wvefimpjql@hmsmakina.com.tr>
+Subject: Be on top with our products!
+To: cvs@bruce-guenter.dyndns.org
+Message-Id: <jww0_htv1-5130603483-0043354024-00-61044.2717625772@rqt8>
+Content-Type: text/html;;
+Content-Transfer-Encoding: quoted-printable
+
+
+3111218775254436
+<a href=3D"http://adv27.fastmedstrade.be "><img =
+src=3D"http://lh3.googleusercontent.com/-Hc_GN0EtSsI/WOkyHNUXVaI/AAAAAAAAAG=
+g/k6ergwPgcwg/s0/07319935.gif"></a> 
+<br> <br> 
+Hello!  Our store   is pleased to offer you  our product list  with =
+delivery service in the United States, Europe and Canada. <br> You can buy =
+anti-acidity, antibiotics, anti-depressant, antifungals, blood pressure, =
+antiviral, antifungals, anti-allergy/asthma, diabetes medication, herpes =
+medication and other various products. Significant discounts  when =
+purchasing  <br>
+
+<font style=3D"background-color: #ffa07a"> <a =
+href=3D"http://adv27.fastmedstrade.be"> Bet you won't find cheaper </a>
+<br> <br> <br> 
+If you no longer wish to receive these emails, simply click on the =
+following link <A title=3D"" style=3D"COLOR: #1e90ff" =
+href=3D"http://adv27.fastmedstrade.be ">Unsubscribe.</A>
+44142193264820592
+
+

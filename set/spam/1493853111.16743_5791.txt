@@ -1,0 +1,29 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 24491 invoked from network); 29 Apr 2017 08:24:30 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 29 Apr 2017 08:24:30 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 29 Apr 2017 08:24:30 -0000
+Received: (qmail 28348 invoked from network); 29 Apr 2017 08:24:29 -0000
+Received: from chwhcdedpj.yrihfk.com (113.212.131.141)
+  by zak.futurequest.net with SMTP; 29 Apr 2017 08:24:29 -0000
+Received: from uqzhmslljr.yrihfk.com (uqzhmslljr.yrihfk.com [113.212.131.131])
+	by yuptrspeuj.yrihfk.com (Postfix) with ESMTP id AAC2C85701
+	for <bruce@bruce-guenter.dyndns.org>; Sat, 29 Apr 2017 17:22:53 +0900 (JST)
+Received: from localhost (unknown [103.54.73.91])
+	by uqzhmslljr.yrihfk.com (Postfix) with ESMTP id C0A8465475
+	for <bruce@bruce-guenter.dyndns.org>; Sat, 29 Apr 2017 17:22:51 +0900 (JST)
+Date: Sat, 29 Apr 2017 17:24:28 +0900
+From: mail@vum93.szb3ngfp0p6.co
+To: bruce@bruce-guenter.dyndns.org
+Message-ID: <657673264.672729.1493454171269.JavaMail.return-470679714@vum93.szb3ngfp0p6.co>
+Subject: =?Shift_JIS?B?gXdicnVjZUBicnVjZS1ndWVudGVyLmR5bmRucy5vcmeBeILwj4o=?=
+ =?Shift_JIS?B?jp2CtYLEgqKC6YnviPWXbILWgsySypJtgsmCyILogtyCtw==?=
+ =?Shift_JIS?B?gUKMqZeOgsaCs4LIgqKC5oKkgsmCtYLEibqCs4KigtyCuYFC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+http://vum93b.d7r7frzfa.co/mailbox/view?id=32025356&mailid=m6260493998&loginkey=91c8bfc3b87b17636cac652093d1c93ca44937cce9770efcc54b6d05485c4208
+

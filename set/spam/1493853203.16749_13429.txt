@@ -1,0 +1,23 @@
+Delivered-To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Received: (qmail 4075 invoked from network); 28 Apr 2017 02:19:00 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Apr 2017 02:19:00 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Apr 2017 02:19:00 -0000
+Received: (qmail 9213 invoked from network); 28 Apr 2017 02:19:00 -0000
+Received: from srv01-14.manishjp.com (HELO cvgm.yu8-bul-ja.com) (103.56.212.14)
+  by zak.futurequest.net with SMTP; 28 Apr 2017 02:19:00 -0000
+Date: Fri, 28 Apr 2017 11:18:06 +0900
+From: =?Shift_JIS?B?grOCwYK1gVsuIA==?=<son-o428t.k.nais0yo-s_hyn@cvgm.yu8-bul-ja.com>
+To: lists-reiserfs-list@bruce-guenter.dyndns.org<lists-reiserfs-list>
+Message-id: <HiX32n4jinkZRf8IO@uu55rwTnRqwWi.com>
+Subject: =?Shift_JIS?B?gqCC6oFIgqiCqYK1gqKCyIFI?=
+Mime-version: 1.0
+Content-type: text/plain; charset=Shift_JIS
+Content-transfer-encoding: 7bit
+
+指原だけど…指原のメールは届いてる？
+返事がないから不安になんだけど…
+まさか無視してないよね？
+

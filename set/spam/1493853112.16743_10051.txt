@@ -1,0 +1,35 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 11196 invoked from network); 3 May 2017 22:12:46 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 03 May 2017 22:12:46 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 03 May 2017 22:12:46 -0000
+Received: (qmail 29743 invoked from network); 3 May 2017 22:12:45 -0000
+Received: from scaverzsav.zdomht.com (113.212.133.165)
+  by zak.futurequest.net with SMTP; 3 May 2017 22:12:45 -0000
+Received: from tdymjgftmp.zdomht.com (unknown [113.212.133.163])
+	by scaverzsav.zdomht.com (Postfix) with ESMTP id 2681AF43564
+	for <bruce@bruce-guenter.dyndns.org>; Thu,  4 May 2017 07:12:28 +0900 (JST)
+Received: from 113.212.133.163 (111x223x202x52.adv-server.net [111.223.202.52])
+	by tdymjgftmp.zdomht.com (Postfix) with ESMTP id 02DD3CA007E
+	for <bruce@bruce-guenter.dyndns.org>; Thu,  4 May 2017 07:12:28 +0900 (JST)
+To: bruce@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?44GK5pep44GG5b6h5bqn44GE44G+44GZ44CC5L2V5bqm44KC44GK5Lyd?=
+	=?UTF-8?B?44GI44GX44G+44GX44Gf44Gu44Gn44GU5a2Y55+l44GL44Go44Gv5oCd44GE44G+?=
+	=?UTF-8?B?44GZ44GM44CB56eB44Gv5pyr5pyf55mM44Gn5L2Z5ZG95b6M5YOF44GL44GX44GL?=
+	=?UTF-8?B?44GC44KK44G+44Gb44KT44CC44Gn44GZ44GL44KJ5pmC6ZaT44GM54Sh44GE44Gu?=
+	=?UTF-8?B?44Gn57Ch5r2U44Gr56eB44Gu5LqL44CB44Gd44GX44Gm44GT44Gu44Oh44O844Or?=
+	=?UTF-8?B?44KS6YCB44KL55CG55Sx44KS44GK5Lyd44GI44GX44G+44GZ44CC?=
+From: =?UTF-8?B?44GK55+l44KJ44Gb?= <mailmaster@w5d9m7f3.com>
+Date: Thu, 04 May 2017 07:12:44 +0900
+Message-ID: <b59e0b1bbbb0105aa8781e94f662c23608f24e24>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: BASE64
+MIME-Version: 1.0
+
+PGEgaHJlZj0iaHR0cDovL3c1ZDltN2YzLmNvbS9sb2dfaW5kZXgucGhwP3BhZ2U9bWVzc19taXJ1
+JnM9MTQ5Mzg0OTUyOCZjaWQ9MTIzOTcmbWlkPTE1MjE3NjEmZGR2PTEwMDAxNjZkYjUxNTk4MDk1
+YmY1YTIwNmVhOTRiNGQ2Ij5odHRwOi8vdzVkOW03ZjMuY29tL0J1L2g4OWVJVHowNnQvMlNmZURr
+YWFHMjwvYT48YnI+DQrigLDilIHilI974oCl4pS4W++8ieOAjSnvvIvvvZ7ilK/vvL/iiqXilJA=
+

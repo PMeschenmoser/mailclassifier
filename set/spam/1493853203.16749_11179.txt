@@ -1,0 +1,32 @@
+Delivered-To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Received: (qmail 18701 invoked from network); 30 Apr 2017 12:00:45 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 30 Apr 2017 12:00:45 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 30 Apr 2017 12:00:45 -0000
+Received: (qmail 2795 invoked from network); 30 Apr 2017 12:00:43 -0000
+Received: from ec2-52-36-156-214.us-west-2.compute.amazonaws.com (HELO ykl.weaxn) (52.36.156.214)
+  by zak.futurequest.net with SMTP; 30 Apr 2017 12:00:43 -0000
+Date: Sun, 30 Apr 2017 21:00:39 +0900 (JST)
+From: =?Shift_JIS?B?L5P6lnuNkYt+iYeL4Jdai0CNXIFzklOTloF0ktYvjLQ=?= <eo15s4@h2kbr73z5.net>
+To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Message-ID: <149691188.782362.1493553639995.JavaMail.return-935481473@h2kbr73z5.net>
+Subject: =?Shift_JIS?B?lnsik/osiq5fl7lfknYvgrUtgtwggrl+gvEs?=
+ =?Shift_JIS?B?gsUigrU6gr1fgswsgsUujoQqgsw6lft+gsV+gUE=?=
+ =?Shift_JIS?B?Lot+LImHXovgLZS9K4lmLoNmX4FbLINefoN4?=
+ =?Shift_JIS?B?O4FbK4NYIILJK5WcLoqILYjLX5eKLY7oLZGxOw==?=
+ =?Shift_JIS?B?gqtegvAtkFwsgrUnjZ4rgvEugsUtgqgsgug7?=
+ =?Shift_JIS?B?gtwrgrcggUIulZwuiogsjp8nkeYrim07kugqgsU=?=
+ =?Shift_JIS?B?LoK3LoFCXpa+LpP6LJVLIoK4LIKoKo7zfoKvLQ==?=
+ =?Shift_JIS?B?juYqgugikrgvgq8rgtwvgrcvgql+gucrgsstgUI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+本"日,完_了'致*し+ま^せ:ん^で-し-た*の/で;私 の*方~で/、^救+援;金~反~映,デ-ー"タ･ベ'ー~ス*に'復'活-依.頼'手+続,き-を,申"し^込,ん^で:お+り,ま;す~。;復^活/次-第-確_定-で~す+。'明-日 必~ず-お/受:け･取+り,頂/け+ま す;か+ら~ね/。
+
+詳･　-細
+http://709kt3.h2kbr73z5.net/gppdns4iba5p3sxje/69932211/m0085084481/c3f7e6dce3fc5f7f9b5a783bde9eaf4537ef2dfe8ee6834bd0ca79af86f858a3
+
+2017/04/30 21:00

@@ -1,0 +1,25 @@
+Delivered-To: bruceg-bgware-owner@lists.untroubled.org
+Received: (qmail 3165 invoked from network); 30 Apr 2017 01:49:33 -0000
+Received: from fdxi.pisem.net ([123.24.171.198])
+  by genesis.futurequest.net ([69.5.31.4])
+  with ESMTP via TCP; 30 Apr 2017 01:49:33 -0000
+From: "sarahdave.wallace" <sarahdave.wallace@homecall.co.uk>
+To: "jake keith" <bgware-owner@lists.untroubled.org>
+Subject: =?utf-8?B?4p2kSSBuZWVkIGEgcGllY2Ugb2YgYWR2aWNl?=
+Date: Sun, 30 Apr 2017 06:49:04 +0500
+Message-ID: <1078394494.20170430044904@homecall.co.uk>
+Content-Type: multipart/alternative;
+        boundary="----=_NextPart_003_005F_01506B06.7526A0AD"
+Content-Language: en
+MIME-Version: 1.0
+
+------=_NextPart_003_005F_01506B06.7526A0AD
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+SGV5ISANCg0KSSAgY291bGRuJ3QgZGVjaWRlIHdoaWNoIGJvb2sgdG8gIHJlYWQgYW5kIGRlY2lk
+ZSAgdG8gYXNrIGZvciB5b3VyICBhZHZpY2UsIHBsZWFzZSB0YWtlIGEgbG9vayBhdCB0aGUgbGlz
+dCBodHRwOi8vZG9nb29kZmFybS5vcmcvd3AtY29udGVudC90aGVtZXMvc3BhY2lvdXMvc3Vic3Rh
+bmNlLnBocD8zZTNmDQoNCllvdXJzIHRydWx5LCBzYXJhaGRhdmUud2FsbGFjZQ0KDQo=
+
+------=_NextPart_003_005F_01506B06.7526A0AD--

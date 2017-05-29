@@ -1,0 +1,57 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 1476 invoked from network); 2 May 2017 00:44:34 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 02 May 2017 00:44:34 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 May 2017 00:44:34 -0000
+Received: (qmail 32347 invoked from network); 2 May 2017 00:44:33 -0000
+Received: from smtp1-1.ga1.mysmtp3.com (185.99.123.65)
+  by zak.futurequest.net with SMTP; 2 May 2017 00:44:33 -0000
+Received: (GreenArrow 3888 invoked from network); 2 May 2017 00:43:27 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=australiaproteins.com; s=default; h=Received:Content-Type:
+	Mime-Version:Subject:From:Date:Message-Id:To; bh=8szBsOo6OmOgFnf
+	J64sMmDTJulM=; b=V3l3vV2EDQiDPy8INSQFnUqZ5uCpuPEms6HxieIGynunwXN
+	hixZ2K2oD3UPk/49P1YkeInzXyq72UiumV+WYvoy9w/oQangk+KtgPwOES7bSxq0
+	SA87SuQV6SlC+SGgS5NUWBeDmFvHUhT7lmbcE0qZkIkg6PDVV09UsbHD0mb4=
+Received: from unknown (HELO ?127.0.0.1?) (contact@australiaproteins.com@5.154.16.20)
+  by ga1.mysmtp3.com with SMTP; 2 May 2017 00:43:26 -0000
+Content-Type: multipart/alternative;
+ boundary="Apple-Mail=_E9DC1D3681-71ED-57C6-4CCD-B12781AE762"
+Mime-Version: 1.0 (Mac OS X Mail 8.2 \(2104\))
+Subject: Hey dude =?UTF-8?B?4oCT?= check this out
+From: contact@australiaproteins.com
+Date: Tue, 2 May 2017 02:43:22 +0200
+Message-Id: <9886A405-7ABA-29B4-05E3-2F907F5A2C2F@australiaproteins.com>
+To: bruce@bruce-guenter.dyndns.org
+X-Mailer: Apple Mail (2.2104)
+
+This is a multi-part message in MIME format
+
+--Apple-Mail=_E9DC1D3681-71ED-57C6-4CCD-B12781AE762
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+DQpJdCdzIQ0KTGlzdGVuIHVwLCBJIGhhdmUgZmluYWxseSBkaXNjb3ZlcmVkIGEgd2VpZ2h0IGxv
+c3MgcGlsbC4NClNpbmNlIHdlJ3JlIGJlc3QgZnJpZW5kcywgSSdtIHNlbmRpbmcgeW91IHRoaXMg
+c3BlY2lhbCBvZmZlciDigJNodHRwOi8vbWVkaWEtdG91cnMucnUvcGx1Z2lucy9jb250ZW50L3pv
+b3Nob3J0Y29kZS9wb3B1cF9jb250ZW50X2xpc3RhLnBocD9ZbkoxWTJWQVluSjFZMlV0WjNWbGJu
+UmxjaTVrZVc1a2JuTXViM0puDQo=
+
+--Apple-Mail=_E9DC1D3681-71ED-57C6-4CCD-B12781AE762
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PEJPRFk+PERJVj4NCjxQPkl0J3MhPC9QPg0KPFA+TGlzdGVuIHVwLCBJIGhhdmUgZmluYWxseSBk
+aXNjb3ZlcmVkIGEgd2VpZ2h0IGxvc3MgcGlsbC48L1A+DQo8UD5TaW5jZSB3ZSdyZSBiZXN0IGZy
+aWVuZHMsIEknbSBzZW5kaW5nIHlvdSB0aGlzIHNwZWNpYWwgb2ZmZXIg4oCTIDxBIGhyZWY9Imh0
+dHA6Ly9tZWRpYS10b3Vycy5ydS9wbHVnaW5zL2NvbnRlbnQvem9vc2hvcnRjb2RlL3BvcHVwX2Nv
+bnRlbnRfbGlzdGEucGhwP1luSjFZMlZBWW5KMVkyVXRaM1ZsYm5SbGNpNWtlVzVrYm5NdWIzSm4i
+PjUwJSBvZmYuPC9BPjwvUD4NCjxQPjxJTUcgc3JjPSJodHRwOi8vbWVkaWEtdG91cnMucnUvcGx1
+Z2lucy9jb250ZW50L3pvb3Nob3J0Y29kZS9wb3B1cF9jb250ZW50X2xpc3RhLnBocD9XVzVLTVZr
+eVZrRlpia294V1RKVmRGb3pWbXhpYmxKc1kyazFhMlZYTld0aWJrMTFZak5LYmc9PSIgd2lkdGg9
+MSBoZWlnaHQ9MT48L1A+DQo8L0RJVj48L0JPRFk+DQo=
+
+--Apple-Mail=_E9DC1D3681-71ED-57C6-4CCD-B12781AE762--
+

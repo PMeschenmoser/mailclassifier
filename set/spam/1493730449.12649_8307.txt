@@ -1,0 +1,79 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 19366 invoked from network); 02 May 2017 10:33:45 -0000
+Received: from mx16.futurequest.net (mx16.futurequest.net [69.5.6.192])
+  by 10.170.1.170 ([10.170.1.170])
+  with FQDP via TCP; 02 May 2017 10:33:45 -0000
+Received: (qmail 18499 invoked from network); 2 May 2017 10:33:45 -0000
+Received: from mail.vecchiola.cl (mail.vecchiola.cl [200.72.12.3])
+  by mx16.futurequest.net ([69.5.6.192])
+  with ESMTP via TCP; 02 May 2017 10:33:45 -0000
+X-MDAV-Result: clean
+X-MDAV-Processed: mail.vecchiola.cl, Tue, 02 May 2017 07:27:35 -0400
+Received: from User by mail.vecchiola.cl (MDaemon PRO v15.0.1) 
+	with ESMTPA id md50010922593.msg for <bruce@untroubled.org>;
+	Tue, 02 May 2017 07:27:32 -0400
+X-MDRemoteIP: 175.144.112.205
+X-MDHelo: User
+X-MDArrival-Date: Tue, 02 May 2017 07:27:32 -0400
+X-Authenticated-Sender: administracion@vecchiola.cl
+X-Return-Path: administracion@vecchiola.cl
+X-Envelope-From: administracion@vecchiola.cl
+X-MDaemon-Deliver-To: bruce@untroubled.org
+Reply-To: <mail@lucky5centre.com>
+From: "You Have Won!"<administracion@vecchiola.cl>
+To: confidential-mail_PROTECTED@global.privatealerts_lucky5draws.com
+Subject: BL5-92701MAY17
+Date: Tue, 2 May 2017 11:07:18 +0100
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Length: 2123
+
+Notification ID: BL5-92701MAY17
+
+This is a notification to inform you of the results of the April SuperPrize draw held in Manchester, United Kingdom. Your email has been randomly selected as one of the SuperPrize winners. Participants and winners were selected randomly from the internet using our random winner generator (see www.random.org or www.randompicker.com for an example).
+
+This program is proudly sponsored and supported by major email providers around the world.
+
+Amount to Claim:
+895,450.00
+
+Claim Location:
+Claim Center located at:
+524 Chorley Old Rd
+Bolton BL1 6AE
+Mon-Fri 10am-5pm | Sat 11am-4pm
+
+Documents required for Over-the-Counter(OTC) claim:
+1. Email Notification Print-Out
+2. Government Issued Photo ID (Passport, Driving Licence or National ID)
+
+Cannot claim Over-the-Counter (OTC) at the claim location? If you have a valid reason (e.g. illness or current location), let us know and we will make an alternate arrangement for you. To proceed, the particulars below are required.
+
+* Alternate Email (optional):
+* Your Full Names (as on ID):
+* Your Date of Birth:
+* Your Street Name, City, State, and Country of Residence:
+* Your Preferred Mode of Contact, Mobile Number or Email (provide contact information and indicate preferred contact time):
+
+Submit via e-mail to: mail@lucky5centre.com. Your email subject should include your Notification ID.
+
+
+
+**** This is a system-generated newsletter; DO NOT REPLY ****
+Do not want to receive any more notifications? Unsubscribe now.
+
+"Este mensaje y la informacion contenida en el es privada y confidencial y 
+se dirige unicamente a la persona a la que se ha enviado. 
+La divulgacion o copia de esta comunicacion esta estrictamente prohibida. 
+Si usted ha recibido este mensaje por error le rogamos comunicarlo al remitente 
+e inmediatamente destruya dicho mensaje y cualquier documento adjunto que pudiera contener.
+
+La confidencialidad de este mensaje esta amparada en lo dispuesto 
+en el articulo 19 N?5 de la Constitucion Politica del Estado; en la ley 19.682; 
+en las normas pertinentes del Codigo Penal y en los Tratados Internacionales vigentes."

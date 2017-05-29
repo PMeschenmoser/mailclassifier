@@ -1,0 +1,216 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 28937 invoked from network); 01 May 2017 15:54:27 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by 10.170.1.170 ([10.170.1.170])
+  with FQDP via TCP; 01 May 2017 15:54:27 -0000
+Received: (qmail 18202 invoked from network); 1 May 2017 15:54:26 -0000
+Received: from mail.newonlineyogaspecials.com (ih505398.dedic.myihor.ru [193.124.181.201])
+  by mx08.futurequest.net ([69.5.6.180])
+  with ESMTP via TCP; 01 May 2017 15:54:26 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=newonlineyogaspecials.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=tinybelly@newonlineyogaspecials.com;
+ bh=eTYfr8llowFZtGK/1juzgRIW9mM=;
+ b=J0h2cADrwWpQjAjbPEfBvzPnN2Ds/DoYbxxjZRmDu5X7vVTGvR8RyF3RtfGzfewwrilygtjOafo5
+   Pa+FWfUza3aGfXTde2txrjesZgajonpqcEQuFYs5/j0y+/dbc9ihXEskYcJ7jn9Vp/5POFtAmRuN
+   baudERNWBS7qgWkpyHQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=newonlineyogaspecials.com;
+ b=ODIskbG8rPUr3vEmNvwjWHUzKxmD9n12vPcXgiJTDNcuLXZQU8p2G0Cngn0CoYfgBg8PFpGa6GGy
+   c3xWzPcVsuAXFDpTvzQjq+veKRe2E9hNf3E9IAAtwHRjzEP+aNclGLfYrx7gHaKeVdz0dBdgDXYi
+   EuEIMETkScntTgxo2FU=;
+Received: by mail.newonlineyogaspecials.com id h0td340001gn for <bruce@untroubled.org>; Mon, 1 May 2017 11:50:05 -0400 (envelope-from <tinybelly-bruce=untroubled.org@newonlineyogaspecials.com>)
+Date: Mon, 1 May 2017 11:50:05 -0400
+From: TinyBelly <tinybelly@newonlineyogaspecials.com>
+To:   <bruce@untroubled.org>
+Subject: This one yoga-trick can help you to slim-down fast.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_640_1455865739.1493653799903"
+List-Unsubscribe: <http://www.newonlineyogaspecials.com/shacks-disobedient/35ap8p9MXp1u1s114xLkVMOFVgUkhVLxONzhkre51>
+Message-ID: <0.0.0.48.1D2C2929A2730A8.352DE3@mail.newonlineyogaspecials.com>
+Content-Length: 10561
+
+------=_Part_640_1455865739.1493653799903
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+ <head>=20
+  <meta charset=3D"UTF-8" />=20
+  <title>Yoga-Burn</title>=20
+  <style type=3D"text/css"></style>
+ </head>=20
+ <body>=20
+  <p style=3D"font-size:36px"><em><span style=3D"color:#8000FF">Yoga</span>=
+</em><span style=3D"font-style: italic">Burn</span>... </p>=20
+  <table width=3D"477" border=3D"0" cellpadding=3D"0">=20
+   <tbody>
+    <tr>=20
+     <th width=3D"12" height=3D"513" scope=3D"row"><h4 style=3D"color:#0A6C=
+AB" align=3D"left">&nbsp; </h4></th>=20
+     <td width=3D"435">
+      <div align=3D"left">=20
+       <p align=3D"left"><span style=3D"color:#8000FF"><strong>This 1 Yoga-=
+Trick is Your-Guide to a Tiny-Belly!</strong></span></p>=20
+       <p align=3D"left" style=3D"font-family: 'Courier New', Courier, mono=
+space; font-size: 12px; ">Is your workout-routine just not getting the resu=
+lts you want?</p>=20
+       <p align=3D"left" style=3D"font-family: 'Courier New', Courier, mono=
+space; font-size: 12px; ">With this new guide, you can learn yoga all while=
+ burning-flab. Even if you happen to be experienced at Yoga, there are stil=
+l many things that can you can learn to take your movements to the next lev=
+el</p>=20
+       <div align=3D"left">=20
+        <table align=3D"left" width=3D"249" cellpadding=3D"0" cellspacing=
+=3D"0">=20
+         <tbody>
+          <tr>=20
+           <td align=3D"center" width=3D"235" height=3D"30" bgcolor=3D"#800=
+0FF" style=3D"-webkit-border-radius: 5px; -moz-border-radius: 5px; border-r=
+adius: 5px; color: #ffffff; display: block; "><a href=3D"http://www.newonlineyogaspecials.com/dc7yu864WM98G114LLkVMOFVgUkhVLxONzhkrbda/Muscovy-visitor"><img s=
+rc=3D"http://www.newonlineyogaspecials.com/3b37aNV49DiagX114SLkVMOFVgUkhVLxONzhkrf23/Allegheny-implicitness" width=3D"220" /></a></td>=20
+          </tr>=20
+         </tbody>
+        </table>=20
+       </div>=20
+       <p></p>=20
+       <p align=3D"left">&nbsp; </p>=20
+       <p align=3D"left"><span style=3D"font-family: 'Courier New', Courier=
+, monospace; font-size: 17px; "><tt><br />This Yoga-program was designed by=
+ a certified yoga-instructor, certified personal-trainer and female fitness=
+-expert to give you the best results you can get from your-routine. You wil=
+l learn how to properly perform each movement and it will continue to incre=
+ase in difficulty as your body adapts.</tt></span><tt><br /> <br /> </tt></=
+p>=20
+       <h3 align=3D"left"><tt><a href=3D"http://www.newonlineyogaspecials.com/dc7yu864WM98G114LLkVMOFVgUkhVLxONzhkrbda/Muscovy-visitor">Visit Here to See This=
+ Yoga-Video Now</a></tt></h3>=20
+       <p align=3D"center"><tt><br /> </tt></p>=20
+       <p align=3D"center">&nbsp; </p>=20
+       <p align=3D"left"><tt style=3D"font-style: italic">Monthly Health-Ne=
+wsletter #6501175881</tt><br /> </p>=20
+       <br />=20
+      </div></td>=20
+     <td width=3D"22">&nbsp; </td>=20
+    </tr>=20
+   </tbody>
+  </table>=20
+  <table width=3D"100" border=3D"0" cellpadding=3D"0">=20
+   <tbody>
+    <tr>=20
+     <th scope=3D"row">&nbsp; </th>=20
+    </tr>=20
+   </tbody>
+  </table>=20
+  <p style=3D"font-size:36px">&nbsp; </p>=20
+  <table width=3D"257" border=3D"0" cellpadding=3D"0">=20
+   <tbody>
+    <tr>=20
+     <th width=3D"253" scope=3D"row"><span style=3D"font-size:10px">If you =
+would.prefer to not-receive future yogaads-please <a href=3D"=
+http://www.newonlineyogaspecials.com/1f18tw94O99H114gLkVMOFVgUkhVLxONzhkr7a1/manifestations-fidelity">visit-here</a> - Two.Eight.Eight.Five Sanford.Avenue S.W.<br /> #4O44=
+2.Grandville, M.l. #49418. </span></th>=20
+    </tr>=20
+   </tbody>
+  </table>=20
+  <p style=3D"font-size:3px">&nbsp; </p>=20
+  <p style=3D"font-size:3px">&nbsp; </p>=20
+  <p style=3D"font-size:3px">&nbsp; </p>=20
+  <p style=3D"font-size:3px">&nbsp; </p>=20
+  <p style=3D"font-size:3px">&nbsp; </p>=20
+  <p style=3D"font-size:3px">&nbsp; </p>=20
+  <p style=3D"font-size:3px">&nbsp; </p>=20
+  <p style=3D"font-size:3px">&nbsp; </p>=20
+  <p style=3D"font-size:3px">&nbsp; </p>=20
+  <p style=3D"font-size:3px">&nbsp; </p>=20
+  <p style=3D"font-size:3px">&nbsp; </p>=20
+  <p style=3D"font-size:3px">&nbsp; </p>=20
+  <p style=3D"font-size:3px">&nbsp; </p>=20
+  <p style=3D"font-size:3px">&nbsp; </p>=20
+  <p style=3D"font-size:3px">&nbsp; </p>=20
+  <p style=3D"font-size: 7.8px">Stars do it. Sports do it. Judges in the hi=
+ghest courts do it. Let's do it: that yoga thing. A path to enlightenment t=
+hat winds back 5,000 years in its native India, yoga has suddenly become so=
+ hot, so cool, so very this minute. It's the exercise cum meditation for th=
+e new millennium, one that doesn't so much pump you up as bliss you out. Yo=
+ga now straddles the continent &acirc;?? from Hollywood, where $20 million-=
+a-picture actors queue for a session with their guru du jour, to Washington=
+, where, in the gym of the Supreme Court, Justice Sandra Day O'Connor and 1=
+5 others faithfully take their class each Tuesday morning. Everywhere else,=
+ Americans rush from their high-pressure jobs and tune in to the authoritat=
+ively mellow voice of an instructor, gently urging them to solder a union (=
+the literal translation of the Sanskrit word yoga) between mind and body. T=
+hese Type A strivers want to become Type B seekers, to lose their blues in =
+an asana (pose), to graduate from distress to de-stress. Fifteen million Am=
+ericans include some form of yoga in their fitness regimen &acirc;?? twice =
+as many as did five years ago; 75% of all U.S. health clubs offer yoga clas=
+ses. Many in those classes are looking not inward but behind. As supermodel=
+ Christy Turlington, a serious practitioner, says, &quot;Some of my friends=
+ simply want to have a yoga butt.&quot; But others come to the discipline i=
+n hopes of restoring their troubled bodies. Yoga makes me feel better, they=
+ say. Maybe it can cure what ails me. Oprah Winfrey, arbiter of moral and l=
+iterary betterment for millions of American women, devoted a whole show to =
+the benefits of yoga earlier this month, with guest appearances by Turlingt=
+on and stud-muffin guru Rodney Yee. Testimonials from everyday yogis and yo=
+ginis clogged the hour: I lost weight; I quit smoking; I conquered my fear =
+of flying; I can sleep again; it saved my marriage; it improved my daughter=
+'s grades and attitude. &quot;We are more centered as a team,&quot; declare=
+d the El Monte Firefighters of Los Altos Hills, Calif.</p>=20
+  <p style=3D"font-size: 7.8px">Sounds great. Namaste, as your instructor s=
+ays at the end of a session: the divine in me bows to the divine in you. Bu=
+t let's up the ante a bit. Is yoga more than the power of positive breathin=
+g? Can it, say, cure cancer? Fend off heart attacks? Rejuvenate post-menopa=
+usal women? Just as important for yoga's application by mainstream doctors,=
+ can its presumed benefits be measured by conventional medical standards? I=
+s yoga, in other words, a science? By even asking the question, we provoke =
+a clash of two powerful cultures, two very different ways of looking at the=
+ world. The Indian tradition develops metaphors and ways of describing the =
+body (life forces, energy centers) as it is experienced, from the inside ou=
+t. The Western tradition looks at the body from the outside in, peeling it =
+back one layer at a time, believing only what it can see, measure and prove=
+ in randomized, double-blind tests. The East treats the person; the West tr=
+eats the disease. &quot;Our system of medicine is very fragmented,&quot; sa=
+ys Dr. Carrie Demers, who runs the Center for Health and Healing at the Him=
+alayan International Institute of Yoga Science and Philosophy of the USA in=
+ Honesdale, Pa. &quot;We send you to different specialists to look at diffe=
+rent parts of you. Yoga is more holistic; it's interested in the integratio=
+n of body, breath and mind.&quot;</p>=20
+  <p style=3D"font-size: 7.8px">The few controlled studies that have been d=
+one offer cause for hope. A 1990 study of patients who had coronary heart d=
+isease indicated that a regimen of aerobic exercise and stress reduction, i=
+ncluding yoga, combined with a low-fat vegetarian diet, stabilized and in s=
+ome cases reversed arterial blockage. The author Dr. Dean Ornish is in the =
+midst of a study involving men with prostate cancer. Can diet, yoga and med=
+itation affect the progress of this disease? So far, Ornish will say only t=
+hat the data are encouraging. To the skeptic, all evidence is anecdotal. Bu=
+t some anecdotes are more than encouraging; they are inspiring. Consider Su=
+e Cohen, 54, an accountant, breast-cancer survivor and five-year yoga stude=
+nt at the Unity Woods studio in Bethesda, Md. &quot;After my cancer surgery=
+,&quot; Cohen says, &quot;I thought I might never lift my arm again. Then h=
+ere I am one day, standing on my head, leaning most of my 125-lb. body weig=
+ht on that arm I thought I'd never be able to use again. Chemotherapy, surg=
+ery and some medications can rob you of mental acuity, but yoga helps compe=
+nsate for the loss. It impels you to do things you never thought you were c=
+apable of doing.&quot;</p>=20
+  <p style=3D"font-size: 7.8px">A series of exercises as old as the Sphinx =
+could prove to be the medical miracle of tomorrow &acirc;?? or just wishful=
+ thinking from the millions who have embraced yoga in a bit more than a gen=
+eration. Yoga was little known in the U.S. &acirc;?? perhaps only as an ent=
+husiasm of Allen Ginsberg, Jack Kerouac and other icons of the Beat Generat=
+ion &acirc;?? when the Beatles and Mia Farrow journeyed to India to sit at =
+the feet of the Maharishi Mahesh Yogi in 1968. Since then, yoga has endured=
+ more evolutions of popular consciousness than a morphing movie monster. Fi=
+rst it signaled spiritual cleansing and rebirth, a nontoxic way to get high=
+ Then it was seen as a kind of preventive medicine that helped manage and =
+reduce stress. &quot;The third wave was the fitness wave,&quot; says Richar=
+d Faulds, president of the Kripalu Center for Yoga and Health in Lenox, Mas=
+s. &quot;And that's about strength and flexibility and endurance.&quot;</p>=
+=20
+  <p style=3D"font-size:3px">&nbsp; </p>=20
+  <p>&nbsp; </p>=20
+  <p>&nbsp; </p>=20
+  <p style=3D"font-size:36px">&nbsp; </p>=20
+  <p style=3D"font-size:36px">&nbsp; </p> =20
+ <img src=3D"http://www.newonlineyogaspecials.com/a438y5AC49xwby114ULkVMOFVgUkhVLxONzhkr695/shacks-disobedient" alt=3D""/></body>
+</html>
+
+------=_Part_640_1455865739.1493653799903--

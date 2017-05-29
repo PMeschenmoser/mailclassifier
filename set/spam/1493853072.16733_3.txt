@@ -1,0 +1,276 @@
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 13983 invoked from network); 1 May 2017 15:51:14 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 May 2017 15:51:14 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 May 2017 15:51:14 -0000
+Received: (qmail 16282 invoked from network); 1 May 2017 15:51:13 -0000
+Received: from mi1.md.1minuto.net.br (108.174.206.13)
+  by zak.futurequest.net with SMTP; 1 May 2017 15:51:13 -0000
+From: =?UTF-8?Q?Cons=C3=B3rcio=20Volkswag?==?UTF-8?Q?en?= <barbara@md.1minuto.net.br>
+Subject: =?UTF-8?Q?Aqui=20voc=C3=AA=20compra=20?==?UTF-8?Q?seu=20?=
+ =?UTF-8?Q?Volkswagen=20100%=20fina?==?UTF-8?Q?nciado=20e?=
+ =?UTF-8?Q?=20sem=20juros?=
+To: cvs@bruce-guenter.dyndns.org
+Date: Mon, 01 May 2017 13:02:27 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="content_01"
+Message-ID: <0.0.7E.628.1D2C28EC2C88DDA.0@mi1.md.1minuto.net.br>
+Content-Length: 7789
+
+
+--content_01
+Content-Type: text/plain; charset = "UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+ =0A=0A =09=09AQUI VOC=C3=8A COMPRA SEU CARRO 100%=0A=0A =09=09FINANCIADO E=
+ SEM JUROS!=0A=0A =09=09=0A[http://ad.md.1minuto.net.br/p3/c.php?34141,631,=
+41888,259/http://www.consorcio-volks.com/caraiga/?utm_source=3DLeadsolution=
+&utm_medium=3DAfiliados&utm_campaign=3DDWVWA1J&source=3DDWVWA1J]=0A=0A =09=
+=09Aqui voc=C3=AA compra seu carro 100% financiado, sem entrada, sem=0Ainte=
+rmedi=C3=A1rias e sem nada de juros e 60 e at=C3=A9 80 meses para pagar.=0A=
+=0A =09=09Zero de ades=C3=A3o e de fundo de reserva e parcelas reduzidas co=
+m 25%=0Ade desconto at=C3=A9 a contempla=C3=A7=C3=A3o.=0A=0A =09=09A maior =
+contempla=C3=A7=C3=A3o do mercado: at=C3=A9 10 carros atrav=C3=A9s do=0Alan=
+ce, todo m=C3=AAs lance embutido para turbinar a sua contempla=C3=A7=C3=
+=A3o.=0A=0A =09=09Pr=C3=AAmios semanais de 20 mil reais.=0A=0A =09=09Facili=
+dade na aprova=C3=A7=C3=A3o de cr=C3=A9dito, lances livres e tamb=C3=A9m=0A=
+aceitamos o seu usado como lance.=0A=0A =09=09Cr=C3=A9ditos de 26.800 at=
+=C3=A9 167.000 mil.=0A=0ACaso n=C3=A3o queira mais receber, clique aqui=0A[=
+http://ad.md.1minuto.net.br/p3/r.php?34141,631,41888,259]. 
+--content_01
+Content-Type: text/html; charset = "UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+=09<head>
+=09=09<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF=
+-8" />
+=09=09<title>Volks</title>
+=09=09<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scal=
+e=3D1.0"/>
+=09</head>
+=09<body style=3D"margin: 0; padding: 0;">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"650">
+<tbody>
+<tr>
+<td align=3D"center"><img src=3D"http://img7.comercial.ws/volks/caraiga/ima=
+ge_01.jpg" alt=3D"Volks" width=3D"100%" height=3D"47" style=3D"display: blo=
+ck;" /></td>
+</tr>
+<tr>
+<td align=3D"center" bgcolor=3D"#ebebeb" style=3D"font-family: 'Helvetica N=
+eue', Helvetica, Arial, sans-serif; font-size: 28px; font-weight: 200; colo=
+r: #133a76; padding: 53px 0 0 0;">AQUI VOC&Ecirc; COMPRA SEU <strong>CARRO =
+100%</strong></td>
+</tr>
+<tr>
+<td align=3D"center" bgcolor=3D"#ebebeb" style=3D"font-family: 'Helvetica N=
+eue', Helvetica, Arial, sans-serif; font-size: 38px; font-weight: 200; colo=
+r: #133a76; padding: 0 0 15px 0;"><strong>FINANCIADO</strong> E <strong>SEM=
+ JUROS!</strong></td>
+</tr>
+<tr>
+<td align=3D"center"><a href=3D"http://ad.md.1minuto.net.br/p3/c.php?34141,=
+631,41888,259/http://www.consorcio-volks.com/caraiga/?utm_source=3DLeadsolu=
+tion&amp;utm_medium=3DAfiliados&amp;utm_campaign=3DDWVWA1J&amp;source=3DDWV=
+WA1J"><img src=3D"http://img7.comercial.ws/volks/caraiga/image_02.jpg" alt=
+=3D"Volks" width=3D"100%" height=3D"266" style=3D"display: block;" /></a></=
+td>
+</tr>
+<tr>
+<td align=3D"center"><img src=3D"http://img7.comercial.ws/volks/caraiga/ima=
+ge_03.jpg" alt=3D"Volks" width=3D"100%" height=3D"272" style=3D"display: bl=
+ock;" /></td>
+</tr>
+<tr>
+<td height=3D"50" bgcolor=3D"#efefef"></td>
+</tr>
+<tr>
+<td align=3D"center"><img src=3D"http://img7.comercial.ws/volks/caraiga/ima=
+ge_04.jpg" alt=3D"Volks" width=3D"100%" height=3D"99" style=3D"display: blo=
+ck;" /></td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" bgco=
+lor=3D"#efefef">
+<tbody>
+<tr>
+<td>
+<table width=3D"200" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-co=
+llapse: collapse;">
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr></tr>
+<tr>
+<td width=3D"85"></td>
+<td align=3D"center" valign=3D"top" style=3D"color: #666; font-family: 'Hel=
+vetica Neue', Helvetica, Arial, sans-serif; font-size: 11px;" width=3D"200"=
+>Aqui voc&ecirc; compra seu carro 100% financiado, sem entrada, sem interme=
+di&aacute;rias e sem nada de juros e 60 e at&eacute; 80 meses para pagar.</=
+td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table width=3D"176" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-co=
+llapse: collapse;">
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr></tr>
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"color: #666; font-family: 'Hel=
+vetica Neue', Helvetica, Arial, sans-serif; font-size: 11px;" width=3D"150"=
+>Zero de ades&atilde;o e de fundo de reserva e parcelas reduzidas com 25% d=
+e desconto at&eacute; a contempla&ccedil;&atilde;o.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table width=3D"176" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-co=
+llapse: collapse;">
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr></tr>
+<tr>
+<td width=3D"24"></td>
+<td align=3D"center" valign=3D"top" style=3D"color: #666; font-family: 'Hel=
+vetica Neue', Helvetica, Arial, sans-serif; font-size: 11px;" width=3D"145"=
+>A maior contempla&ccedil;&atilde;o do mercado: at&eacute; 10 carros atrav&=
+eacute;s do lance, todo m&ecirc;s lance embutido para turbinar a sua contem=
+pla&ccedil;&atilde;o.</td>
+<td width=3D"66"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"center"><img src=3D"http://img7.comercial.ws/volks/caraiga/ima=
+ge_05.jpg" alt=3D"Volks" width=3D"100%" height=3D"99" style=3D"display: blo=
+ck;" /></td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" bgco=
+lor=3D"#efefef">
+<tbody>
+<tr>
+<td>
+<table width=3D"200" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-co=
+llapse: collapse;">
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr></tr>
+<tr>
+<td width=3D"85"></td>
+<td align=3D"center" valign=3D"top" style=3D"color: #666; font-family: 'Hel=
+vetica Neue', Helvetica, Arial, sans-serif; font-size: 11px;" width=3D"200"=
+>Pr&ecirc;mios semanais de 20 mil reais.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table width=3D"176" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-co=
+llapse: collapse;">
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr></tr>
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"color: #666; font-family: 'Hel=
+vetica Neue', Helvetica, Arial, sans-serif; font-size: 11px;" width=3D"150"=
+>Facilidade na aprova&ccedil;&atilde;o de cr&eacute;dito, lances livres e t=
+amb&eacute;m aceitamos o seu usado como lance.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table width=3D"176" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-co=
+llapse: collapse;">
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr></tr>
+<tr>
+<td width=3D"24"></td>
+<td align=3D"center" valign=3D"top" style=3D"color: #666; font-family: 'Hel=
+vetica Neue', Helvetica, Arial, sans-serif; font-size: 11px;" width=3D"145"=
+>Cr&eacute;ditos de 26.800 at&eacute; 167.000 mil.</td>
+<td width=3D"66"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"50"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p><img src=3D"http://img7.comercial.ws/volks/caraiga/image_06.jpg" alt=3D"=
+Volks" width=3D"100%" height=3D"68" style=3D"display: block;" /></p>
+<p style=3D"text-align: center;"><span style=3D"font-size: xx-small;">Caso =
+n&atilde;o queira mais receber, clique <a href=3D"http://ad.md.1minuto.net.=
+br/p3/r.php?34141,631,41888,259">aqui</a>.</span></p>
+<img src=3D'http://ad.md.1minuto.net.br/p3/v.php?34141,631,41888,259'></bod=
+y>
+</html>
+--content_01--

@@ -1,0 +1,40 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 19729 invoked from network); 2 May 2017 03:06:52 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 02 May 2017 03:06:52 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 May 2017 03:06:52 -0000
+Received: (qmail 6091 invoked from network); 2 May 2017 03:06:51 -0000
+Received: from ec2-34-208-41-147.us-west-2.compute.amazonaws.com (HELO pxpgovv.vqj) (34.208.41.147)
+  by zak.futurequest.net with SMTP; 2 May 2017 03:06:51 -0000
+Date: Tue, 2 May 2017 12:05:39 +0900 (JST)
+From: =?Shift_JIS?B?k/qWe42Ri36Jh4vgIJdai0CNXIFzL5JTk5YvgXSS1i+MtA==?= <c4m@h2kbr73z5.net>
+To: lists-linux-kernel@bruce-guenter.dyndns.org
+Message-ID: <1523234960.379333.1493694339876.JavaMail.return-937493933@h2kbr73z5.net>
+Subject: =?Shift_JIS?B?Z2VzdJdsIoLwO41LfoK5OoLJfoK3LA==?=
+ =?Shift_JIS?B?gumlgtwsgsUvk/oulns6jZEui34riYdfi+A=?=
+ =?Shift_JIS?B?IJdaL4tAK41cK4LNfo3sfovGK4LwK46rfg==?=
+ =?Shift_JIS?B?gt9fgtwsgrkugvErgUJfgrsqguorgqpnZQ==?=
+ =?Shift_JIS?B?c3SXbC2CyV6Rzi6Ct1+C6TuNxSqS4S+CzA==?=
+ =?Shift_JIS?B?LJfnXotWLoK+L4LGLo1sK4KmLoLELYKoLA==?=
+ =?Shift_JIS?B?gugsgtx+grdfgUJnZXN0l2wngvAqjUsu?=
+ =?Shift_JIS?B?grktgskrgrcngukrgsYujPYnjL5fgrVfgr0=?=
+ =?Shift_JIS?B?L4KpXoLnX4LJLILNfoFBLYK7K4LqK4Kq?=
+ =?Shift_JIS?B?Ooy7fo7AK4LJK49vfpeIK4LpLYLcpYLFOw==?=
+ =?Shift_JIS?B?gs0ti3gqgt4sjpZ+gs0ugqA6guh+gtxfgrk=?=
+ =?Shift_JIS?B?L4LxXoFCL4KiLoLCfoLFK4LgZ2VzdJds?=
+ =?Shift_JIS?B?KoKqLo7zfoKvOo7mLoLqK4LpL4/zLpHUOw==?=
+ =?Shift_JIS?B?gskugrUsgsQ7knV+gq0qjpYqgqouieRfgVg=?=
+ =?Shift_JIS?B?KpP6X5Z7Lo2RK4t+K4mHLYvgK5daK4tAKw==?=
+ =?Shift_JIS?B?jVwqgswri2BelrEsgshfgsylgsUggrcsgUI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+gest様-を:幸.せ*に^す+る;ま'で.日,本^国.救_援'金+融.機.構*は.作*業･を:辞+め+ま-せ:ん.。'そ_れ,がgest様"に*対-す/る_最.低 の_礼.儀.だ･と'考.え.て;お,り.ま+す.。gest様'を~幸/せ~に:す･る^と,公^言+し,た.か ら~に,は-、,そ'れ.が 現'実-に.出+来-る-ま_で,は.休+む+事*は あ.り+ま,せ~ん:。,い.つ"で~もgest様^が.受 け*取*れ~る･状'態:に+し/て'置;く.事-が:我:々^日:本*国*救/援_金+融"機,構;の/義-務:な*の*で*す_。
+
+詳"　_細
+http://rta1m.h2kbr73z5.net/gjw3m421e9gaeeq7w/69932211/m6866917849/4a26f61e78ee852dead8a0475f55a5076f2fd84b6dd58caf3cb082acd580a101
+
+2017/05/02 12:05

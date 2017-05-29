@@ -1,0 +1,69 @@
+Delivered-To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Received: (qmail 4515 invoked from network); 1 May 2017 19:01:28 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 May 2017 19:01:28 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 May 2017 19:01:28 -0000
+Received: (qmail 20780 invoked from network); 1 May 2017 19:01:27 -0000
+Received: from static-ip-130-195-113-114.firstcloudone.com (HELO re27.leadw.link) (114.113.195.130)
+  by zak.futurequest.net with SMTP; 1 May 2017 19:01:27 -0000
+Received: from gaind5.win (static-ip.137.54.244.103.rev.i4hk.com [103.244.54.137])
+	by re27.leadw.link (Postfix) with ESMTP id CABCF21328
+	for <lists-reiserfs-list@bruce-guenter.dyndns.org>; Tue,  2 May 2017 04:01:25 +0900 (JST)
+From: =?iso-2022-jp?B?SkEbJEIhJhsoQkNLUxskQj8uTVE+cEpzNEkbKEI=?= =?iso-2022-jp?B?GyRCTX1ETENOJTslcyU/ITwhIUM0RXZMWkI8GyhC?= <info@gaind5.win>
+To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Message-ID: <1318886180.12245663.1493665285831.JavaMail.info@outhor4.xyz>
+Subject: =?ISO-2022-JP?B?GyRCMT8xRDg1JE5DNEV2Sls4bjtOJGgkajc6O3Y5cEFKJHIkNxsoQg==?=
+ =?ISO-2022-JP?B?GyRCJD8kSCROJDMkSCRHJDkhIztqNV4kNDNORycyPCQ1JCQhIxsoQg==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+下記ご案内に、救済措置が記載しておりますので、諦めずに必ずご連絡下さい。 
+
+運営元の担当弁護士より刑事告訴をしたとのことです。至急ご確認下さい。現在、お客様においては、以前登録されました情報サイトにて、月額の利用料金が未払い状態となり、クレジット情報並びに、各金融機関において滞納者として登録されており、このまま放置されますと、各信用情報機関において、ブラックリスト登録となります。 
+
+ブラックリスト登録になりますと、クレジットカードを所有することができないばかりか、各金融機関にて口座凍結、携帯電話の利用停止等、不利益な状況となります。 
+
+尚、登録されております情報サイトの運営元は、既に訴訟を提訴しておりますので、至急ご確認し、ご対応されますようお願いします。 
+
+※未払い情報記録※ 
+請求金額【1,098,560円】 
+（滞納管理費等の支払いを求めることができる運営会社が現在請求権を持っております。民事訴訟法110条） 
+
+指定期限：本通知閲覧後24時間以内 
+
+※現時点において、信用情報機関に滞納者情報として記録されております。 
+このまま放置をされる場合、銀行口座、携帯電話の利用、行政機関における全てのサービスの利用ができなくなる恐れがあります。 
+
+ご入金なき場合は、貴殿の利益を喪失させ身元調査により得られた貴殿に関する情報をインターネット上に開示した上で、損害賠償請求実行、並びに詐欺罪等の法的手続きを取りますので念の為に申し添えします。 
+
+※重要※ 
+期限の利益を喪失する原因がある場合、債務者の信用状態は悪化しているのが通常です。早めに保全の処置を取ることが必要です。 
+その第一段階として、期限の利益喪失による一括弁済の催告を内容証明でおこなうのです。内容証明でおこなうことで、裁判での確実な証拠となります。 
+
+--未払い情報削除方法はこちら-- 
+↓↓↓ 
+▼未払い情報削除について▼ 
+継続利用の意志がない場合、登録されております情報サイトの登録情報削除申請を行うことで、上記記載支払いを逃れる事が可能となります。 
+登録情報削除申請を行うことで、退会処理手続きを行うことができ、未払いによる滞納金【1,098,560円】が、全額免除になります。 
+
+■退会処理方法■ 
+本通知の本文に［登録情報削除申請］と記載し、そのままご返信下さい。 
+登録情報削除申請は、本通知閲覧後24時間以内に必ず行って下さい。 
+
+退会処理手続きが終わりましたら、現時点において発生してる滞納金が全額免除になり、登録情報等を完全に抹消致します。 
+
+【IP情報及び機器情報】 
+貴殿の閲覧日時、使用機器アクセス元等の情報を記録します。 
+IP　Address：****.***.***.*** 
+［警告］ 
+本通知を確認したのにもかかわらず放置した場合は、法的措置を行います。 
+
+※お問い合わせについて※ 
+電話による問い合わせはしておりません。 
+メールにて問い合わせをして頂けますようお願いします。
+
+
+

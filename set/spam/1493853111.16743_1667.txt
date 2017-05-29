@@ -1,0 +1,100 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 13122 invoked from network); 02 May 2017 21:11:08 -0000
+Received: from mx07.futurequest.net (mx07.futurequest.net [69.5.6.178])
+  by 10.170.1.196 ([10.170.1.196])
+  with FQDP via TCP; 02 May 2017 21:11:08 -0000
+Received: (qmail 32673 invoked from network); 2 May 2017 21:11:08 -0000
+Received: from mail.theskinforreal.com (198-1-88-98.unifiedlayer.com [198.1.88.98])
+  by mx07.futurequest.net ([69.5.6.178])
+  with ESMTP via TCP; 02 May 2017 21:11:08 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=theskinforreal.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=grace_pierce@theskinforreal.com;
+ bh=YPJVE31x0VJVbRZQaNaTE71giEo=;
+ b=Zi6Lja7UYhalLxt/DGIwsearBomeaTPTeZwobtNWesFwAKbLF0TXwgmpr/GjLFuYLHuK7dgndRdY
+   5MbZFXn4y0HY8jepylD7E97KH9wqIvvX7B8het4bsn1zaJz4fYcFQb+P+qPHc20ocIwUwFWE5EHm
+   GaSX7nK8r2XT/VweQUM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=theskinforreal.com;
+ b=iEvr0HDC3wZB4lkSDUeCo0twFbT6ppiO1O0FkL4ihwmzN0ZEP5bjSsvvr/8krRnyPqT7c7FMs6B1
+   MDObmk3JPDLYLnZrYhGY1i3RUpd/sY5t+cos2p5uP8liuiL7IlHoEfhDqd7NX6kwf3Pt7lVS29Hz
+   cxfylwDsKgJMjSwBQZY=;
+Received: by mail.theskinforreal.com id h13qjk0001gv for <bruce@untroubled.org>; Tue, 2 May 2017 17:00:46 -0400 (envelope-from <grace_pierce-bruce=untroubled.org@theskinforreal.com>)
+Date: Tue, 2 May 2017 17:00:46 -0400
+From: "Grace Pierce" <grace_pierce@theskinforreal.com>
+To:   <bruce@untroubled.org>
+Subject: Ellen goes on air and resigns from her show Tuesday:
+ 92145159
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_115_61127712.1493759017831"
+List-Unsubscribe: <http://www.theskinforreal.com/f2fq8w9uv1q1yN284DLkVMOFVgUkhVLxONzhkrd25/Ethiopia-stings>
+Message-ID: <0.0.0.C.1D2C3872BBBC62E.8DF782@mail.theskinforreal.com>
+
+------=_Part_115_61127712.1493759017831
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+  <title>FIRST CHOICE</title> 
+ </head> 
+ <body> 
+  <span style="width: 530px; background-color: #000; display: block; text-align: center; height: 500px"> 
+   <center> 
+    <div style="background-color: #fff; font-family: Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana,' sans-serif'; font-weight: 900; padding: 7px; width: 90%; margin: 7px; font-size: 39px; border-bottom: double 5px #C44D4F; border-top:  double 5px #C44D4F">
+     Ellen Resigns Right On Air
+    </div>
+   </center> <img width="100%" src="http://www.theskinforreal.com/pictured-Holst/a447ralddcNN284TLkVMOFVgUkhVLxONzhkr5Fd" alt="" /> 
+   <blockquote style="background-color: #fff; margin: 10px; position: relative; top: -150px; font-family:Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana,' sans-serif'; padding: 12px; border: solid 6px "> 
+    <div align="left">
+      Audience members were stunned 
+     <a href="http://www.theskinforreal.com/6a18_U6ydd9j284mLkVMOFVgUkhVLxONzhkr5c1/quicksilver-profess" style="color: #26AEEE"><strong>when she announced this</strong></a> 
+     <br />
+     <br /> 
+     <big><big><strong>Whats going on?</strong></big></big>
+     <br /> Executives have had enough 
+     <a href="http://www.theskinforreal.com/6a18_U6ydd9j284mLkVMOFVgUkhVLxONzhkr5c1/quicksilver-profess" style="color:#26AEEE; "><b>and forced her out</b></a> 
+     <br />
+     <br /> 
+     <a href="http://www.theskinforreal.com/6a18_U6ydd9j284mLkVMOFVgUkhVLxONzhkr5c1/quicksilver-profess" style="background-color: #C44D4F; display: block; padding: 7px; text-align: center; font-weight: 900; text-decoration: none; color: #fff; font-size: 34px">Look what happened &gt;&gt;</a> 
+    </div> 
+   </blockquote> </span> 
+  <p>&nbsp; </p> 
+  <p>&nbsp; </p> 
+  <p>&nbsp; </p> 
+  <p>&nbsp; </p> 
+  <p>&nbsp; </p> 
+  <table style="font-family:arial; margin-top: 150px; font-size: small" width="525" border="0" cellspacing="0" cellpadding="0"> 
+   <tbody> 
+    <tr> 
+     <td><a href="http://www.theskinforreal.com/steamship-vegetable/b52s8K6tddaU284lLkVMOFVgUkhVLxONzhkrec7" style="color: #333">Submitting your preference on this site</a> will certify your dismissal from our group of friends <br /> <br /><br />You have just been sent an-ad <br /><br /><br /> Expel your information from our database by <a style="color: #333" href="http://www.theskinforreal.com/4a389pW_zdQdbW284DLkVMOFVgUkhVLxONzhkr389/quicksilver-profess">submitting your name here</a><br /> Rodriquez Neiland _ 1225 Descanso St San Luis Obispo Ca . 93405-4801</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: justify; color: #f4f4f4"> <br /><br /><br /><br /> 
+      <blockquote>
+       was not on the fields of Germany that the greatest disasters happened; the French were rifled of their possessions both in America and in India. Louisbourg yielded to the bravery of New England troops, and finally Canada itself was lost. All dreams of establishing a new empire on the Mississippi and the Gulf of St. Lawrence vanished for ever, while Madras and Calcutta fell into the hands of the English, with all the riches of Mahometan and
+      </blockquote> 
+      <blockquote>
+       overturned the throne of his grandson, Louis XVI. And Louis XV. was not only the author of new calamities, but the heir of seventy years misrule. All the evils which resulted from the wars and wasteful extravagance of Louis XIV. became additional perplexities with which he had to contend. But these evils, instead of removing, he only aggravated by follies which surpassed
+      </blockquote> 
+      <blockquote>
+       Mmoires de Vilette; Lettres de Madame de Svign; Mmoires de Mademoiselle de Montpensier; Mmoires de Catinat; Life, by James. LOUIS XV. A. D. 17101774.  It is impossible to contemplate the inglorious reign of Louis XV. otherwise than as a more complete development of the egotism which marked the life of his immediate predecessor, and a still more fruitful nursery of those vices
+      </blockquote> 
+      <blockquote>
+       and discontents which prepared the way for the French Revolution. It is in fact in connection with that great event that this reign should be considered. The fabric of despotism had already been built by Richelieu, and Louis XIV. had displayed and gloried in its dazzling magnificence, even while he undermined its foundations by his ruinous wars and courtly
+      </blockquote> 
+      <blockquote>
+       present as a necessary link in the political history of the eighteenth century, rather than as one of the Beacon Lights of civilization,we first naturally turn our eyes to the leading external events by which it is marked in history; and we have to observe, in reference to these, that they were generally unpropitious to the greatness and glory of France, Nearly all those which emanated from the government had an unfortunate or disgraceful issue. No success attended the French arms in any quarter of the world, with
+      </blockquote> 
+      <blockquote>
+       the exception of the victories of Marshal Saxe at Fontenoy (1745); and the French lost the reputation they had previously acquired under Henry IV., Cond, Turenne, and Luxembourg. Disgrace attended the generals who were sent against Frederic II., in the Seven Years War, even greater than what had previously resulted from the contests with the English and the Dutch, and which were brought to a close by the peace of AixlaChapelle, in 1748. But it
+      </blockquote> </td> 
+    </tr> 
+   </tbody> 
+  </table>   
+ <img src="http://www.theskinforreal.com/quicksilver-profess/2c48F5FVdddn284MLkVMOFVgUkhVLxONzhkr765" alt=""/></body>
+</html>
+
+------=_Part_115_61127712.1493759017831--
+

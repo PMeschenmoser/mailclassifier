@@ -1,0 +1,75 @@
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 4902 invoked from network); 28 Apr 2017 07:54:08 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Apr 2017 07:54:08 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Apr 2017 07:54:08 -0000
+Received: (qmail 19889 invoked from network); 28 Apr 2017 07:54:07 -0000
+Received: from unknown (HELO services.ibusiness.co.th) (203.147.34.197)
+  by zak.futurequest.net with SMTP; 28 Apr 2017 07:54:07 -0000
+Received: from 109-101-7-191.grvtelecom.com.br ([191.7.101.109] helo=[127.0.0.1])
+	by services.ibusiness.co.th with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80.1)
+	(envelope-from <ccw@lpngroup.co.th>)
+	id 1d3pcu-000Anc-J0
+	for rait@bruce-guenter.dyndns.org; Fri, 28 Apr 2017 03:02:57 +0700
+From: ccw@lpngroup.co.th
+To: rait@bruce-guenter.dyndns.org
+Subject: Understand the formula behind the world's greatest weight loss aid
+ pill
+Message-ID: <39F323EA.9ECA74342B05E9E4@lpngroup.co.th>
+X-Priority: 3
+Importance: Normal
+Date: Fri, 28 Apr 2017 06:03:21 +0200
+Content-Type: multipart/alternative;
+ boundary="--InfrawareEmailBoundaryDepth1_F6DEB658--"
+MIME-Version: 1.0
+X-Mailer: Infraware POLARIS Mobile Mailer v2.5
+
+This is a multi-part message in MIME format
+
+----InfrawareEmailBoundaryDepth1_F6DEB658--
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+DQpXaXRoIHNvIG1hbnkgZGlmZmVyZW50IGRpZXQgc3VwcGxlbWVudHMgb24gdGhlIG1hcmtldCwg
+b3VycyBpcyB0aGUgdmVyeSBmaXJzdCBvbmUgdG8gdXNlIG9ubHkgdGhlIHByZW1pdW0gcXVhbGl0
+eSBjb21wb25lbnRzLg0KSW4gb3JkZXIgdG8gZ2V0IHRoZSBncmVhdGVzdCBjb25jZWl2YWJsZSBy
+ZXN1bHRzLCB5b3Ugc2hvdWxkIHRha2Ugb25lIHRvIHR3byB0YWJzIGluIHRoZSBtb3JuaW5nIGFm
+dGVyIGZvb2QsIGV2ZXJ5IHNpbmdsZSBkYXkgZm9yIHNldmVuIHdlZWtzIHN0cmFpZ2h0Lg0KVGhl
+IGZvcm11bGEgYmFja2luZyB0aGlzIGRpZXQgcGlsbCBpcyB1bmNvbXBsaWNhdGVkOg0K4oCiCUNv
+bnRhaW5zIGNhZmZlaW5lIOKAkyBoZWxwcyB5b3UgZmVlbCB0aXJlbGVzcyB0aHJvdWdob3V0IHRo
+ZSB3aG9sZSBkYXk7DQrigKIJQ29udGFpbnMgZ3JlZW4gdGVhIOKAkyBoZWxwcyB5b3UgbG9zZSB0
+aGUgZXh0cmEgd2VpZ2h0Ow0K4oCiCUNvbnRhaW5zIGd1YXJhbmEgYW5kIGNhcm5pdGluZSDigJMg
+dG8gaGVscCB5b3UgZmVlbCBmdWxsIGFuZCBpbmNyZWFzZSB5b3VyIGJvZHkncyBuYXR1cmFsIHdl
+aWdodCBsb3NzIG1lY2hhbmlzbS4NCmh0dHA6Ly90aGVzaHVsY2x1Ym9maGFyYm9yaXNsYW5kcy5j
+b20vd3AtY29udGVudC91cGxvYWRzLzIwMTcvcG9wdXBfY2F0ZWdvcnlfbGlzdGEucGhwP2NtRnBk
+RUJpY25WalpTMW5kV1Z1ZEdWeUxtUjVibVJ1Y3k1dmNtYz0NCg==
+
+----InfrawareEmailBoundaryDepth1_F6DEB658--
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PEJPRFk+PERJVj4NCjxQPldpdGggc28gbWFueSBkaWZmZXJlbnQgZGlldCBzdXBwbGVtZW50cyBv
+biB0aGUgbWFya2V0LCBvdXJzIGlzIHRoZSB2ZXJ5IGZpcnN0IG9uZSB0byB1c2Ugb25seSB0aGUg
+cHJlbWl1bSBxdWFsaXR5IGNvbXBvbmVudHMuPC9QPg0KPFA+SW4gb3JkZXIgdG8gZ2V0IHRoZSBn
+cmVhdGVzdCBjb25jZWl2YWJsZSByZXN1bHRzLCB5b3Ugc2hvdWxkIHRha2Ugb25lIHRvIHR3byB0
+YWJzIGluIHRoZSBtb3JuaW5nIGFmdGVyIGZvb2QsIGV2ZXJ5IHNpbmdsZSBkYXkgZm9yIHNldmVu
+IHdlZWtzIHN0cmFpZ2h0LjwvUD4NCjxQPlRoZSBmb3JtdWxhIGJhY2tpbmcgdGhpcyBkaWV0IHBp
+bGwgaXMgdW5jb21wbGljYXRlZDogPC9QPg0KPFA+4oCiCUNvbnRhaW5zIGNhZmZlaW5lIOKAkyBo
+ZWxwcyB5b3UgZmVlbCB0aXJlbGVzcyB0aHJvdWdob3V0IHRoZSB3aG9sZSBkYXk7PC9QPg0KPFA+
+4oCiCUNvbnRhaW5zIGdyZWVuIHRlYSDigJMgaGVscHMgeW91IGxvc2UgdGhlIGV4dHJhIHdlaWdo
+dDs8L1A+DQo8UD7igKIJQ29udGFpbnMgZ3VhcmFuYSBhbmQgY2Fybml0aW5lIOKAkyB0byBoZWxw
+IHlvdSBmZWVsIGZ1bGwgYW5kIGluY3JlYXNlIHlvdXIgYm9keSdzIG5hdHVyYWwgd2VpZ2h0IGxv
+c3MgbWVjaGFuaXNtLjwvUD4NCjxQPjxBIGhyZWY9Imh0dHA6Ly90aGVzaHVsY2x1Ym9maGFyYm9y
+aXNsYW5kcy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTcvcG9wdXBfY2F0ZWdvcnlfbGlzdGEu
+cGhwP2NtRnBkRUJpY25WalpTMW5kV1Z1ZEdWeUxtUjVibVJ1Y3k1dmNtYz0iPiBmb2xsb3cgdGhl
+IGxpbmsgdG8gcmVhZCBtb3JlIGluZm8gYWJvdXQgb3VyIHdlaWdodCBsb3NzIHNvbHV0aW9uIGFu
+ZCBnZXQgYSBuaWNlIGRpc2NvdW50LjwvQT48L1A+DQo8UD48SU1HIHNyYz0iaHR0cDovL3RoZXNo
+dWxjbHVib2ZoYXJib3Jpc2xhbmRzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNy9wb3B1cF9j
+YXRlZ29yeV9saXN0YS5waHA/WTIxR2NHUkZRbWxqYmxacVdsTXhibVJYVm5Wa1IxWjVURzFTTldK
+dFVuVmplVFYyWTIxalBRPT0iIHdpZHRoPTEgaGVpZ2h0PTE+PC9QPg0KPC9ESVY+PC9CT0RZPg0K
+
+----InfrawareEmailBoundaryDepth1_F6DEB658----
+

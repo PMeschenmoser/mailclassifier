@@ -1,0 +1,46 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 29041 invoked from network); 01 May 2017 21:40:48 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by 10.170.1.183 ([10.170.1.183])
+  with FQDP via TCP; 01 May 2017 21:40:48 -0000
+Received: (qmail 24348 invoked from network); 1 May 2017 21:40:48 -0000
+Received: from monument.coralge.us ([193.106.28.40])
+  by mx02.futurequest.net ([69.5.6.172])
+  with ESMTP via TCP; 01 May 2017 21:40:48 -0000
+Date: Mon, 01 May 2017 14:19:48 -0700
+Content-Type: multipart/alternative; boundary="21002928_9595307_21002928"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Predator In Your Neighborhood?
+To: <bruce@untroubled.org>
+From: RegisteredOffenderList-KidsLiveSafe <RegisteredOffenderList-KidsLiveSafe@monument.coralge.us>
+Message-ID: <f8f706c3938feec43d1f111ad3c0a047.21002928.9595307@monument.coralge.us>
+
+
+--21002928_9595307_21002928
+Content-Type: text/plain
+
+All Parents Should Know This View Important Details Here> http://viewhere.coralge.us/e/21002928  
+
+-f8f706c3938feec43d1f111ad3c0a047
+
+--21002928_9595307_21002928
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script>if(top==window)var layer8NameSpace="layer8ns";"undefined"==typeof window&&(window=),window.layer8Loader=function()function e(e)return"undefined"!=typeof e&&null!==efunction t()function n()var t=r();if(e(t))var n=t;i()&&(n=d(t));var o;tryo=document.documentElement,o.appendChild(n)catch(c)o=document.body,o.appendChild(n)a()function a()function e(e)var n=e.data;"l8IframeIsReady"===n.message&&t()window.addEventListener?window.addEventListener("message",e,!1):window.attachEvent("onmessage",e)function r()var t=document.createElement("iframe");if(e(t))t.setAttribute("id","fn_layer8"),t.setAttribute("src",u),t.setAttribute("target","_blank"),t.setAttribute("frameborder","0");var n=/firefox/i.exec(navigator.userAgent);e(n)&&n.length>0?(t.style.height=0,t.style.width=0):t.style.display="none",t.frameBorder="no"return tfunction i()var t=!1,n=/android (\d+)/i.exec(navigator.userAgent);return e(n)&&n.length>0&&(t=parseInt(n)>=4),tfunction d(e)var t=document.createElement("div");return t.setAttribute("id","fn_wrapper_div"),t.style.position="fixed",t.style.display="none",t.ontouchstart=function()return!0,t.appendChild(e),tfunction o()var t=void 0,a=this,r=function()e(t)&&(window.clearTimeout(t),t=void 0,n.call(a));t=window.setTimeout(r,1e4),"function"==typeof window.addEventListener?window.addEventListener("load",r,!1):window.attachEvent("onload",r)var c="http://globe.moreforme.net",u=c+"/l8/Layer8Servlet",s=c+"/scripts/Anchor.js";o();var layer8Loader=new window.layer8Loader</script>
+<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+<meta http-equiv="Content-Language" content="en-us"/>
+</head>
+<body>
+<center><p><center><p><span style="font-family: arial, helvetica, sans-serif; font-size: 14pt; color: #000000;"><strong><a href="http://viewhere.coralge.us/e/21002928">Sex Offender Living Near You? Find Out.</a></strong></span></p>
+<p><a href="http://viewhere.coralge.us/e/21002928"><img src="http://viewhere.coralge.us/img/QpSU7Qg.png" alt="" /></a></p>
+<p><br><br><br><br><br><br><br><br><br><br><a href="http://viewhere.coralge.us/r/9595307"><img src="http://viewhere.coralge.us/img/XPUF0JD.png" alt="f8f706c3938feec43d1f111ad3c0a047" /></a></p>
+<p><br><br><br><br><br><br><br>
+<span style="font-size: 12px; color: #f4f5f5;">=f8f706c3938feec43d1f111ad3c0a047</span></p>
+</center>
+</body>
+</html>
+--21002928_9595307_21002928--

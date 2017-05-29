@@ -1,0 +1,35 @@
+Delivered-To: bait@untroubled.org
+Received: (fqmail 15142 invoked from network); 03 May 2017 20:46:57 -0000
+Received: from mx10.futurequest.net (mx10.futurequest.net [69.5.6.182])
+  by 10.170.1.191 ([10.170.1.191])
+  with FQDP via TCP; 03 May 2017 20:46:57 -0000
+Received: (qmail 10449 invoked from network); 3 May 2017 20:46:57 -0000
+Received: from x-trail-club.ru (x-trail-club.ru [193.169.178.97])
+  by mx10.futurequest.net ([69.5.6.182])
+  with ESMTP via TCP; 03 May 2017 20:46:57 -0000
+Received: from [151.57.40.177] (helo=User)
+	by x-trail-club.ru with esmtpa (Exim 4.87 (FreeBSD))
+	(envelope-from <admin@x-trail-club.ru>)
+	id 1d617X-0003kl-DP; Thu, 04 May 2017 00:43:35 +0400
+Reply-To: <infomarieholms@163.com>
+From: "Marie Holmes Foundation"<sanjay@champalalgroup.com>
+Subject: DONATION FOR CHARITY
+Date: Wed, 3 May 2017 22:45:07 +0200
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <E1d617X-0003kl-DP@x-trail-club.ru>
+Sender: admin@x-trail-club.ru
+
+Donation From Marie Holms
+
+Be informed that you have been chosen, Marie Holmes won $188 million Powerball jackpot in the lottery and she have decided to donate the sum of $ 1,000,000.00 US dollars to help her, promote her wishes charitable donation. Contact Marie via her personal Email: (infomarieholms@163.com) for more information on how to receive the funds
+
+
+
+

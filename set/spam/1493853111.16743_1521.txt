@@ -1,0 +1,29 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 29352 invoked from network); 2 May 2017 13:31:52 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 02 May 2017 13:31:52 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 May 2017 13:31:52 -0000
+Received: (qmail 29003 invoked from network); 2 May 2017 13:31:51 -0000
+Received: from ec2-35-167-196-195.us-west-2.compute.amazonaws.com (HELO qfxb.ftng) (35.167.196.195)
+  by zak.futurequest.net with SMTP; 2 May 2017 13:31:51 -0000
+Date: Tue, 2 May 2017 22:31:37 +0900 (JST)
+From: =?Shift_JIS?B?k/yL4JdcOpbxiMST4INUgVuDcoNY?= <90ed@a8k519gnx.com>
+To: bruce@bruce-guenter.dyndns.org
+Message-ID: <6ej@ihe_erdk.h3+>
+Subject: =?Shift_JIS?B?geGRU4vii6aB4ot+jc+L4CqCzJP8X4vgl1w=?=
+ =?Shift_JIS?B?lvGCqpCugqKC3H6CtYK9gUJJU0+T+i2Wew==?=
+ =?Shift_JIS?B?kY2Nh5BSKo24i0A7jVyCqYLngswsmEEql40=?=
+ =?Shift_JIS?B?K4LNlUuCuIKyim2URoKtgr4ngrMigqIqgUI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+入 金予約案内_サー-ビ,ス
+
+本 文 ▽
+http://0zmi6.a8k519gnx.com/rd/bbfdh/__/11180664/m6227931596/4341264a68670ff2a74f5aaffbdc5ee4ce28760cfa1161ab6e39e860cdc113e6
+
+
+2017/05/02 22:31

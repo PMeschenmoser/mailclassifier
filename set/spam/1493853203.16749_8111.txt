@@ -1,0 +1,23 @@
+Delivered-To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Received: (qmail 7675 invoked from network); 28 Apr 2017 20:37:26 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Apr 2017 20:37:26 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Apr 2017 20:37:26 -0000
+Received: (qmail 8402 invoked from network); 28 Apr 2017 20:37:25 -0000
+Received: from ec2-52-63-71-61.ap-southeast-2.compute.amazonaws.com (HELO jmyfbnswoz.gz) (52.63.71.61)
+  by zak.futurequest.net with SMTP; 28 Apr 2017 20:37:25 -0000
+Date: Thu, 27 Apr 2017 05:40:52 +0900 (JST)
+From: =?Shift_JIS?B?pTGlOTo3pWY6Ki1spTAndztlKy0tci4=?= <k34l18@bvf1hneetr1tr.net>
+To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Message-ID: <1537250144.115238.1493239252999.JavaMail.return-413862057@bvf1hneetr1tr.net>
+Subject: =?Shift_JIS?B?gXWBT5C2OoqIO4meLomHLZCtJ430L4jP?=
+ =?Shift_JIS?B?L4j1KonvX4F2YIFAgU+IvC2Q7IFPi546jnE=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+Ç±;ÇÃ_Ç‹/Ç‹lï˙:íulÇ`Ç≥ÅOÇÍ.Ç‹`Ç∑ÅOÇ∆.å˚+ç¿`í‚+é~ÅOÇ∆ÅOÇ»:ÇË'Ç‹-Ç∑ÅOÅB
+
+http://bvf1hneetr1tr.net/rd/pm/4mjc732cqy/gdcg1rdec/blqwx35/1/m0757590173/f12c70f83d13373efb0a1831da71427eb66dc18f23357b566331ca2dd064f26b

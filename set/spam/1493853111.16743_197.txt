@@ -1,0 +1,73 @@
+Delivered-To: bruceg@untroubled.org
+Received: (fqmail 18763 invoked from network); 28 Apr 2017 10:22:55 -0000
+Received: from mx09.futurequest.net (mx09.futurequest.net [69.5.6.181])
+  by 10.170.1.170 ([10.170.1.170])
+  with FQDP via TCP; 28 Apr 2017 10:22:55 -0000
+Received: (qmail 19442 invoked from network); 28 Apr 2017 10:22:55 -0000
+Received: from wm.gisp.gov.zw ([209.88.90.8])
+  by mx09.futurequest.net ([69.5.6.181])
+  with ESMTP via TCP; 28 Apr 2017 10:22:54 -0000
+Received: from [111.39.250.51] (helo=outlook.com)
+	by wm.gisp.gov.zw with esmtpa (Exim 4.80.1)
+	(envelope-from <Muil@outlook.com>)
+	id 1d432y-0006BL-Q8; Fri, 28 Apr 2017 12:22:45 +0200
+Message-ID: <3E3B8DDED5012FFC20256CD12510FEC5@outlook.com>
+From: "PHARMACY EXPRESS" <Muil@outlook.com>
+To: <mberger@mmnt.com>,
+	 <negotiations@mape.org>,
+	 <bruceg@untroubled.org>,
+	 <marlab@pennwell.com>,
+	 <saint-aime@bwr-pr.com>,
+	 <sgerbing@enetis.net>,
+	 <rpetru@mariemontschools.org>
+Subject:***SPAM*** Best ED remedy!
+Date: Fri, 28 Apr 2017 13:22:29 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1cb34f33f7012ceeab3e4b468390"
+X-Spam-Score: 0.6
+X-Spam-Report: Spam detection software, running on the system "gisp-email-wm22.vlan20", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ sysadmin@gisp.gov.zw for details.
+ 
+ Content preview:  How are you feeling? Hey, man, wanna get some action? You'll
+    get your baby blasted!- https://goo.gl/l8GP8B How are you feeling? Hey, man,
+    wanna get some action? You'll get your baby blasted!- https://goo.gl/l8GP8B
+    [...] 
+ 
+ Content analysis details:   (0.6 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  2.0 DNS_FROM_AHBL_RHSBL    RBL: Envelope sender listed in dnsbl.ahbl.org
+ -1.4 ALL_TRUSTED            Passed through trusted hosts only via SMTP
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+
+This is a multi-part message in MIME format.
+
+--1cb34f33f7012ceeab3e4b468390
+Content-Type: text/plain; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+How are you feeling? Hey, man, wanna get some action? You'll get your bab=
+y blasted!- https://goo.gl/l8GP8B
+
+--1cb34f33f7012ceeab3e4b468390
+Content-Type: text/html; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows=
+-1251">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><FONT size=3D2 face=3DArial><FONT size=3D2 face=3DArial=
+><FONT size=3D2=20
+face=3DArial>
+<P>How are you feeling? Hey, man, wanna get some action? You'll get your =
+baby blasted!-</FONT></FONT> <A=20
+href=3D"https://goo.gl/l8GP8B">https://goo.gl/l8GP8B</A></P></FONT></DIV>=
+</BODY></HTML>
+
+--1cb34f33f7012ceeab3e4b468390--

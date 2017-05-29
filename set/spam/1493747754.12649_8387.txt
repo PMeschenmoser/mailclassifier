@@ -1,0 +1,168 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 16231 invoked from network); 02 May 2017 17:36:20 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by 10.170.1.170 ([10.170.1.170])
+  with FQDP via TCP; 02 May 2017 17:36:20 -0000
+Received: (qmail 31266 invoked from network); 2 May 2017 17:36:20 -0000
+Received: from mail.fortheskins.com (198-1-89-107.unifiedlayer.com [198.1.89.107])
+  by mx06.futurequest.net ([69.5.6.177])
+  with ESMTP via TCP; 02 May 2017 17:36:20 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=fortheskins.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=marguerite-mckinney@fortheskins.com;
+ bh=g/ox6S0hjEkLWju+uPxx3Ogl9os=;
+ b=mnSYJkV6qAyQGmNgwm3QdvvYDJlVyTlcajcVx5OwGRBudyJpSj5bYP9mWzfbaOA7uj/jziMxssqX
+   5BhMGf8ovYqDu7nCq017bY0sCFHkXOjwKfIk8J8OQSOQHYLgEdECYxhtLyAXHlKEyrXCe1vAtc/f
+   X+tXrkbSKBQ8XV4UHn4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=fortheskins.com;
+ b=KNSvwzBHiduZvVVT1uJms21rrWoIdR6pQWOIpKMmELOs70sM+x/n+sjT+TsHq9CS3lz3CKP9Up89
+   CIt2Jrnd0WDKQNOJi3MhswU+dPoQzv7hSu4NMJnTJHFz/rqVf9nJCUafxH+1/AewtdmZI8ePqcBI
+   R6gp6ZZpCpoZz2cz2zs=;
+Received: by mail.fortheskins.com id h13f2i0001gt for <bruce@untroubled.org>; Tue, 2 May 2017 15:25:56 -0400 (envelope-from <marguerite-mckinney-bruce=untroubled.org@fortheskins.com>)
+Date: Tue, 2 May 2017 15:25:56 -0400
+From: "Marguerite McKinney" <marguerite-mckinney@fortheskins.com>
+To:   <bruce@untroubled.org>
+Subject: Ellen fired from her hit-daytime show Tuesday (NBC):
+ 94615822
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_292_2134217713.1493746339992"
+List-Unsubscribe: <http://www.fortheskins.com/b158gT9M1nF1Nh282xLkVMOFVgUkhVLxONzhkrb27/breathtaking-usually>
+Message-ID: <0.0.0.20.1D2C379EBF9E762.62CB87@mail.fortheskins.com>
+Content-Length: 8737
+
+------=_Part_292_2134217713.1493746339992
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+ <head>=20
+  <meta charset=3D"UTF-8" />=20
+  <title>anybody who find this wiill be surprised</title>=20
+ </head>=20
+ <body marginheight=3D"0" marginwidth=3D"0">=20
+  <div style=3D"margin: 0px; width: 100%; height: 700px; background-color: =
+#333333; padding-top: 35px">=20
+   <blockquote style=3D"width: 570px; background-color: #fff; border-radius=
+: 0px 0px 8px 8px; width: 501px; box-shadow: 0px 0px 19px 5px rgba(0,0,0,1)=
+;=20
+">=20
+    <div style=3D"background-color: #2C3E50; font-size: 35px; font-family: =
+Impact, Haettenschweiler, Franklin Gothic Bold, Arial Black,' sans-serif'; =
+padding: 8px">
+     <strong style=3D"color: #fff">People-Report</strong>
+    </div>=20
+    <p style=3D"padding: 14px; font-family: tahoma; font-size: 23px; margin=
+-bottom: 0px">On Ellen Tuesday, she announced <a href=3D"http://www.fortheskins.com/4858oL6Ldcvfty282HLkVMOFVgUkhVLxONzhkr9dd/performs-Moiseyev">she is=
+ resigning effective</a> immediately from her top daytime show</p>=20
+    <a href=3D"http://www.fortheskins.com/4858oL6Ldcvfty282HLkVMOFVgUkhVLxONzhkr9dd/performs-Moiseyev" style=3D"text-decoration: none"> <p align=3D"cen=
+ter" style=3D"font-family: tahoma; color: #fff; margin-top: 0px"> <span sty=
+le=3D" background-color: #97191C; padding: 12px; font-size: 24px; display: =
+inline-block">See - This is what happened</span> <br /><br /> <img src=3D"=
+http://www.fortheskins.com/breathtaking-usually/e22u7gaddQ2mhT282GLkVMOFVgUkhVLxONzhkrccb" alt=3D"" /></p></a>=20
+    <br />=20
+   </blockquote>=20
+   <!-- @media only screen and (min-width:1250px){.bnm-breaking-link,.bnm-h=
+eadline{font-size:18px}.bnm-play-btn:before{top:4px}.bnm-stories{width:1180=
+px}.bnm-story-type-label{font-size:14px}.bnm-two-columns{width:580px}.bnm-t=
+hree-columns{width:386px}}.site-masthead-search-btn-div:after,.site-masthea=
+d-search-close-btn:after,.site-nav-icon-span:after,.site-nav-more-dropown-f=
+ront-toggle-link:before{background-image:url(../../images/sprites/header-sp=
+rite.png)}@media only screen and (-webkit-min-device-pixel-ratio:2),only sc=
+reen and (min-device-pixel-ratio:2),only screen and (min-resolution:2dppx){=
+site-masthead-search-btn-div:after,.site-masthead-search-close-btn:after,.=
+site-nav-icon-span:after,.site-nav-insider-span:after,.site-nav-more-dropow=
+n-front-toggle-link:before,.site-nav-usa-today-span:before,.site-nav-xtras-=
+span:after{background-image:url(../../images/sprites/header-sprite@2x.png);=
+ background-size:250px 120px}.site-nav-xtras-span:after{background-position=
+:0 -59px}.site-nav-insider-span:after{background-position:0 -83px}}.site-ma=
+sthead .chromeless-header .logo{width:100%; margin:0}.chromeless-header #lo=
+go-link{margin:5px auto auto}body>iframe{bottom:0; border:0; position:absol=
+ute}.primary-flex-sidebar-page-layout .site-footer-var-width,.primary-flex-=
+sidebar-page-layout .site-masthead,.primary-flex-sidebar-page-layout .site-=
+nav-list{width:1080px}.primary-flex-sidebar-page-layout .site-header-inner-=
+wrap,body.primary-flex-sidebar-page-layout{min-width:1080px}.primary-flex-s=
+idebar-page-layout .bnm-stories{width:1080px}.primary-flex-sidebar-page-lay=
+out .bnm-two-columns{width:530px}.primary-flex-sidebar-page-layout .bnm-thr=
+ee-columns{width:353px}@media (min-width:1321px){.primary-flex-sidebar-page=
+-layout .bnm-stories,.primary-flex-sidebar-page-layout .site-footer-var-wid=
+th,.primary-flex-sidebar-page-layout .site-masthead,.primary-flex-sidebar-p=
+age-layout .site-nav-list{width:1320px}.primary-flex-sidebar-page-layout .s=
+ite-header-inner-wrap,body.primary-flex-sidebar-page-layout{min-width:1320p=
+x}.primary-flex-sidebar-page-layout .bnm-two-columns{width:650px}.primary-f=
+lex-sidebar-page-layout .bnm-three-columns{width:433px}}.cufwa-body{min-wid=
+th:0!important}.cufwa-outer-wrapper{margin:30px auto; padding:40px; max-wid=
+th:1000px}.cufwa-page-title{font:70px/62px 'Futura Today Light',Arial,sans-=
+serif; margin:3px 0 14px; letter-spacing:-1px; color:#666; position:relativ=
+e; left:-4px}.cufwa-property{font:22px/22px 'Futura Today DemiBold',Arial,s=
+ans-serif; margin:3px 0 20px}.cufwa-intro-chatter{font:14px/16px Helvetica,=
+Arial,sans-serif; margin:0 0 10px}.cufwa-dept-label{display:inline-block; b=
+ackground:#444; padding:5px 9px; text-transform:uppercase; color:#fff; font=
+:13px/13px 'Futura Today Bold',Arial,sans-serif; margin:25px 0 10px}.cufwa-=
+contact{display:inline-block; width:150px; margin:0 30px 35px 0; font-famil=
+y:Helvetica,Arial,sans-serif; text-align:center; vertical-align:top}.cufwa-=
+mug{width:100%; height:100%; border:5px solid #fff; box-shadow:0 0 6px #888=
+; margin:0 0 0 -5px}.cufwa-name{font:23px/24px 'Futura Today DemiBold',Aria=
+l,sans-serif; margin:3px 0 5px}.cufwa-name-link,.cufwa-name-link:active,.cu=
+fwa-name-link:visited,.cufwa-name-nolink{color:#676767}.cufwa-name-link:hov=
+er{color:#ccc}.cufwa-title{font-size:12px; line-spacing:13px; color:#555}--=
+>=20
+  </div>=20
+  <br />
+  <br />
+  <br />=20
+  <blockquote style=3D"font-family: tahoma">
+   <a href=3D"http://www.fortheskins.com/40d8l6BCdd0N282lLkVMOFVgUkhVLxONzhkr9f9/regress-Edgewater">Letting us know your email =
+on this screen</a> will certify your =
+elimination from our group of subcribers&gt;=20
+   <br />
+   <br />
+   <br />
+   <br /> Take off your name from our =
+list by=20
+   <a href=3D"http://www.fortheskins.com/involved-really/8dcx89SSdMd1r282VLkVMOFVgUkhVLxONzhkre8c">submitting your information =
+right here</a>
+   <br /> Rebecca Neiland _ 10910 W Arabian Way Boise Id - 83709-5009
+  </blockquote>  =20
+  <!-- .cufwa-body .site-footer,.cufwa-body .site-header{display:none}.cufw=
+a-header{display:block; position:fixed; top:0; height:50px; width:100%; bac=
+kground-color:#222; text-align:center}}.cufwa-site-logo{height:46px; paddin=
+g-top:2px}.storybottombar-bucket{clear:left}#overlay .close-wrap{position:a=
+bsolute; z-index:112; width:980px}#overlay .close{background:url(../../imag=
+es/sprites/ui-sprite.png) -150px -205px no-repeat; height:50px; position:ab=
+solute; right:-25px; overflow:hidden; text-indent:105%; top:10px; white-spa=
+ce:nowrap; width:50px}#overlay .close:hover,.gallery.fullscreen .close:hove=
+r{background-position:-150px -255px}.article-metadata-wrap{float:left; marg=
+in:0 30px 0 60px; position:relative; width:180px}.article-metadata{position=
+:relative}.pullquote-asset{float:left; margin:10px 40px 10px 70px; padding:=
+0; width:160px}.pull-quote-attribution{color:#999; float:left; font:700 11p=
+x/14px arial,sans-serif; margin-top:-30px; padding:0 5px; text-align:center=
+; width:150px}.pull-quote>.pull-quote-item{border-bottom:1px dotted #dedede=
+; border-top:1px dotted #dedede; color:#999; font:18px/25px arial,sans-seri=
+f; margin:0; padding:15px 10px; text-align:center}.pull-quotes-char{float:l=
+eft; font:60px georgia,serif; height:30px; margin:-9px -39px 0; padding:0 1=
+2px}.pull-quote-item>.right{float:right; margin:55px -39px 0 0}.asset .blog=
+-tag-cloud .hlts,.asset .story-highlights .hlts{border-bottom:1px dotted #d=
+4d4d4; color:#999; font:400 12px/25px 'Futura Today Bold',arial,sans-serif;=
+ margin:0 auto; text-transform:uppercase}.asset .blog-tag-cloud .tag-cloud,=
+asset .story-highlights .hlt{list-style:none; margin:0; padding:0; left:0}=
+asset .story-highlights .hlt-item{background:url(../../images/components/s=
+tory_highlights_bullets.png) 0 17px no-repeat; border-bottom:1px dotted #d4=
+d4d4; color:#646464; font:700 12px/16px arial,sans-serif; padding:12px 0 12=
+px 15px}.asset .story-highlights .hlt-item:last-child{border:none}.asset .b=
+log-tag-cloud{clear:both}.asset .blog-tag-cloud .tag{background:#e0dfdf; di=
+splay:inline-block; float:left; font:700 12px arial,sans-serif; margin:3px =
+3px 0 0; padding:3px 5px}.asset .blog-tag-cloud .tgc{color:#666}.asset bloc=
+kquote{border-left:2px solid #c9c9c9; color:#797979; font:400 14px/22px ari=
+al,sans-serif; margin:0 0 15px 60px; overflow:auto; padding-left:20px}.asse=
+t .more-stories{color:#333; float:left; font:400 16px 'Futura Today Bold',s=
+ans-serif; margin:22px 0 0; text-transform:uppercase; width:190px}.asset .m=
+ore-stories-wrap{clear:both; margin-left:70px; overflow:hidden; width:880px=
+}.asset .more-stories-wrap.vertical{clear:none; width:540px}.asset .more-st=
+ories-wrap #taboola-div-grid-2x4,.asset .more-stories-wrap #taboola-div-ver=
+ticalx8{float:left}#taboola-div-text-links-vertical{margin-bottom:30px}.gri=
+d-2x4 .videoCube{padding-left:0!important}-->
+ <img src=3D"http://www.fortheskins.com/performs-Moiseyev/c60U85gdd3oW282KLkVMOFVgUkhVLxONzhkr495" alt=3D""/></body>
+</html>
+
+------=_Part_292_2134217713.1493746339992--

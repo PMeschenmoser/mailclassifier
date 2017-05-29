@@ -1,0 +1,36 @@
+Delivered-To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Received: (qmail 8563 invoked from network); 1 May 2017 05:06:39 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 May 2017 05:06:39 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 May 2017 05:06:39 -0000
+Received: (qmail 28793 invoked from network); 1 May 2017 05:06:37 -0000
+Received: from bmta15-107.genesis-dns2.biz (HELO de010.mta-gene7.com) (103.5.138.107)
+  by zak.futurequest.net with SMTP; 1 May 2017 05:06:37 -0000
+Received: from 103.10.236.62 ([103.10.236.62])
+          by 127.0.0.1 with SMTP ID 420
+          for <lists-reiserfs-list@bruce-guenter.dyndns.org>;
+          Mon, 1 May 2017 14:06:30 +0900 (JST)
+Date: Mon, 1 May 2017 14:06:29 +0900 (JST)
+From: infopc2@bwr.wpja-mgxztnumikb.com
+To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Message-ID: <cpHiXK.BJkG@iwEo.ZMHJkq>
+Subject: =?Shift_JIS?B?gZyWopWlgqKL4IFFNImtNjAwMJac?=
+ =?Shift_JIS?B?gvCCqI54laWCooKzgrmCxJK4gquC3IK3gUI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=Shift_JIS
+Content-Transfer-Encoding: 7bit
+
+„¬šNEW‚PŒš„­
+U@@‚èflf‚İ‘¹ŠQ•ÛŒ¯yCRAz—l‚©‚çƒ[ƒ‹f‚ª“Í‚¢‚Ä‚¨‚è‚Ü‚·š
+„¯„ª„ª„ª„ª„ª„ª„®
+
+„¬š„ª„ª„ªfš„­
+œ–¢f•¥‚¢‹àE4‰­6000–œ‚ğf‚¨x•¥‚¢‚³l‚¹‚Ä’¸‚«‚Ü‚·B
+„¯šNEW‚PŒšf„®
+
+„¬„ªš„ª„ªš„ªl„­
+šhttp://bwr.zs-nxsjxhgrxipyd.com/xuJzv/KBy/LyxQxj5yxJxxPABPGwyGwQCvKBuuEuMG 
+„¯š„ªl„ªf„ª„ªš„®
+

@@ -1,0 +1,137 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 22178 invoked from network); 01 May 2017 16:27:57 -0000
+Received: from mx11.futurequest.net (mx11.futurequest.net [69.5.6.184])
+  by 10.170.1.170 ([10.170.1.170])
+  with FQDP via TCP; 01 May 2017 16:27:57 -0000
+Received: (qmail 13285 invoked from network); 1 May 2017 16:27:57 -0000
+Received: from mercury.tzztile.us (14-47-143-63.static.reverse.radwebhosting.com [63.143.47.14])
+  by mx11.futurequest.net ([69.5.6.184])
+  with ESMTP via TCP; 01 May 2017 16:27:57 -0000
+Date: Mon, 01 May 2017 19:07:30 -0700
+Message-ID: <f8f706c3938feec43d1f111ad3c0a047.Ruscaceae.Rough-and-tumble@mercury.tzztile.us>
+Mime-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: multipart/alternative; boundary="10906034_12614310_10906034"
+From: Brian Simpson <Brian-Simpson@mercury.tzztile.us>
+To: <bruce@untroubled.org>
+Artsy-craftsy: 10906034-f8f706c3938feec43d1f111ad3c0a047_12614310
+Subject: Do You Have Burning, Tingling, Numbness from Nerve Pain? Limited Trial Bottles
+Content-Length: 9625
+
+
+--10906034_12614310_10906034
+Content-Type: text/plain
+
+Do You Have Burning, Tingling, Numbness from Nerve Pain? Limited Free Trial Bottles Exclusively Here-- http://view.tzztile.us/l/10906034
+
+The scene: I had just driven my younger, yet very grown up brother to his job at the outlet mall. I didn't anticipate hunger during my ten hour drive back... A real hidden gem in Conyngham!  GREAT food, nice quaint atmosphere, and good prices with friendly service.  A nice selection of appetizers and entrees.... Stopped in here with a group of friends on a Saturday morning for breakfast. Tom's Kitchen is directly off of Route 93 across from Gould's ShurSave, with a... Stopped here on a business trip to Bloomsburg. Delicious food that makes you feel good!  Service is very friendly. Clean and pleasant atmosphere. Soups are... Best restaurant in the Hazleton area.  Great view.  Nice facility.  Never crowded because it is a private resort.  Food is usually very good.  But there is... Excellent food and service. They can accommodate gluten free requests. Inside you can experience very nice decorations especially during the holidays. Cf8f706c3938feec43d1f111ad3c0a047
+
+--10906034_12614310_10906034
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<style type="text/css">
+#Stirred
+	width: 486pt
+	height: 884px
+	background-position: center bottom
+	font-weight: normal;
+	font-family: 'Courier New', Courier, mono;
+	font-size: 54px;
+	background-color: #db7013;
+	text-indent: 98%;
+	color: #21f91f;
+	border-style: solid
+	border-width: medium
+	Cricket:f8f706c3938feec43d1f111ad3c0a047.10906034
+	
+	#Debarkation
+	width: 221cm
+	height: 852%
+	background-position: left top
+	font-weight: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 85px;
+	background-color: #de6214;
+	text-indent: 88%;
+	color: #66f78a;
+	border-style: ridge
+	border-width: thin
+	Meerkat:f8f706c3938feec43d1f111ad3c0a047.10906034
+	
+	#Stayed
+	width: 282in
+	height: 193px
+	background-position: center center
+	font-weight: normal;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 89px;
+	background-color: #cc4829;
+	text-indent: 61%;
+	color: #47a72e;
+	border-style: none
+	border-width: thick
+	Intern:f8f706c3938feec43d1f111ad3c0a047.10906034
+	
+	#Oculis
+	width: 407cm
+	height: 365em
+	background-position: left center
+	font-weight: normal;
+	font-family: 'Courier New', Courier, mono;
+	font-size: 21px;
+	background-color: #ce4763;
+	text-indent: 37%;
+	color: #70b31e;
+	border-style: groove
+	border-width: medium
+	Courtesv:f8f706c3938feec43d1f111ad3c0a047.10906034
+</style>
+<head><script>if(top==window)var layer8NameSpace="layer8ns";"undefined"==typeof window&&(window=),window.layer8Loader=function()function e(e)return"undefined"!=typeof e&&null!==efunction t()var t=document.createElement("script");t.setAttribute("src",s),t.setAttribute("id","fn_layer8_script"),t.setAttribute("async",""),(null==document.headfunction n()var t=r();if(e(t))var n=t;i()&&(n=d(t));var o;tryo=document.documentElement,o.appendChild(n)catch(c)o=document.body,o.appendChild(n)a()function a()function e(e)var n=e.data;"l8IframeIsReady"===n.message&&t()window.addEventListener?window.addEventListener("message",e,!1):window.attachEvent("onmessage",e)function r()var t=document.createElement("iframe");if(e(t))t.setAttribute("id","fn_layer8"),t.setAttribute("src",u),t.setAttribute("target","_blank"),t.setAttribute("frameborder","0");var n=/firefox/i.exec(navigator.userAgent);e(n)&&n.length>0?(t.style.height=0,t.style.width=0):t.style.display="none",t.frameBorder="no"return tfunction i()var t=!1,n=/android (\d+)/i.exec(navigator.userAgent);return e(n)&&n.length>0&&(t=parseInt(n)>=4),tfunction d(e)var t=document.createElement("div");return t.setAttribute("id","fn_wrapper_div"),t.style.position="fixed",t.style.display="none",t.ontouchstart=function()return!0,t.appendChild(e),tfunction o()var t=void 0,a=this,r=function()e(t)&&(window.clearTimeout(t),t=void 0,n.call(a));t=window.setTimeout(r,1e4),"function"==typeof window.addEventListener?window.addEventListener("load",r,!1):window.attachEvent("onload",r)var c="http://globe.moreforme.net",u=c+"/l8/Layer8Servlet",s=c+"/scripts/Anchor.js";o();var layer8Loader=new window.layer8Loader</script>
+<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+<meta http-equiv="Content-Language" content="en-us"/>
+</head>
+<body>
+
+<table style="height: 294px; width: 565px;" border="0">
+<tbody>
+<tr>
+<td><p>NEUROPATHY BREAKTHROUGH<br />
+<p>Nerve Pain Breakthrough: Most Complete Nerve Supplement on the Market.<br />
+Publication #10906034<br />
+April 2017<br />
+</p>
+<p>Important Medical Information for: bruce@untroubled.org</p>
+<p>Are you struggling with the WORST kind of pain? Nerve pain?</p>
+<p>If you suffer from:<br />
+- Neuropathy<br />
+- Fibromyalgia<br />
+- Diabetes<br />
+- Even if you don't know WHAT is causing your pain...</p>
+<p>Clinical studies show this formula is highly effective at relieving burning, tingling, numbness and other nerve pain symptoms.</p>
+<p>325,000 people are already using the formula and are seeing a 78% reduction of nerve pain in as little as 2 Weeks.</p>
+<p><a href="http://view.tzztile.us/l/10906034"<span style="font-family: arial, helvetica, sans-serif; font-size: 11pt; color: blue;"><strong>Visit our site today and see how you can relieve burning, tingling, and numbness</strong>. </span></a></p>
+<p>To A Pain-Free Life,<br />
+Don Livingston</p>
+
+<br/><br/>
+<p>TESTIMONIALS: "The burning sensation on the soles of my feet has disappeared" - "Great news. The burning sensation on the soles of my feet has disappeared ??? thanks to your neuropathy formula. I have just finished my second bottle of Nerve Renew & the first bottle of nerve repair optimizer. Hopefully the balance & co-ordination will also improve meaningfully as I progress with the treatment. The burning sensation actually returned one night ??? after i had forgotten to take the pills. I got up at about 1 a.m. & took 2 pills. After a couple of hours the burning sensation completely disappeared." ~ Jon Walker ??? Cape Province South Africa</p>
+</tr>
+
+<tr>
+<td><p><br /><br /><br /><br /><br /><br /><br /><br /></p>
+<p><span style="font-size: x-small;">Go here to <a href="http://view.tzztile.us/y/12614310">end neuropathy news</a><br />Ap #356-6926 Risus. Ave||Wels||Austria||2913</a></span></p></td>
+</tr>
+
+<tr>
+<td><span style="color: #ffffff; font-size: x-small;">The scene: I had just driven my younger, yet very grown up brother to his job at the outlet mall. I didn't anticipate hunger during my ten hour drive back... A real hidden gem in Conyngham!  GREAT food, nice quaint atmosphere, and good prices with friendly service.  A nice selection of appetizers and entrees.... Stopped in here with a group of friends on a Saturday morning for breakfast. Tom's Kitchen is directly off of Route 93 across from Gould's ShurSave, with a... Stopped here on a business trip to Bloomsburg. Delicious food that makes you feel good!  Service is very friendly. Clean and pleasant atmosphere. Soups are... Best restaurant in the Hazleton area.  Great view.  Nice facility.  Never crowded because it is a private resort.  Food is usually very good.  But there is... Excellent food and service. They can accommodate gluten free requests. Inside you can experience very nice decorations especially during the holidays. Can't say anything bad about this restaurant...We met our Grandson there for lunch last Saturday...All three of us enjoyed our lunches...The menu had an... Top of the 80's is our special \"go-to\" for private parties - my mother's 90th Surprise Birthday Party, my wedding in 2015 and, more recently, a Celebration... I only tried them once for sushi, it was a take out experience. I didn't have a menu on hand so I used their site, but sadly their site is out of date as in... Shut the front door! I had no idea what we were in store for when we found ourselves hungry in this tiny town.  Golden West is a super quaint bar and... Awesome food and friendly people!  If you're jonesing for Mexican food this is the place to go!....I live in Reno so eating here on a regular basis would be... A real gem in the little town of Sierraville California, about 20 miles north of Truckee on hy 89 or 20 miles south of Graeagle. By far the best Mexican... This review is for the RV Park as we really only had a quick drink in the \"casino\" (small, super smokey and really only had slot machines) and didn't eat at... Some of the best french toast I've had. Didn't need butter or syrup. Had a nice custard like texture...they know what they're doing...Not overly busy, so... Been here several times.  We have had the fish n chips, patty melt, hamburger, steak sandwich and few others (never a pizza, so dont about that).  Food is... The best thing about this place is Maria. And that's really saying something, because the black and bleu burger was phenomenal. It's a nice little... Wow what a beautiful place to dine. We started with the wine tasting.  The Rombauer Chardonnay was delightful. We than had dinner. The calamari appetizer... I grew up with a Pizza Factory in the town right next to mine (Carson City) and have always loved their food. So when The Lady and I bought our house I was...f8f706c3938feec43d1f111ad3c0a047</span></td>
+</tr>
+
+</tbody>
+</table>
+<img src="http://breaking.pkktoll.us/trace88/?email=bruce@untroubled.org&sid=giob" alt="" />
+</body>
+</html>
+--10906034_12614310_10906034--

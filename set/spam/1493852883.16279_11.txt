@@ -1,0 +1,45 @@
+Delivered-To: bruceg-bgware-owner@lists.untroubled.org
+Received: (qmail 31582 invoked from network); 1 May 2017 14:43:27 -0000
+Received: from vova.ro ([103.62.144.18])
+  by genesis.futurequest.net ([69.5.31.4])
+  with SMTP via TCP; 01 May 2017 14:43:26 -0000
+Message-ID: <B4F363E4.DB79DA68@vova.ro>
+Date: Mon, 01 May 2017 14:41:54 -0700
+Reply-To: "FedEx Priority Packages" <lisu630@vova.ro>
+From: "FedEx Ground Services" <lisu630@vova.ro>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.19) Gecko/20081209 Thunderbird/2.0.0.19
+MIME-Version: 1.0
+To: <bgware-owner@lists.untroubled.org>
+Subject: Delivery Problem, Reason: No Answer
+Content-Type: multipart/mixed;
+	boundary="------------314106558572522611212467"
+
+This is a multi-part message in MIME format.
+
+--------------314106558572522611212467
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+We can't deliver your package arrived today.
+
+Kindly ask you to review the information in the file attached down below.
+
+We appreciate you choosing FedEx.
+Sawyer Cassani -  FedEx InSight Supervisor
+
+
+--------------314106558572522611212467
+Content-Type: message/external-body; access-type=x-deleted; length=1727
+
+
+Content-Type: application/octet-stream;
+	name="DeliveryDetails_id_58.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="DeliveryDetails_id_35050332.zip"
+
+--------------314106558572522611212467--
+

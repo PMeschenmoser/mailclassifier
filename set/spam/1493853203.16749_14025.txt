@@ -1,0 +1,25 @@
+Delivered-To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Received: (qmail 17821 invoked from network); 28 Apr 2017 15:15:38 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Apr 2017 15:15:38 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Apr 2017 15:15:38 -0000
+Received: (qmail 31212 invoked from network); 28 Apr 2017 15:15:36 -0000
+Received: from srv01-109.manishjp.com (HELO fvgby.jz-ihq-keg.com) (103.56.212.109)
+  by zak.futurequest.net with SMTP; 28 Apr 2017 15:15:36 -0000
+Date: Sat, 29 Apr 2017 00:15:22 +0900
+From: =?Shift_JIS?B?grOCwYK1gVsuIA==?=<mvn_o428t.k.nais0yo-s_hyn@fvgby.jz-ihq-keg.com>
+To: lists-reiserfs-list@bruce-guenter.dyndns.org<lists-reiserfs-list>
+Message-id: <4UUiBfmevYbixpyVuO@lExWjOuXaootz.com>
+Subject: =?Shift_JIS?B?kLqVt4Krgr2CqYLBgr2CyIKfgUI=?=
+Mime-version: 1.0
+Content-type: text/plain; charset=Shift_JIS
+Content-transfer-encoding: 7bit
+
+今日はもう遅いから寝るね。
+明日こそ電話で話せたら嬉しいな。
+連休を一緒に…
+早くサイトを卒業して一緒に連休過ごせたらな…
+それじゃおやすみ～！
+

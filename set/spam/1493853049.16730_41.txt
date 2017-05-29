@@ -1,0 +1,121 @@
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 9060 invoked from network); 30 Apr 2017 21:00:59 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 30 Apr 2017 21:00:59 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 30 Apr 2017 21:00:59 -0000
+Received: (qmail 14710 invoked from network); 30 Apr 2017 21:00:51 -0000
+Received: from mail.mirajgroup.in (115.254.79.217)
+  by zak.futurequest.net with SMTP; 30 Apr 2017 21:00:51 -0000
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.mirajgroup.in (Postfix) with ESMTP id EA77867A4F2E;
+	Mon,  1 May 2017 02:29:47 +0530 (IST)
+Received: from mail.mirajgroup.in ([127.0.0.1])
+	by localhost (mail.mirajgroup.in [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id pt6rPsqlHuYR; Mon,  1 May 2017 02:29:47 +0530 (IST)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.mirajgroup.in (Postfix) with ESMTP id 004CA67A4F0E;
+	Mon,  1 May 2017 02:29:46 +0530 (IST)
+X-Virus-Scanned: amavisd-new at mirajgroup.in
+Received: from mail.mirajgroup.in ([127.0.0.1])
+	by localhost (mail.mirajgroup.in [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id tykm5NusirkF; Mon,  1 May 2017 02:29:46 +0530 (IST)
+Received: from [173.242.118.61] (unknown [173.242.118.61])
+	(Authenticated sender: archive)
+	by mail.mirajgroup.in (Postfix) with ESMTPSA id 75CE667A4EB3;
+	Mon,  1 May 2017 02:29:41 +0530 (IST)
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+Subject: YOUR ATM CARD IS READY
+To: Recipients <xx@yy.mirajgroup.in>
+From: "INTERNATIONAL REMITTANCE DEPT IRD" <xx@yy.mirajgroup.in>
+Date: Sun, 30 Apr 2017 13:59:35 -0700
+Reply-To: stevemark123@linuxmail.org
+Message-Id: <20170430205941.75CE667A4EB3@mail.mirajgroup.in>
+X-Cyberoam-smtpxy-version: 1.0.6.3
+X-Cyberoam-AV-Policy: default
+X-CTCH-PVer:  0000001
+X-CTCH-Spam:  Bulk
+X-CTCH-VOD:  Unknown
+X-CTCH-Flags:  0
+X-CTCH-RefID:  str=0001.0A090201.5906320F.001D,ss=3,sh,re=3.799,recu=0.000,reip=0.000,cl=3,cld=1,fgs=0
+X-CTCH-Score:  3.799
+X-CTCH-ScoreCust:  0.000
+X-CTCH-Rules:  MILLION_USD,
+Content-Length: 2129
+
+                                                                           =
+ OFFICE OF THE DIRECTOR OF OPERATION
+
+                                                                           =
+           INTERNATIONAL REMITTANCE =
+
+
+                                                                           =
+             PAYMENT DEPARTMENT.
+
+                                                                           =
+             UNITED STATES OF AMERICA.
+
+                                                                           =
+              PAYMENT OFFICE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Attention Beneficiary,
+
+
+This is to officially inform you that we have verified your contract file
+Presently on my desk, and I found out that you have not received your
+payment due to your lack of co-operation and not fulfilling the
+obligations giving to you in respect to your contract payment. Secondly,
+you are hereby advised to stop dealing with some non-Officials in the bank
+as this is an Illegal act and will have to stop if you so wish to receive
+your payment After the Board of directors' meeting held, we have
+resolved in finding a solution to your problem. We have arranged your
+payment through our ATM CARD PAYMENT CENTRE in Europe, America, Africa and
+Asia Pacific, This is part of an instruction/mandate passed by the Senate
+in respect to overseas contract payment and debt re-scheduling.
+
+
+
+We will send you an ATM CARD which you will use to withdraw your money via
+ATM MACHINE in any part of the world, and the maximum daily limit is Ten
+Thousand United States Dollars($10,000.00) valued sum at Five Million
+United States Dollars {$5,000,000.00}.
+
+If you desire to receive your fund this way, Kindly re-confirm your:
+
+(1) Your Full Name
+(2) Full residential address.
+(3) Phone And Fax Number
+
+
+You will find below my personal email address and contact telephone
+number. Name: Mr. Steve Mark. Email: (stevemark123@linuxmail.org) Tel:
++1-571-350-0551 We shall be expecting to receive your information as you
+have to stop any further communication with anybody or officer.
+
+
+Thanks for your co-operation.
+
+
+BEST REGARDS,
+Steve Mark

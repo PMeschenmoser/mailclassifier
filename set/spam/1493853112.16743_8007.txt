@@ -1,0 +1,46 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 7376 invoked from network); 29 Apr 2017 04:39:18 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 29 Apr 2017 04:39:18 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 29 Apr 2017 04:39:18 -0000
+Received: (qmail 22217 invoked from network); 29 Apr 2017 04:39:18 -0000
+Received: from unknown (HELO ?103.230.11.21?) (103.230.11.21)
+  by zak.futurequest.net with SMTP; 29 Apr 2017 04:39:18 -0000
+Received: from localhost ([103.212.221.158])
+	by [103.230.11.21] (Postfix)
+	with ESMTP 20151028 SB4CBD5666A694D928D545A8B894A7794 id B8D640E1
+	for <bruce@bruce-guenter.dyndns.org> from <return-25980384@ymxtasj45c.click>;
+	Sat, 29 Apr 2017 13:39:04 +0900 (JST)
+Date: Sat, 29 Apr 2017 13:39:04 +0900 (JST)
+From: jewelry <mail@ymxtasj45c.click>
+To: bruce@bruce-guenter.dyndns.org
+Message-ID: <1742992322.560918.1493440744508.JavaMail.return-25980384@ymxtasj45c.click>
+Subject: =?Shift_JIS?B?jpaWsYvHguaC6IKokFWNnoLdgsyCqJJtgueCuQ==?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_560906_1534842249.1493440744011"
+Content-Transfer-Encoding: 7bit
+
+------=_Part_560906_1534842249.1493440744011
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+Å@
+------=_Part_560906_1534842249.1493440744011
+Content-Type: text/html; charset=shift_jis
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-2022-jp"></head><br>
+<br>
+=81@=81@<a href=3D"http://nzdneg92wi.click/rd/iofej/1bdbsakksa6/fdadpm7dxut=
+/fugyjh5hg1j/y54x2dcueg5/nsztelhjs7a/x447fs3qccy/3f4smx8kenb/9tx6x6mba3f/a5=
+us5i9ilay/6z8hpu2tegj/ztttblgyi1c/130507/m084823746/d25a21cddb0f8933b434a94=
+a37500ea1cde4222c0eb64328bf7117ad287d7268">=81=99=83=81=81[=83=8B=8Am=94F=
+=81=99</a>=81@=81@<br>
+<br>
+<br></html>
+------=_Part_560906_1534842249.1493440744011--
+

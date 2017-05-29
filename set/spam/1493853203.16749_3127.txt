@@ -1,0 +1,32 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 25143 invoked from network); 28 Apr 2017 05:50:54 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Apr 2017 05:50:54 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Apr 2017 05:50:54 -0000
+Received: (qmail 16088 invoked from network); 28 Apr 2017 05:50:53 -0000
+Received: from ec2-35-167-230-79.us-west-2.compute.amazonaws.com (HELO odqdmwgv.bv) (35.167.230.79)
+  by zak.futurequest.net with SMTP; 28 Apr 2017 05:50:53 -0000
+Date: Fri, 28 Apr 2017 14:50:44 +0900 (JST)
+From: =?Shift_JIS?B?k/qWe42Ri36Jh4vgl1qLQI1cgXOSU5OWLIF0ktaMtA==?= <hef0@h2kbr73z5.net>
+To: lists-linux-kernel@bruce-guenter.dyndns.org
+Message-ID: <1846569921.562831.1493358644756.JavaMail.return-932863087@h2kbr73z5.net>
+Subject: =?Shift_JIS?B?i34giYdei+AxMomtMjUwMJacJ4l+IoLMOoKoOpBVpY2eKoLMLg==?=
+ =?Shift_JIS?B?j4AglPVfgqoskK5fgsEigsQrgqh+gugrgtwqgrcggUJ+glAsglRfjp4=?=
+ =?Shift_JIS?B?K4LcX4LFX4LMfoKoLY7oJ5GxL4LFO4z7X43AXoLWfoLMfpS9LIlm?=
+ =?Shift_JIS?B?pYLMKo7oL5GxOoKrX4KqJ4LGKoLpII6WpYKqO49vLZeILoLcLIK3LQ==?=
+ =?Shift_JIS?B?gUJnZXN0l2wugsxejUulgrk6gslej60ggrUsgsUqguAti99+gsM=?=
+ =?Shift_JIS?B?LYKiLoLELJK4K4KtX4LXL4KtZ2VzdILGIoK1X4LELZKLLpbpLI3s?=
+ =?Shift_JIS?B?KovGX4LwK5BpfoLfLYLEK45RfoLoJ4LcLYK1L4K9LIFCKoKxJ4LqLQ==?=
+ =?Shift_JIS?B?gsUsgscugqRfgqkujUt+grlfgslfgsgtgsEtgsQribpfgrMqgqIqgUI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+ã~+âá.ã‡12â≠2500ñú â~*ÇÃ*Ç®+êU_çû*ÇÃ_èÄ-îı+Ç™/êÆ"Ç¡+Çƒ~Ç®'ÇË~Ç‹,Ç∑:ÅB~ÇP.ÇT.éû*Ç‹:Ç≈-ÇÃ_Ç®'éË+ë±^Ç≈_å˚+ç¿:Ç÷~ÇÃ+îΩ~âf/ÇÃ,éË ë±+Ç´+Ç™_Ç∆•ÇÈ+éñ-Ç™.èo~óà-Ç‹,Ç∑,ÅBgestól~ÇÃ"çK^Çπ'Ç…:è≠_Çµ-Ç≈,Ç‡.ãﬂ Ç√*Ç¢.Çƒ^í∏~Ç≠~Ç◊*Ç≠gestÇ∆*Çµ'Çƒ-íã~ñÈ"çÏ,ã∆"Ç'êi"Çﬂ/Çƒ*éQ"ÇË/Ç‹.Çµ,ÇΩ.ÅB'Ç±:ÇÍ.Ç≈,Ç«/Ç§+Ç©+çK*Çπ/Ç…/Ç»'Ç¡;Çƒ â∫*Ç≥~Ç¢_ÅB
+
+è⁄;Å@:ç◊
+http://3ox0abz7.h2kbr73z5.net/gpmlxnlywuskt2ys1/69932211/m9861173159/4a26f61e78ee852dead8a0475f55a5076f2fd84b6dd58caf3cb082acd580a101
+
+2017/04/28 14:50

@@ -1,0 +1,297 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 19960 invoked from network); 2 May 2017 11:40:28 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 02 May 2017 11:40:28 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 May 2017 11:40:28 -0000
+Received: (qmail 25197 invoked from network); 2 May 2017 11:40:27 -0000
+Received: from m70.proqaz.com (77.89.255.70)
+  by zak.futurequest.net with SMTP; 2 May 2017 11:40:27 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=DKIM1; d=proqaz.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding; i=postmaster@proqaz.com;
+ bh=T9gAxUkTdc1ebDt3vRoMOOyTGrY=;
+ b=K/GYfY8APiupFVpMi/PgwLmTfaOK7sBplrM+f5MVA3NoGNRtM6aIpw9TLEI75OizwDj+0ZKxGXVQ
+   ILaVIeTAEkkqLUi8SeyFi7RXceaQ6iUZ/PyuW9on1WywzTDb+9s1BrkpXy+uvS2Bv5A383jyMZ4c
+   fcH0xiV8fjstnDzLrJw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=DKIM1; d=proqaz.com;
+ b=WlCHMec6IwjqYlKWDwP4FVFBF+rjouJUvNEs+fkGkXU4CeGUYr9jvJ7lF/81e52OwXmBWK97PjzI
+   0F4hleBvtLJJ2Hzb0JcZqTUUQ07HfoJirP2VT39O93S4M4Md88nwzlCziF28Z48A1yUnKscH2fj0
+   28tesdJU0ZtlFM7kCdQ=;
+To: bruce@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?aVBob25lIDcgcG91ciBsZXMgcHJvZmVzc2lvbm5lbHMgw6AgcGFydGlyIGRlIDc54oKs?=
+Message-ID: <20c8d2f3552934c00e4a39727f5dcdba@www.proqaz.com>
+Return-Path: bounce@proqaz.com
+Date: Tue, 02 May 2017 11:29:51 +0000
+From: "=?UTF-8?B?Qm91eWd1ZXMgVMOpbMOpY29tIEVudHJlcHJpc2Vz?=" <info@proqaz.com>
+Reply-To: support@proqaz.com
+MIME-Version: 1.0
+X-Mailer-LID: 58
+X-Mailer-SID: 307
+X-Mailer-Sent-By: 1
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,
+minimum-scale=1.0, maximum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE"
+/>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:600"
+rel="stylesheet">
+    <style type="text/css">
+        #outlook a
+            padding: 0;
+
+
+        .ReadMsgBody
+            width: 100%;
+
+
+        .ExternalClass
+            width: 100%;
+
+
+        .ExternalClass,
+        .ExternalClass p,
+        .ExternalClass span,
+        .ExternalClass font,
+        .ExternalClass td,
+        .ExternalClass div
+            line-height: 100%;
+
+
+        body,
+        table,
+        td,
+        a
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+
+
+        table,
+        td
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+
+
+        img
+            -ms-interpolation-mode: bicubic;
+
+
+        body
+            height: 100% !important;
+            margin: 0;
+            padding: 0;
+            width: 100% !important;
+
+
+        img
+            border: 0;
+            height: auto;
+            line-height: 100%;
+            outline: none;
+            text-decoration: none;
+
+
+        table
+            border-collapse: collapse !important;
+
+
+        @media only screen and (max-width: 640px)
+            table[class="w320"] {
+                width: 100% !important;
+
+            td[class="w320"]
+                width: 320px !important;
+
+            table[class="w320m"]
+                width: 90% !important;
+
+            td[class="w320m"]
+                width: 320px !important;
+
+            td[class="hide"]
+                display: none !important;
+
+            img[class="hide"]
+                display: none !important;
+
+            td[class="bloc"]
+                display: block !important;
+                width: 100% !important;
+                text-align: center !important;
+
+            img[class="w100%"]
+                width: 100% !important;
+                height: auto !important;
+
+        }
+    </style>
+    <title>iPhone 7 &#224; partir de 79&#8364; pour toute souscription au
+forfait Neo 24/7 Int&#233;gral</title>
+</head>
+
+<body>
+<table border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff"
+align="center" style="font-family: Oswald, Helvetica, Arial, sans-serif;
+border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td width="580" class="w320" align="center">
+<table class="w320" border="0" cellspacing="0" cellpadding="0"
+style="width: 580px;">
+<tbody>
+<tr>
+<td height="25"></td>
+</tr>
+<tr align="center">
+<td width="580">
+<table class="w320m" cellspacing="0" cellpadding="0"
+style="border-collapse: collapse; width: 580px;">
+<tbody>
+<tr>
+<td class="bloc" width="200" align="center" valign="bottom"><span
+style="font-family: Helvetica, Arial, sans-serif; font-size: 12px;
+line-height: 1.4; color: #999999;">iPhone 7 &agrave; partir de 79&euro;
+pour toute souscription au forfait Neo 24/7 Int&eacute;gral.<br />Si ce
+message ne s&rsquo;affiche pas correctement, <a
+href="http://www.proqaz.com/link.php?M=2357044&N=307&L=30&F=H"
+target="_blank" style="color: #999999;">cliquez-ici.</a></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="20"></td>
+</tr>
+<tr align="center">
+<td width="580">
+<table class="w320" cellspacing="0" cellpadding="0" style="border-collapse:
+collapse; width: 580px;">
+<tbody>
+<tr>
+<td class="bloc" width="200" align="left" valign="center"
+style="background-color: #ffffff;"><a
+href="http://www.proqaz.com/link.php?M=2357044&N=307&L=29&F=H"
+style="text-decoration: none;" target="_blank"><img
+src="http://effiliation-hosting.com/bouygues/kitmail/iphone7/BouyguesTelecomEntreprises-Logo.png"
+alt="Bouygues T&eacute;l&eacute;com Entreprises" width="200"
+style="text-align: center;" border="0" /></a></td>
+<td class="hide" width="550" align="left" valign="center"
+style="background-color: #ffffff;"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="20"></td>
+</tr>
+<tr align="center">
+<td width="580" style="font-size: 15px;">
+<table class="w320" cellspacing="0" cellpadding="0" style="border-collapse:
+collapse; width: 580px;">
+<tbody>
+<tr>
+<td align="center"><a
+href="http://www.proqaz.com/link.php?M=2357044&N=307&L=29&F=H"
+target="_blank" style="text-decoration: none;"><img class="w100%"
+src="http://effiliation-hosting.com/bouygues/kitmail/iphone7/BouyguesTelecomEntreprises-Hero69e.png"
+width="580" alt="iPhone 7 &agrave; partir de 79&euro; pour toute
+souscription au forfait Neo 24/7 Int&eacute;gral" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="18" style="background-color: #00abd4;"></td>
+</tr>
+<tr align="center">
+<td width="580" style="background-color: #00abd4;">
+<table class="w320m" cellspacing="0" cellpadding="0"
+style="border-collapse: collapse; width: 580px;">
+<tbody>
+<tr>
+<td class="bloc" width="200" align="center" valign="bottom"><span
+style="font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size:
+18px; font-weight: 600; line-height: 1.4; color: #ffffff;">D&eacute;couvrez
+le forfait Neo 24/7 Int&eacute;gral pour les professionnels</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="18" style="background-color: #00abd4;"></td>
+</tr>
+<tr align="center">
+<td width="580" style="font-size: 15px;">
+<table class="w320" cellspacing="0" cellpadding="0" style="border-collapse:
+collapse; width: 580px;">
+<tbody>
+<tr>
+<td align="center"><a
+href="http://www.proqaz.com/link.php?M=2357044&N=307&L=29&F=H"
+target="_blank" style="text-decoration: none;"><img class="w100%"
+src="http://effiliation-hosting.com/bouygues/kitmail/iphone7/BouyguesTelecomEntreprises-Forfait.jpg"
+width="580" alt="Appels et SMS illimit&eacute;s vers la zone France,
+Europe, DOM, USA et Canada - 50Go de Data en France et 5Go de Data en
+Europe, DOM, USA et Canada - 2&egrave;me SIM 10Go avec le hotspot mobile
+inclus" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="20" style="background-color: #ffffff;"></td>
+</tr>
+<tr align="center">
+<td width="580">
+<table class="w320m" cellspacing="0" cellpadding="0"
+style="border-collapse: collapse; width: 580px;">
+<tbody>
+<tr>
+<td class="bloc" width="200" align="center" valign="bottom"><span
+style="font-family: Helvetica, Arial, sans-serif; font-size: 12px;
+line-height: 1.4; color: #999999;"> iPhone 7 32GO : Offre valable pour
+toute nouvelle souscription &agrave; un forfait 30/04/2017, apr&egrave;s
+d&eacute;duction d'une prime d'ouverture en ligne de 180&euro;,
+appliqu&eacute;e sur la 1&egrave;re facture. Engagement 24 mois.</span><br
+/><br /> <span style="font-family: Helvetica, Arial, sans-serif; font-size:
+12px; line-height: 1.4; color: #999999;">Pour cesser de recevoir nos
+informations &agrave; cette adresse, <a
+href="http://www.proqaz.com/link.php?M=2357044&N=307&L=3&F=H"
+target="_blank" style="color:
+#999999;">d&eacute;sabonnez-vous</a>.</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="25"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img
+src="http://track14460052.effimails30.com/servlet/effi.pixel?id_compteur=14460052"
+/>
+<img
+src="http://www.proqaz.com/open.php?M=2357044&L=58&N=307&F=H&image=.jpg"
+height="1" width="10"></body>
+
+</html>
+

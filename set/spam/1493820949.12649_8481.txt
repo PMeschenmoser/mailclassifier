@@ -1,0 +1,107 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 20466 invoked from network); 03 May 2017 05:32:25 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by 10.170.1.170 ([10.170.1.170])
+  with FQDP via TCP; 03 May 2017 05:32:25 -0000
+Received: (qmail 31377 invoked from network); 3 May 2017 05:32:25 -0000
+Received: from abusive.henassn.us ([193.106.28.84])
+  by mx02.futurequest.net ([69.5.6.172])
+  with ESMTP via TCP; 03 May 2017 05:32:24 -0000
+Date: Tue, 02 May 2017 22:11:59 -0700
+Content-Transfer-Encoding: 8bit
+To: <bruce@untroubled.org>
+Portal: 19319394-f8f706c3938feec43d1f111ad3c0a047_21521094
+Message-ID: <f8f706c3938feec43d1f111ad3c0a047.Sidewalk.Rangy@abusive.henassn.us_lk3>
+Mime-Version: 1.0
+Subject: Are You Sick of Paying Expensive Cable Bills? Cut the Cord. No Contract or Fees
+Content-Type: multipart/alternative; boundary="19319394_21521094_19319394"
+From: Cut The Cord <Cut.the.Cord@abusive.henassn.us>
+Content-Length: 2921
+
+
+--19319394_21521094_19319394
+Content-Type: text/plain
+
+Frustrated With Overpriced Cable Bills? Cut The Cord. No Contract or Fees, Only Here> http://selectit.henassn.us/episode/19319394_cable_bills
+
+-f8f706c3938feec43d1f111ad3c0a047
+
+
+--19319394_21521094_19319394
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<style type="text/css">
+#Pacatolus
+	width: 965cm
+	height: 014in
+	background-position: center top
+	font-weight: lighter;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 37px;
+	background-color: #fd1318;
+	text-indent: 11%;
+	color: #49f72c;
+	border-style: groove
+	border-width: medium
+	Outfielder:f8f706c3938feec43d1f111ad3c0a047.19319394
+	
+	#Nubibus
+	width: 994px
+	height: 986cm
+	background-position: center top
+	font-weight: bolder;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 62px;
+	background-color: #ba6414;
+	text-indent: 60%;
+	color: #51f79b;
+	border-style: double
+	border-width: medium
+	Cryptogramma:f8f706c3938feec43d1f111ad3c0a047.19319394
+	
+	#Iodothyronine
+	width: 759px
+	height: 586em
+	background-position: right center
+	font-weight: lighter;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 07px;
+	background-color: #bb9205;
+	text-indent: 22%;
+	color: #48c50c;
+	border-style: dashed
+	border-width: thick
+	Embroiled:f8f706c3938feec43d1f111ad3c0a047.19319394
+	
+	#Halfwit
+	width: 222em
+	height: 005%
+	background-position: center top
+	font-weight: normal;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 36px;
+	background-color: #aa3325;
+	text-indent: 51%;
+	color: #78f86e;
+	border-style: ridge
+	border-width: medium
+	Arkansan:f8f706c3938feec43d1f111ad3c0a047.19319394
+</style>
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+<meta http-equiv="Content-Language" content="en-us"/>
+</head>
+<body>
+<center><p><center><p><span style="font-family: arial, helvetica, sans-serif; font-size: 14pt; color: #000000;"><strong><a href="http://selectit.henassn.us/episode/19319394_cable_bills">Are You Sick of Paying Expensive Cable Bills? Cut the Cord.</a></strong></span></p>
+<p><a href="http://selectit.henassn.us/episode/19319394_cable_bills"><img src="http://selectit.henassn.us/img/uOaM0Nc.jpg" alt="21521094" /></a></p>
+<p><br><br><br><br><br><br><br><br><br><br><a href="http://selectit.henassn.us/battery/21521094_stopnow"><img src="" alt="f8f706c3938feec43d1f111ad3c0a047" /></a></p>
+<p><br><a href="http://selectit.henassn.us/battery/21521094_stopnow"><img src="http://selectit.henassn.us/img/QQKzm6D.jpg" alt="f8f706c3938feec43d1f111ad3c0a047" /><br><br><br><br><br><br>
+<span style="font-size: 12px; color: #f4f5f5;">-f8f706c3938feec43d1f111ad3c0a047</span></p>
+</center>
+</body>
+</html>
+--19319394_21521094_19319394--

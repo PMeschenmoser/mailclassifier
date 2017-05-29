@@ -1,0 +1,1332 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 24180 invoked from network); 03 May 2017 01:41:34 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by 10.170.1.173 ([10.170.1.173])
+  with FQDP via TCP; 03 May 2017 01:41:34 -0000
+Received: (qmail 10761 invoked from network); 3 May 2017 01:41:34 -0000
+Received: from mta102.senite.eu (mta102.senite.eu [84.247.1.102])
+  by mx06.futurequest.net ([69.5.6.177])
+  with ESMTP via TCP; 03 May 2017 01:41:34 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=selector; d=client2.whiteips.net;
+ h=Date:To:From:Reply-to:Subject:Message-ID:Sender:List-Unsubscribe:MIME-Version:Content-Type; i=user-rv@client2.whiteips.net;
+ bh=tuBCC+9kzeKSwMMshBq0BTVWe4I=;
+ b=kc6X/pIrD57Rka6x/qyvkdlHu+zPO4x5LpD8k5oTztkQWPAWG2SHtij6ggUZCua84cEhbU4xdthG
+   lenVm4bcBPGgvYlchJMMmtY1pfMuAwo6TRvGgATzMo/6jX2csYijgSuPHQZ2o/1pJjN7fPUEacKy
+   dzGOFKz+zDzugaYuG3c=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=selector; d=client2.whiteips.net;
+ b=b474zc+D/XE+SohIgxFgE+QKk9PjxT8X3XVLLXbauvmb/UmOWRu5W9iw3SQW+YyL/GUiiQsErvi+
+   iaHVL1OFvOmYT7TIkDPSi1SXSh523rIut8SY5aPlkdfgdzeRisRRjLOuQVflnNMSf2WVwMcT8WSM
+   81YZ9PZ7KYYvtGF/y/M=;
+Date: Wed, 3 May 2017 04:41:32 +0300
+Return-Path: bounce-196904-28172444-3104-656@client2.whiteips.net
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+From: Crazy Deals <reducerizilnice2014@gmail.com>
+Reply-to: Crazy Deals <reducerizilnice2014@gmail.com>
+Subject: Prinde Cele Mai Bune Oferte Home & Deco. Reduceri Pana La 80%
+Message-ID: <dac1997d24623c029f0f40d7f1b8cf7b@localhost.localdomain>
+Sender: <user-rv@client2.whiteips.net>
+X-Mailer: Email
+X-Complaints-To: abuse@client2.whiteips.net
+List-Unsubscribe: <http://www.csdedicated.com/client2/u.php?p=1il/rs/2zbw/s7/1i6/rs>, <mailto:abuse@client2.whiteips.net?subject=unsubscribe:1il-2zbw-YnJ1Y2VAdW50cm91YmxlZC5vcmc%3D-s7-rv-rs>
+X-MessageID: 1il-2zbw-YnJ1Y2VAdW50cm91YmxlZC5vcmc%3D-s7-rv-rs
+X-Report-Abuse: <http://www.csdedicated.com/client2/report_abuse.php?mid=1il-2zbw-YnJ1Y2VAdW50cm91YmxlZC5vcmc%3D-s7-rv-rs>
+Precedence: bulk
+X-SMTPAPI: {"unique_args":{"abuse-id":"1il-2zbw-YnJ1Y2VAdW50cm91YmxlZC5vcmc%3D-s7-rv-rs"}, "category":"campaign"}
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_dac1997d24623c029f0f40d7f1b8cf7b"
+Content-Length: 98591
+
+
+--b1_dac1997d24623c029f0f40d7f1b8cf7b
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+( https://event.2performant.com/events/click?ad_type=3Dquicklink&aff_code=
+=3D56551ef66&unique=3D8cf043bc6&redirect_to=3Dhttps%3A//www.sensodays.ro/ca=
+talogsearch/result/index/%3Flimit%3D72%26q%3Dartesano+provencal )=0A=0APreg=
+ates-te pentru mesele in aer liber!=0A=0A( https://event.2performant.com/ev=
+ents/click?ad_type=3Dquicklink&aff_code=3D56551ef66&unique=3D8cf043bc6&redi=
+rect_to=3Dhttps%3A//www.sensodays.ro/oferte-decorarea-mesei%3Flimit%3D72 )=
+=0A=0ASALE!=0A=0AReducere:=0Apana la 50%=0A=0ASTOC LIMITAT!=0A=0A( https://=
+event.2performant.com/events/click?ad_type=3Dquicklink&aff_code=3D56551ef66=
+&unique=3D8cf043bc6&redirect_to=3Dhttps%3A//www.sensodays.ro/oferte-decorar=
+ea-mesei%3Flimit%3D72 )=0A=0AStii unde gasesti cele mai bune oferte la lenj=
+erii de pat in=0ARomania? Vezi cele mai bune oferte chiar aici!=0A=0A( http=
+s://event.2performant.com/events/click?ad_type=3Dquicklink&aff_code=3D56551=
+ef66&unique=3Db49d5051c&redirect_to=3Dhttp%3A//www.lenjeriidepatoutlet.ro/ =
+)=0A=0ASALE!=0A=0AReducere:=0Apana la 50%=0A=0ASTOC LIMITAT!=0A=0A( https:/=
+/event.2performant.com/events/click?ad_type=3Dquicklink&aff_code=3D56551ef6=
+6&unique=3Db49d5051c&redirect_to=3Dhttp%3A//www.lenjeriidepatoutlet.ro/ )=
+=0A=0AMobila si decoratiunile Retro sunt intotdeauna la moda. Prinde=0Acele=
+ mai bune oferte!=0A=0A( https://event.2performant.com/events/click?ad_type=
+=3Dquicklink&aff_code=3D56551ef66&unique=3De9bc57625&redirect_to=3Dhttps%3A=
+//www.retroboutique.ro/ )=0A=0ASALE!=0A=0AReducere:=0Apana la 55%=0A=0ASTOC=
+ LIMITAT!=0A=0A( https://event.2performant.com/events/click?ad_type=3Dquick=
+link&aff_code=3D56551ef66&unique=3De9bc57625&redirect_to=3Dhttps%3A//www.re=
+troboutique.ro/ )=0A=0ALenjerie de Pat + Covor Cadou doar 99 Lei!=0A=0A( ht=
+tps://event.2performant.com/events/click?ad_type=3Dquicklink&aff_code=3D565=
+51ef66&unique=3Db49d5051c&redirect_to=3Dhttp%3A//www.lenjeriidepatoutlet.ro=
+/85-lenjerii-pucioasa-covor-traditional-cadou )=0A=0ASALE!=0A=0AReducere:=
+=0Apana la 70%=0A=0ASTOC LIMITAT!=0A=0A( https://event.2performant.com/even=
+ts/click?ad_type=3Dquicklink&aff_code=3D56551ef66&unique=3Db49d5051c&redire=
+ct_to=3Dhttp%3A//www.lenjeriidepatoutlet.ro/85-lenjerii-pucioasa-covor-trad=
+itional-cadou )=0A=0ADescopera frumusetea mobilei chic!=0A=0A( https://even=
+t.2performant.com/events/click?ad_type=3Dquicklink&aff_code=3D56551ef66&uni=
+que=3D3716acaa9&redirect_to=3Dhttps%3A//chicville.ro/ )=0A=0ASALE!=0A=0ARED=
+UCERE:=0A75%=0A=0ASTOC LIMITAT!=0A=0A( https://event.2performant.com/events=
+/click?ad_type=3Dquicklink&aff_code=3D56551ef66&unique=3D3716acaa9&redirect=
+_to=3Dhttps%3A//chicville.ro/ )=0A=0AScaune de top, tot timpul cele mai bun=
+e modele din sezon si cele=0Amai bune oferte!=0A=0A( https://event.2perform=
+ant.com/events/click?ad_type=3Dquicklink&aff_code=3D56551ef66&unique=3D0edb=
+d1504&redirect_to=3Dhttp%3A//www.scauneonline.ro/ )=0A=0ASALE!=0A=0AReducer=
+e:=0Apana la 80%=0A=0ASTOC LIMITAT!=0A=0A( https://event.2performant.com/ev=
+ents/click?ad_type=3Dquicklink&aff_code=3D56551ef66&unique=3D0edbd1504&redi=
+rect_to=3Dhttp%3A//www.scauneonline.ro/ )=0A=0AUnde gasesti oferte cu reduc=
+eri pana la 80% la branduri de top,=0Azi de zi? Doar pe Kurtmann!=0A=0A( ht=
+tps://event.2performant.com/events/click?ad_type=3Dquicklink&aff_code=3D565=
+51ef66&unique=3D3ce07b645&redirect_to=3Dhttps%3A//www.kurtmann.ro/ )=0A=0AS=
+ALE!=0A=0AReducere:=0Apana la 80%=0A=0ASTOC LIMITAT!=0A=0A( https://event.2=
+performant.com/events/click?ad_type=3Dquicklink&aff_code=3D56551ef66&unique=
+=3D3ce07b645&redirect_to=3Dhttps%3A//www.kurtmann.ro/ )=0A=0ADespre ceasuri=
+ nu am vorbit pana acum. Blackfriday a inceput mai=0Adevreme!=0A=0A( https:=
+//event.2performant.com/events/click?ad_type=3Dquicklink&aff_code=3D56551ef=
+66&unique=3D2e49eab4f&redirect_to=3Dhttps%3A//www.watchshop.ro/ )=0A=0ASALE=
+!=0A=0AReducere:=0Apana la 50%=0A=0ASTOC LIMITAT!=0A=0A( https://event.2per=
+formant.com/events/click?ad_type=3Dquicklink&aff_code=3D56551ef66&unique=3D=
+2e49eab4f&redirect_to=3Dhttps%3A//www.watchshop.ro/ )=0A=0AAr trebui sa ple=
+ci intr-o vacanta bine meritata! Gaseste o super=0Aoferta de bilete de zbor=
+ si cazare prin Vola!=0A=0A( http://www.csdedicated.com/client4/tl.php?p=3D=
+1p8/rs/rs/rt/s1/rt//https%3A%2F%2Fevent.2parale.ro%2Fevents%2Fclick%3Fad_ty=
+pe%3Dquicklink%26aff_code%3Dd84860d20%26unique%3D0afdfd117%26redirect_to%3D=
+https%25253A%25252F%25252Fwww.vola.ro%25252F )=0A=0ASALE!=0A=0AReducere:=0A=
+pana la 50%=0A=0ASTOC LIMITAT!=0A=0A( http://www.csdedicated.com/client4/tl=
+.php?p=3D1p8/rs/rs/rt/s1/rt//https%3A%2F%2Fevent.2parale.ro%2Fevents%2Fclic=
+k%3Fad_type%3Dquicklink%26aff_code%3Dd84860d20%26unique%3D0afdfd117%26redir=
+ect_to%3Dhttps%25253A%25252F%25252Fwww.vola.ro%25252F )=0A=0ADYfashion.ro -=
+ Cele mai frumoase rochii pentru ea!=0A=0A( https://event.2performant.com/e=
+vents/click?ad_type=3Dquicklink&aff_code=3D56551ef66&unique=3D884f13c4f&red=
+irect_to=3Dhttps%3A//www.dyfashion.ro/ )=0A=0ASALE!=0A=0AReducere:=0Apana l=
+a 45%=0A=0ASTOC LIMITAT!=0A=0A( https://event.2performant.com/events/click?=
+ad_type=3Dquicklink&aff_code=3D56551ef66&unique=3D884f13c4f&redirect_to=3Dh=
+ttps%3A//www.dyfashion.ro/ )=0A=0AFashion Best Selleres pentru Ea doar la F=
+ashion-24.ro !=0A=0A( https://event.2performant.com/events/click?ad_type=3D=
+quicklink&aff_code=3D56551ef66&unique=3D028b76b06&redirect_to=3Dhttps%3A//w=
+ww.fashion-24.ro/ )=0A=0ASALE!=0A=0AReducere:=0Apana la 50%=0A=0ASTOC LIMIT=
+AT!=0A=0A( https://event.2performant.com/events/click?ad_type=3Dquicklink&a=
+ff_code=3D56551ef66&unique=3D028b76b06&redirect_to=3Dhttps%3A//www.fashion-=
+24.ro/ )=0A=0ACele mai frumoase tinute pentru ea doar la StarShiners!=0A=0A=
+( https://event.2performant.com/events/click?ad_type=3Dquicklink&aff_code=
+=3D56551ef66&unique=3D103346d28&redirect_to=3Dhttps%3A//starshiners.ro/ )=
+=0A=0ASALE!=0A=0AReducere:=0Apana la 50%=0A=0ASTOC LIMITAT!=0A=0A( https://=
+event.2performant.com/events/click?ad_type=3Dquicklink&aff_code=3D56551ef66=
+&unique=3D103346d28&redirect_to=3Dhttps%3A//starshiners.ro/ )=0A=0ACeasuri =
+Festina BestSellers pentru Ea!=0A=0A( http://www.csdedicated.com/client4/tl=
+.php?p=3D1p8/rs/rs/rt/s1/rt//https%3A%2F%2Fevent.2parale.ro%2Fevents%2Fclic=
+k%3Fad_type%3Dquicklink%26aff_code%3Dd84860d20%26unique%3D184f69294%26redir=
+ect_to%3Dhttp%25253A%25252F%25252Fwww.elefant.ro%25252Fceasuri%25253Fquery%=
+25253D%2A%252526filterBrand%25253DFestina%252526filterSex%25253DFemei%25252=
+6channel%25253DTestCeasuri%252526navigation%25253Dtrue%252526format%25253DJ=
+SON )=0A=0ASALE!=0A=0AReducere:=0Apana la 70%=0A=0ASTOC LIMITAT!=0A=0A( htt=
+p://www.csdedicated.com/client4/tl.php?p=3D1p8/rs/rs/rt/s1/rt//https%3A%2F%=
+2Fevent.2parale.ro%2Fevents%2Fclick%3Fad_type%3Dquicklink%26aff_code%3Dd848=
+60d20%26unique%3D184f69294%26redirect_to%3Dhttp%25253A%25252F%25252Fwww.ele=
+fant.ro%25252Fceasuri%25253Fquery%25253D%2A%252526filterBrand%25253DFestina=
+%252526filterSex%25253DFemei%252526channel%25253DTestCeasuri%252526navigati=
+on%25253Dtrue%252526format%25253DJSON )=0A=0AClick here to unsubscribe ( ht=
+tp://www.csdedicated.com/client2/u.php?p=3D1il/rs/2zbw/s7/1i6/rs/rt ) sau=
+=0Areducerizilnice2014@gmail.com
+
+--b1_dac1997d24623c029f0f40d7f1b8cf7b
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">=0A<head><meta http-equiv=3D"Content-Type" content=3D"te=
+xt/html; charset=3DUTF-8" />=0A</head>=0A<body>=0A<table style=3D"font-size=
+: 12px; color: #333333; text-align: left; width: 98%;" bgcolor=3D"#9ef6a0" =
+border=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center">=0A<table style=3D"wi=
+dth: 600px;" bgcolor=3D"#FFFFFF" border=3D"1px" cellpadding=3D"0" cellspaci=
+ng=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" valign=3D"top" width=3D"6=
+00" style=3D"text-align: center;">=0A<table style=3D"width: 600px;" bgcolor=
+=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A=
+<tr>=0A<td align=3D"left" height=3D"72" valign=3D"top" width=3D"600"><a tar=
+get=3D"_blank" href=3D"http://www.csdedicated.com/client2/tl.php?p=3D1il/1i=
+6/rs/2zbw/s7/rs//https%3A%2F%2Fevent.2performant.com%2Fevents%2Fclick%3Fad_=
+type%3Dquicklink%26aff_code%3D56551ef66%26unique%3D8cf043bc6%26redirect_to%=
+3Dhttps%253A%2F%2Fwww.sensodays.ro%2Fcatalogsearch%2Fresult%2Findex%2F%253F=
+limit%253D72%2526q%253Dartesano%2Bprovencal" style=3D"font-family: Arial,He=
+lvetica,sans-serif; font-size: 16px; color: #f26b0f; text-decoration: none;=
+"><font style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 16px; =
+color: #f26b0f;" face=3D"Arial, Helvetica, sans-serif"><img src=3D"https://=
+www.sensodays.ro/media/bannerslider/2/0/20170317-vb-artesano-888x406.jpg" a=
+lt=3D"-" height=3D"272" width=3D"595" /></font></a></td>=0A</tr>=0A</tbody>=
+=0A</table>=0A<table style=3D"width: 600px;" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"20"></td>=0A</tr>=0A</=
+tbody>=0A</table>=0A<strong><span style=3D"font-size: medium;">&nbsp; &nbsp=
+; Pregates-te pentru mesele in aer liber!</span></strong>=0A<table style=3D=
+"width: 600px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=
+=0A<tr>=0A<td height=3D"14"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table st=
+yle=3D"width: 560px;" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"left" valign=3D"middle" wi=
+dth=3D"250"><a target=3D"_blank" href=3D"http://www.csdedicated.com/client2=
+/tl.php?p=3D1il/1i6/rs/2zbw/s7/rs//https%3A%2F%2Fevent.2performant.com%2Fev=
+ents%2Fclick%3Fad_type%3Dquicklink%26aff_code%3D56551ef66%26unique%3D8cf043=
+bc6%26redirect_to%3Dhttps%253A%2F%2Fwww.sensodays.ro%2Foferte-decorarea-mes=
+ei%253Flimit%253D72" style=3D"font-family: Arial,Helvetica,sans-serif; font=
+-size: 12px; color: #505050; text-decoration: none;"><font style=3D"font-fa=
+mily: Arial,Helvetica,sans-serif; font-size: 12px; color: #505050;" face=3D=
+"Arial, Helvetica, sans-serif"><img src=3D"https://www.sensodays.ro/media/b=
+annerslider/2/0/20170317-mese-sezon-888x406.jpg" alt=3D"-" height=3D"114" w=
+idth=3D"250" /></font></a></td>=0A<td width=3D"20"></td>=0A<td align=3D"rig=
+ht" valign=3D"middle">=0A<table style=3D"width: 280px;" bgcolor=3D"#d5f8d6"=
+ cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"cente=
+r" bgcolor=3D"#d5f8d6" valign=3D"top">=0A<table style=3D"width: 250px;" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td heigh=
+t=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px=
+; height: 30px;" bgcolor=3D"#8be98d" cellpadding=3D"0" cellspacing=3D"0">=
+=0A<tbody>=0A<tr>=0A<td align=3D"right" height=3D"30" bgcolor=3D"#8be98d" v=
+align=3D"top" width=3D"10"><img src=3D"http://www.therealdeal.ro/img_news/c=
+olt_st.jpg" alt=3D"" style=3D"display: block;" height=3D"30" width=3D"10" /=
+></td>=0A<td headers=3D"30" align=3D"left" bgcolor=3D"#8be98d" valign=3D"mi=
+ddle" width=3D"100"><font style=3D"font-family: Arial,Helvetica,sans-serif;=
+ font-size: 14px; color: #222222;" face=3D"Arial, Helvetica, sans-serif"><b=
+>SALE!</b></font></td>=0A<td align=3D"right" bgcolor=3D"#8be98d" valign=3D"=
+middle"></td>=0A<td align=3D"left" height=3D"30" bgcolor=3D"#8be98d" valign=
+=3D"top" width=3D"10"><img src=3D"http://www.therealdeal.ro/img_news/colt_d=
+r.jpg" alt=3D"" style=3D"display: block;" height=3D"30" width=3D"10" /></td=
+>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10=
+"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px; heigh=
+t: 30px;" bgcolor=3D"#8be98d" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody=
+>=0A<tr>=0A<td align=3D"right" height=3D"30" bgcolor=3D"#8be98d" valign=3D"=
+top" width=3D"10"><img src=3D"http://www.therealdeal.ro/img_news/colt_st.jp=
+g" alt=3D"" style=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A=
+<td headers=3D"30" align=3D"left" bgcolor=3D"#8be98d" valign=3D"middle" wid=
+th=3D"100"><font style=3D"font-family: Arial,Helvetica,sans-serif; font-siz=
+e: 14px; color: #222222;" face=3D"Arial, Helvetica, sans-serif"><b>Reducere=
+:</b></font></td>=0A<td align=3D"right" bgcolor=3D"#8be98d" valign=3D"middl=
+e"><font style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 16px;=
+ color: #222222;" face=3D"Arial, Helvetica, sans-serif"><b>pana la 50%</b><=
+/font></td>=0A<td align=3D"left" height=3D"30" bgcolor=3D"#8be98d" valign=
+=3D"top" width=3D"10"><img src=3D"http://www.therealdeal.ro/img_news/colt_d=
+r.jpg" alt=3D"" style=3D"display: block;" height=3D"30" width=3D"10" /></td=
+>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10=
+"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=
+=3D"center" height=3D"26"><font style=3D"font-family: Arial,Helvetica,sans-=
+serif; font-size: 16px; color: #222222;" face=3D"Arial, Helvetica, sans-ser=
+if"><b>STOC LIMITAT!</b></font></td>=0A</tr>=0A</tbody>=0A</table>=0A<table=
+ style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=
+=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=
+=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" height=3D"35"><a target=3D=
+"_blank" href=3D"http://www.csdedicated.com/client2/tl.php?p=3D1il/1i6/rs/2=
+zbw/s7/rs//https%3A%2F%2Fevent.2performant.com%2Fevents%2Fclick%3Fad_type%3=
+Dquicklink%26aff_code%3D56551ef66%26unique%3D8cf043bc6%26redirect_to%3Dhttp=
+s%253A%2F%2Fwww.sensodays.ro%2Foferte-decorarea-mesei%253Flimit%253D72" sty=
+le=3D"font-family: Arial,Helvetica,sans-serif; font-size: 16px; color: #505=
+050; text-decoration: none;"><font style=3D"font-family: Arial,Helvetica,sa=
+ns-serif; font-size: 16px; color: #505050;" face=3D"Arial, Helvetica, sans-=
+serif"><img src=3D"http://www.therealdeal.ro/img_news/bt_oferta.jpg" alt=3D=
+"" height=3D"35" border=3D"0" width=3D"155" /></font></a></td>=0A</tr>=0A</=
+tbody>=0A</table>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr=
+>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</t=
+r>=0A</tbody>=0A</table>=0A<table style=3D"width: 600px;" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=
+=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 560px;" bgcolor=3D"=
+#8be98d" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=
+=0A<td height=3D"2" bgcolor=3D"#8be98d"></td>=0A</tr>=0A</tbody>=0A</table>=
+=0A<table style=3D"width: 600px;" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"20"></td>=0A</tr>=0A</tbody>=0A</=
+table>=0A<table style=3D"width: 560px;" bgcolor=3D"#FFFFFF" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"left" va=
+lign=3D"top" width=3D"560" style=3D"text-align: center;"><font style=3D"fon=
+t-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 18px; c=
+olor: #505050; font-weight: bold;" face=3D"Arial, Helvetica, sans-serif"><s=
+pan style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 16px; co=
+lor: #505050; text-decoration: none; font-weight: bold;"><span style=3D"fon=
+t-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #505050; te=
+xt-decoration: none; font-weight: bold;"><span><span><span style=3D"font-fa=
+mily: Arial, Helvetica, sans-serif; font-size: 16px; color: #505050; text-d=
+ecoration: none; font-weight: bold;"><span><span><span><span><span><span><s=
+pan><span><span><span><span><span><span><span><span><span><span><span><span=
+><span><span><span><span>&nbsp; Stii unde gasesti cele mai bune oferte la l=
+enjerii de pat in Romania? Vezi cele mai bune oferte chiar aici!</span></sp=
+an></span></span></span></span></span></span></span></span></span></span></=
+span></span></span></span></span></span></span></span></span></span></span>=
+</span></span></span></span></span></font></td>=0A</tr>=0A</tbody>=0A</tabl=
+e>=0A<table style=3D"width: 600px;" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"14"></td>=0A</tr>=0A</tbody>=0A=
+</table>=0A<table style=3D"width: 560px;" bgcolor=3D"#FFFFFF" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"left" =
+valign=3D"middle" width=3D"250"><a target=3D"_blank" href=3D"http://www.csd=
+edicated.com/client2/tl.php?p=3D1il/1i6/rs/2zbw/s7/rs//https%3A%2F%2Fevent.=
+2performant.com%2Fevents%2Fclick%3Fad_type%3Dquicklink%26aff_code%3D56551ef=
+66%26unique%3Db49d5051c%26redirect_to%3Dhttp%253A%2F%2Fwww.lenjeriidepatout=
+let.ro%2F" style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 12p=
+x; color: #505050; text-decoration: none;"><font style=3D"font-family: Aria=
+l,Helvetica,sans-serif; font-size: 12px; color: #505050;" face=3D"Arial, He=
+lvetica, sans-serif"><img src=3D"http://www.lenjeriidepatoutlet.ro/modules/=
+fieldslideshow/images/slider-358.png" alt=3D"-" height=3D"198" width=3D"250=
+" /></font></a></td>=0A<td width=3D"20"></td>=0A<td align=3D"right" valign=
+=3D"middle">=0A<table style=3D"width: 280px;" bgcolor=3D"#d5f8d6" cellpaddi=
+ng=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" bgcolor=
+=3D"#d5f8d6" valign=3D"top">=0A<table style=3D"width: 250px;" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"><=
+/td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px; height: =
+30px;" bgcolor=3D"#8be98d" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=
+=0A<tr>=0A<td align=3D"right" height=3D"30" bgcolor=3D"#8be98d" valign=3D"t=
+op" width=3D"10"><img src=3D"http://www.therealdeal.ro/img_news/colt_st.jpg=
+" alt=3D"" style=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A<=
+td headers=3D"30" align=3D"left" bgcolor=3D"#8be98d" valign=3D"middle" widt=
+h=3D"100"><font style=3D"font-family: Arial,Helvetica,sans-serif; font-size=
+: 14px; color: #222222;" face=3D"Arial, Helvetica, sans-serif"><b>SALE!</b>=
+</font></td>=0A<td align=3D"right" bgcolor=3D"#8be98d" valign=3D"middle"></=
+td>=0A<td align=3D"left" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" w=
+idth=3D"10"><img src=3D"http://www.therealdeal.ro/img_news/colt_dr.jpg" alt=
+=3D"" style=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A</tr>=
+=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=
+=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px; height: 30px=
+;" bgcolor=3D"#8be98d" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr=
+>=0A<td align=3D"right" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" wi=
+dth=3D"10"><img src=3D"http://www.therealdeal.ro/img_news/colt_st.jpg" alt=
+=3D"" style=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A<td he=
+aders=3D"30" align=3D"left" bgcolor=3D"#8be98d" valign=3D"middle" width=3D"=
+100"><font style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 14p=
+x; color: #222222;" face=3D"Arial, Helvetica, sans-serif"><b>Reducere:</b><=
+/font></td>=0A<td align=3D"right" bgcolor=3D"#8be98d" valign=3D"middle"><fo=
+nt style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 16px; color=
+: #222222;" face=3D"Arial, Helvetica, sans-serif"><b>pana la 50%</b></font>=
+</td>=0A<td align=3D"left" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top"=
+ width=3D"10"><img src=3D"http://www.therealdeal.ro/img_news/colt_dr.jpg" a=
+lt=3D"" style=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A</tr=
+>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=
+=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"cent=
+er" height=3D"26"><font style=3D"font-family: Arial,Helvetica,sans-serif; f=
+ont-size: 16px; color: #222222;" face=3D"Arial, Helvetica, sans-serif"><b>S=
+TOC LIMITAT!</b></font></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=
+=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbo=
+dy>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table=
+ style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=
+=0A<tbody>=0A<tr>=0A<td align=3D"center" height=3D"35"><a target=3D"_blank"=
+ href=3D"http://www.csdedicated.com/client2/tl.php?p=3D1il/1i6/rs/2zbw/s7/r=
+s//https%3A%2F%2Fevent.2performant.com%2Fevents%2Fclick%3Fad_type%3Dquickli=
+nk%26aff_code%3D56551ef66%26unique%3Db49d5051c%26redirect_to%3Dhttp%253A%2F=
+%2Fwww.lenjeriidepatoutlet.ro%2F" style=3D"font-family: Arial,Helvetica,san=
+s-serif; font-size: 16px; color: #505050; text-decoration: none;"><font sty=
+le=3D"font-family: Arial,Helvetica,sans-serif; font-size: 16px; color: #505=
+050;" face=3D"Arial, Helvetica, sans-serif"><img src=3D"http://www.thereald=
+eal.ro/img_news/bt_oferta.jpg" alt=3D"-" height=3D"35" border=3D"0" width=
+=3D"155" /></font></a></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D=
+"width: 250px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=
+=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A<=
+/tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<table s=
+tyle=3D"width: 600px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A=
+<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<t=
+able style=3D"width: 560px;" bgcolor=3D"#8be98d" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"2" bgcolor=3D"#8=
+be98d"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 600px;"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td h=
+eight=3D"20"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 5=
+60px;" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+>=0A<tbody>=0A<tr>=0A<td align=3D"left" valign=3D"top" width=3D"560" style=
+=3D"text-align: center;"><font style=3D"font-family: Arial,Helvetica,sans-s=
+erif; font-size: 16px; line-height: 18px; color: #505050; font-weight: bold=
+;" face=3D"Arial, Helvetica, sans-serif"><span style=3D"font-family: Arial,=
+ Helvetica, sans-serif; font-size: 16px; color: #505050; text-decoration: n=
+one; font-weight: bold;"><span style=3D"font-family: Arial, Helvetica, sans=
+-serif; font-size: 16px; color: #505050; text-decoration: none; font-weight=
+: bold;"><span><span><span style=3D"font-family: Arial, Helvetica, sans-ser=
+if; font-size: 16px; color: #505050; text-decoration: none; font-weight: bo=
+ld;"><span><span><span><span><span><span><span><span><span><span><span><spa=
+n><span><span><span><span><span><span><span><span><span><span>&nbsp;Mobila =
+si decoratiunile Retro sunt intotdeauna la moda. Prinde cele mai bune ofert=
+e!</span></span></span></span></span></span></span></span></span></span></s=
+pan></span></span></span></span></span></span></span></span></span></span><=
+/span></span></span></span></span></span></font></td>=0A</tr>=0A</tbody>=0A=
+</table>=0A<table style=3D"width: 600px;" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"14"></td>=0A</tr>=0A</tbo=
+dy>=0A</table>=0A<table style=3D"width: 560px;" bgcolor=3D"#FFFFFF" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D=
+"left" valign=3D"middle" width=3D"250"><a target=3D"_blank" href=3D"http://=
+www.csdedicated.com/client2/tl.php?p=3D1il/1i6/rs/2zbw/s7/rs//https%3A%2F%2=
+Fevent.2performant.com%2Fevents%2Fclick%3Fad_type%3Dquicklink%26aff_code%3D=
+56551ef66%26unique%3De9bc57625%26redirect_to%3Dhttps%253A%2F%2Fwww.retrobou=
+tique.ro%2F" style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 1=
+2px; color: #505050; text-decoration: none;"><font style=3D"font-family: Ar=
+ial,Helvetica,sans-serif; font-size: 12px; color: #505050;" face=3D"Arial, =
+Helvetica, sans-serif"><img src=3D"https://www.retroboutique.ro/uploads/lp/=
+primavara-elizei_w5g4.jpg" alt=3D"-" height=3D"112" width=3D"250" /></font>=
+</a></td>=0A<td width=3D"20"></td>=0A<td align=3D"right" valign=3D"middle">=
+=0A<table style=3D"width: 280px;" bgcolor=3D"#d5f8d6" cellpadding=3D"0" cel=
+lspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" bgcolor=3D"#d5f8d6"=
+ valign=3D"top">=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr=
+>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px; height: 30px;" bgco=
+lor=3D"#8be98d" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td=
+ align=3D"right" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"=
+10"><img src=3D"http://www.therealdeal.ro/img_news/colt_st.jpg" alt=3D"" st=
+yle=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A<td headers=3D=
+"30" align=3D"left" bgcolor=3D"#8be98d" valign=3D"middle" width=3D"100"><fo=
+nt style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 14px; color=
+: #222222;" face=3D"Arial, Helvetica, sans-serif"><b>SALE!</b></font></td>=
+=0A<td align=3D"right" bgcolor=3D"#8be98d" valign=3D"middle"></td>=0A<td al=
+ign=3D"left" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10">=
+<img src=3D"http://www.therealdeal.ro/img_news/colt_dr.jpg" alt=3D"" style=
+=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A</tr>=0A</tbody>=
+=0A</table>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</=
+tbody>=0A</table>=0A<table style=3D"width: 250px; height: 30px;" bgcolor=3D=
+"#8be98d" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=
+=3D"right" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10"><i=
+mg src=3D"http://www.therealdeal.ro/img_news/colt_st.jpg" alt=3D"" style=3D=
+"display: block;" height=3D"30" width=3D"10" /></td>=0A<td headers=3D"30" a=
+lign=3D"left" bgcolor=3D"#8be98d" valign=3D"middle" width=3D"100"><font sty=
+le=3D"font-family: Arial,Helvetica,sans-serif; font-size: 14px; color: #222=
+222;" face=3D"Arial, Helvetica, sans-serif"><b>Reducere:</b></font></td>=0A=
+<td align=3D"right" bgcolor=3D"#8be98d" valign=3D"middle"><font style=3D"fo=
+nt-family: Arial,Helvetica,sans-serif; font-size: 16px; color: #222222;" fa=
+ce=3D"Arial, Helvetica, sans-serif"><b>pana la 55%</b></font></td>=0A<td al=
+ign=3D"left" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10">=
+<img src=3D"http://www.therealdeal.ro/img_news/colt_dr.jpg" alt=3D"" style=
+=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A</tr>=0A</tbody>=
+=0A</table>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</=
+tbody>=0A</table>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" height=3D=
+"26"><font style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 16p=
+x; color: #222222;" face=3D"Arial, Helvetica, sans-serif"><b>STOC LIMITAT!<=
+/b></font></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250p=
+x;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<t=
+d height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width=
+: 250px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr=
+>=0A<td align=3D"center" height=3D"35"><a target=3D"_blank" href=3D"http://=
+www.csdedicated.com/client2/tl.php?p=3D1il/1i6/rs/2zbw/s7/rs//https%3A%2F%2=
+Fevent.2performant.com%2Fevents%2Fclick%3Fad_type%3Dquicklink%26aff_code%3D=
+56551ef66%26unique%3De9bc57625%26redirect_to%3Dhttps%253A%2F%2Fwww.retrobou=
+tique.ro%2F" style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 1=
+6px; color: #505050; text-decoration: none;"><font style=3D"font-family: Ar=
+ial,Helvetica,sans-serif; font-size: 16px; color: #505050;" face=3D"Arial, =
+Helvetica, sans-serif"><img src=3D"http://www.therealdeal.ro/img_news/bt_of=
+erta.jpg" alt=3D"" height=3D"35" border=3D"0" width=3D"155" /></font></a></=
+td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=
+=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</=
+table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 600px=
+;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td=
+ height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width:=
+ 560px;" bgcolor=3D"#8be98d" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">=0A<tbody>=0A<tr>=0A<td height=3D"2" bgcolor=3D"#8be98d"></td>=0A</tr>=
+=0A</tbody>=0A</table>=0A<br />=0A<table style=3D"width: 600px;" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr></tr>=0A</tbody>=0A=
+</table>=0A<table style=3D"width: 560px;" bgcolor=3D"#FFFFFF" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"left" =
+valign=3D"top" width=3D"560" style=3D"text-align: center;"><font style=3D"f=
+ont-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 18px;=
+ color: #505050; font-weight: bold;" face=3D"Arial, Helvetica, sans-serif">=
+<span style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 16px; =
+color: #505050; text-decoration: none; font-weight: bold;"><span style=3D"f=
+ont-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #505050; =
+text-decoration: none; font-weight: bold;"><span><span><span style=3D"font-=
+family: Arial, Helvetica, sans-serif; font-size: 16px; color: #505050; text=
+-decoration: none; font-weight: bold;"><span><span><span><span><span><span>=
+<span><span><span><span><span><span><span><span><span><span><span><span><sp=
+an><span><span><span>Lenjerie de Pat + Covor Cadou doar 99 Lei!</span></spa=
+n></span></span></span></span></span></span></span></span></span></span></s=
+pan></span></span></span></span></span></span></span></span></span></span><=
+/span></span></span></span></font></td>=0A</tr>=0A</tbody>=0A</table>=0A<ta=
+ble style=3D"width: 560px;" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"left" valign=3D"midd=
+le" width=3D"250"><a target=3D"_blank" href=3D"http://www.csdedicated.com/c=
+lient2/tl.php?p=3D1il/1i6/rs/2zbw/s7/rs//https%3A%2F%2Fevent.2performant.co=
+m%2Fevents%2Fclick%3Fad_type%3Dquicklink%26aff_code%3D56551ef66%26unique%3D=
+b49d5051c%26redirect_to%3Dhttp%253A%2F%2Fwww.lenjeriidepatoutlet.ro%2F85-le=
+njerii-pucioasa-covor-traditional-cadou" style=3D"font-family: Arial,Helvet=
+ica,sans-serif; font-size: 12px; color: #505050; text-decoration: none;"><f=
+ont style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 12px; colo=
+r: #505050;" face=3D"Arial, Helvetica, sans-serif"><img src=3D"http://www.l=
+enjeriidepatoutlet.ro/4599-large_default/lenjerie-pucioasa-c105-covor-tradi=
+tional-cadou.jpg" alt=3D"-" height=3D"250" width=3D"250" /></font></a></td>=
+=0A<td width=3D"20"></td>=0A<td align=3D"right" valign=3D"middle">=0A<table=
+ style=3D"width: 280px;" bgcolor=3D"#d5f8d6" cellpadding=3D"0" cellspacing=
+=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" bgcolor=3D"#d5f8d6" valign=
+=3D"top">=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tb=
+ody>=0A</table>=0A<table style=3D"width: 250px; height: 30px;" bgcolor=3D"#=
+8be98d" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=
+=3D"right" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10"><i=
+mg src=3D"http://www.therealdeal.ro/img_news/colt_st.jpg" alt=3D"" style=3D=
+"display: block;" height=3D"30" width=3D"10" /></td>=0A<td headers=3D"30" a=
+lign=3D"left" bgcolor=3D"#8be98d" valign=3D"middle" width=3D"100"><font sty=
+le=3D"font-family: Arial,Helvetica,sans-serif; font-size: 14px; color: #222=
+222;" face=3D"Arial, Helvetica, sans-serif"><b>SALE!</b></font></td>=0A<td =
+align=3D"right" bgcolor=3D"#8be98d" valign=3D"middle"></td>=0A<td align=3D"=
+left" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10"><img sr=
+c=3D"http://www.therealdeal.ro/img_news/colt_dr.jpg" alt=3D"" style=3D"disp=
+lay: block;" height=3D"30" width=3D"10" /></td>=0A</tr>=0A</tbody>=0A</tabl=
+e>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A=
+</table>=0A<table style=3D"width: 250px; height: 30px;" bgcolor=3D"#8be98d"=
+ cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"right=
+" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10"><img src=3D=
+"http://www.therealdeal.ro/img_news/colt_st.jpg" alt=3D"" style=3D"display:=
+ block;" height=3D"30" width=3D"10" /></td>=0A<td headers=3D"30" align=3D"l=
+eft" bgcolor=3D"#8be98d" valign=3D"middle" width=3D"100"><font style=3D"fon=
+t-family: Arial,Helvetica,sans-serif; font-size: 14px; color: #222222;" fac=
+e=3D"Arial, Helvetica, sans-serif"><b>Reducere:</b></font></td>=0A<td align=
+=3D"right" bgcolor=3D"#8be98d" valign=3D"middle"><font style=3D"font-family=
+: Arial,Helvetica,sans-serif; font-size: 16px; color: #222222;" face=3D"Ari=
+al, Helvetica, sans-serif"><b>pana la 70%</b></font></td>=0A<td align=3D"le=
+ft" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10"><img src=
+=3D"http://www.therealdeal.ro/img_news/colt_dr.jpg" alt=3D"" style=3D"displ=
+ay: block;" height=3D"30" width=3D"10" /></td>=0A</tr>=0A</tbody>=0A</table=
+>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A<=
+/table>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" height=3D"26"><font=
+ style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 16px; color: =
+#222222;" face=3D"Arial, Helvetica, sans-serif"><b>STOC LIMITAT!</b></font>=
+</td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=
+=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td =
+align=3D"center" height=3D"35"><font style=3D"font-family: Arial,Helvetica,=
+sans-serif; font-size: 16px; color: #505050;" face=3D"Arial, Helvetica, san=
+s-serif"><a href=3D"http://www.csdedicated.com/client2/tl.php?p=3D1il/1i6/r=
+s/2zbw/s7/rs//https%3A%2F%2Fevent.2performant.com%2Fevents%2Fclick%3Fad_typ=
+e%3Dquicklink%26aff_code%3D56551ef66%26unique%3Db49d5051c%26redirect_to%3Dh=
+ttp%253A%2F%2Fwww.lenjeriidepatoutlet.ro%2F85-lenjerii-pucioasa-covor-tradi=
+tional-cadou"><img src=3D"http://www.therealdeal.ro/img_news/bt_oferta.jpg"=
+ alt=3D"" class=3D"null" height=3D"35" border=3D"0" width=3D"155" /></a></f=
+ont></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td heig=
+ht=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A=
+</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 600=
+px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<=
+td height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"widt=
+h: 560px;" bgcolor=3D"#8be98d" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"2" bgcolor=3D"#8be98d"></td>=0A</t=
+r>=0A</tbody>=0A</table>=0A<table style=3D"width: 600px;" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"20"></td>=
+=0A</tr>=0A</tbody>=0A</table>=0A<strong><span style=3D"font-size: medium;"=
+>Descopera frumusetea mobilei chic!</span></strong><br />=0A<table style=3D=
+"width: 560px;" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"left" valign=3D"middle" width=3D=
+"250"><a href=3D"http://www.csdedicated.com/client2/tl.php?p=3D1il/1i6/rs/2=
+zbw/s7/rs//https%3A%2F%2Fevent.2performant.com%2Fevents%2Fclick%3Fad_type%3=
+Dquicklink%26aff_code%3D56551ef66%26unique%3D3716acaa9%26redirect_to%3Dhttp=
+s%253A%2F%2Fchicville.ro%2F" target=3D"_blank"><img src=3D"https://chicvill=
+e.ro/media/clnews/14882869571454445521.jpg" width=3D"250" height=3D"125" cl=
+ass=3D"null" /></a></td>=0A<td width=3D"20"></td>=0A<td align=3D"right" val=
+ign=3D"middle">=0A<table style=3D"width: 280px;" bgcolor=3D"#d5f8d6" cellpa=
+dding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" bgco=
+lor=3D"#d5f8d6" valign=3D"top">=0A<table border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" style=3D"width: 250px;">=0A<tbody>=0A<tr>=0A<td height=3D"10=
+"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table bgcolor=3D"#8be98d" cellpadd=
+ing=3D"0" cellspacing=3D"0" style=3D"width: 250px; height: 30px;">=0A<tbody=
+>=0A<tr>=0A<td align=3D"right" height=3D"30" bgcolor=3D"#8be98d" valign=3D"=
+top" width=3D"10"><img src=3D"http://www.therealdeal.ro/img_news/colt_st.jp=
+g" alt=3D"" style=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A=
+<td headers=3D"30" align=3D"left" bgcolor=3D"#8be98d" valign=3D"middle" wid=
+th=3D"100"><span style=3D"font-size: medium;"><strong>SALE!</strong></span>=
+</td>=0A<td align=3D"right" bgcolor=3D"#8be98d" valign=3D"middle"></td>=0A<=
+td align=3D"left" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D=
+"10"><img src=3D"http://www.therealdeal.ro/img_news/colt_dr.jpg" alt=3D"" s=
+tyle=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A</tr>=0A</tbo=
+dy>=0A</table>=0A<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"width: 250px;">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=
+=0A</tbody>=0A</table>=0A<table bgcolor=3D"#8be98d" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"width: 250px; height: 30px;">=0A<tbody>=0A<tr>=0A<td =
+align=3D"right" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"1=
+0"><img src=3D"http://www.therealdeal.ro/img_news/colt_st.jpg" alt=3D"" sty=
+le=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A<td headers=3D"=
+30" align=3D"left" bgcolor=3D"#8be98d" valign=3D"middle" width=3D"100"><str=
+ong><span style=3D"font-size: medium;">REDUCERE:&nbsp;</span></strong></td>=
+=0A<td align=3D"right" bgcolor=3D"#8be98d" valign=3D"middle"><span style=3D=
+"font-size: medium;"><strong>75%</strong></span></td>=0A<td align=3D"left" =
+height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10"><img src=3D"h=
+ttp://www.therealdeal.ro/img_news/colt_dr.jpg" alt=3D"" style=3D"display: b=
+lock;" height=3D"30" width=3D"10" /></td>=0A</tr>=0A</tbody>=0A</table>=0A<=
+table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: 250p=
+x;">=0A<tbody>=0A<tr>=0A<td height=3D"10">=0A<p><span style=3D"font-size: s=
+mall;"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p;</strong></span><strong style=3D"font-size: small; text-align: center; ba=
+ckground-color: #ffffff;">STOC LIMITAT!</strong></p>=0A</td>=0A</tr>=0A</tb=
+ody>=0A</table>=0A<br />=0A<table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"width: 250px;">=0A<tbody>=0A<tr>=0A<td height=3D"10">&nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=3D"http://www.csdedicate=
+d.com/client2/tl.php?p=3D1il/1i6/rs/2zbw/s7/rs//https%3A%2F%2Fevent.2perfor=
+mant.com%2Fevents%2Fclick%3Fad_type%3Dquicklink%26aff_code%3D56551ef66%26un=
+ique%3D3716acaa9%26redirect_to%3Dhttps%253A%2F%2Fchicville.ro%2F"><img src=
+=3D"http://www.therealdeal.ro/img_news/bt_oferta.jpg" alt=3D"" class=3D"nul=
+l" height=3D"35" border=3D"0" width=3D"155" /></a></td>=0A</tr>=0A</tbody>=
+=0A</table>=0A<br /><br />=0A<table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" style=3D"width: 250px;">=0A<tbody>=0A<tr></tr>=0A</tbody>=0A</tab=
+le>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</ta=
+ble>=0A<table style=3D"width: 600px;" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"14"></td>=0A</tr>=0A</tbody>=
+=0A</table>=0A<br />=0A<table style=3D"width: 600px;" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A<=
+/tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 560px;" bgcolor=3D"#8be=
+98d" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<=
+td height=3D"2" bgcolor=3D"#8be98d"></td>=0A</tr>=0A</tbody>=0A</table>=0A<=
+table style=3D"width: 600px;" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0">=0A<tbody>=0A<tr>=0A<td height=3D"20"></td>=0A</tr>=0A</tbody>=0A</tabl=
+e>=0A<table style=3D"width: 560px;" bgcolor=3D"#FFFFFF" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"left" valign=
+=3D"top" width=3D"560" style=3D"text-align: center;"><font style=3D"font-fa=
+mily: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 18px; color=
+: #505050; font-weight: bold;" face=3D"Arial, Helvetica, sans-serif"><span =
+style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 16px; color:=
+ #505050; text-decoration: none; font-weight: bold;"><span style=3D"font-fa=
+mily: Arial, Helvetica, sans-serif; font-size: 16px; color: #505050; text-d=
+ecoration: none; font-weight: bold;"><span><span><span style=3D"font-family=
+: Arial, Helvetica, sans-serif; font-size: 16px; color: #505050; text-decor=
+ation: none; font-weight: bold;"><span><span><span><span><span><span><span>=
+<span><span><span><span><span><span><span><span><span><span><span><span><sp=
+an><span><span><span>Scaune de top, tot timpul cele mai bune modele din sez=
+on si cele mai bune oferte!</span></span></span></span></span></span></span=
+></span></span></span></span></span></span></span></span></span></span></sp=
+an></span></span></span></span></span></span></span></span></span></span></=
+font></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 600px;" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td hei=
+ght=3D"14"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 560=
+px;" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=
+=0A<tbody>=0A<tr>=0A<td align=3D"left" valign=3D"middle" width=3D"250"><a t=
+arget=3D"_blank" href=3D"http://www.csdedicated.com/client2/tl.php?p=3D1il/=
+1i6/rs/2zbw/s7/rs//https%3A%2F%2Fevent.2performant.com%2Fevents%2Fclick%3Fa=
+d_type%3Dquicklink%26aff_code%3D56551ef66%26unique%3D0edbd1504%26redirect_t=
+o%3Dhttp%253A%2F%2Fwww.scauneonline.ro%2F" style=3D"font-family: Arial,Helv=
+etica,sans-serif; font-size: 12px; color: #505050; text-decoration: none;">=
+<font style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 12px; co=
+lor: #505050;" face=3D"Arial, Helvetica, sans-serif"><img src=3D"http://www=
+.kalithea.ro/blog/wp-content/uploads/2014/05/scaune.png" alt=3D"-" height=
+=3D"190" width=3D"250" /></font></a></td>=0A<td width=3D"20"></td>=0A<td al=
+ign=3D"right" valign=3D"middle">=0A<table style=3D"width: 280px;" bgcolor=
+=3D"#d5f8d6" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td al=
+ign=3D"center" bgcolor=3D"#d5f8d6" valign=3D"top">=0A<table style=3D"width:=
+ 250px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=
+=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"=
+width: 250px; height: 30px;" bgcolor=3D"#8be98d" cellpadding=3D"0" cellspac=
+ing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"right" height=3D"30" bgcolor=3D"=
+#8be98d" valign=3D"top" width=3D"10"><img src=3D"http://www.therealdeal.ro/=
+img_news/colt_st.jpg" alt=3D"" style=3D"display: block;" height=3D"30" widt=
+h=3D"10" /></td>=0A<td headers=3D"30" align=3D"left" bgcolor=3D"#8be98d" va=
+lign=3D"middle" width=3D"100"><font style=3D"font-family: Arial,Helvetica,s=
+ans-serif; font-size: 14px; color: #222222;" face=3D"Arial, Helvetica, sans=
+-serif"><b>SALE!</b></font></td>=0A<td align=3D"right" bgcolor=3D"#8be98d" =
+valign=3D"middle"></td>=0A<td align=3D"left" height=3D"30" bgcolor=3D"#8be9=
+8d" valign=3D"top" width=3D"10"><img src=3D"http://www.therealdeal.ro/img_n=
+ews/colt_dr.jpg" alt=3D"" style=3D"display: block;" height=3D"30" width=3D"=
+10" /></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td he=
+ight=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 25=
+0px; height: 30px;" bgcolor=3D"#8be98d" cellpadding=3D"0" cellspacing=3D"0"=
+>=0A<tbody>=0A<tr>=0A<td align=3D"right" height=3D"30" bgcolor=3D"#8be98d" =
+valign=3D"top" width=3D"10"><img src=3D"http://www.therealdeal.ro/img_news/=
+colt_st.jpg" alt=3D"" style=3D"display: block;" height=3D"30" width=3D"10" =
+/></td>=0A<td headers=3D"30" align=3D"left" bgcolor=3D"#8be98d" valign=3D"m=
+iddle" width=3D"100"><font style=3D"font-family: Arial,Helvetica,sans-serif=
+; font-size: 14px; color: #222222;" face=3D"Arial, Helvetica, sans-serif"><=
+b>Reducere:</b></font></td>=0A<td align=3D"right" bgcolor=3D"#8be98d" valig=
+n=3D"middle"><font style=3D"font-family: Arial,Helvetica,sans-serif; font-s=
+ize: 16px; color: #222222;" face=3D"Arial, Helvetica, sans-serif"><b>pana l=
+a 80%</b></font></td>=0A<td align=3D"left" height=3D"30" bgcolor=3D"#8be98d=
+" valign=3D"top" width=3D"10"><img src=3D"http://www.therealdeal.ro/img_new=
+s/colt_dr.jpg" alt=3D"" style=3D"display: block;" height=3D"30" width=3D"10=
+" /></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td heig=
+ht=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250p=
+x;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<t=
+d align=3D"center" height=3D"26"><font style=3D"font-family: Arial,Helvetic=
+a,sans-serif; font-size: 16px; color: #222222;" face=3D"Arial, Helvetica, s=
+ans-serif"><b>STOC LIMITAT!</b></font></td>=0A</tr>=0A</tbody>=0A</table>=
+=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A</=
+table>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" height=3D"35"><a tar=
+get=3D"_blank" href=3D"http://www.csdedicated.com/client2/tl.php?p=3D1il/1i=
+6/rs/2zbw/s7/rs//https%3A%2F%2Fevent.2performant.com%2Fevents%2Fclick%3Fad_=
+type%3Dquicklink%26aff_code%3D56551ef66%26unique%3D0edbd1504%26redirect_to%=
+3Dhttp%253A%2F%2Fwww.scauneonline.ro%2F" style=3D"font-family: Arial,Helvet=
+ica,sans-serif; font-size: 16px; color: #505050; text-decoration: none;"><f=
+ont style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 16px; colo=
+r: #505050;" face=3D"Arial, Helvetica, sans-serif"><img src=3D"http://www.t=
+herealdeal.ro/img_news/bt_oferta.jpg" alt=3D"-" height=3D"35" border=3D"0" =
+width=3D"155" /></font></a></td>=0A</tr>=0A</tbody>=0A</table>=0A<table sty=
+le=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<t=
+body>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A</td=
+>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<ta=
+ble style=3D"width: 600px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=
+=0A<table style=3D"width: 560px;" bgcolor=3D"#8be98d" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"2" bgcolor=3D=
+"#8be98d"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 600p=
+x;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<t=
+d height=3D"20"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width=
+: 560px;" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0">=0A<tbody>=0A<tr>=0A<td align=3D"left" valign=3D"top" width=3D"560" sty=
+le=3D"text-align: center;"><font style=3D"font-family: Arial,Helvetica,sans=
+-serif; font-size: 16px; line-height: 18px; color: #505050; font-weight: bo=
+ld;" face=3D"Arial, Helvetica, sans-serif"><span style=3D"font-family: Aria=
+l, Helvetica, sans-serif; font-size: 16px; color: #505050; text-decoration:=
+ none; font-weight: bold;"><span style=3D"font-family: Arial, Helvetica, sa=
+ns-serif; font-size: 16px; color: #505050; text-decoration: none; font-weig=
+ht: bold;"><span><span><span style=3D"font-family: Arial, Helvetica, sans-s=
+erif; font-size: 16px; color: #505050; text-decoration: none; font-weight: =
+bold;"><span><span><span><span><span><span><span><span><span><span><span><s=
+pan><span><span><span><span><span><span><span><span><span><span><span>Unde =
+gasesti oferte cu reduceri pana la 80% la branduri de top, zi de zi? Doar p=
+e Kurtmann!</span></span></span></span></span></span></span></span></span><=
+/span></span></span></span></span></span></span></span></span></span></span=
+></span></span></span></span></span></span></span></span></font></td>=0A</t=
+r>=0A</tbody>=0A</table>=0A<table style=3D"width: 600px;" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"14"></td>=
+=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 560px;" bgcolor=3D"=
+#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=
+=0A<td align=3D"left" valign=3D"middle" width=3D"250"><a target=3D"_blank" =
+href=3D"http://www.csdedicated.com/client2/tl.php?p=3D1il/1i6/rs/2zbw/s7/rs=
+//https%3A%2F%2Fevent.2performant.com%2Fevents%2Fclick%3Fad_type%3Dquicklin=
+k%26aff_code%3D56551ef66%26unique%3D3ce07b645%26redirect_to%3Dhttps%253A%2F=
+%2Fwww.kurtmann.ro%2F" style=3D"font-family: Arial,Helvetica,sans-serif; fo=
+nt-size: 12px; color: #505050; text-decoration: none;"><font style=3D"font-=
+family: Arial,Helvetica,sans-serif; font-size: 12px; color: #505050;" face=
+=3D"Arial, Helvetica, sans-serif"><img src=3D"http://www.kurtmann.ro/images=
+/logosus1.png" alt=3D"-" height=3D"60" width=3D"250" /></font></a></td>=0A<=
+td width=3D"20"></td>=0A<td align=3D"right" valign=3D"middle">=0A<table sty=
+le=3D"width: 280px;" bgcolor=3D"#d5f8d6" cellpadding=3D"0" cellspacing=3D"0=
+">=0A<tbody>=0A<tr>=0A<td align=3D"center" bgcolor=3D"#d5f8d6" valign=3D"to=
+p">=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=
+=0A</table>=0A<table style=3D"width: 250px; height: 30px;" bgcolor=3D"#8be9=
+8d" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"ri=
+ght" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10"><img src=
+=3D"http://www.therealdeal.ro/img_news/colt_st.jpg" alt=3D"" style=3D"displ=
+ay: block;" height=3D"30" width=3D"10" /></td>=0A<td headers=3D"30" align=
+=3D"left" bgcolor=3D"#8be98d" valign=3D"middle" width=3D"100"><font style=
+=3D"font-family: Arial,Helvetica,sans-serif; font-size: 14px; color: #22222=
+2;" face=3D"Arial, Helvetica, sans-serif"><b>SALE!</b></font></td>=0A<td al=
+ign=3D"right" bgcolor=3D"#8be98d" valign=3D"middle"></td>=0A<td align=3D"le=
+ft" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10"><img src=
+=3D"http://www.therealdeal.ro/img_news/colt_dr.jpg" alt=3D"" style=3D"displ=
+ay: block;" height=3D"30" width=3D"10" /></td>=0A</tr>=0A</tbody>=0A</table=
+>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A<=
+/table>=0A<table style=3D"width: 250px; height: 30px;" bgcolor=3D"#8be98d" =
+cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"right"=
+ height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10"><img src=3D"=
+http://www.therealdeal.ro/img_news/colt_st.jpg" alt=3D"" style=3D"display: =
+block;" height=3D"30" width=3D"10" /></td>=0A<td headers=3D"30" align=3D"le=
+ft" bgcolor=3D"#8be98d" valign=3D"middle" width=3D"100"><font style=3D"font=
+-family: Arial,Helvetica,sans-serif; font-size: 14px; color: #222222;" face=
+=3D"Arial, Helvetica, sans-serif"><b>Reducere:</b></font></td>=0A<td align=
+=3D"right" bgcolor=3D"#8be98d" valign=3D"middle"><font style=3D"font-family=
+: Arial,Helvetica,sans-serif; font-size: 16px; color: #222222;" face=3D"Ari=
+al, Helvetica, sans-serif"><b>pana la 80%</b></font></td>=0A<td align=3D"le=
+ft" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10"><img src=
+=3D"http://www.therealdeal.ro/img_news/colt_dr.jpg" alt=3D"" style=3D"displ=
+ay: block;" height=3D"30" width=3D"10" /></td>=0A</tr>=0A</tbody>=0A</table=
+>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A<=
+/table>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" height=3D"26"><font=
+ style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 16px; color: =
+#222222;" face=3D"Arial, Helvetica, sans-serif"><b>STOC LIMITAT!</b></font>=
+</td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=
+=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td =
+align=3D"center" height=3D"35"><a target=3D"_blank" href=3D"http://www.csde=
+dicated.com/client2/tl.php?p=3D1il/1i6/rs/2zbw/s7/rs//https%3A%2F%2Fevent.2=
+performant.com%2Fevents%2Fclick%3Fad_type%3Dquicklink%26aff_code%3D56551ef6=
+6%26unique%3D3ce07b645%26redirect_to%3Dhttps%253A%2F%2Fwww.kurtmann.ro%2F" =
+style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 16px; color: #=
+505050; text-decoration: none;"><font style=3D"font-family: Arial,Helvetica=
+,sans-serif; font-size: 16px; color: #505050;" face=3D"Arial, Helvetica, sa=
+ns-serif"><img src=3D"http://www.therealdeal.ro/img_news/bt_oferta.jpg" alt=
+=3D"-" height=3D"35" border=3D"0" width=3D"155" /></font></a></td>=0A</tr>=
+=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=
+=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</td=
+>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 600px;" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10=
+"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 560px;" bgco=
+lor=3D"#8be98d" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=
+=0A<tr>=0A<td height=3D"2" bgcolor=3D"#8be98d"></td>=0A</tr>=0A</tbody>=0A<=
+/table>=0A<table style=3D"width: 600px;" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"20"></td>=0A</tr>=0A</tbod=
+y>=0A</table>=0A<table style=3D"width: 560px;" bgcolor=3D"#FFFFFF" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D=
+"left" valign=3D"top" width=3D"560" style=3D"text-align: center;"><font sty=
+le=3D"font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height=
+: 18px; color: #505050; font-weight: bold;" face=3D"Arial, Helvetica, sans-=
+serif"><span style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+ 16px; color: #505050; text-decoration: none; font-weight: bold;"><span sty=
+le=3D"font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #5=
+05050; text-decoration: none; font-weight: bold;"><span><span><span style=
+=3D"font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #505=
+050; text-decoration: none; font-weight: bold;"><span><span><span><span><sp=
+an><span><span><span><span><span><span><span><span><span><span><span><span>=
+<span><span><span><span><span><span>Despre ceasuri nu am vorbit pana acum. =
+Blackfriday a inceput mai devreme!</span></span></span></span></span></span=
+></span></span></span></span></span></span></span></span></span></span></sp=
+an></span></span></span></span></span></span></span></span></span></span></=
+span></font></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 60=
+0px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A=
+<td height=3D"14"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"wid=
+th: 560px;" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"left" valign=3D"middle" width=3D"25=
+0"><a target=3D"_blank" href=3D"http://www.csdedicated.com/client2/tl.php?p=
+=3D1il/1i6/rs/2zbw/s7/rs//https%3A%2F%2Fevent.2performant.com%2Fevents%2Fcl=
+ick%3Fad_type%3Dquicklink%26aff_code%3D56551ef66%26unique%3D2e49eab4f%26red=
+irect_to%3Dhttps%253A%2F%2Fwww.watchshop.ro%2F" style=3D"font-family: Arial=
+,Helvetica,sans-serif; font-size: 12px; color: #505050; text-decoration: no=
+ne;"><font style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 12p=
+x; color: #505050;" face=3D"Arial, Helvetica, sans-serif"><img src=3D"https=
+://www.watchshop.ro/views/watchshop/imagini/layout/logo.png" alt=3D"-" heig=
+ht=3D"121" width=3D"250" /></font></a></td>=0A<td width=3D"20"></td>=0A<td =
+align=3D"right" valign=3D"middle">=0A<table style=3D"width: 280px;" bgcolor=
+=3D"#d5f8d6" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td al=
+ign=3D"center" bgcolor=3D"#d5f8d6" valign=3D"top">=0A<table style=3D"width:=
+ 250px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=
+=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"=
+width: 250px; height: 30px;" bgcolor=3D"#8be98d" cellpadding=3D"0" cellspac=
+ing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"right" height=3D"30" bgcolor=3D"=
+#8be98d" valign=3D"top" width=3D"10"><img src=3D"http://www.therealdeal.ro/=
+img_news/colt_st.jpg" alt=3D"" style=3D"display: block;" height=3D"30" widt=
+h=3D"10" /></td>=0A<td headers=3D"30" align=3D"left" bgcolor=3D"#8be98d" va=
+lign=3D"middle" width=3D"100"><font style=3D"font-family: Arial,Helvetica,s=
+ans-serif; font-size: 14px; color: #222222;" face=3D"Arial, Helvetica, sans=
+-serif"><b>SALE!</b></font></td>=0A<td align=3D"right" bgcolor=3D"#8be98d" =
+valign=3D"middle"></td>=0A<td align=3D"left" height=3D"30" bgcolor=3D"#8be9=
+8d" valign=3D"top" width=3D"10"><img src=3D"http://www.therealdeal.ro/img_n=
+ews/colt_dr.jpg" alt=3D"" style=3D"display: block;" height=3D"30" width=3D"=
+10" /></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td he=
+ight=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 25=
+0px; height: 30px;" bgcolor=3D"#8be98d" cellpadding=3D"0" cellspacing=3D"0"=
+>=0A<tbody>=0A<tr>=0A<td align=3D"right" height=3D"30" bgcolor=3D"#8be98d" =
+valign=3D"top" width=3D"10"><img src=3D"http://www.therealdeal.ro/img_news/=
+colt_st.jpg" alt=3D"" style=3D"display: block;" height=3D"30" width=3D"10" =
+/></td>=0A<td headers=3D"30" align=3D"left" bgcolor=3D"#8be98d" valign=3D"m=
+iddle" width=3D"100"><font style=3D"font-family: Arial,Helvetica,sans-serif=
+; font-size: 14px; color: #222222;" face=3D"Arial, Helvetica, sans-serif"><=
+b>Reducere:</b></font></td>=0A<td align=3D"right" bgcolor=3D"#8be98d" valig=
+n=3D"middle"><font style=3D"font-family: Arial,Helvetica,sans-serif; font-s=
+ize: 16px; color: #222222;" face=3D"Arial, Helvetica, sans-serif"><b>pana l=
+a 50%</b></font></td>=0A<td align=3D"left" height=3D"30" bgcolor=3D"#8be98d=
+" valign=3D"top" width=3D"10"><img src=3D"http://www.therealdeal.ro/img_new=
+s/colt_dr.jpg" alt=3D"" style=3D"display: block;" height=3D"30" width=3D"10=
+" /></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td heig=
+ht=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250p=
+x;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<t=
+d align=3D"center" height=3D"26"><font style=3D"font-family: Arial,Helvetic=
+a,sans-serif; font-size: 16px; color: #222222;" face=3D"Arial, Helvetica, s=
+ans-serif"><b>STOC LIMITAT!</b></font></td>=0A</tr>=0A</tbody>=0A</table>=
+=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A</=
+table>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" height=3D"35"><a tar=
+get=3D"_blank" href=3D"http://www.csdedicated.com/client2/tl.php?p=3D1il/1i=
+6/rs/2zbw/s7/rs//https%3A%2F%2Fevent.2performant.com%2Fevents%2Fclick%3Fad_=
+type%3Dquicklink%26aff_code%3D56551ef66%26unique%3D2e49eab4f%26redirect_to%=
+3Dhttps%253A%2F%2Fwww.watchshop.ro%2F" style=3D"font-family: Arial,Helvetic=
+a,sans-serif; font-size: 16px; color: #505050; text-decoration: none;"><fon=
+t style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 16px; color:=
+ #505050;" face=3D"Arial, Helvetica, sans-serif"><img src=3D"http://www.the=
+realdeal.ro/img_news/bt_oferta.jpg" alt=3D"-" height=3D"35" border=3D"0" wi=
+dth=3D"155" /></font></a></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=
+=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbo=
+dy>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=
+=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<tab=
+le style=3D"width: 600px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+>=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=
+=0A<table style=3D"width: 560px;" bgcolor=3D"#8be98d" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"2" bgcolor=3D=
+"#8be98d"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 600p=
+x;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<t=
+d height=3D"20"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width=
+: 560px;" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0">=0A<tbody>=0A<tr>=0A<td align=3D"left" valign=3D"top" width=3D"560" sty=
+le=3D"text-align: center;"><font style=3D"font-family: Arial,Helvetica,sans=
+-serif; font-size: 16px; line-height: 18px; color: #505050; font-weight: bo=
+ld;" face=3D"Arial, Helvetica, sans-serif"><span style=3D"font-family: Aria=
+l, Helvetica, sans-serif; font-size: 16px; color: #505050; text-decoration:=
+ none; font-weight: bold;"><span style=3D"font-family: Arial, Helvetica, sa=
+ns-serif; font-size: 16px; color: #505050; text-decoration: none; font-weig=
+ht: bold;"><span><span><span style=3D"font-family: Arial, Helvetica, sans-s=
+erif; font-size: 16px; color: #505050; text-decoration: none; font-weight: =
+bold;"><span><span><span><span><span><span><span><span><span><span><span><s=
+pan><span><span><span><span>Ar trebui sa pleci intr-o vacanta bine meritata=
+! Gaseste o super oferta de bilete de zbor si cazare prin Vola!</span></spa=
+n></span></span></span></span></span></span></span></span></span></span></s=
+pan></span></span></span></span></span></span></span></span></font></td>=0A=
+</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 600px;" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"14"></=
+td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 560px;" bgcolor=
+=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A=
+<tr>=0A<td align=3D"left" valign=3D"middle" width=3D"250"><a target=3D"_bla=
+nk" href=3D"http://www.csdedicated.com/client2/tl.php?p=3D1il/1i6/rs/2zbw/s=
+7/rs//http%3A%2F%2Fwww.csdedicated.com%2Fclient4%2Ftl.php%3Fp%3D1p8%2Frs%2F=
+rs%2Frt%2Fs1%2Frt%2F%2Fhttps%253A%252F%252Fevent.2parale.ro%252Fevents%252F=
+click%253Fad_type%253Dquicklink%2526aff_code%253Dd84860d20%2526unique%253D0=
+afdfd117%2526redirect_to%253Dhttps%2525253A%2525252F%2525252Fwww.vola.ro%25=
+25252F" style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 12px; =
+color: #505050; text-decoration: none;"><font style=3D"font-family: Arial,H=
+elvetica,sans-serif; font-size: 12px; color: #505050;" face=3D"Arial, Helve=
+tica, sans-serif"><img src=3D"http://cupoanereduceri.com/wp-content/uploads=
+/2016/06/vola-bilete-de-avion-reducere.gif" alt=3D"-" height=3D"208" width=
+=3D"250" /></font></a></td>=0A<td width=3D"20"></td>=0A<td align=3D"right" =
+valign=3D"middle">=0A<table style=3D"width: 280px;" bgcolor=3D"#d5f8d6" cel=
+lpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" b=
+gcolor=3D"#d5f8d6" valign=3D"top">=0A<table style=3D"width: 250px;" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=
+=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;=
+ height: 30px;" bgcolor=3D"#8be98d" cellpadding=3D"0" cellspacing=3D"0">=0A=
+<tbody>=0A<tr>=0A<td align=3D"right" height=3D"30" bgcolor=3D"#8be98d" vali=
+gn=3D"top" width=3D"10"><img src=3D"http://www.therealdeal.ro/img_news/colt=
+_st.jpg" alt=3D"" style=3D"display: block;" height=3D"30" width=3D"10" /></=
+td>=0A<td headers=3D"30" align=3D"left" bgcolor=3D"#8be98d" valign=3D"middl=
+e" width=3D"100"><font style=3D"font-family: Arial,Helvetica,sans-serif; fo=
+nt-size: 14px; color: #222222;" face=3D"Arial, Helvetica, sans-serif"><b>SA=
+LE!</b></font></td>=0A<td align=3D"right" bgcolor=3D"#8be98d" valign=3D"mid=
+dle"></td>=0A<td align=3D"left" height=3D"30" bgcolor=3D"#8be98d" valign=3D=
+"top" width=3D"10"><img src=3D"http://www.therealdeal.ro/img_news/colt_dr.j=
+pg" alt=3D"" style=3D"display: block;" height=3D"30" width=3D"10" /></td>=
+=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"=
+></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px; height=
+: 30px;" bgcolor=3D"#8be98d" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=
+=0A<tr>=0A<td align=3D"right" height=3D"30" bgcolor=3D"#8be98d" valign=3D"t=
+op" width=3D"10"><img src=3D"http://www.therealdeal.ro/img_news/colt_st.jpg=
+" alt=3D"" style=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A<=
+td headers=3D"30" align=3D"left" bgcolor=3D"#8be98d" valign=3D"middle" widt=
+h=3D"100"><font style=3D"font-family: Arial,Helvetica,sans-serif; font-size=
+: 14px; color: #222222;" face=3D"Arial, Helvetica, sans-serif"><b>Reducere:=
+</b></font></td>=0A<td align=3D"right" bgcolor=3D"#8be98d" valign=3D"middle=
+"><font style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 16px; =
+color: #222222;" face=3D"Arial, Helvetica, sans-serif"><b>pana la 50%</b></=
+font></td>=0A<td align=3D"left" height=3D"30" bgcolor=3D"#8be98d" valign=3D=
+"top" width=3D"10"><img src=3D"http://www.therealdeal.ro/img_news/colt_dr.j=
+pg" alt=3D"" style=3D"display: block;" height=3D"30" width=3D"10" /></td>=
+=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"=
+></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=
+=3D"center" height=3D"26"><font style=3D"font-family: Arial,Helvetica,sans-=
+serif; font-size: 16px; color: #222222;" face=3D"Arial, Helvetica, sans-ser=
+if"><b>STOC LIMITAT!</b></font></td>=0A</tr>=0A</tbody>=0A</table>=0A<table=
+ style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=
+=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=
+=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" height=3D"35"><a target=3D=
+"_blank" href=3D"http://www.csdedicated.com/client2/tl.php?p=3D1il/1i6/rs/2=
+zbw/s7/rs//http%3A%2F%2Fwww.csdedicated.com%2Fclient4%2Ftl.php%3Fp%3D1p8%2F=
+rs%2Frs%2Frt%2Fs1%2Frt%2F%2Fhttps%253A%252F%252Fevent.2parale.ro%252Fevents=
+%252Fclick%253Fad_type%253Dquicklink%2526aff_code%253Dd84860d20%2526unique%=
+253D0afdfd117%2526redirect_to%253Dhttps%2525253A%2525252F%2525252Fwww.vola.=
+ro%2525252F" style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 1=
+6px; color: #505050; text-decoration: none;"><font style=3D"font-family: Ar=
+ial,Helvetica,sans-serif; font-size: 16px; color: #505050;" face=3D"Arial, =
+Helvetica, sans-serif"><img src=3D"http://www.therealdeal.ro/img_news/bt_of=
+erta.jpg" alt=3D"-" height=3D"35" border=3D"0" width=3D"155" /></font></a><=
+/td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=
+=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</=
+table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 600px=
+;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td=
+ height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width:=
+ 560px;" bgcolor=3D"#8be98d" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">=0A<tbody>=0A<tr>=0A<td height=3D"2" bgcolor=3D"#8be98d"></td>=0A</tr>=
+=0A</tbody>=0A</table>=0A<table style=3D"width: 600px;" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"20"></td>=
+=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 560px;" bgcolor=3D"=
+#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=
+=0A<td align=3D"left" valign=3D"top" width=3D"560"><font style=3D"font-fami=
+ly: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 18px; color: =
+#505050; font-weight: bold;" face=3D"Arial, Helvetica, sans-serif"><span st=
+yle=3D"font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #=
+505050; text-decoration: none; font-weight: bold;"><span style=3D"font-fami=
+ly: Arial, Helvetica, sans-serif; font-size: 16px; color: #505050; text-dec=
+oration: none; font-weight: bold;"><span><span><span style=3D"font-family: =
+Arial, Helvetica, sans-serif; font-size: 16px; color: #505050; text-decorat=
+ion: none; font-weight: bold;"><span><span><span><span><span><span><span><s=
+pan><span><span><span><span>DYfashion.ro - Cele mai frumoase rochii pentru =
+ea!</span></span></span></span></span></span></span></span></span></span></=
+span></span></span></span></span></span></span></font></td>=0A</tr>=0A</tbo=
+dy>=0A</table>=0A<table style=3D"width: 600px;" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"14"></td>=0A</tr>=
+=0A</tbody>=0A</table>=0A<table style=3D"width: 560px;" bgcolor=3D"#FFFFFF"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td a=
+lign=3D"left" valign=3D"middle" width=3D"250"><a target=3D"_blank" href=3D"=
+http://www.csdedicated.com/client2/tl.php?p=3D1il/1i6/rs/2zbw/s7/rs//https%=
+3A%2F%2Fevent.2performant.com%2Fevents%2Fclick%3Fad_type%3Dquicklink%26aff_=
+code%3D56551ef66%26unique%3D884f13c4f%26redirect_to%3Dhttps%253A%2F%2Fwww.d=
+yfashion.ro%2F" style=3D"font-family: Arial,Helvetica,sans-serif; font-size=
+: 12px; color: #505050; text-decoration: none;"><font style=3D"font-family:=
+ Arial,Helvetica,sans-serif; font-size: 12px; color: #505050;" face=3D"Aria=
+l, Helvetica, sans-serif"><img src=3D"https://lh3.googleusercontent.com/-xi=
+by9-U_5jU/VxzA8aBZ0_I/AAAAAAAABbg/bhlDCMFTWYAd3xoKGHAh1aSME3GjquPxg/w1600-h=
+1600/iris%2Bsi%2Bimperial.jpg" alt=3D"-" height=3D"250" width=3D"250" /></f=
+ont></a></td>=0A<td width=3D"20"></td>=0A<td align=3D"right" valign=3D"midd=
+le">=0A<table style=3D"width: 280px;" bgcolor=3D"#d5f8d6" cellpadding=3D"0"=
+ cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" bgcolor=3D"#d5f=
+8d6" valign=3D"top">=0A<table style=3D"width: 250px;" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A<=
+/tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px; height: 30px;" b=
+gcolor=3D"#8be98d" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A=
+<td align=3D"right" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=
+=3D"10"><img src=3D"http://www.therealdeal.ro/img_news/colt_st.jpg" alt=3D"=
+" style=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A<td header=
+s=3D"30" align=3D"left" bgcolor=3D"#8be98d" valign=3D"middle" width=3D"100"=
+><font style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 14px; c=
+olor: #222222;" face=3D"Arial, Helvetica, sans-serif"><b>SALE!</b></font></=
+td>=0A<td align=3D"right" bgcolor=3D"#8be98d" valign=3D"middle"></td>=0A<td=
+ align=3D"left" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"1=
+0"><img src=3D"http://www.therealdeal.ro/img_news/colt_dr.jpg" alt=3D"" sty=
+le=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A</tr>=0A</tbody=
+>=0A</table>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A<=
+/tbody>=0A</table>=0A<table style=3D"width: 250px; height: 30px;" bgcolor=
+=3D"#8be98d" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td al=
+ign=3D"right" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10"=
+><img src=3D"http://www.therealdeal.ro/img_news/colt_st.jpg" alt=3D"" style=
+=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A<td headers=3D"30=
+" align=3D"left" bgcolor=3D"#8be98d" valign=3D"middle" width=3D"100"><font =
+style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 14px; color: #=
+222222;" face=3D"Arial, Helvetica, sans-serif"><b>Reducere:</b></font></td>=
+=0A<td align=3D"right" bgcolor=3D"#8be98d" valign=3D"middle"><font style=3D=
+"font-family: Arial,Helvetica,sans-serif; font-size: 16px; color: #222222;"=
+ face=3D"Arial, Helvetica, sans-serif"><b>pana la 45%</b></font></td>=0A<td=
+ align=3D"left" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"1=
+0"><img src=3D"http://www.therealdeal.ro/img_news/colt_dr.jpg" alt=3D"" sty=
+le=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A</tr>=0A</tbody=
+>=0A</table>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A<=
+/tbody>=0A</table>=0A<table style=3D"width: 250px;" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" height=
+=3D"26"><font style=3D"font-family: Arial,Helvetica,sans-serif; font-size: =
+16px; color: #222222;" face=3D"Arial, Helvetica, sans-serif"><b>STOC LIMITA=
+T!</b></font></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 2=
+50px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=
+=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"=
+width: 250px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=
+=0A<tr>=0A<td align=3D"center" height=3D"35"><a target=3D"_blank" href=3D"h=
+ttp://www.csdedicated.com/client2/tl.php?p=3D1il/1i6/rs/2zbw/s7/rs//https%3=
+A%2F%2Fevent.2performant.com%2Fevents%2Fclick%3Fad_type%3Dquicklink%26aff_c=
+ode%3D56551ef66%26unique%3D884f13c4f%26redirect_to%3Dhttps%253A%2F%2Fwww.dy=
+fashion.ro%2F" style=3D"font-family: Arial,Helvetica,sans-serif; font-size:=
+ 16px; color: #505050; text-decoration: none;"><font style=3D"font-family: =
+Arial,Helvetica,sans-serif; font-size: 16px; color: #505050;" face=3D"Arial=
+, Helvetica, sans-serif"><img src=3D"http://www.therealdeal.ro/img_news/bt_=
+oferta.jpg" alt=3D"-" height=3D"35" border=3D"0" width=3D"155" /></font></a=
+></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=
+=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</=
+table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 600px=
+;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td=
+ height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width:=
+ 560px;" bgcolor=3D"#8be98d" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">=0A<tbody>=0A<tr>=0A<td height=3D"2" bgcolor=3D"#8be98d"></td>=0A</tr>=
+=0A</tbody>=0A</table>=0A<table style=3D"width: 600px;" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"20"></td>=
+=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 560px;" bgcolor=3D"=
+#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=
+=0A<td align=3D"left" valign=3D"top" width=3D"560"><font style=3D"font-fami=
+ly: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 18px; color: =
+#505050; font-weight: bold;" face=3D"Arial, Helvetica, sans-serif"><span st=
+yle=3D"font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #=
+505050; text-decoration: none; font-weight: bold;"><span style=3D"font-fami=
+ly: Arial, Helvetica, sans-serif; font-size: 16px; color: #505050; text-dec=
+oration: none; font-weight: bold;"><span><span><span style=3D"font-family: =
+Arial, Helvetica, sans-serif; font-size: 16px; color: #505050; text-decorat=
+ion: none; font-weight: bold;"><span><span><span><span><span><span><span><s=
+pan><span><span><span>Fashion Best Selleres pentru Ea doar la Fashion-24.ro=
+ !</span></span></span></span></span></span></span></span></span></span></s=
+pan></span></span></span></span></span></font></td>=0A</tr>=0A</tbody>=0A</=
+table>=0A<table style=3D"width: 600px;" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"14"></td>=0A</tr>=0A</tbody=
+>=0A</table>=0A<table style=3D"width: 560px;" bgcolor=3D"#FFFFFF" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"le=
+ft" valign=3D"middle" width=3D"250"><a target=3D"_blank" href=3D"http://www=
+.csdedicated.com/client2/tl.php?p=3D1il/1i6/rs/2zbw/s7/rs//https%3A%2F%2Fev=
+ent.2performant.com%2Fevents%2Fclick%3Fad_type%3Dquicklink%26aff_code%3D565=
+51ef66%26unique%3D028b76b06%26redirect_to%3Dhttps%253A%2F%2Fwww.fashion-24.=
+ro%2F" style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 12px; c=
+olor: #505050; text-decoration: none;"><font style=3D"font-family: Arial,He=
+lvetica,sans-serif; font-size: 12px; color: #505050;" face=3D"Arial, Helvet=
+ica, sans-serif"><img src=3D"https://solismagazine.com/wp-content/uploads/2=
+015/10/Banner24.jpg" alt=3D"-" height=3D"143" width=3D"250" /></font></a></=
+td>=0A<td width=3D"20"></td>=0A<td align=3D"right" valign=3D"middle">=0A<ta=
+ble style=3D"width: 280px;" bgcolor=3D"#d5f8d6" cellpadding=3D"0" cellspaci=
+ng=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" bgcolor=3D"#d5f8d6" valig=
+n=3D"top">=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</t=
+body>=0A</table>=0A<table style=3D"width: 250px; height: 30px;" bgcolor=3D"=
+#8be98d" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=
+=3D"right" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10"><i=
+mg src=3D"http://www.therealdeal.ro/img_news/colt_st.jpg" alt=3D"" style=3D=
+"display: block;" height=3D"30" width=3D"10" /></td>=0A<td headers=3D"30" a=
+lign=3D"left" bgcolor=3D"#8be98d" valign=3D"middle" width=3D"100"><font sty=
+le=3D"font-family: Arial,Helvetica,sans-serif; font-size: 14px; color: #222=
+222;" face=3D"Arial, Helvetica, sans-serif"><b>SALE!</b></font></td>=0A<td =
+align=3D"right" bgcolor=3D"#8be98d" valign=3D"middle"></td>=0A<td align=3D"=
+left" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10"><img sr=
+c=3D"http://www.therealdeal.ro/img_news/colt_dr.jpg" alt=3D"" style=3D"disp=
+lay: block;" height=3D"30" width=3D"10" /></td>=0A</tr>=0A</tbody>=0A</tabl=
+e>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A=
+</table>=0A<table style=3D"width: 250px; height: 30px;" bgcolor=3D"#8be98d"=
+ cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"right=
+" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10"><img src=3D=
+"http://www.therealdeal.ro/img_news/colt_st.jpg" alt=3D"" style=3D"display:=
+ block;" height=3D"30" width=3D"10" /></td>=0A<td headers=3D"30" align=3D"l=
+eft" bgcolor=3D"#8be98d" valign=3D"middle" width=3D"100"><font style=3D"fon=
+t-family: Arial,Helvetica,sans-serif; font-size: 14px; color: #222222;" fac=
+e=3D"Arial, Helvetica, sans-serif"><b>Reducere:</b></font></td>=0A<td align=
+=3D"right" bgcolor=3D"#8be98d" valign=3D"middle"><font style=3D"font-family=
+: Arial,Helvetica,sans-serif; font-size: 16px; color: #222222;" face=3D"Ari=
+al, Helvetica, sans-serif"><b>pana la 50%</b></font></td>=0A<td align=3D"le=
+ft" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10"><img src=
+=3D"http://www.therealdeal.ro/img_news/colt_dr.jpg" alt=3D"" style=3D"displ=
+ay: block;" height=3D"30" width=3D"10" /></td>=0A</tr>=0A</tbody>=0A</table=
+>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A<=
+/table>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" height=3D"26"><font=
+ style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 16px; color: =
+#222222;" face=3D"Arial, Helvetica, sans-serif"><b>STOC LIMITAT!</b></font>=
+</td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=
+=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td =
+align=3D"center" height=3D"35"><a target=3D"_blank" href=3D"http://www.csde=
+dicated.com/client2/tl.php?p=3D1il/1i6/rs/2zbw/s7/rs//https%3A%2F%2Fevent.2=
+performant.com%2Fevents%2Fclick%3Fad_type%3Dquicklink%26aff_code%3D56551ef6=
+6%26unique%3D028b76b06%26redirect_to%3Dhttps%253A%2F%2Fwww.fashion-24.ro%2F=
+" style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 16px; color:=
+ #505050; text-decoration: none;"><font style=3D"font-family: Arial,Helveti=
+ca,sans-serif; font-size: 16px; color: #505050;" face=3D"Arial, Helvetica, =
+sans-serif"><img src=3D"http://www.therealdeal.ro/img_news/bt_oferta.jpg" a=
+lt=3D"-" height=3D"35" border=3D"0" width=3D"155" /></font></a></td>=0A</tr=
+>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=
+=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</td=
+>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 600px;" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10=
+"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 560px;" bgco=
+lor=3D"#8be98d" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=
+=0A<tr>=0A<td height=3D"2" bgcolor=3D"#8be98d"></td>=0A</tr>=0A</tbody>=0A<=
+/table>=0A<table style=3D"width: 600px;" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"20"></td>=0A</tr>=0A</tbod=
+y>=0A</table>=0A<table style=3D"width: 560px;" bgcolor=3D"#FFFFFF" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D=
+"left" valign=3D"top" width=3D"560"><font style=3D"font-family: Arial,Helve=
+tica,sans-serif; font-size: 16px; line-height: 18px; color: #505050; font-w=
+eight: bold;" face=3D"Arial, Helvetica, sans-serif"><span style=3D"font-fam=
+ily: Arial, Helvetica, sans-serif; font-size: 16px; color: #505050; text-de=
+coration: none; font-weight: bold;"><span style=3D"font-family: Arial, Helv=
+etica, sans-serif; font-size: 16px; color: #505050; text-decoration: none; =
+font-weight: bold;"><span><span><span style=3D"font-family: Arial, Helvetic=
+a, sans-serif; font-size: 16px; color: #505050; text-decoration: none; font=
+-weight: bold;"><span><span><span><span><span><span><span><span><span><span=
+>Cele mai frumoase tinute pentru ea doar la StarShiners!</span></span></spa=
+n></span></span></span></span></span></span></span></span></span></span></s=
+pan></span></font></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"wid=
+th: 600px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<=
+tr>=0A<td height=3D"14"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=
+=3D"width: 560px;" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"left" valign=3D"middle" width=
+=3D"250"><a target=3D"_blank" href=3D"http://www.csdedicated.com/client2/tl=
+.php?p=3D1il/1i6/rs/2zbw/s7/rs//https%3A%2F%2Fevent.2performant.com%2Fevent=
+s%2Fclick%3Fad_type%3Dquicklink%26aff_code%3D56551ef66%26unique%3D103346d28=
+%26redirect_to%3Dhttps%253A%2F%2Fstarshiners.ro%2F" style=3D"font-family: A=
+rial,Helvetica,sans-serif; font-size: 12px; color: #505050; text-decoration=
+: none;"><font style=3D"font-family: Arial,Helvetica,sans-serif; font-size:=
+ 12px; color: #505050;" face=3D"Arial, Helvetica, sans-serif"><img src=3D"h=
+ttps://encrypted-tbn1.gstatic.com/images?q=3Dtbn:ANd9GcSgn3HC9sEozNOd6BFI99=
+dVWhpLY5v2RpZsu8TYDKJxdptf4jmf" alt=3D"-" height=3D"200" width=3D"240" /></=
+font></a></td>=0A<td width=3D"20"></td>=0A<td align=3D"right" valign=3D"mid=
+dle">=0A<table style=3D"width: 280px;" bgcolor=3D"#d5f8d6" cellpadding=3D"0=
+" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" bgcolor=3D"#d5=
+f8d6" valign=3D"top">=0A<table style=3D"width: 250px;" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A=
+</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px; height: 30px;" =
+bgcolor=3D"#8be98d" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=
+=0A<td align=3D"right" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" wid=
+th=3D"10"><img src=3D"http://www.therealdeal.ro/img_news/colt_st.jpg" alt=
+=3D"" style=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A<td he=
+aders=3D"30" align=3D"left" bgcolor=3D"#8be98d" valign=3D"middle" width=3D"=
+100"><font style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 14p=
+x; color: #222222;" face=3D"Arial, Helvetica, sans-serif"><b>SALE!</b></fon=
+t></td>=0A<td align=3D"right" bgcolor=3D"#8be98d" valign=3D"middle"></td>=
+=0A<td align=3D"left" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" widt=
+h=3D"10"><img src=3D"http://www.therealdeal.ro/img_news/colt_dr.jpg" alt=3D=
+"" style=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A</tr>=0A<=
+/tbody>=0A</table>=0A<table style=3D"width: 250px;" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</t=
+r>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px; height: 30px;" bgc=
+olor=3D"#8be98d" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<t=
+d align=3D"right" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D=
+"10"><img src=3D"http://www.therealdeal.ro/img_news/colt_st.jpg" alt=3D"" s=
+tyle=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A<td headers=
+=3D"30" align=3D"left" bgcolor=3D"#8be98d" valign=3D"middle" width=3D"100">=
+<font style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 14px; co=
+lor: #222222;" face=3D"Arial, Helvetica, sans-serif"><b>Reducere:</b></font=
+></td>=0A<td align=3D"right" bgcolor=3D"#8be98d" valign=3D"middle"><font st=
+yle=3D"font-family: Arial,Helvetica,sans-serif; font-size: 16px; color: #22=
+2222;" face=3D"Arial, Helvetica, sans-serif"><b>pana la 50%</b></font></td>=
+=0A<td align=3D"left" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" widt=
+h=3D"10"><img src=3D"http://www.therealdeal.ro/img_news/colt_dr.jpg" alt=3D=
+"" style=3D"display: block;" height=3D"30" width=3D"10" /></td>=0A</tr>=0A<=
+/tbody>=0A</table>=0A<table style=3D"width: 250px;" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</t=
+r>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" he=
+ight=3D"26"><font style=3D"font-family: Arial,Helvetica,sans-serif; font-si=
+ze: 16px; color: #222222;" face=3D"Arial, Helvetica, sans-serif"><b>STOC LI=
+MITAT!</b></font></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"widt=
+h: 250px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<t=
+r>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=
+=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbo=
+dy>=0A<tr>=0A<td align=3D"center" height=3D"35"><a target=3D"_blank" href=
+=3D"http://www.csdedicated.com/client2/tl.php?p=3D1il/1i6/rs/2zbw/s7/rs//ht=
+tps%3A%2F%2Fevent.2performant.com%2Fevents%2Fclick%3Fad_type%3Dquicklink%26=
+aff_code%3D56551ef66%26unique%3D103346d28%26redirect_to%3Dhttps%253A%2F%2Fs=
+tarshiners.ro%2F" style=3D"font-family: Arial,Helvetica,sans-serif; font-si=
+ze: 16px; color: #505050; text-decoration: none;"><font style=3D"font-famil=
+y: Arial,Helvetica,sans-serif; font-size: 16px; color: #505050;" face=3D"Ar=
+ial, Helvetica, sans-serif"><img src=3D"http://www.therealdeal.ro/img_news/=
+bt_oferta.jpg" alt=3D"-" height=3D"35" border=3D"0" width=3D"155" /></font>=
+</a></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td heig=
+ht=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A=
+</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 600=
+px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<=
+td height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"widt=
+h: 560px;" bgcolor=3D"#8be98d" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"2" bgcolor=3D"#8be98d"></td>=0A</t=
+r>=0A</tbody>=0A</table>=0A<table style=3D"width: 600px;" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"20"></td>=
+=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 560px;" bgcolor=3D"=
+#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=
+=0A<td align=3D"left" valign=3D"top" width=3D"560"><font style=3D"font-fami=
+ly: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 18px; color: =
+#505050; font-weight: bold;" face=3D"Arial, Helvetica, sans-serif"><span st=
+yle=3D"font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #=
+505050; text-decoration: none; font-weight: bold;"><span style=3D"font-fami=
+ly: Arial, Helvetica, sans-serif; font-size: 16px; color: #505050; text-dec=
+oration: none; font-weight: bold;"><span><span><span style=3D"font-family: =
+Arial, Helvetica, sans-serif; font-size: 16px; color: #505050; text-decorat=
+ion: none; font-weight: bold;"><span><span><span><span><span><span><span><s=
+pan>Ceasuri Festina BestSellers pentru Ea!</span></span></span></span></spa=
+n></span></span></span></span></span></span></span></span></font></td>=0A</=
+tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 600px;" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"14"></td=
+>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 560px;" bgcolor=3D=
+"#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr=
+>=0A<td align=3D"left" valign=3D"middle" width=3D"250"><a target=3D"_blank"=
+ href=3D"http://www.csdedicated.com/client2/tl.php?p=3D1il/1i6/rs/2zbw/s7/r=
+s//http%3A%2F%2Fwww.csdedicated.com%2Fclient4%2Ftl.php%3Fp%3D1p8%2Frs%2Frs%=
+2Frt%2Fs1%2Frt%2F%2Fhttps%253A%252F%252Fevent.2parale.ro%252Fevents%252Fcli=
+ck%253Fad_type%253Dquicklink%2526aff_code%253Dd84860d20%2526unique%253D184f=
+69294%2526redirect_to%253Dhttp%2525253A%2525252F%2525252Fwww.elefant.ro%252=
+5252Fceasuri%2525253Fquery%2525253D%252A%25252526filterBrand%2525253DFestin=
+a%25252526filterSex%2525253DFemei%25252526channel%2525253DTestCeasuri%25252=
+526navigation%2525253Dtrue%25252526format%2525253DJSON" style=3D"font-famil=
+y: Arial,Helvetica,sans-serif; font-size: 12px; color: #505050; text-decora=
+tion: none;"><font style=3D"font-family: Arial,Helvetica,sans-serif; font-s=
+ize: 12px; color: #505050;" face=3D"Arial, Helvetica, sans-serif"><img src=
+=3D"http://static.elefant.ro/flashsale/6691-csr-06-01-festina-bestsellers-p=
+entru-ea-460.jpg" alt=3D"-" height=3D"125" width=3D"250" /></font></a></td>=
+=0A<td width=3D"20"></td>=0A<td align=3D"right" valign=3D"middle">=0A<table=
+ style=3D"width: 280px;" bgcolor=3D"#d5f8d6" cellpadding=3D"0" cellspacing=
+=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" bgcolor=3D"#d5f8d6" valign=
+=3D"top">=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tb=
+ody>=0A</table>=0A<table style=3D"width: 250px; height: 30px;" bgcolor=3D"#=
+8be98d" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=
+=3D"right" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10"><i=
+mg src=3D"http://www.therealdeal.ro/img_news/colt_st.jpg" alt=3D"" style=3D=
+"display: block;" height=3D"30" width=3D"10" /></td>=0A<td headers=3D"30" a=
+lign=3D"left" bgcolor=3D"#8be98d" valign=3D"middle" width=3D"100"><font sty=
+le=3D"font-family: Arial,Helvetica,sans-serif; font-size: 14px; color: #222=
+222;" face=3D"Arial, Helvetica, sans-serif"><b>SALE!</b></font></td>=0A<td =
+align=3D"right" bgcolor=3D"#8be98d" valign=3D"middle"></td>=0A<td align=3D"=
+left" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10"><img sr=
+c=3D"http://www.therealdeal.ro/img_news/colt_dr.jpg" alt=3D"" style=3D"disp=
+lay: block;" height=3D"30" width=3D"10" /></td>=0A</tr>=0A</tbody>=0A</tabl=
+e>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A=
+</table>=0A<table style=3D"width: 250px; height: 30px;" bgcolor=3D"#8be98d"=
+ cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"right=
+" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10"><img src=3D=
+"http://www.therealdeal.ro/img_news/colt_st.jpg" alt=3D"" style=3D"display:=
+ block;" height=3D"30" width=3D"10" /></td>=0A<td headers=3D"30" align=3D"l=
+eft" bgcolor=3D"#8be98d" valign=3D"middle" width=3D"100"><font style=3D"fon=
+t-family: Arial,Helvetica,sans-serif; font-size: 14px; color: #222222;" fac=
+e=3D"Arial, Helvetica, sans-serif"><b>Reducere:</b></font></td>=0A<td align=
+=3D"right" bgcolor=3D"#8be98d" valign=3D"middle"><font style=3D"font-family=
+: Arial,Helvetica,sans-serif; font-size: 16px; color: #222222;" face=3D"Ari=
+al, Helvetica, sans-serif"><b>pana la 70%</b></font></td>=0A<td align=3D"le=
+ft" height=3D"30" bgcolor=3D"#8be98d" valign=3D"top" width=3D"10"><img src=
+=3D"http://www.therealdeal.ro/img_news/colt_dr.jpg" alt=3D"" style=3D"displ=
+ay: block;" height=3D"30" width=3D"10" /></td>=0A</tr>=0A</tbody>=0A</table=
+>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A<=
+/table>=0A<table style=3D"width: 250px;" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"center" height=3D"26"><font=
+ style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 16px; color: =
+#222222;" face=3D"Arial, Helvetica, sans-serif"><b>STOC LIMITAT!</b></font>=
+</td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=
+=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 250px;=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td =
+align=3D"center" height=3D"35"><a target=3D"_blank" href=3D"http://www.csde=
+dicated.com/client2/tl.php?p=3D1il/1i6/rs/2zbw/s7/rs//http%3A%2F%2Fwww.csde=
+dicated.com%2Fclient4%2Ftl.php%3Fp%3D1p8%2Frs%2Frs%2Frt%2Fs1%2Frt%2F%2Fhttp=
+s%253A%252F%252Fevent.2parale.ro%252Fevents%252Fclick%253Fad_type%253Dquick=
+link%2526aff_code%253Dd84860d20%2526unique%253D184f69294%2526redirect_to%25=
+3Dhttp%2525253A%2525252F%2525252Fwww.elefant.ro%2525252Fceasuri%2525253Fque=
+ry%2525253D%252A%25252526filterBrand%2525253DFestina%25252526filterSex%2525=
+253DFemei%25252526channel%2525253DTestCeasuri%25252526navigation%2525253Dtr=
+ue%25252526format%2525253DJSON" style=3D"font-family: Arial,Helvetica,sans-=
+serif; font-size: 16px; color: #505050; text-decoration: none;"><font style=
+=3D"font-family: Arial,Helvetica,sans-serif; font-size: 16px; color: #50505=
+0;" face=3D"Arial, Helvetica, sans-serif"><img src=3D"http://www.therealdea=
+l.ro/img_news/bt_oferta.jpg" alt=3D"-" height=3D"35" border=3D"0" width=3D"=
+155" /></font></a></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"wid=
+th: 250px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<=
+tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=
+=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=
+=3D"width: 600px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbo=
+dy>=0A<tr>=0A<td height=3D"20"></td>=0A</tr>=0A</tbody>=0A</table>=0A<br />=
+=0A<table style=3D"width: 600px;" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"10"></td>=0A</tr>=0A</tbody>=0A</=
+table>=0A<table style=3D"width: 560px;" bgcolor=3D"#8be98d" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td height=3D"2" bgco=
+lor=3D"#8be98d"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width=
+: 600px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr=
+>=0A<td height=3D"20"></td>=0A</tr>=0A</tbody>=0A</table>=0A<a href=3D"http=
+://www.csdedicated.com/client2/u.php?p=3D1il/rs/2zbw/s7/1i6/rs/rt">Click he=
+re to unsubscribe</a>&nbsp;sau reducerizilnice2014@gmail.com<br />=0A<table=
+ style=3D"width: 600px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=
+=0A<tbody>=0A<tr></tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 600px=
+;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td=
+ height=3D"20"></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbod=
+y>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<img src=3D"http://ww=
+w.csdedicated.com/client4/to.php?p=3D1p8/rs/rs/rt/s1/rt" width=3D"5" height=
+=3D"2" alt=3D"." />=0A=0A<img src=3D"http://www.csdedicated.com/client2/to.=
+php?p=3D1il/1i6/rs/2zbw/s7/rs" width=3D"5" height=3D"2" alt=3D".">=0A=0A</b=
+ody>=0A</html>
+
+
+--b1_dac1997d24623c029f0f40d7f1b8cf7b--

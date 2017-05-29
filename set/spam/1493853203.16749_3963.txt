@@ -1,0 +1,25 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 21971 invoked from network); 3 May 2017 05:47:28 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 03 May 2017 05:47:28 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 03 May 2017 05:47:28 -0000
+Received: (qmail 30139 invoked from network); 3 May 2017 05:47:28 -0000
+Received: from ec2-34-209-185-164.us-west-2.compute.amazonaws.com (HELO wdabyxseqlbf.hvuye) (34.209.185.164)
+  by zak.futurequest.net with SMTP; 3 May 2017 05:47:28 -0000
+Date: Wed, 3 May 2017 14:46:55 +0900 (JST)
+From: =?Shift_JIS?B?g3yDQ4OTg2eKt4vgkYuM+4FFkIWSSg==?= <5xtla@941mwdd6k.net>
+To: lists-linux-kernel@bruce-guenter.dyndns.org
+Message-ID: <653c7YVxyWBdnt741jiMF@941mwdd6k.net>
+Subject: =?Shift_JIS?B?isgrklBggsmDfC6DQ4OTOoNngvAuirc=?=
+ =?Shift_JIS?B?i+CCt1+C6SeOloKqj28ul4iC3F+CtyEh?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+http://troml4f.941mwdd6k.net/rhm8xaeail6jdy9q4/14116392/m19459405458/59cc198b57b0033c894137c44d0bd6178b54ad109f4de31d29c64469d721681d
+
+HaertÅö'ÉâÉC-Éì
+
+

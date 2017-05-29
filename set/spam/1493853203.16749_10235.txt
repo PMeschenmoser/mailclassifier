@@ -1,0 +1,35 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 27357 invoked from network); 3 May 2017 02:31:06 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 03 May 2017 02:31:06 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 03 May 2017 02:31:06 -0000
+Received: (qmail 21349 invoked from network); 3 May 2017 02:31:05 -0000
+Received: from ec2-35-167-159-186.us-west-2.compute.amazonaws.com (HELO ysvkuafn.ujcrh) (35.167.159.186)
+  by zak.futurequest.net with SMTP; 3 May 2017 02:31:05 -0000
+Date: Wed, 3 May 2017 11:30:49 +0900 (JST)
+From: Japan security services <8j9@941mwdd6k.net>
+To: lists-linux-kernel@bruce-guenter.dyndns.org
+Message-ID: <iZAYURaV06P9NB-v@941mwdd6k.net>
+Subject: =?Shift_JIS?B?gXmPZJd2gXqI4ZZAg1SDQ4NngsyUco+cgsmCsouml82CrYK+grOCooFC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+セキュリティサービスでは、無料で安全なサイトや機関を調査しております。
+しかし、違法サイトの被害に遭われる方が後を絶たないのが現実です。
+そのような方を１人でも減らすために日々調査を進めておりますが、サイトを利用する全ての方を調査する事は非常に難しい状態です。
+gest様が利用しているサイトの調査も無料で行わせて頂いておりますので、下記よりご利用ください。
+
+無料調査はこちら▼
+http://hw2zondt.941mwdd6k.net/ulk1lwbvbjeyhhcm2maobd/norton/59cc198b57b0033c894137c44d0bd6178b54ad109f4de31d29c64469d721681d
+
+【gest様】に対するセキュリティ調査の結果も出ておりますので、こちらでご報告させて頂きます。
+
+調査結果▼
+http://hw2zondt.941mwdd6k.net/jimaq4i8mxbmsvde10lfbb/norton/59cc198b57b0033c894137c44d0bd6178b54ad109f4de31d29c64469d721681d
+
+※調査内容はこちらで厳重に管理させて頂きます。外部に情報が洩れるようなことはありませんので、ご安心ください。
+
+Japan security services.

@@ -1,0 +1,34 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 30097 invoked from network); 2 May 2017 22:11:24 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 02 May 2017 22:11:24 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 May 2017 22:11:24 -0000
+Received: (qmail 10905 invoked from network); 2 May 2017 22:11:23 -0000
+Received: from azlwugosss.zdomht.com (113.212.133.183)
+  by zak.futurequest.net with SMTP; 2 May 2017 22:11:23 -0000
+Received: from tdymjgftmp.zdomht.com (unknown [113.212.133.163])
+	by scaverzsav.zdomht.com (Postfix) with ESMTP id E26BDF40349
+	for <bruce@bruce-guenter.dyndns.org>; Wed,  3 May 2017 07:11:07 +0900 (JST)
+Received: from 113.212.133.163 (111x223x202x52.adv-server.net [111.223.202.52])
+	by tdymjgftmp.zdomht.com (Postfix) with ESMTP id 10376CA025C
+	for <bruce@bruce-guenter.dyndns.org>; Wed,  3 May 2017 07:11:02 +0900 (JST)
+To: bruce@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?44GK5pep44GG5b6h5bqn44GE44G+44GZ44CB5LiJ5LqV44Gn44GZ44CC?=
+	=?UTF-8?B?5pei44Gr44GK5Lyd44GI44GX44Gm44GK44KK44G+44GZ44GM44CB44GK6L+U5LqL?=
+	=?UTF-8?B?44GM54Sh44GE44Gu44Gn5LuK5LiA5bqm5pS544KB44Gm44CB5pmC6ZaT44KC54Sh?=
+	=?UTF-8?B?44GE44Gu44Gn57Ch5Y2Y44Gr6Ieq5bex57S55LuL44KS44GV44Gb44Gm6aCC44GN?=
+	=?UTF-8?B?44G+44GZ44CC?=
+From: =?UTF-8?B?44GK55+l44KJ44Gb?= <mailmaster@h4tcn25z.com>
+Date: Wed, 03 May 2017 07:11:21 +0900
+Message-ID: <6c8462aa96fdbc3c4f9fd939b180d0342d705bd7>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: BASE64
+MIME-Version: 1.0
+
+PGEgaHJlZj0iaHR0cDovL2g0dGNuMjV6LmNvbS9sb2dfaW5kZXgucGhwP3BhZ2U9bWVzc19taXJ1
+JnM9MTQ5Mzc2MzAyNSZjaWQ9MTIzOTcmbWlkPTE1MTY2MTMmZGR2PTEwMDAxNjZkYjUxNTk4MDk1
+YmY1YTIwNmVhOTRiNGQ2Ij5odHRwOi8vaDR0Y24yNXouY29tL3pDckoyMml5T2xuT0dyd0ZyYzwv
+YT48YnI+DQrvv6XCqO+8j+KUr+KKguOAh+KJquKAu++/peKUmw==
+

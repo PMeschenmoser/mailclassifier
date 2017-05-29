@@ -1,0 +1,42 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 29654 invoked from network); 29 Apr 2017 02:25:20 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 29 Apr 2017 02:25:20 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 29 Apr 2017 02:25:20 -0000
+Received: (qmail 18153 invoked from network); 29 Apr 2017 02:25:19 -0000
+Received: from dttmbjbrer.zdomht.com (113.212.133.179)
+  by zak.futurequest.net with SMTP; 29 Apr 2017 02:25:19 -0000
+Received: from tdymjgftmp.zdomht.com (unknown [113.212.133.163])
+	by scaverzsav.zdomht.com (Postfix) with ESMTP id ACAF5F403E9
+	for <bruce@bruce-guenter.dyndns.org>; Sat, 29 Apr 2017 11:25:06 +0900 (JST)
+Received: from 113.212.133.163 (111x223x202x52.adv-server.net [111.223.202.52])
+	by tdymjgftmp.zdomht.com (Postfix) with ESMTP id 0A5E5CA0113
+	for <bruce@bruce-guenter.dyndns.org>; Sat, 29 Apr 2017 11:25:01 +0900 (JST)
+To: bruce@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?56eB44GM5q2744KT44Gn44GX44G+44GG5YmN44Gr6LK05pa544Gr44GK?=
+	=?UTF-8?B?6aGY44GE44GM44GC44KL44KT44Gn44GZ44CC44Gp44GG44GX44Gm44KC44CB5L2V?=
+	=?UTF-8?B?44Go44GX44Gm44Gn44KC5Y+244GI44Gf44GE5LqL44GM5LiA44Gk44Gg44GR44GC?=
+	=?UTF-8?B?44KL44KT44Gn44GZ44CC44Gd44KM44Gv44CB5LiN54m55a6a5aSa5pWw44Gn44Gv?=
+	=?UTF-8?B?44Gq44GP44CB56eB44Gu55uu44Gn44CB55u05oSf44Gn44CB55u05o6l6YG444KT?=
+	=?UTF-8?B?44Gg5pa544Gr6YeR6Yqt44Gu5pSv5o+044KS44GV44Gb44Gm6aCC44GP5LqL44Gn?=
+	=?UTF-8?B?44GZ44CC56eB44Gv5LuK44G+44Gn5aSa44GP44Gu5pSv5o+05rS75YuV44KS6KGM?=
+	=?UTF-8?B?44Gj44Gm44GN44G+44GX44Gf44GM44CB44Gd44Gu5a++6LGh44Gv5pa96Kit44KE?=
+	=?UTF-8?B?5Zuj5L2T44Gr5ZCR44GR44KJ44KM44Gf44KC44Gu44Gn44CB55u05o6l55qE44Gr?=
+	=?UTF-8?B?5YCL5Lq65Y2Y5L2N44Gn5o6l44GX44Gf5LqL44Gv5LiA5bqm44KC44GC44KK44G+?=
+	=?UTF-8?B?44Gb44KT44Gn44GX44Gf44CC44GX44GL44GX5pyA5b6M44Gv44CB56eB44GM5pSv?=
+	=?UTF-8?B?5o+044KS44GX44Gf5pa544Gr55u05o6l55qE44Gq56uL5aC044Gn5o6l44GX44Gf?=
+	=?UTF-8?B?44GE44Go5oCd44Gj44Gf44Gu44Gn44GZ44CC?=
+From: =?UTF-8?B?44GK55+l44KJ44Gb?= <mailmaster@v7aurfjj.com>
+Date: Sat, 29 Apr 2017 11:25:18 +0900
+Message-ID: <09e226256436b8a8fa15edb1c033bf681625f831>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: BASE64
+MIME-Version: 1.0
+
+PGEgaHJlZj0iaHR0cDovL3Y3YXVyZmpqLmNvbS9sb2dfaW5kZXgucGhwP3BhZ2U9bWVzc19taXJ1
+JnM9MTQ5MzQzMjY3MiZjaWQ9MTIzOTcmbWlkPTE0OTYwNzgmZGR2PTEwMDAxNjZkYjUxNTk4MDk1
+YmY1YTIwNmVhOTRiNGQ2Ij5odHRwOi8vdjdhdXJmamouY29tL2NFV0l5ZjIzRC9sTUNtSTwvYT48
+YnI+DQrjgIPvvL7ilrzjjqHvv6XiiabjgIPvv6XiiafigKXiioI=
+

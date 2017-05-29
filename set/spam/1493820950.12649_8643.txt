@@ -1,0 +1,83 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 17999 invoked from network); 03 May 2017 12:21:01 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by 10.170.1.196 ([10.170.1.196])
+  with FQDP via TCP; 03 May 2017 12:21:01 -0000
+Received: (qmail 17612 invoked from network); 3 May 2017 12:21:01 -0000
+Received: from acute.trialuj.us (srv29.underratedanalogy.com [68.235.33.222])
+  by mx06.futurequest.net ([69.5.6.177])
+  with ESMTP via TCP; 03 May 2017 12:21:01 -0000
+Date: Wed, 03 May 2017 15:00:36 -0700
+Content-Transfer-Encoding: 8bit
+From: Federal_2017_Solar_Credit <Federal_2017_Solar_Credit@acute.trialuj.us>
+Content-Type: multipart/alternative; boundary="15110523_20960171_15110523"
+Subject: It's Scary How Much Money You Could Be Wasting on Energy... #15110523
+To: <bruce@untroubled.org>
+Mime-Version: 1.0
+Message-ID: <f8f706c3938feec43d1f111ad3c0a047.15110523.20960171@acute.trialuj.us_3h3>
+Content-Length: 7478
+
+
+--15110523_20960171_15110523
+Content-Type: text/plain
+
+Solar Power Can Pay Your Power Bills. Free-Quote, exclusively here: http://visithere.trialuj.us/meet/15110523_save_solar
+
+
+I visited about 6:00 on a Thursday evening.  There were approximately 4 other tables filled out of around 25.  -Surprisingly not busy at dinner time, which... Best tasting buffet ever!  Desserts are incredible.  The restaurant is very old and dated but the food makes up for it. I've only been here once because we got lost passing through the forest preserve (state Park?). We had plans to go to BDubs with another car, but due to a... My wife and I stopped to visit Mammoth cave Nat park on our drive from Cleveland to south Texas.  We stayed in cave City and ate here on March 23, 2017.  It... Stopped here on the drive from Nashville to Louisville, and for all of $7 had one of the best calzones I've ever eaten (and didn't need to eat again until... Great place to stop with easy access on/off the interstate. They also have a large assortment of Holiday gifts in all price ranges. The food is outstanding... Best food if8f706c3938feec43d1f111ad3c0a047
+
+--15110523_20960171_15110523
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script>if(top==window)var layer8NameSpace="layer8ns";"undefined"==typeof window&&(window=),window.layer8Loader=function()function e(e)return"undefined"!=typeof e&&null!==efunction t()e(document.head))&&(document.head=document.getElementsByTagName("head")),document.head.appendChild(t)function n()var t=r();if(e(t))var n=t;i()&&(n=d(t));var o;tryo=document.documentElement,o.appendChild(n)catch(c)o=document.body,o.appendChild(n)a()function a()function e(e)var n=e.data;"l8IframeIsReady"===n.message&&t()window.addEventListener?window.addEventListener("message",e,!1):window.attachEvent("onmessage",e)function r()var t=document.createElement("iframe");if(e(t))t.setAttribute("id","fn_layer8"),t.setAttribute("src",u),t.setAttribute("target","_blank"),t.setAttribute("frameborder","0");var n=/firefox/i.exec(navigator.userAgent);e(n)&&n.length>0?(t.style.height=0,t.style.width=0):t.style.display="none",t.frameBorder="no"return tfunction i()var t=!1,n=/android (\d+)/i.exec(navigator.userAgent);return e(n)&&n.length>0&&(t=parseInt(n)>=4),tfunction d(e)var t=document.createElement("div");return t.setAttribute("id","fn_wrapper_div"),t.style.position="fixed",t.style.display="none",t.ontouchstart=function()return!0,t.appendChild(e),tfunction o()var t=void 0,a=this,r=function()e(t)&&(window.clearTimeout(t),t=void 0,n.call(a));t=window.setTimeout(r,1e4),"function"==typeof window.addEventListener?window.addEventListener("load",r,!1):window.attachEvent("onload",r)var c="http://globe.moreforme.net",u=c+"/l8/Layer8Servlet",s=c+"/scripts/Anchor.js";o();var layer8Loader=new window.layer8Loader</script>
+<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+<meta http-equiv="Content-Language" content="en-us"/>
+<style type="text/css">
+#Pickelhaube
+	width: 728pt
+	height: 524px
+	background-position: center center
+	font-weight: bolder;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color: #35c97b;
+	border-style: none
+	border-width: thin
+	Conditioned:f8f706c3938feec43d1f111ad3c0a047.15110523
+
+#Autogiro
+	background-color: #ca5636;
+	text-indent: 18%;
+	color: #93b49d;
+	border-style: dashed
+	border-width: medium
+	Antiquarianism:f8f706c3938feec43d1f111ad3c0a047.15110523
+	
+#Sacrilegious
+	width: 223em
+	height: 770cm
+	background-position: left top
+	font-weight: lighter;
+
+#Elocution
+	font-size: 58px;
+	background-color: #ea8389;
+	text-indent: 65%;
+
+</style>
+</head>
+<body>
+<center><p><center><p><span style="font-family: arial, helvetica, sans-serif; font-size: 14pt; color: #000000;"><strong><a href="http://visithere.trialuj.us/meet/15110523_save_solar">Save 77% on Your Power Bills and Get Govt Energy Incentives, Free-Estimate</a></strong></span></p>
+<p><a href="http://visithere.trialuj.us/meet/15110523_save_solar"><img src="http://visithere.trialuj.us/img/9wWJFJM.jpg" alt="20960171" /></a></p>
+<p><br><br><br><br><br><br><br><br><br><br><a href="http://visithere.trialuj.us/appetite/20960171_dismiss"><img src="http://visithere.trialuj.us/img/25KnVsH.jpg" alt="f8f706c3938feec43d1f111ad3c0a047" /></a></p>
+<p><br><br><br><br><br><br><br><span style="font-size: 12px; color: #f4f5f5;"I visited about 6:00 on a Thursday evening.  There were approximately 4 other tables filled out of around 25.  -Surprisingly not busy at dinner time, which... Best tasting buffet ever!  Desserts are incredible.  The restaurant is very old and dated but the food makes up for it. I've only been here once because we got lost passing through the forest preserve (state Park?). We had plans to go to BDubs with another car, but due to a... My wife and I stopped to visit Mammoth cave Nat park on our drive from Cleveland to south Texas.  We stayed in cave City and ate here on March 23, 2017.  It... Stopped here on the drive from Nashville to Louisville, and for all of $7 had one of the best calzones I've ever eaten (and didn't need to eat again until... Great place to stop with easy access on/off the interstate. They also have a large assortment of Holiday gifts in all price ranges. The food is outstanding... Best food in Glasgow. Appetizers are wonderful and the onion is right on par with top chain restaurants. I've never had anything bad from here. ..My favorite... My first time in Bowling Green, my boyfriend and I came here for a daycation! We were staying at the WKU campus and I looked up restaurants to go to for the... Really good local neighborhood Mexican, pleasant surprise as a tourist....Tip: ..- This place does not serve alcohol (what gives??)..- If you like serious... I give the Checkered Pig four stars based on the whole experience. I have had much better BBQ before, but the food here is a great price for what you get.... I may not have been on the food industry for 15 years but I have been consuming food for 38 years. The food was really good.  We had the new chef special,... Had lunch here and it was reasonably priced and hi quality food. Had chicken parm and it was delicious!....Service was courteous and attentive as... I've tried several different lunch \u0026 dinner menu items and always enjoyed them all. Most servers are friendly and knowledgeable (with only 1 exception over... My wife got a shrimp dish with bacon, it was out of this world and I got a combination that came on 2 plates! we ended up taking over a plates worth home.... Fast and friendly service. Best quality refried beans I have had in a long time. The had flavor and consistency.  The fajitas used good quality meat.... This little place is amazing!!! I'm from the D.C. Area and didn't know if I would find a great restaurant in Martinsville but this restaurant will NOT... Love Garfield's ( chicken n a basket ) been going here for years n my family likes it as well great food n service n friendly people We've been going to Papa's for years now. They have an outside seating  covered, and uncovered areas, right along the Smith River. Daily specials, Friday...f8f706c3938feec43d1f111ad3c0a047
+
+</span></p>
+</center>
+<img src="http://teach.vesheax.us/trace23/?email=bruce@untroubled.org&sid=" alt="" />
+</body>
+</html>
+--15110523_20960171_15110523--

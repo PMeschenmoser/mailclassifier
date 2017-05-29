@@ -1,0 +1,23 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 5221 invoked from network); 1 May 2017 10:13:15 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 May 2017 10:13:15 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 May 2017 10:13:15 -0000
+Received: (qmail 4741 invoked from network); 1 May 2017 10:13:14 -0000
+Received: from unknown (HELO vozxdk.vsdma) (103.236.182.34)
+  by zak.futurequest.net with SMTP; 1 May 2017 10:13:14 -0000
+Date: Mon, 1 May 2017 19:13:08 +0900 (JST)
+From: =?Shift_JIS?B?jdcqkOySiZBNKg==?= <lone@kk-qo7b59.biz>
+To: bruce@bruce-guenter.dyndns.org
+Message-ID: <0fV+NCScXeZoq39wBlWOtmJh2AQD>
+Subject: =?Shift_JIS?B?ib2CyY5ngsGCxCqC4JfHgqJfgsUq?=
+ =?Shift_JIS?B?greC5iqBSSCJxovvgUWJxpNkgUEqjtQ=?=
+ =?Shift_JIS?B?gsyUgyyCoiyR1oKmgshfgseBY5DP?=
+ =?Shift_JIS?B?i8mTSYLJj8GU74K1KoLEibotgrOCooFC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+http://71r.kk-qo7b59.biz/qj8tiaiwviz5wlvcg/14092645/m07875558856/435a1c1b839737dc869a48cc7855d194c2b4a85fcfa65ff8fceced7334d8739f

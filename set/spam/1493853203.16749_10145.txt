@@ -1,0 +1,33 @@
+Delivered-To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Received: (qmail 9812 invoked from network); 28 Apr 2017 08:41:48 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Apr 2017 08:41:48 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Apr 2017 08:41:48 -0000
+Received: (qmail 21286 invoked from network); 28 Apr 2017 08:41:46 -0000
+Received: from ec2-35-161-147-193.us-west-2.compute.amazonaws.com (HELO vyci.bpi) (35.161.147.193)
+  by zak.futurequest.net with SMTP; 28 Apr 2017 08:41:46 -0000
+Date: Fri, 28 Apr 2017 17:41:45 +0900 (JST)
+From: =?Shift_JIS?B?k/qWe42RL4t+iYeL4JdaLYtAL41cIIFzklOTli+BdJLWjLQ=?= <43p4@h2kbr73z5.net>
+To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Message-ID: <1774798467.765428.1493368905866.JavaMail.return-933065581@h2kbr73z5.net>
+Subject: =?Shift_JIS?B?gXl+k/onlnsqjZEsi35+iYcgi+Aql1o7i0ArjVwigXp+gsw7klMrk5Zf?=
+ =?Shift_JIS?B?gsY7grUvgsRfjoQtguClgrErgsxfi347iYcui+AtgvBnZXN0l2wvgsw=?=
+ =?Shift_JIS?B?MTKJrTI1MDCWnC6JfieC8C6CqKWO81+Cr1+O5iuC6CqCt1+C6V+NxQ==?=
+ =?Shift_JIS?B?LYzjO4LcX4LFZ2VzdJdsLoLMLoK9LoLfIoLJLI6EX5JCLoLgKpFTLZfN?=
+ =?Shift_JIS?B?IILFIIrmL5KjfoLBIILEX41zKoKrO4LcX4K3KoLMK4LFfoLmL4LrLYK1?=
+ =?Shift_JIS?B?O4KtX4KoKoroX4KifoK1IILcKoK3foFCpY3FfozjLYLJZ2VzdJdsLQ==?=
+ =?Shift_JIS?B?gslfj85+gsErgsQtguAuguelgqZfguksguZegqQikOIukc4ugskiknYs?=
+ =?Shift_JIS?B?grUugtwrgrcggswqgsV+i1grgrUt?=
+ =?Shift_JIS?B?gq0ugqgsiugtgqIvgrU7gtwvgrcugUI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+Åy:ì˙*ñ{•çë'ã~_âá.ã‡~óZ-ã@"ç\*Åz^ÇÃ-íS_ìñ'Ç∆~Çµ+Çƒ-éÑ"Ç‡,Ç±^ÇÃ~ã~-âá;ã‡;Çgestól ÇÃ12â≠2500ñú.â~+Ç-Ç®.éÛ'ÇØ.éÊ.ÇË,Ç∑,ÇÈ^ç≈'å„"Ç‹-Ç≈gestól_ÇÃ,ÇΩ'Çﬂ_Ç…^éÑ.íB;Ç‡•ëS+óÕ;Ç≈,äÊ+í£*Ç¡+Çƒ'çs~Ç´'Ç‹.Ç∑*ÇÃ,Ç≈ ÇÊ;ÇÎ.Çµ.Ç≠*Ç®'äË.Ç¢_Çµ.Ç‹"Ç∑/ÅB~ç≈^å„.Ç…gestól.Ç….èŒ Ç¡"Çƒ/Ç‡;ÇÁ•Ç¶+ÇÈ.ÇÊ~Ç§;ê‚.ëŒ_Ç…*ív_Çµ.Ç‹,Ç∑_ÇÃ-Ç≈+ãX^Çµ"Ç≠+Ç®+äË-Ç¢/Çµ.Ç‹-Ç∑:ÅB
+
+è⁄;Å@/ç◊
+http://xj60p0t.h2kbr73z5.net/mk2i0bframn8twl2k/69932211/m5649168737/c3f7e6dce3fc5f7f9b5a783bde9eaf4537ef2dfe8ee6834bd0ca79af86f858a3
+
+2017/04/28 17:41

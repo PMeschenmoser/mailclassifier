@@ -1,0 +1,36 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 26952 invoked from network); 3 May 2017 10:30:51 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 03 May 2017 10:30:51 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 03 May 2017 10:30:51 -0000
+Received: (qmail 7933 invoked from network); 3 May 2017 10:30:50 -0000
+Received: from ec2-34-209-176-131.us-west-2.compute.amazonaws.com (HELO qvzdfmfkhb.nwa) (34.209.176.131)
+  by zak.futurequest.net with SMTP; 3 May 2017 10:30:50 -0000
+Date: Wed, 3 May 2017 19:30:44 +0900 (JST)
+From: Japan security services <79z@941mwdd6k.net>
+To: bruce@bruce-guenter.dyndns.org
+Message-ID: <zd0tBh8ID2nfOjiZ.@941mwdd6k.net>
+Subject: =?Shift_JIS?B?geGDRYNDg4uDWJBmkmaMi4nKgeKCsYK/guc=?=
+ =?Shift_JIS?B?gsyDVINDg2eCzYjAkVOCxYK3gUKP2o3Xgs2Bqw==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+セキュリティサービスでは、無料で安全なサイトや機関を調査しております。
+しかし、違法サイトの被害に遭われる方が後を絶たないのが現実です。
+そのような方を１人でも減らすために日々調査を進めておりますが、サイトを利用する全ての方を調査する事は非常に難しい状態です。
+gest様が利用しているサイトの調査も無料で行わせて頂いておりますので、下記よりご利用ください。
+
+無料調査はこちら▼
+http://jsreiel.941mwdd6k.net/ao1e3w7al29ahtggry3dh0/norton/62519e07cf5db3e746ac5bbc6b131d5f8243ed92fc8083d2a21bd9c0a3620752
+
+【gest様】に対するセキュリティ調査の結果も出ておりますので、こちらでご報告させて頂きます。
+
+調査結果▼
+http://jsreiel.941mwdd6k.net/96e7n0oruef9l4l09xj04i/norton/62519e07cf5db3e746ac5bbc6b131d5f8243ed92fc8083d2a21bd9c0a3620752
+
+※調査内容はこちらで厳重に管理させて頂きます。外部に情報が洩れるようなことはありませんので、ご安心ください。
+
+Japan security services.

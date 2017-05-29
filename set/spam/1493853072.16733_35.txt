@@ -1,0 +1,47 @@
+Delivered-To: bait@untroubled.org
+Received: (fqmail 2132 invoked from network); 02 May 2017 14:07:40 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by 10.170.1.196 ([10.170.1.196])
+  with FQDP via TCP; 02 May 2017 14:07:40 -0000
+Received: (qmail 29363 invoked from network); 2 May 2017 14:07:38 -0000
+Received: from [58.187.71.30] (ip-address-pool-xxx.fpt.vn [118.71.106.247])
+  by mx02.futurequest.net ([69.5.6.172])
+  with ESMTP via TCP; 02 May 2017 14:07:37 -0000
+Received: (from apache@localhost)
+	by ekenbark.com (8.14.7/8.14.7/Submit) id D07EDB98DAEC9C;
+	Tue, 02 May 2017 21:07:35 +0700
+Message-Id: <20170502210735.D07EDB98DAEC9C@ekenbark.com>
+To: bait@untroubled.org
+Subject: Here's a life changing tip that will guide you through trump's America
+X-PHP-Originating-Script: 10001:SendMail.php
+From: "Rodrigo Tillman" <Tillman8123@ekenbark.com>
+Date: Tue, 02 May 2017 21:07:35 +0700
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+Return-Path: mailer@ekenbark.com
+
+Given the current political climate, there are very few certain things in this world.
+
+I can tell you first hand that I've had a hard time profiting in the market since Trump's administration came in a few months ago.
+
+So I've looked long and hard for opportunities to leverage this unusual situation we find ourselves in here in America, and I have found the way.
+
+Special circumstances call for special measures, and a friend of mine reached out to me over the weekend telling me that there's a small company on the verge of being bought out by a top 500 firm.
+
+The price at which this will happen? 21 bucks a share from a current paltry 60 cents.
+
+This means that every ten thousand of stock you buy, you'll make around 350k when the announcement comes out to the public in a few days.
+
+Why am I telling you this? I want like-minded people to benefit as well and I'm tired of all the big shots making the big bucks.
+
+Take it the way you will, but watch symbol : Quick Sure Mary Garage (use the first letters of each word to make up your 4 letter symbol which you'll use to buy the stock)
+
+One way or another, whether you get in or not, this buy out is going to happen and people are going to make 35x on their principle.
+
+Why not get a piece of the action?
+
+
+***
+Best Wishes,
+Rodrigo Tillman

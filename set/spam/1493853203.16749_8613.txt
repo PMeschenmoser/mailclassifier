@@ -1,0 +1,24 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 18801 invoked from network); 28 Apr 2017 23:42:25 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Apr 2017 23:42:25 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Apr 2017 23:42:25 -0000
+Received: (qmail 13478 invoked from network); 28 Apr 2017 23:42:25 -0000
+Received: from ec2-34-202-116-136.compute-1.amazonaws.com (HELO cwsqohr.om) (34.202.116.136)
+  by zak.futurequest.net with SMTP; 28 Apr 2017 23:42:25 -0000
+Date: Sat, 29 Apr 2017 08:39:13 +0900 (JST)
+From: "+f*1.a.n.-/t,a'" <hwdrt@mbc-10jlry.download>
+To: lists-linux-kernel@bruce-guenter.dyndns.org
+Message-ID: <1078330889.322620.1493422753181.JavaMail.return-192027735@mbc-10jlry.download>
+Subject: =?Shift_JIS?B?i+I7jXM6gUU7l1hfldZfi8cngUUvkE1gi+BggUUvlF+BT4um?=
+ =?Shift_JIS?B?LYKpK4LnKoKoL5BVJ42eX4LdbILJK4rWYIK3L4LpK5LKX5Jt?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+銀-行;・;郵.便.局`・`信/金*・l農-協.か/ら;お:振+込.み:に'関/すlる+通*知
+
+
+ざ.ざ+ば_く+ぱ/あ-やlお_け.かhttp://mbc-10jlry.download/0klhp2shv5ajwu8s5/3094309/m3192374430/d1428c44cdbae0e0cde4ee91922d76e8122743554a9aae41f9dd15ac08e20a44

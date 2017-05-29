@@ -1,0 +1,26 @@
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 5766 invoked from network); 1 May 2017 04:32:05 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 May 2017 04:32:05 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 May 2017 04:32:05 -0000
+Received: (qmail 27716 invoked from network); 1 May 2017 04:32:03 -0000
+Received: from ec2-34-198-102-106.compute-1.amazonaws.com (HELO vtgexvvjcqo.lzisb) (34.198.102.106)
+  by zak.futurequest.net with SMTP; 1 May 2017 04:32:03 -0000
+Date: Mon, 1 May 2017 13:24:14 +0900 (JST)
+From: =?Shift_JIS?B?LGalLzphpS0rbi8qLXQnYSc=?= <pn8l574@cq2nbhc.download>
+To: lists-bikini@bruce-guenter.dyndns.org
+Message-ID: <1578340330.680419.1493612654201.JavaMail.return-195762103@cq2nbhc.download>
+Subject: =?Shift_JIS?B?gqAqgsgtgr0qgqoujugnkbEtgsUugqsngtw7?=
+ =?Shift_JIS?B?grU7gr06gucvgUE2ia0riX6BT4LNO5GmgU+OnjuM+w==?=
+ =?Shift_JIS?B?Oo3AgU+UvSuJZjqC8CeKSjqObieCtTuCxGyC4Gw=?=
+ =?Shift_JIS?B?guY7gusqgrUrgqI7gsVfgrVfguVsgqRsgqmBT4FI?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+Ç†*Ç»/ÇΩ:Ç™.éË`ë±_Ç≈_Ç´`Ç‹;Çµ'ÇΩ;ÇÁ:ÅA6â≠+â~:ÇÕ.ë¶ÅOéû_å˚_ç¿:îΩÅOâf:Ç*äJ.én_Çµ+ÇƒlÇ‡ÅOÇÊ+ÇÎ;Çµ:Ç¢ÅOÇ≈+Çµ;ÇÂ`Ç§;Ç©'ÅH
+
+
+Çº+Ç€_Ç∫ÅOÇ”;ÇŒ*Çµ/Ç‰lÇ”*Çø.Ç∂http://cq2nbhc.download/g2qymb70uoduepzla/2/m7641663605/0292627978bd8b6e0e9a32fdd34dde9e338a621809d2197a25bed8bbef963540

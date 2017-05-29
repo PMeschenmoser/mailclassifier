@@ -1,0 +1,40 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 6975 invoked from network); 1 May 2017 04:47:39 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 May 2017 04:47:39 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 May 2017 04:47:39 -0000
+Received: (qmail 28203 invoked from network); 1 May 2017 04:47:38 -0000
+Received: from ec2-34-210-65-75.us-west-2.compute.amazonaws.com (HELO yivgajsvqhhp.rqvc) (34.210.65.75)
+  by zak.futurequest.net with SMTP; 1 May 2017 04:47:38 -0000
+Date: Mon, 1 May 2017 13:47:36 +0900 (JST)
+From: =?Shift_JIS?B?k/qWey6NkYt+iYeL4Jdai0CNXIFzklMgk5YggXSS1oy0?= <si2d@h2kbr73z5.net>
+To: lists-linux-kernel@bruce-guenter.dyndns.org
+Message-ID: <1178559252.527937.1493614056883.JavaMail.return-936313267@h2kbr73z5.net>
+Subject: =?Shift_JIS?B?jZEricYujnd+kugti34qiYcti+AtjugikbE=?=
+ =?Shift_JIS?B?J4KrfoLMX5X7LYLNLYKxKoK/LoLnLILFfoqu?=
+ =?Shift_JIS?B?Xpe5L4LJLoLILYLoIILcLYK3IoLmX4FCJw==?=
+ =?Shift_JIS?B?jcUujOMugswvgqgijugukbEvgqssgsw6lfsi?=
+ =?Shift_JIS?B?gvAsgqgriugugqItgrVegtwugrcvgsssgUI=?=
+ =?Shift_JIS?B?IoKxfoLqK4LFLZCwO4LqLILEZ2VzdJdsIA==?=
+ =?Shift_JIS?B?gs0rjZF+icaljndfkuili34tiYcgi+ArgvA=?=
+ =?Shift_JIS?B?Lo7zLoKvIo7mLILpK46WL4KqXoLFX4KrfoLp?=
+ =?Shift_JIS?B?J4KxX4LGLYLGLYLIX4LoK4LcLIK3OoKpXg==?=
+ =?Shift_JIS?B?gucsgsssgUIgkbxegswggt0tgsh+l2wgguBn?=
+ =?Shift_JIS?B?ZXN0l2wvgvAtkFN+kdIqgr+lgskngrUs?=
+ =?Shift_JIS?B?gsQtgqg6gugugtwsgrcvgswrgsUsjcV+j0lf?=
+ =?Shift_JIS?B?gswtgqgtjuh+kbF+gqs6gvCliq6ll7ktgrM=?=
+ =?Shift_JIS?B?LoK5K4LEfo2RX4nGfo53fpLoIIt+LomHK4vg?=
+ =?Shift_JIS?B?MTKJrTI1MDCWnCqJfl+C8CyCqCyO8yeCrw==?=
+ =?Shift_JIS?B?LY7mXoLoLIKtfoK+LIKzLYKiLYLcK4K5KoFC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+国~家;指~定/救.援,金-手+続"き_の"方.は:こ-ち/ら で/完.了;に,な+り;ま,す よ.。.最,後_の お~手+続.き_の'方~を*お~願/い.し,ま"す_ね'。.こ:れ･で/晴/れ:てgest様.は*国,家_指"定･救.援_金,を_受/け^取/る･事"が-で･き.る+こ*と_と･な り_ま~す*か_ら~ね_。 他/の+み･な_様~もgest様;を+心*待.ち.に+し-て'お"り:ま す･の*で_最,終.の/お_手_続.き/を*完*了-さ+せ_て 国･家.指/定-救~援~金12億2500万/円.を,お~受;け:取^り,く~だ_さ_い.ま;せ~。
+
+詳 　.細
+http://vlswiluv.h2kbr73z5.net/jsgcbzyioyyqkdw56/69932211/m3420375345/4a26f61e78ee852dead8a0475f55a5076f2fd84b6dd58caf3cb082acd580a101
+
+2017/05/01 13:47

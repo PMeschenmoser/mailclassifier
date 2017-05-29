@@ -1,0 +1,847 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 30273 invoked from network); 02 May 2017 03:52:45 -0000
+Received: from mx10.futurequest.net (mx10.futurequest.net [69.5.6.182])
+  by 10.170.1.183 ([10.170.1.183])
+  with FQDP via TCP; 02 May 2017 03:52:45 -0000
+Received: (qmail 8899 invoked from network); 2 May 2017 03:52:45 -0000
+Received: from mail27.wt1.edmmessage.com (mail27.wt1.edmmessage.com [101.78.203.27])
+  by mx10.futurequest.net ([69.5.6.182])
+  with ESMTP via TCP; 02 May 2017 03:52:44 -0000
+Received: from 101.78.203.27 (mail27.wt1.edmmessage.com [101.78.203.27])
+	by mail27.wt1.edmmessage.com (Postfix) with ESMTP id 30C731C2DC5
+	for <bruce@untroubled.org>; Tue,  2 May 2017 11:52:43 +0800 (HKT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; t=1493697163; s=default;
+	d=edmmessage.com;
+	h=Date:From:Reply-To:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding;
+	bh=jU2RYEVWyri5BKFNopTY0jH9VX2nB0GjoieVKGhPEQo=;
+	b=mxqUrKk/rbrsFsMhunJNSbpnXM5spc/tWXng3jcNcTkLqsVWeCh992gTCByu8NhU
+	f0ORQqSUCeDen2jl6kkV7dF8OcGfC4rkpByA8xzxr0uHWKlp6lO0fO43etY+hTTDtFs
+	0Y6F8DvdD++dC4Sc68LBofbJLK8z28jbHBH+zG0s=
+Date: Tue, 2 May 2017 11:52:43 +0800 (HKT)
+From: "jhie.powermax" <jhie@powermaxph.com>
+Reply-To: "jhie.powermax" <jhie@powermaxph.com>
+To: JHIE-07-YMLP <bruce@untroubled.org>
+Message-ID: <1394733745.5607460.1493697163198.JavaMail.tomcat@wt5>
+Subject: How to Reduce Your Tax Legally and Ethically - May 26
+Errors-To: b.16012507@edmmessage.com
+MIME-Version: 1.0
+Content-Type: text/html;charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+X-Content-ID: gUwKQrd+b4ywncvDbOKbEe3ZeiCilJJ6J9W99A6jpRRJfamZPhipTTBcRS5SO+rCV9Fhut1bj3B51kLXgL0l0cHQ8DPP5KT4FrlVM6j+VRz1sRmmoEPQLQ3GxOFaBNMx
+Feedback-ID: 545128355573198:389718255872313:008494288642614:edmmessage.com
+
+<!DOCTYPE html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<head>
+<meta charset=3D"UTF-8">
+<style type=3D"text/css">
+@media only screen and (max-width: 480px) { .email-header { padding: 0 5px;=
+ } }=20
+.email-footer-ios-link a { color: #444444 !important; text-decoration: none=
+ !important; } @media only screen and (max-width: 480px) { .email-footer { =
+width: 100% !important; -moz-text-size-adjust: none; -webkit-text-size-adju=
+st: none; -ms-text-size-adjust: none; } .email-footer-column { vertical-ali=
+gn: top; } .email-footer-email-address { word-break: break-word; } }=20
+</style>
+<title>How to Reduce Your Tax Legally and Ethically - May 26</title>
+<!--[if gte mso 9]>
+<xml>
+=09<o:OfficeDocumentSettings>
+=09<o:AllowPNG/>
+=09<o:PixelsPerInch>96</o:PixelsPerInch>
+=09</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+</head>
+<body>
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" alig=
+n=3D"center"><tr><td align=3D"center"><div class=3D"email-header" style=3D"=
+font-family: Verdana, sans-serif; font-size: 11px; line-height: 18px; color=
+: #444444;">Add <a href=3D"mailto:jhie@powermaxph.com" style=3D"color: #339=
+9ff;">jhie@powermaxph.com</a> to your address book.</div>
+
+<br /></td></tr><tr><td align=3D"left"><br />
+<table bgcolor=3D"#fafafa" cellpadding=3D"0" cellspacing=3D"0" style=3D"wid=
+th:100%">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td align=3D"center">
+=09=09=09<table align=3D"center" bgcolor=3D"#fafafa" cellpadding=3D"0" cell=
+spacing=3D"0" id=3D"m_-507694616566279853gmail-m_-6758181729022162097gmail-=
+m_5725872942062335053m_519001825305788topMessageWrapper" style=3D"width:600=
+px">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td>
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" i=
+d=3D"m_-507694616566279853gmail-m_-6758181729022162097gmail-m_5725872942062=
+335053m_519001825305788topMessageWrapperMainTable" style=3D"width:600px">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td bgcolor=3D"transparent">
+=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"height:100%; width:100%">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td><img alt=3D"" src=3D"https=
+://ci5.googleusercontent.com/proxy/97I_wdGVyUxo245oy1uZRQvCVKlCmCdP4W_Zzhno=
+-fsZsdhloQKpOwx7EwGX3RxfDkOt-36dS3VRwGBO-vY3U8ynWyrW2N34goEZHINFjeB1pKlbFjr=
+igpGLzo2l01OVOMjuXzgBbTH-WsYFsx8LDplUzFU9zHYEeXxJmGs=3Ds0-d-e1-ft#http://st=
+aticapp.icpsc.com/icp/loadimage.php/mogile/1246552/cccf8f4c550b0f1d72bbb1f1=
+4900e6e3/image/jpeg" /></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td bgcolor=3D"#000749">&nbsp;=
+</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td>
+=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"height:100%; width:100%">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td bgcolor=3D"transparent" valign=3D"t=
+op" width=3D"50%">
+=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"height:100%; width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top">&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td bgcolor=3D"transparent" valign=3D"t=
+op" width=3D"50%">
+=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"height:100%; width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top">&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td bgcolor=3D"#ffffff">
+=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"height:100%; width:100%">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td><img src=3D"https://ci6.go=
+ogleusercontent.com/proxy/g3HFlMARGNRogAh6fSBfD1GAaTYfg4YgT8tnI27rmcxroDx_K=
+lTmE6rsMNCeOlRWvZFXZvXt6cyppSCxvI1Z44b1-AF250YNeI-bOE5SDdHiV19imgQW6fQCOPF2=
+ngHLKVW2q2hmsCXbia4Kjzg8_558TmfOtSlqlOK3pFs=3Ds0-d-e1-ft#http://staticapp.i=
+cpsc.com/icp/loadimage.php/mogile/1246552/6df0a571dd822baccbe404afae8f65fc/=
+image/jpeg" /></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td><strong>I. Latest Tax Issu=
+ances 2016</strong><br />&nbsp;<br /><strong>II. Distinction Between &ldquo=
+;Tax Evasion&rdquo;&nbsp;</strong><strong>And &ldquo;Tax Avoidance&rdquo;</=
+strong><br /><br /><strong>III. Burden Of Proof In Establishing&nbsp;</stro=
+ng><strong>Fraud</strong><br /><br /><strong>IV. Types Of Tax Fraud Cases</=
+strong><br /><br />&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<em>a.&nbsp;&=
+nbsp; &nbsp;Criminal Fraud<br />&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; b.&nb=
+sp;&nbsp; &nbsp;Civil Fraud</em><br /><br /><strong>V. Effects Of Fraud</st=
+rong><br /><br /><strong>VI. Taxpayer Tax Problems - Solution</strong><stro=
+ng>&nbsp;Of Tax Problem</strong><br /><br /><strong>VII. Tax Management In =
+The&nbsp; Filing Of</strong><strong>&nbsp;Returns</strong><br /><br />&nbsp=
+;&nbsp;&nbsp;&nbsp;<em>a. Filing Of Tentative Income Tax&nbsp;</em><em>Retu=
+rn</em><br /><em>&nbsp;&nbsp;&nbsp; b. Avoid Refundable Return Or Carry</em=
+><em>&nbsp;Over Of Excess Income Or Vat</em><br /><em>&nbsp;&nbsp;&nbsp; c.=
+ File All Returns</em><br /><br /><strong>VIII. General Strategies In Tax P=
+lanning</strong><br /><br /><em>&nbsp;&nbsp;&nbsp;&nbsp;a. Timing Of Income=
+ And Deduction<br />&nbsp;&nbsp;&nbsp; b.&nbsp; Shifting Of Income<br />&nb=
+sp;&nbsp;&nbsp; c. Conversion Of Income<br />&nbsp;&nbsp;&nbsp; d. Allocati=
+on Of Deductions<br />&nbsp;&nbsp;&nbsp; e. Selecting The Appropriate Accou=
+nting</em><em>&nbsp;Methods</em><br /><em>&nbsp;&nbsp;&nbsp; f. Use Of Exce=
+ss Tax Credit<br />&nbsp;&nbsp;&nbsp; g. Monitoring Of Input Tax<br />&nbsp=
+;&nbsp;&nbsp; h. Transfer Pricing<br />&nbsp;&nbsp;&nbsp; i. Capitalization=
+ Of Assets<br />&nbsp;&nbsp;&nbsp; j. Exchange Of Real Property Of An</em><=
+br /><em>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Individual To Share Of Stocks<br /=
+>&nbsp;&nbsp;&nbsp; k.Transfer Of Personal Property To The</em><em>&nbsp;Co=
+rporation</em><br /><br /><strong>IX. Re-Classification Of&nbsp; Accounts</=
+strong><br /><br />&nbsp;&nbsp;&nbsp;&nbsp;<em>a.&nbsp; Ordinary Gain Class=
+ified To</em><em>&nbsp;Capital Gain</em><br /><em>&nbsp;&nbsp;&nbsp; b. Sim=
+ultaneously - Construction Of</em><em>&nbsp;Personal Real Estate Projects I=
+n</em><br /><em>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Construction Business=
+<br />&nbsp;&nbsp;&nbsp; c. Sales Return Of Merchandize<br />&nbsp;&nbsp;&n=
+bsp; d. Reclassification Of Accounts</em></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td><img src=3D"https://ci5.go=
+ogleusercontent.com/proxy/zZuOuYw3KvyoDA4mHvWyomKNi5cpPxxE8h9-B26T6PvM2YU-7=
+u6v7v6U-tc1ABIlqFLwG7fEIKdGa8fiFGpSry0_UymeeOVwW6mcqw3oK7QyOxyJAXZpIEv3xa0F=
+MV3Gki7GgY8qniAwJiTf3b37MvLUEBPiD64BB_jvP2I=3Ds0-d-e1-ft#http://staticapp.i=
+cpsc.com/icp/loadimage.php/mogile/1246552/2087bd83b493a66301e0a9bdc95de580/=
+image/jpeg" /></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td><img height=3D"270" src=3D=
+"https://ci5.googleusercontent.com/proxy/CvxXCC92nRF47YRQuvR_nprHS19PURKBAU=
+FcQfva1r7TGZptdDKdouiTJnqva3eheGxKHqGMOSjjpq6uDlIBLtN9aost3k_v_RaRFqyuqeYWs=
+mFqOKTskqpRaKO_nK1zaqupOVEm94pRN2AJ-dJPn-SZiCWJYg-NqSkl0W8=3Ds0-d-e1-ft#htt=
+p://staticapp.icpsc.com/icp/loadimage.php/mogile/1246552/ed14c1bab1a408d081=
+fdac08ded6c1bc/image/jpeg" style=3D"float:right" width=3D"302" /><br /><em>=
+<strong><em><strong>Ruperto Pacis Somera</strong></em></strong></em><br /><=
+em><strong><em><strong>Ph.D, DBA, CPA</strong></em></strong></em><br />&nbs=
+p;<br />&nbsp;<br />Tax Consultant, Professor/Lecturer<br />Former Member o=
+f the Board of Accountancy<br />Former Director, Bureau of Internal Revenue=
+<br />Fellow TAX Management<br />Fellow TAX Research</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"text-align: cente=
+r;"><strong>FOLLOW US ON OUR SOCIAL MEDIA ACCOUNTS!</strong><br />&nbsp;<br=
+ /><a data-saferedirecturl=3D"https://www.google.com/url?hl=3Den&amp;q=3Dht=
+tp://click.icptrack.com/icp/relay.php?r%3D%26msgid%3D0%26act%3D111111%26c%3=
+D1246552%26destination%3Dhttps%253A%252F%252Fwww.facebook.com%252FPowermaxP=
+H%252F&amp;source=3Dgmail&amp;ust=3D1493777216194000&amp;usg=3DAFQjCNHH3hkB=
+1ecEHV5-xBer2DgASSkLVA" href=3D"http://da5.edmmessage.com/dd/daecs?token=3D=
+msSd6V0r3LlzFZ94QGJ1WyiHQ%2FqDBApcln1649fsw%2BvatTl5v01B2Pk6gDzMtJ5JTMf9IW%=
+2BgDnEN%2B4qRqaxVBOLkGuNIRr33nNL%2BwtPKe27H2jJqBXKO1rElWGihPyHei5ddnONxJSY4=
+fZBLDHKCVstKTkxBlbEdUaHpXiPpZlYHrYaPZUeOm7h0aL6nZaAl23PFKayseb1KBrBeGYGJNe4=
+f4lxQXiNxiQc0BA2QBuDTqD5UoQ%2FLlqHYhtDqoVZMGMBPEzHBa1PL7P1kwgR%2Bf%2BzRV9cy=
+1QVve8EffOB5vhfu3X5d4wC1yafj%2B86UfaS1UiXwf5sPb2YuCfsBQnYJfhLqCdyqkeO1O%2FP=
+Ii362%2Bgk%3D" target=3D"_blank"><img height=3D"50" src=3D"https://ci5.goog=
+leusercontent.com/proxy/BQC23S7T35VccYNs5qGiQXRL-LvhMLWJE8rloGr4yIcjUbn4Y12=
+GFLy7Jj_eifC2xyqJ6dXTo2KC8-re_-6xmEfwiFsXQBgwzZY66Wh_D9KFQ-AvDU2OrCEa6VIZKi=
+i4ipMkMByVM9qGP8lwoJxinTgFcbcv_TFSNSIHiw=3Ds0-d-e1-ft#http://staticapp.icps=
+c.com/icp/loadimage.php/mogile/1246552/a68e7160f08c95aed56e703597522d3d/ima=
+ge/png" width=3D"50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a data-saferedire=
+cturl=3D"https://www.google.com/url?hl=3Den&amp;q=3Dhttp://click.icptrack.c=
+om/icp/relay.php?r%3D%26msgid%3D0%26act%3D111111%26c%3D1246552%26destinatio=
+n%3Dhttps%253A%252F%252Ftwitter.com%252Fpowermaxxph&amp;source=3Dgmail&amp;=
+ust=3D1493777216194000&amp;usg=3DAFQjCNHJi9rY4Ml93lwkaj9OX9NtwceO6g" href=
+=3D"http://da5.edmmessage.com/dd/daecs?token=3DmsSd6V0r3LlAUppkXStbHZGr%2FD=
+V%2FyPq3ln1649fsw%2BvatTl5v01B2Pk6gDzMtJ5JTMf9IW%2BgDnEN%2B4qRqaxVBOLkGuNIR=
+r33nNL%2BwtPKe27H2jJqBXKO1rElWGihPyHei5ddnONxJSY4fZBLDHKCVstKTkxBlbEdUaHpXi=
+PpZlYHrYaPZUeOm7h0aL6nZaAl23PFKayseb1KBrBeGYGJNe4f4lxQXiNxiQc0BA2QBuDTqD5Uo=
+Q%2FLlqHYhtDqoVZMGMBPEzHBa1PL7P1kwgR%2Bf%2BzRV9cy1QVve8EffOB5vheDQTNRfGc14w=
+PuD4FDvx4YU4HBMKE9PmN2zVGyvdh%2B93pJfeLnmMmT" target=3D"_blank"><img height=
+=3D"50" src=3D"https://ci5.googleusercontent.com/proxy/e4l_tX_P_O459eXs74T1=
+EQ-Xu0l9gsVsxG6poS25nA612kskhjmVZdrms_AoKPReQD-2HxlC67L07VEp23pFknK5-xSWfDT=
+Z0knWkChzCNzdIRHtjoG2HEJRU3iB5aC9UEngc5NxPvu5fIViM6DXNPpEVvpKw3rCEoY_aA=3Ds=
+0-d-e1-ft#http://staticapp.icpsc.com/icp/loadimage.php/mogile/1246552/676c6=
+664215a58774b79d6e817f64782/image/png" width=3D"50" /></a>&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;<a data-saferedirecturl=3D"https://www.google.com/url?hl=3Den&=
+amp;q=3Dhttp://click.icptrack.com/icp/relay.php?r%3D%26msgid%3D0%26act%3D11=
+1111%26c%3D1246552%26destination%3Dhttps%253A%252F%252Fwww.instagram.com%25=
+2Fpowermaxph%252F&amp;source=3Dgmail&amp;ust=3D1493777216194000&amp;usg=3DA=
+FQjCNEZnNd_ocZAW-v6At5Gu-n0pp4BVg" href=3D"http://da5.edmmessage.com/dd/dae=
+cs?token=3DmsSd6V0r3LkfH%2BIeYb0xe8np6E5Ni1WXln1649fsw%2BvatTl5v01B2Pk6gDzM=
+tJ5JTMf9IW%2BgDnEN%2B4qRqaxVBOLkGuNIRr33nNL%2BwtPKe27H2jJqBXKO1rElWGihPyHei=
+5ddnONxJSY4fZBLDHKCVstKTkxBlbEdUaHpXiPpZlYHrYaPZUeOm7h0aL6nZaAl23PFKayseb1K=
+BrBeGYGJNe4f4lxQXiNxiQc0BA2QBuDTqD5UoQ%2FLlqHYhtDqoVZMGMBPEzHBa1PL7P1kwgR%2=
+Bf%2BzRV9cy1QVve8EffOB5vhfu3X5d4wC1yRS7J6TUW7iMJ%2F7sQxDKyhhFigoWO4Wb2Yaadr=
+ZCR9A5ycG6fIE%2B8oE%3D" target=3D"_blank"><img alt=3D"" height=3D"50" src=
+=3D"https://ci5.googleusercontent.com/proxy/1hAAgQZNh3gIiR93WMNdz5NnIZNFzz4=
+YWwkwSsuo3vYhPJiC31jxrf4dUnx4kYz7L9PoSZWstRbNsGQdVjeHmlASl2jlcfWkstRCDzmFxc=
+CcpHs0EQxiQDpsMpBHtperDs0VdXhzljon78TgWRIF7f9gFlIH0jTOsX_x7Q=3Ds0-d-e1-ft#h=
+ttp://staticapp.icpsc.com/icp/loadimage.php/mogile/1246552/7581ed8684079034=
+eb0c33c6152b83b8/image/png" width=3D"50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;<a data-saferedirecturl=3D"https://www.google.com/url?hl=3Den&amp;q=3Dhtt=
+p://click.icptrack.com/icp/relay.php?r%3D%26msgid%3D0%26act%3D111111%26c%3D=
+1246552%26destination%3Dhttps%253A%252F%252Fwww.linkedin.com%252Fin%252Fpow=
+ermaxph&amp;source=3Dgmail&amp;ust=3D1493777216194000&amp;usg=3DAFQjCNEr4hK=
+DwsY4qOpt7smc3Ml76a0i7Q" href=3D"http://da5.edmmessage.com/dd/daecs?token=
+=3DmsSd6V0r3LkMbByDLTL%2FEJChtkQJfGO1ln1649fsw%2BvatTl5v01B2Pk6gDzMtJ5JTMf9=
+IW%2BgDnEN%2B4qRqaxVBOLkGuNIRr33nNL%2BwtPKe27H2jJqBXKO1rElWGihPyHei5ddnONxJ=
+SY4fZBLDHKCVstKTkxBlbEdUaHpXiPpZlYHrYaPZUeOm7h0aL6nZaAl23PFKayseb1KBrBeGYGJ=
+Ne4f4lxQXiNxiQc0BA2QBuDTqD5UoQ%2FLlqHYhtDqoVZMGMBPEzHBa1PL7P1kwgR%2Bf%2BzRV=
+9cy1QVve8EffOB5vhfu3X5d4wC1yXZAjjs0S6uzUiXwf5sPb2ZkXdJKqMYnjXLBy5lXXi7UAhJ1=
+7bck2Bk%3D" target=3D"_blank"><img alt=3D"" height=3D"50" src=3D"https://ci=
+4.googleusercontent.com/proxy/pqT53rBJHFNuZEm6uQQKaNyyXFNEXdUK7s0TCCw5DgRg1=
+-DP3YNrf0oCfzJDqpZ0JK3CNGQ-lfNMl39cUpMckHuybeCH4pTAXhfBlhItx_8n43y371g1OeMK=
+yloshrgQdXSIvR1ytrI9eJ6C67r_ABdcPW7ZIdFSJ2uPCQ=3Ds0-d-e1-ft#http://staticap=
+p.icpsc.com/icp/loadimage.php/mogile/1246552/6118cf46aaf955321f42d3060a7de2=
+8b/image/png" width=3D"50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a data-safe=
+redirecturl=3D"https://www.google.com/url?hl=3Den&amp;q=3Dhttp://click.icpt=
+rack.com/icp/relay.php?r%3D%26msgid%3D0%26act%3D111111%26c%3D1246552%26dest=
+ination%3Dhttps%253A%252F%252Fplus.google.com%252F107866430374256425418&amp=
+;source=3Dgmail&amp;ust=3D1493777216194000&amp;usg=3DAFQjCNEFNCy01EyMgTLcq8=
+3lSjtOCTEdVg" href=3D"http://da5.edmmessage.com/dd/daecs?token=3DmsSd6V0r3L=
+mQOet6rLYOji7WWkpsaj8%2Fln1649fsw%2BvatTl5v01B2Pk6gDzMtJ5JTMf9IW%2BgDnEN%2B=
+4qRqaxVBOLkGuNIRr33nNL%2BwtPKe27H2jJqBXKO1rElWGihPyHei5ddnONxJSY4fZBLDHKCVs=
+tKTkxBlbEdUaHpXiPpZlYHrYaPZUeOm7h0aL6nZaAl23PFKayseb1KBrBeGYGJNe4f4lxQXiNxi=
+Qc0BA2QBuDTqD5UoQ%2FLlqHYhtDqoVZMGMBPEzHBa1PL7P1kwgR%2Bf%2BzRV9cy1QVve8EffO=
+B5vheP9vPBucHRdHmGqlz3LtyPwrxDZzgPgbTNVUOXDeY%2F9q7nI5uslWCew19TN%2BCBFrKzi=
+s9BViOHbA%3D%3D" target=3D"_blank"><img height=3D"50" src=3D"https://ci6.go=
+ogleusercontent.com/proxy/nMrqlt-dhCmcehk9zHXG7u2RzEwosW8cfILC2LXjayK_vBdT4=
+BNXZpx0bH5Odi1RbQiDr2gkepWUdSKmIQVkWgqv9EfA-fs2c2C74LgWyY0o9FmIyiLBCRFBadpN=
+D4dXMNPw6j3xn2TQbncFH5DwTaxW3Nhh9X7u1B0VGg=3Ds0-d-e1-ft#http://staticapp.ic=
+psc.com/icp/loadimage.php/mogile/1246552/ab958ddf6109f88eb57768fd8fd4a0ae/i=
+mage/png" width=3D"50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a data-saferedi=
+recturl=3D"https://www.google.com/url?hl=3Den&amp;q=3Dhttp://click.icptrack=
+.com/icp/relay.php?r%3D%26msgid%3D0%26act%3D111111%26c%3D1246552%26destinat=
+ion%3Dhttps%253A%252F%252Fyoutube.com%252Fchannel%252FUCEe4cSZO1MAaLzpJXRJh=
+mzQ&amp;source=3Dgmail&amp;ust=3D1493777216194000&amp;usg=3DAFQjCNGwVdwRwEM=
+HTUl7GNkzYjFsFrOJxg" href=3D"http://da5.edmmessage.com/dd/daecs?token=3DmsS=
+d6V0r3LlWWpCU8iEANl0w1ixFqczmln1649fsw%2BvatTl5v01B2Pk6gDzMtJ5JTMf9IW%2BgDn=
+EN%2B4qRqaxVBOLkGuNIRr33nNL%2BwtPKe27H2jJqBXKO1rElWGihPyHei5ddnONxJSY4fZBLD=
+HKCVstKTkxBlbEdUaHpXiPpZlYHrYaPZUeOm7h0aL6nZaAl23PFKayseb1KBrBeGYGJNe4f4lxQ=
+XiNxiQc0BA2QBuDTqD5UoQ%2FLlqHYhtDqoVZMGMBPEzHBa1PL7P1kwgR%2Bf%2BzRV9cy1QVve=
+8EffOB5vhfXLPOs1BpYLi6sE5D5JiaIF92INpxaH6e799akELXIiPJA5ATPstX0J2tA7Zm3JqG4=
+t1gohKd7ODvzyIt%2BtvoJ" target=3D"_blank"><img height=3D"50" src=3D"https:/=
+/ci5.googleusercontent.com/proxy/jEnhd-uriaFtRCug1e2QVk7RPXgBZEgBhdUVbA29Jz=
+je_2bzG_0yDbTIMDxqWUVGNbX-VIvngph_ibIWojEvfrdttjntxn3u1vnUgP5BhJZMt3ZY2mP6V=
+FyGnl0amlrEBuXk2KBSu4GxT18Nb-hlx1wNJahCI1P8K2KymA=3Ds0-d-e1-ft#http://stati=
+capp.icpsc.com/icp/loadimage.php/mogile/1246552/6057b012e593abb1f8a4a1f7f01=
+54d61/image/png" width=3D"50" /></a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"text-align: cente=
+r;"><a data-saferedirecturl=3D"https://www.google.com/url?hl=3Den&amp;q=3Dh=
+ttps://form.jotform.me/62781703302450&amp;source=3Dgmail&amp;ust=3D14937772=
+16194000&amp;usg=3DAFQjCNGeneRu18IC8RbMB7gpU5yOZoAA1A" href=3D"http://da5.e=
+dmmessage.com/dd/daecs?token=3DmsSd6V0r3LmjuDQHH4furo5z4FiAvICmln1649fsw%2B=
+vatTl5v01B2Pk6gDzMtJ5JTMf9IW%2BgDnEN%2B4qRqaxVBOLkGuNIRr33B9KAGVb%2Fvtp1SA2=
+hzUlplL0ER0DFc1Wx5qJHv0JwYVgALQtD9%2B94sVGTUUrF%2B1vz8PGDMhzMCZk%3D" target=
+=3D"_blank"><img height=3D"184" src=3D"https://ci4.googleusercontent.com/pr=
+oxy/s6M7DMlBNXqDItchceXhaOPavcgPRG1fAiFdVTu-S1c33U4Gn-__OngsywdNG5053DPIM6u=
+9njZ0sNqliWpnAET1GaMUnrjXfHY-aVrTyUhsl-OSeTHzTdHkAEQNIpK1_MoT_rUpQSmbn5Hq96=
+P29Tp70mZtGYIAz94aGA=3Ds0-d-e1-ft#http://staticapp.icpsc.com/icp/loadimage.=
+php/mogile/1246552/412de04e50ce20f6366e4ad231ea542d/image/gif" style=3D"flo=
+at:left" width=3D"280" /></a><br />For More Details / Inquiry / Reservation=
+,&nbsp;Please call us<br /><strong>Ms. Jhie Tejada</strong><br /><strong>Ma=
+rketing Officer</strong><br /><strong>Tele Fax:&nbsp;</strong><strong>470-5=
+542</strong><br /><strong>&nbsp;</strong><strong>or Call/Text:&nbsp;</stron=
+g><strong>0921-7742347/ 0906-4798186</strong><br />&nbsp;Email:&nbsp;<a hre=
+f=3D"http://da5.edmmessage.com/dd/daecs?token=3DmsSd6V0r3LlSCVXFFY5h1JLjKWI=
+kjSTvln1649fsw%2BvatTl5v01B2Pk6gDzMtJ5JTMf9IW%2BgDnEN%2B4qRqaxVBFa7s9nRfX9F=
+cGxlshidmrFedeGPL3jhJAhRn1oILavGYNvpSELNzV3xfoYbZ7nX%2B4A1CGCCNbk%2B" rel=
+=3D"nofollow" target=3D"_blank" title=3D"mailto:jhie.powermax@yahoo.com.ph"=
+><strong><em>jhie.powermaxph@yahoo.com</em></strong></a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"text-align: cente=
+r;"><strong>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;=
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Date</strong>&nbsp;&nbsp=
+;&nbsp; &nbsp;&nbsp;&nbsp;<strong>:</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong=
+>May 26, 2017</strong><br />&nbsp;<br /><strong>&nbsp;&nbsp;&nbsp; &nbsp;&n=
+bsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&=
+nbsp;&nbsp; Time</strong>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<strong>:</strong>&=
+nbsp;&nbsp;&nbsp;&nbsp;<strong>9:00am - 5:00pm</strong><br />&nbsp;<br /><s=
+trong>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;=
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Venue&nbsp;&nbsp;&nbsp; :&nbsp=
+;&nbsp;&nbsp; RCBC Plaza Makati</strong></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"text-align: cente=
+r;"><img height=3D"58" src=3D"https://ci6.googleusercontent.com/proxy/1qN-k=
+R-nKDNfWS2UD6LTfZB1AitGljkonjyPc8aGYoq0fbwmeGHG0ii4-bGQ0jTpPXXc79NPk6YnUJEw=
+y0lOdQ1fsEDhx_1RZNYsbui17Jvk-NP7wqOFfBhlzLyNXm-Kxko-qIMfKHmifDqMHJOq5Xz0Fr0=
+CZbbQaPB8jQ=3Ds0-d-e1-ft#http://staticapp.icpsc.com/icp/loadimage.php/mogil=
+e/1246552/f222719726cf89de3730ed1d2f042229/image/png" width=3D"600" /></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"text-align: cente=
+r;">&nbsp;<br /><em>(Inclusive of seminar kit, certificates and am snacks, =
+lunch and pm snacks)</em><br />&nbsp;<br /><strong>Early Bird Rate -&nbsp;P=
+hp 4,545&nbsp;</strong>+ VAT<br /><strong>(until May 18)</strong><br />&nbs=
+p;<br /><strong>Regular Rate -&nbsp;Php 5,145&nbsp;</strong>+ VAT<br /><str=
+ong>(starting May 19)</strong><br />&nbsp;<br /><strong>Group Rate -&nbsp;P=
+hp 4,145&nbsp;</strong>+ VAT per pax<br /><strong>(5 pax or more)</strong><=
+br />&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"text-align: cente=
+r;"><img height=3D"58" src=3D"https://ci5.googleusercontent.com/proxy/ErDxi=
+22hOgGrHYGq_oUpGFZ7jFesuINW84ESz6VkiCI66KY5v-746K_fVRZAgAsQfZPgObzTgmSQb__t=
+ywrymR0EJvVg29XKVBzq0IBUigbJE8VO8CJrKqcSdyl1yLtY-QRP2-cKqHTzl-zXq4Wi7i33IIk=
+iL9Lfke98aQ=3Ds0-d-e1-ft#http://staticapp.icpsc.com/icp/loadimage.php/mogil=
+e/1246552/23a03cf9a72d9bff0ecd6c2bf9c38a44/image/png" width=3D"600" /><br /=
+>&nbsp;<br /><img height=3D"37" src=3D"https://ci6.googleusercontent.com/pr=
+oxy/AMPwlxzO9v76g55PxTmTUF2JeRBvT7qBCSq7mxl-iCvGrSu4JqKP89dEVgQGCDPLujvky_A=
+eUMRbO8AHPioyzI_viC14NbRIBg4-j1CQ9SIzgzHKhyk0QWVS1Y1v3Hrfm3_c2AO-tNUnQ4oMOf=
+KSbSlnmaKqgZfvOaJRkQ=3Ds0-d-e1-ft#http://staticapp.icpsc.com/icp/loadimage.=
+php/mogile/1246552/3ab6343bc6d918b660655e42407a7ab4/image/gif" width=3D"194=
+" /><br />&nbsp;<br />For your convenience, you may deposit your payment at=
+ any&nbsp;branch of<br />&nbsp;<br /><strong><strong>BANCO DE ORO&nbsp;</st=
+rong></strong>(BDO)<br />&nbsp;<br />Account Name:&nbsp;<em><strong>Powerma=
+x Consulting Group Inc.</strong></em><br />&nbsp;<br />&nbsp;&nbsp;&nbsp; A=
+ccount Number:&nbsp;<em><strong>4950214023</strong></em><br />&nbsp;<br /><=
+img height=3D"68" src=3D"https://ci5.googleusercontent.com/proxy/u3wcTnwbyG=
+isDGi2B2p6IWtPGjS1NFwnfYY_cyCES5MqJ6GqNUdkzfYRZ3_PTAUa8xo078dHWWXS_g_vsxQXX=
+W0Z5C_o6q8IHsbA3swDHjG1RIK3Ul0OPge2P1m_TsM3EtvlQHj-YMXwuxZjp54bB7wUgEVcUk6X=
+sRwEggw=3Ds0-d-e1-ft#http://staticapp.icpsc.com/icp/loadimage.php/mogile/12=
+46552/a416fb2b217e2c7b594b8e692fc78c8d/image/jpeg" width=3D"95" /><br />&nb=
+sp;<br /><strong>BANK OF THE PHILIPPINE ISLANDS&nbsp;</strong>(BPI)<br />&n=
+bsp;<br />&nbsp;<br />Account Name:&nbsp;<em><strong>Powermax Consulting Gr=
+oup Inc.</strong></em><br /><br />Account Number:&nbsp;<em><strong>4021-013=
+8-68</strong></em><br />&nbsp;<br />Branch:&nbsp;<em><strong>Robinsons Equi=
+table Tower Ortigas</strong></em><br />&nbsp;<br />Please fax a copy of the=
+ validated deposit slip with your<br />company details to&nbsp;<strong>470-=
+5542</strong>&nbsp;or email a scanned copy to&nbsp;<strong><a href=3D"http:=
+//da5.edmmessage.com/dd/daecs?token=3DmsSd6V0r3LmbWBqllhMgBCFo2Pr5vk4vln164=
+9fsw%2BvatTl5v01B2Pk6gDzMtJ5JTMf9IW%2BgDnEN%2B4qRqaxVBFa7s9nRfX9FcGxlshidmr=
+FedeGPL3jhJJMSW476E6pC%2Fh%2ByyNccDpOppcJVaZrQ7w%3D%3D" rel=3D"nofollow" ta=
+rget=3D"_blank">jhie.powermaxph@yahoo.com</a></strong><br />Official Receip=
+ts are to be given on the day of the seminar.&nbsp;<br /><a data-saferedire=
+cturl=3D"https://www.google.com/url?hl=3Den&amp;q=3Dhttp://click.icptrack.c=
+om/icp/relay.php?r%3D%26msgid%3D0%26act%3D111111%26c%3D1246552%26destinatio=
+n%3Dhttp%253A%252F%252Fpowermaxph.com%252Fnew%252Fspecialpayment%252F&amp;s=
+ource=3Dgmail&amp;ust=3D1493777216194000&amp;usg=3DAFQjCNEkH1jEiwJ6IkbF--Ux=
+1EMDJ4zwvg" href=3D"http://da5.edmmessage.com/dd/daecs?token=3DmsSd6V0r3Lko=
+QvtEk3jQkf7FumKoW7BNln1649fsw%2BvatTl5v01B2Pk6gDzMtJ5JTMf9IW%2BgDnEN%2B4qRq=
+axVBOLkGuNIRr33nNL%2BwtPKe27H2jJqBXKO1rElWGihPyHei5ddnONxJSY4fZBLDHKCVstKTk=
+xBlbEdUaHpXiPpZlYHrYaPZUeOm7h0aL6nZaAl23PFKayseb1KBrBeGYGJNe4f4lxQXiNxiQc0B=
+A2QBuDTqD5UoQ%2FLlqHYhtDqoVZMGMBPEzHBa1PL7P1kwgR%2Bf5rkS6lSqxjGKoa%2BKItg4p=
+QgaBnjHttmsp0sDaxuXr7wl%2Bw%2BQFTCVuo2VM5qgEoAYp5XInYCI%2B%2B9COvdfv%2Fk29v=
+Jwbp8gT7ygQ%3D%3D" target=3D"_blank"><img height=3D"85" src=3D"https://ci6.=
+googleusercontent.com/proxy/SwSEtwvMgodI_DsvrdW1oZ2u5oLhN5Ul10onQ0cV2FYmAJw=
+vwsAXZ09nMvwl_ITWc2wopX5oWNYq36_CmOJDfgeC8tizRu7o1vkWmlU2_lzmy7F7H1-t6Y8Q9X=
+WIHSkGgEr3LArv_DPpbHtt0nJd-B4v3i5o4zc606H3Cg=3Ds0-d-e1-ft#http://staticapp.=
+icpsc.com/icp/loadimage.php/mogile/1246552/d5c6578afbdb304527f31aa7226a73f0=
+/image/png" width=3D"277" /></a><br />&nbsp;<br /><strong>&quot;We Accept A=
+ll Major Credit Cards.&quot;</strong><br />&nbsp;<br /><img height=3D"83" s=
+rc=3D"https://ci3.googleusercontent.com/proxy/gDshJJXq67BUVLTZ9JQPPaTihGOtA=
+9wDK9ODyowx026UMqe9hLkm9tG-BdKhskaq1EPD_WaGKT69fLm-iDiT4hxDAaD3FoVklAT7Q0X_=
+f-gO-SyGbw-qXM8v9HCr0LKybUseO72ofmRO6PCaOpKLOECT0KLSxuhYZoHosg=3Ds0-d-e1-ft=
+#http://staticapp.icpsc.com/icp/loadimage.php/mogile/1246552/43cda4fa993eaf=
+df1691c2d51e048900/image/png" width=3D"401" /><br />&nbsp;<br /><a data-saf=
+eredirecturl=3D"https://www.google.com/url?hl=3Den&amp;q=3Dhttps://form.jot=
+form.me/62781703302450&amp;source=3Dgmail&amp;ust=3D1493777216194000&amp;us=
+g=3DAFQjCNGeneRu18IC8RbMB7gpU5yOZoAA1A" href=3D"http://da5.edmmessage.com/d=
+d/daecs?token=3DmsSd6V0r3LmMtgZhcs6cN2VuS01%2FXdmQln1649fsw%2BvatTl5v01B2Pk=
+6gDzMtJ5JTMf9IW%2BgDnEN%2B4qRqaxVBOLkGuNIRr33B9KAGVb%2Fvtp1SA2hzUlplL0ER0DF=
+c1Wx5qJHv0JwYVgALQtD9%2B94sVGTUUrF%2B1vz8PGDMhzMCZk%3D" target=3D"_blank"><=
+img height=3D"182" src=3D"https://ci3.googleusercontent.com/proxy/0fJVxCyN5=
+NWDQevhTumuAwdZdsOJBdm8q5agywCYIiaBNvFq85LcXSja3b9k7C7rIdpNWrL6wVt4_cvEBjgE=
+DyovlCBZnlXGv-0IarS9LkBoMr0HOX_hJDumRcDWOAfzsUD8MaYg-MhPpWXapRA6ZE2eCToD0IQ=
+pnSAkPQ=3Ds0-d-e1-ft#http://staticapp.icpsc.com/icp/loadimage.php/mogile/12=
+46552/a539543286992ceeea15eeafa1d31bc8/image/png" width=3D"266" /></a><br /=
+>&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"text-align: cente=
+r;"><img height=3D"58" src=3D"https://ci5.googleusercontent.com/proxy/sMBdl=
+D1D2lgF4w3Ip5r1WW8L2Tv6VPut12XNwsfTB1WjKqxoqs2CDyZCw2cWx4VaPNkQJ4IwfyV2h0ix=
+FH3k3BNnwt60hEGjv1bCG8x-RXcDnElER2FTQ0vHFstHWumpMEXo7aAevV4XS--yPnhIm5GPWDm=
+8zsv8iqGmyw=3Ds0-d-e1-ft#http://staticapp.icpsc.com/icp/loadimage.php/mogil=
+e/1246552/e0d63f0ab02bc35d396e5f1768102673/image/png" width=3D"600" /></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"text-align: cent=
+er;"><strong>ATTENTION TO MS. JHIE TEJADA:</strong><br /><strong>How to Red=
+uce Your Tax Legally and Ethically</strong><br />May 26, 2017 &bull; 9:00am=
+ - 5:00pm &bull; RCBC Plaza Makati</div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09&nbsp;<br /><strong>Name Of Pa=
+rticipants:</strong><br />&nbsp;<br />1. _____________________&nbsp; Email/=
+Mobile: __________________<br />2. _____________________&nbsp; Email/Mobile=
+: __________________<br />3. _____________________&nbsp; Email/Mobile: ____=
+______________<br /><br />4. _____________________&nbsp; Email/Mobile: ____=
+______________<br /><br />5. _____________________&nbsp; Email/Mobile: ____=
+______________&nbsp;<br /><strong>AUTHORIZING OFFICER / CONTACT PERSON:</st=
+rong><br />&nbsp;<br />Company Name&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &n=
+bsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &=
+nbsp;&nbsp; Mr./Mrs.<br />______________________________<wbr />____________=
+_______________<br />Address&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nb=
+sp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&n=
+bsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Positio=
+n<br />______________________________<wbr />___________________________<br =
+/>Tin #&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email<br />_____________________=
+_________<wbr />___________________________<br />Telephone&nbsp;&nbsp;&nbsp=
+;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Mobile<br />____________=
+__________________<wbr />___________________________<br />Fax&nbsp;&nbsp;&n=
+bsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&=
+nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;=
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Signature<br=
+ />______________________________<wbr />___________________________
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"text-align: cent=
+er;">Kindly email back this reservation form to us at<strong>&nbsp;<a href=
+=3D"http://da5.edmmessage.com/dd/daecs?token=3DmsSd6V0r3Lk4RQ%2FiSsXcXqwHlw=
+%2BvBL%2Brln1649fsw%2BvatTl5v01B2Pk6gDzMtJ5JTMf9IW%2BgDnEN%2B4qRqaxVBFa7s9n=
+RfX9FcGxlshidmrFedeGPL3jhJAhRn1oILavGYNvpSELNzV3xfoYbZ7nX%2B4A1CGCCNbk%2B" =
+rel=3D"nofollow" target=3D"_blank">jhie.powermax@yahoo.com.ph</a>&nbsp;</st=
+rong><wbr />or fax it back to us at&nbsp;<br />(02)&nbsp;<strong>470-5542</=
+strong>&nbsp;&nbsp;to ensure your seat is reserved to this program.&nbsp;</=
+div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td><strong>POLICIES ON REGIST=
+RATION</strong>
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<ol>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li>To avail of the EARLY B=
+IRD DISCOUNT, payment should be made no more than&nbsp;&nbsp;five (5) days =
+after registration.</li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li>For the seminar fee to =
+be refunded, cancellation should be made not less than&nbsp;&nbsp;four (4) =
+days before the date of&nbsp;the workshop.</li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li>Certificates will be gi=
+ven only to those who have actually&nbsp; attended the seminar. Those who&n=
+bsp;register and pay&nbsp;but&nbsp; will not attend the workshop will be gi=
+ven handouts but&nbsp; not certificates.</li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li>The materials for this =
+seminar are protected.&nbsp; Any form of audio, video or image recording of=
+&nbsp;&nbsp;the seminar or&nbsp;&nbsp;PowerPoint slides used by the speaker=
+ is strictly prohibited.</li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li>Only the handouts will =
+be given by the speaker. He / she is&nbsp;not obliged to provide a copy of&=
+nbsp;other training&nbsp;materials like the Powerpoint file.</li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li>Companies / Organizatio=
+ns / Individuals with business(es) competitive with the businesses of Power=
+max Consulting Group (i.e., seminars, training, consultancy, and the like) =
+are not allowed to&nbsp; register unless with written consent by the manage=
+ment of Powermax.&nbsp;&nbsp; Full disclosure of business line in registrat=
+ion is required.&nbsp; If anyone registers without full disclosure, and it =
+is discovered that his business or one of his businesses is competitive wit=
+h that of Powermax, his registration will be forfeited.</li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li>If the seminar is cance=
+lled because of unusual or unforeseeable circumstances or force majeure, Po=
+wermax will either refund the seminar fees paid by the participants / parti=
+cipating companies (but not the incidental costs such as transportation, pl=
+ane tickets, hotel accommodation, per diem, and the like) or roll over the =
+payment for other seminars of Powermax (provided that the seminar fee is th=
+e same or the difference will be rectified) depending on the preference of =
+the participants / participating companies.</li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li>Upon reservation, your =
+seat(s) will be reserved but there will be no seating arrangement. Preferre=
+d seats will be on a first-come first-served basis.</li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</ol>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br />&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td><img height=3D"58" src=3D"=
+https://ci4.googleusercontent.com/proxy/uBH_nIQfliS2w4sMbJP5eII0T4a9Bvi45OT=
+UO1vesRX298NDfcMdyvHOh_6cIiXdsk2OTKqtKY50sFNgOmkQ1zWf2eRmnwa5rfij49nSKQkj_m=
+vdJ5PW9Bf4CBO-Sssi_fQPCY72WZ69GirNeoOoDLnpozSKglxbS2h11oM=3Ds0-d-e1-ft#http=
+://staticapp.icpsc.com/icp/loadimage.php/mogile/1246552/f26d4ee3eeb4f68b52a=
+5534f9d7473c2/image/jpeg" width=3D"600" /><br />&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td><a data-saferedirecturl=3D=
+"https://www.google.com/url?hl=3Den&amp;q=3Dhttps://form.jotform.me/6278170=
+3302450&amp;source=3Dgmail&amp;ust=3D1493777216194000&amp;usg=3DAFQjCNGeneR=
+u18IC8RbMB7gpU5yOZoAA1A" href=3D"http://da5.edmmessage.com/dd/daecs?token=
+=3DmsSd6V0r3Ln9yBRRsihcw%2Fh3SDFtCK%2Fdln1649fsw%2BvatTl5v01B2Pk6gDzMtJ5JTM=
+f9IW%2BgDnEN%2B4qRqaxVBOLkGuNIRr33B9KAGVb%2Fvtp1SA2hzUlplL0ER0DFc1Wx5qJHv0J=
+wYVgALQtD9%2B94sVGTUUrF%2B1vz8PGDMhzMCZk%3D" target=3D"_blank"><img height=
+=3D"168" src=3D"https://ci3.googleusercontent.com/proxy/PjNtgCzsWZbdPqKllqa=
+UgEX4e_mN8LfCOmNqQ6-QS6ZNRbQ_oyEkd_A3DUAioONJTa-AbiX7Famphf3uWuaLc-a59vEpud=
+x8vvseEwCC3KUdPRYPH6hZ8Bk6WlzgYFwUTkjbmnREvosvxREeZ5FU-S_1vzUTl8w8_eSmEA=3D=
+s0-d-e1-ft#http://staticapp.icpsc.com/icp/loadimage.php/mogile/1246552/68f6=
+e368855db5b8be370907eb4b6cc5/image/gif" style=3D"float:left" width=3D"358" =
+/></a><br />&nbsp;<br />&nbsp;<br />WE CAN CUSTOMIZE PROGRAMS BASED ON YOUR=
+ COMPANY&#39;S TRAINING NEEDS<br />&nbsp;<br />&nbsp;<br />&nbsp;
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<ul>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li><strong>SALES</strong><=
+/li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li><strong>CUSTOMER SERVIC=
+E</strong></li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li><strong>LEADERSHIP</str=
+ong></li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li><strong>TEAMBUILDING</s=
+trong></li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li><strong>COLLECTION</str=
+ong></li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</ul>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a data-saferedirecturl=3D"htt=
+ps://www.google.com/url?hl=3Den&amp;q=3Dhttps://form.jotform.me/62781703302=
+450&amp;source=3Dgmail&amp;ust=3D1493777216195000&amp;usg=3DAFQjCNG6oLRsBIJ=
+Tv7iCF9rODTlkan5sPw" href=3D"http://da5.edmmessage.com/dd/daecs?token=3DmsS=
+d6V0r3LlSAyZQ9rOpOE7%2F1ZjtrabZln1649fsw%2BvatTl5v01B2Pk6gDzMtJ5JTMf9IW%2Bg=
+DnEN%2B4qRqaxVBOLkGuNIRr33B9KAGVb%2Fvtp1SA2hzUlplL0ER0DFc1Wx5qJHv0JwYVgALQt=
+D9%2B94sVGTUUrF%2B1vz8PGDMhzMCZk%3D" target=3D"_blank"><img height=3D"167" =
+src=3D"https://ci5.googleusercontent.com/proxy/H3VifGHqhDkVKsAsm5JbQezMj2fd=
+JQ2yTPf-ua-Kk-LyFitAQq5E6oZeyg2qy9dVMHq4nt76fYvKW8k5FGVR9ZaP7je16NccgdYzcil=
+UVQV9hcgHMPJEzmq41Uh6oLZhVLjT9lxXZkvH7wdaM9QhfNkItd8jYYs1LR-SNw=3Ds0-d-e1-f=
+t#http://staticapp.icpsc.com/icp/loadimage.php/mogile/1246552/2289b14c04760=
+d822112e38524922b3a/image/gif" style=3D"float:right" width=3D"356" /></a><b=
+r />Instead of the usual headaches,<br />let us manage your events.<br />We=
+ can also provide the following:<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&=
+nbsp;
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<ul>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li><strong>TALENTS (Emcees=
+, Singers, Dancers, Bands, Models)</strong></li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li><strong>STAGE DESIGN</s=
+trong></li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li><strong>SOUNDS AND LIGH=
+TS</strong></li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li><strong>PROGRAM</strong=
+></li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li><strong>FOOD/VENUE</str=
+ong></li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li><strong>VIDEO COVERAGE<=
+/strong></li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li><strong>EVENT MARKETING=
+</strong></li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</ul>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"text-align: cent=
+er;">For More Details / Inquiry / Reservation, Please Call Us<br /><a data-=
+saferedirecturl=3D"https://www.google.com/url?hl=3Den&amp;q=3Dhttps://form.=
+jotform.me/62781703302450&amp;source=3Dgmail&amp;ust=3D1493777216195000&amp=
+;usg=3DAFQjCNG6oLRsBIJTv7iCF9rODTlkan5sPw" href=3D"http://da5.edmmessage.co=
+m/dd/daecs?token=3DmsSd6V0r3LkytB2PZn%2FLTwgp22j7mS7yln1649fsw%2BvatTl5v01B=
+2Pk6gDzMtJ5JTMf9IW%2BgDnEN%2B4qRqaxVBOLkGuNIRr33B9KAGVb%2Fvtp1SA2hzUlplL0ER=
+0DFc1Wx5qJHv0JwYVgALQtD9%2B94sVGTUUrF%2B1vz8PGDMhzMCZk%3D" target=3D"_blank=
+"><img height=3D"231" src=3D"https://ci4.googleusercontent.com/proxy/s6M7DM=
+lBNXqDItchceXhaOPavcgPRG1fAiFdVTu-S1c33U4Gn-__OngsywdNG5053DPIM6u9njZ0sNqli=
+WpnAET1GaMUnrjXfHY-aVrTyUhsl-OSeTHzTdHkAEQNIpK1_MoT_rUpQSmbn5Hq96P29Tp70mZt=
+GYIAz94aGA=3Ds0-d-e1-ft#http://staticapp.icpsc.com/icp/loadimage.php/mogile=
+/1246552/412de04e50ce20f6366e4ad231ea542d/image/gif" width=3D"352" /></a>&n=
+bsp;<br /><strong>Ms. Jhie Tejada</strong><br /><strong>Marketing Officer</=
+strong><br /><strong>Tele Fax:&nbsp;</strong><strong>470-5542</strong><br /=
+><strong>&nbsp;</strong><strong>or Call/Text:&nbsp;</strong><strong>0921-77=
+42347/ 0906-4798186</strong><br />&nbsp;Email:&nbsp;<a href=3D"http://da5.e=
+dmmessage.com/dd/daecs?token=3DmsSd6V0r3LmWrKgH5In5G0X8hW%2FIa6hBln1649fsw%=
+2BvatTl5v01B2Pk6gDzMtJ5JTMf9IW%2BgDnEN%2B4qRqaxVBFa7s9nRfX9FcGxlshidmrFedeG=
+PL3jhJAhRn1oILavGYNvpSELNzV3xfoYbZ7nX%2B4A1CGCCNbk%2B" rel=3D"nofollow" tar=
+get=3D"_blank" title=3D"mailto:jhie.powermax@yahoo.com.ph"><strong><em>jhie=
+.powermaxph@yahoo.<wbr />com</em></strong></a></div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br />&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td><img alt=3D"" height=3D"24=
+6" src=3D"https://ci3.googleusercontent.com/proxy/_vvCgQYgXxlwKYKLSUFSwE7D-=
+v_C5ytQZBKWrvIe7oLMvC2SBtwN74QtGnJBBkdo33MgltiyykMkPHuefjOp1-X0CzwPsu2B6zll=
+2KmTS5bT7WA2VaJLJBD1CXn4vWFP-0vz-IGMyR2OGO5OsNdlf-pe6cjfB33CmZoKiCY=3Ds0-d-=
+e1-ft#http://staticapp.icpsc.com/icp/loadimage.php/mogile/1246552/6f9fa283e=
+dc3b4848ad9352a16a0d1d4/image/jpeg" width=3D"600" /></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td bgcolor=3D"transparent">
+=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"height:100%; width:100%">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width:100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td>&nbsp;<br />&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+<br /><br />--&nbsp;<br /><strong><em>Ms. Jescyrie Tejada</em></strong><br =
+/><strong><em>Marketing Officer</em></strong><br /><strong><em>Powermax Con=
+sulting Group, Inc.</em></strong><br /><strong><em>Tell: 470-55-42</em></st=
+rong><br /><strong><em>Mobile: 09217742347 / 09064798186</em></strong><br /=
+><strong><em>Email:&nbsp;<a href=3D"http://da5.edmmessage.com/dd/daecs?toke=
+n=3DmsSd6V0r3LmBw26wNGz%2BKS6xOgdl8YhGln1649fsw%2BvatTl5v01B2Pk6gDzMtJ5JTMf=
+9IW%2BgDnEN%2B4qRqaxVBFa7s9nRfX9FcGxlshidmrFedeGPL3jhJAhRn1oILavGYNvpSELNzV=
+3xfoYbZ7nX%2B4A1CGCCNbk%2B" target=3D"_blank">jhie.powermax@yahoo.com.ph</a=
+>&nbsp;/&nbsp;<a href=3D"http://da5.edmmessage.com/dd/daecs?token=3DmsSd6V0=
+r3LkFeo5N1UEHK3oFOlbAuutPln1649fsw%2BvatTl5v01B2Pk6gDzMtJ5JTMf9IW%2BgDnEN%2=
+B4qRqaxVBFa7s9nRfX9FcGxlshidmrFedeGPL3jhJJMSW476E6pC%2Fh%2ByyNccDpOppcJVaZr=
+Q7w%3D%3D" target=3D"_blank">jhie.powermaxph@yahoo.com</a></em></strong><br=
+ /><br />&nbsp;&ldquo;<em>Winners are not born, they are trained&rdquo;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em><strong><em>---&nbsp;&nbsp;&nbsp;&nbsp=
+; Tom Hopkins</em></strong><br />&nbsp;
+</td></tr><tr><td align=3D"center">=20
+<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"email-=
+footer" style=3D"background-color: #FFFFFF; width: 600px;">=20
+ <tbody>=20
+  <tr>=20
+   <td align=3D"left" style=3D"padding: 5px; border-color: #D0D0D0; border-=
+style: none; border-width: 0px;" valign=3D"top">=20
+    <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width: 100%;">=20
+     <tbody>=20
+      <tr>=20
+       <td class=3D"email-footer-column" align=3D"left" valign=3D"top">=20
+        <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width: 100%;">=20
+         <tbody>=20
+          <tr>=20
+           <td align=3D"left" style=3D"padding: 5px; font-family: Verdana, =
+sans-serif; font-size: 11px; line-height: 18px; color: #444444;" valign=3D"=
+top">Email was sent to: <a class=3D"email-footer-email-address" href=3D"mai=
+lto:bruce@untroubled.org" style=3D"color: #3399ff;"><strong>bruce@untrouble=
+d.org</strong></a> by <strong class=3D"email-footer-ios-link">Powermax Cons=
+ulting Group, Inc.</strong><br /></td>=20
+          </tr>=20
+          <tr>=20
+           <td align=3D"left" style=3D"padding: 5px; font-family: Verdana, =
+sans-serif; font-size: 11px; line-height: 18px; color: #444444;" valign=3D"=
+bottom"><a id=3D"unsubscribe_link" href=3D"http://da5.edmmessage.com/dd/uml=
+s?token=3Dlcl91SGl2cqJ0RAPR2TzXIPiGCoubjMLWKYTRUBu5N6SDJKkDLXqbLkyR0QlBBKWX=
+O7ysQzvPUpkXOVGaqZzUmX%2FLuDIkuz9gDUIYII1uT4%3D&amp;lang=3Den" style=3D"col=
+or: #3399ff;">Unsubscribe</a></td>=20
+          </tr>=20
+         </tbody>=20
+        </table> </td>=20
+       <td class=3D"email-footer-column" align=3D"left" valign=3D"bottom" w=
+idth=3D"126">=20
+        <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width: 100%;">=20
+         <tbody>=20
+          <tr>=20
+           <td align=3D"right" style=3D"padding: 5px; font-family: Verdana,=
+ sans-serif; font-size: 11px; line-height: 18px; color: #444444;" valign=3D=
+"bottom"><img alt=3D"" border=3D"0" height=3D"70" src=3D"http://da5.edmmess=
+age.com/dd/daecs?token=3De2mJ%2BeXIaKiWfXrj1%2BzD65sZqu3KjObtwqv%2B7x2bcUwG=
+vr0Xn2AylPk6gDzMtJ5JTMf9IW%2BgDnEN%2B4qRqaxVBC2qGYoj2b2q2y4PSDmTj96rqsdjVTH=
+EYw%3D%3D" style=3D"display: block" width=3D"126" /></td>=20
+          </tr>=20
+         </tbody>=20
+        </table> </td>=20
+      </tr>=20
+     </tbody>=20
+    </table> </td>=20
+  </tr>=20
+ </tbody>=20
+</table></td></tr></table>
+</body>
+</html>

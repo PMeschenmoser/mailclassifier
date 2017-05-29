@@ -1,0 +1,36 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 16261 invoked from network); 3 May 2017 13:41:02 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 03 May 2017 13:41:02 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 03 May 2017 13:41:02 -0000
+Received: (qmail 14914 invoked from network); 3 May 2017 13:41:00 -0000
+Received: from nqlyrhnwxj.zdomht.com (113.212.133.194)
+  by zak.futurequest.net with SMTP; 3 May 2017 13:41:00 -0000
+Received: from tdymjgftmp.zdomht.com (unknown [113.212.133.163])
+	by scaverzsav.zdomht.com (Postfix) with ESMTP id 1A586F40450
+	for <bruce@bruce-guenter.dyndns.org>; Wed,  3 May 2017 22:40:53 +0900 (JST)
+Received: from 113.212.133.163 (111x223x202x52.adv-server.net [111.223.202.52])
+	by tdymjgftmp.zdomht.com (Postfix) with ESMTP id 03976CA006F
+	for <bruce@bruce-guenter.dyndns.org>; Wed,  3 May 2017 22:40:53 +0900 (JST)
+To: bruce@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?6Kaa44GI44Gm44G+44GZ44GL77yf5LuK44G+44Gn55Sf44GN44Gm44GN?=
+	=?UTF-8?B?44Gf5Lit44Gn44CB6Kqw44GX44KC6Imy44KT44Gq57WM6aiT44KS44GX44CB6Imy?=
+	=?UTF-8?B?44CF44Gq5LqL44KS6ICD44GI6Imy44CF44Gq5oOz44GE44KS44GZ44KL5LqL44Gn?=
+	=?UTF-8?B?44GX44KH44GG44CC56eB44KC44CB44Gd44GX44Gm6LK05pa544KC5L6L5aSW44Gn?=
+	=?UTF-8?B?44Gv44Gq44GP44CC56eB44Gv6LOH55Sj5a6244Gu5a6257O744Gr55Sf44G+44KM?=
+	=?UTF-8?B?6IKy44Gh44CB5Zu95YaF5aSW44Gu5qeY44CF44Gq5LyB5qWt44Gr5pC644KP44Gj?=
+	=?UTF-8?B?44Gm44GN44G+44GX44Gf44CC?=
+From: =?UTF-8?B?44GK55+l44KJ44Gb?= <mailmaster@a2nmxjz7.com>
+Date: Wed, 03 May 2017 22:40:59 +0900
+Message-ID: <532a7546c46111cede6d81e4197475604cb78df8>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: BASE64
+MIME-Version: 1.0
+
+PGEgaHJlZj0iaHR0cDovL2Eybm14ano3LmNvbS9sb2dfaW5kZXgucGhwP3BhZ2U9bWVzc19taXJ1
+JnM9MTQ5MzgxODgxOSZjaWQ9MTIzOTcmbWlkPTE1MjA5NzAmZGR2PTEwMDAxNjZkYjUxNTk4MDk1
+YmY1YTIwNmVhOTRiNGQ2Ij5odHRwOi8vYTJubXhqejcuY29tL283clQxdS9iSm0vTDwvYT48YnI+
+DQrilLzima/jgJDiiobiiIjvvI7vvL3iiabilI/vvJw=
+

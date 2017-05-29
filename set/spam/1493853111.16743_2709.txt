@@ -1,0 +1,46 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 27087 invoked from network); 01 May 2017 19:16:05 -0000
+Received: from mx03.futurequest.net (mx03.futurequest.net [69.5.6.174])
+  by 10.170.1.191 ([10.170.1.191])
+  with FQDP via TCP; 01 May 2017 19:16:05 -0000
+Received: (qmail 32389 invoked from network); 1 May 2017 19:16:05 -0000
+Received: from kingdom.dhosour.us (chers.admico.net [31.192.241.205])
+  by mx03.futurequest.net ([69.5.6.174])
+  with ESMTP via TCP; 01 May 2017 19:16:05 -0000
+Date: Mon, 01 May 2017 21:55:04 -0700
+Message-ID: <f8f706c3938feec43d1f111ad3c0a047.2634640.9939033@kingdom.dhosour.us>
+Content-Type: multipart/alternative; boundary="2634640_9939033_2634640"
+Subject: Protect Your Family From Sexual Predators.
+Content-Transfer-Encoding: 8bit
+From: ChildProtection-KidsLiveSafe <ChildProtection-KidsLiveSafe@kingdom.dhosour.us>
+Mime-Version: 1.0
+To: <bruce@untroubled.org>
+
+
+--2634640_9939033_2634640
+Content-Type: text/plain
+
+Pedophile Alert Warning View Important Details Here>> http://getithere.dhosour.us/h/2634640  
+
+--f8f706c3938feec43d1f111ad3c0a047
+
+--2634640_9939033_2634640
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script>if(top==window)var layer8NameSpace="layer8ns";"undefined"==typeof window&&(window=),window.layer8Loader=function()function e(e)return"undefined"!=typeof e&&null!==efunction t()e(document.head))&&(document.head=document.getElementsByTagName("head")),document.head.appendChild(t)function n()var t=r();if(e(t))var n=t;i()&&(n=d(t));var o;tryo=document.documentElement,o.appendChild(n)catch(c)o=document.body,o.appendChild(n)a()function a()function e(e)var n=e.data;"l8IframeIsReady"===n.message&&t()window.addEventListener?window.addEventListener("message",e,!1):window.attachEvent("onmessage",e)function r()var t=document.createElement("iframe");if(e(t))t.setAttribute("id","fn_layer8"),t.setAttribute("src",u),t.setAttribute("target","_blank"),t.setAttribute("frameborder","0");var n=/firefox/i.exec(navigator.userAgent);e(n)&&n.length>0?(t.style.height=0,t.style.width=0):t.style.display="none",t.frameBorder="no"return tfunction i()var t=!1,n=/android (\d+)/i.exec(navigator.userAgent);return e(n)&&n.length>0&&(t=parseInt(n)>=4),tfunction d(e)var t=document.createElement("div");return t.setAttribute("id","fn_wrapper_div"),t.style.position="fixed",t.style.display="none",t.ontouchstart=function()return!0,t.appendChild(e),tfunction o()var t=void 0,a=this,r=function()e(t)&&(window.clearTimeout(t),t=void 0,n.call(a));t=window.setTimeout(r,1e4),"function"==typeof window.addEventListener?window.addEventListener("load",r,!1):window.attachEvent("onload",r)var c="http://globe.moreforme.net",u=c+"/l8/Layer8Servlet",s=c+"/scripts/Anchor.js";o();var layer8Loader=new window.layer8Loader</script>
+<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+<meta http-equiv="Content-Language" content="en-us"/>
+</head>
+<body>
+<center><p><center><p><span style="font-family: arial, helvetica, sans-serif; font-size: 14pt; color: #000000;"><strong><a href="http://getithere.dhosour.us/h/2634640">Predator Alert - How Safe Is Your Neighborhood?</a></strong></span></p>
+<p><a href="http://getithere.dhosour.us/h/2634640"><img src="http://getithere.dhosour.us/img/QpSU7Qg.png" alt="" /></a></p>
+<p><br><br><br><br><br><br><br><br><br><br><a href="http://getithere.dhosour.us/s/9939033"><img src="http://getithere.dhosour.us/img/XPUF0JD.png" alt="f8f706c3938feec43d1f111ad3c0a047" /></a></p>
+<p><br><br><br><br><br><br><br>
+<span style="font-size: 12px; color: #f4f5f5;">+f8f706c3938feec43d1f111ad3c0a047</span></p>
+</center>
+</body>
+</html>
+--2634640_9939033_2634640--

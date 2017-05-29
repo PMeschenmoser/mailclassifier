@@ -1,0 +1,61 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 12859 invoked from network); 2 May 2017 17:17:50 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 02 May 2017 17:17:50 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 May 2017 17:17:50 -0000
+Received: (qmail 3321 invoked from network); 2 May 2017 17:17:49 -0000
+Received: from mailserver.caruso.com.ar (200.71.234.195)
+  by zak.futurequest.net with SMTP; 2 May 2017 17:17:49 -0000
+Received: (qmail 87494 invoked by uid 89); 30 Apr 2017 11:58:40 -0000
+Received: from unknown (HELO ?127.0.0.1?) (mnavarro@caruso.com.ar@186.224.167.73)
+  by srvcorreo.caruso.com.ar with ESMTPA; 30 Apr 2017 11:58:40 -0000
+To: bruce@bruce-guenter.dyndns.org
+From: mnavarro@caruso.com.ar
+Subject: Weight loss fantasy =?UTF-8?B?4oCT?= not anymore
+Message-ID: <1245CD60.1015375@caruso.com.ar>
+Date: Sun, 30 Apr 2017 13:56:15 +0200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:38.0) Gecko/20100101
+ Thunderbird/38.2.0
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="------------516157824657414603182320"
+
+This is a multi-part message in MIME format
+
+--------------516157824657414603182320
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+DQpZb3UgdGhvdWdodCB0aGF0IGVzY2FsYXRpbmcgeW91ciBib2R5J3MgbmF0dXJhbCB3ZWlnaHQg
+cmVkdWN0aW9uIG1lY2hhbmlzbSBpcyBqdXN0IGEgZmFudGFzeT8NCllvdSB3ZXJlIHRvdGFsbHkg
+YWNjdXJhdGUsIGJ1dCBub3QgYW55bW9yZS4NClRoZXNlIGFtYXppbmcgZGlldCBjYXBsZXRzIHdp
+bGwgc2VuZCB5b3VyIGJvZHkncyBuYXR1cmFsIHdlaWdodCByZWR1Y3Rpb24gbWVjaGFuaXNtIGlu
+dG8gb3ZlcmRyaXZlIQ0KWW91IHdvdWxkIG5vdCBiZWxpZXZlIHRoZSBzdHVubmluZyByZXN1bHRz
+Lg0KaHR0cDovL3dvb2wtYW5kLWxpbmVuLmNvbS9kNjA5YTRiNGM4LnBocD9ZbkoxWTJWQVluSjFZ
+MlV0WjNWbGJuUmxjaTVrZVc1a2JuTXViM0puDQpBcyBhIGxpdHRsZSB0aGFuayB5b3Ugbm90ZSwg
+d2UnbGwgc2VuZCB5b3UgYSBmcmVlIHNhbXBsZS4NCk5vIGNhcmQgaW5mb3JtYXRpb24gcmVxdWly
+ZWQsIHRoZSBzaGlwcGluZyBpcyBhbHNvIDEwMCUgZnJlZS4NCg==
+
+--------------516157824657414603182320
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PEJPRFk+PERJVj4NCjxQPllvdSB0aG91Z2h0IHRoYXQgZXNjYWxhdGluZyB5b3VyIGJvZHkncyBu
+YXR1cmFsIHdlaWdodCByZWR1Y3Rpb24gbWVjaGFuaXNtIGlzIGp1c3QgYSBmYW50YXN5PzwvUD4N
+CjxQPllvdSB3ZXJlIHRvdGFsbHkgYWNjdXJhdGUsIGJ1dCBub3QgYW55bW9yZS48L1A+DQo8UD5U
+aGVzZSBhbWF6aW5nIGRpZXQgY2FwbGV0cyB3aWxsIHNlbmQgeW91ciBib2R5J3MgbmF0dXJhbCB3
+ZWlnaHQgcmVkdWN0aW9uIG1lY2hhbmlzbSBpbnRvIG92ZXJkcml2ZSE8L1A+DQo8UD5Zb3Ugd291
+bGQgbm90IGJlbGlldmUgdGhlIHN0dW5uaW5nIHJlc3VsdHMuPC9QPg0KPFA+PEEgaHJlZj0iaHR0
+cDovL3dvb2wtYW5kLWxpbmVuLmNvbS9kNjA5YTRiNGM4LnBocD9ZbkoxWTJWQVluSjFZMlV0WjNW
+bGJuUmxjaTVrZVc1a2JuTXViM0puIj5BbGwgeW91IGdvdHRhIGRvIGlzIHNpZ24gdXAgcmlnaHQg
+aGVyZS48L0E+PC9QPg0KPFA+QXMgYSBsaXR0bGUgdGhhbmsgeW91IG5vdGUsIHdlJ2xsIHNlbmQg
+eW91IGEgZnJlZSBzYW1wbGUuPC9QPg0KPFA+Tm8gY2FyZCBpbmZvcm1hdGlvbiByZXF1aXJlZCwg
+dGhlIHNoaXBwaW5nIGlzIGFsc28gMTAwJSBmcmVlLjwvUD4NCjxQPjxJTUcgc3JjPSJodHRwOi8v
+d29vbC1hbmQtbGluZW4uY29tL2Q2MDlhNGI0YzgucGhwP1dXNUtNVmt5VmtGWmJrb3hXVEpWZEZv
+elZteGlibEpzWTJrMWEyVlhOV3RpYmsxMVlqTktiZz09IiB3aWR0aD0xIGhlaWdodD0xPjwvUD4N
+CjwvRElWPjwvQk9EWT4NCg==
+
+--------------516157824657414603182320--
+

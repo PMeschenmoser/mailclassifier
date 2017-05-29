@@ -1,0 +1,40 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 13725 invoked from network); 28 Apr 2017 03:54:29 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Apr 2017 03:54:29 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Apr 2017 03:54:29 -0000
+Received: (qmail 12382 invoked from network); 28 Apr 2017 03:54:28 -0000
+Received: from ec2-34-210-61-154.us-west-2.compute.amazonaws.com (HELO dqb.id) (34.210.61.154)
+  by zak.futurequest.net with SMTP; 28 Apr 2017 03:54:28 -0000
+Date: Fri, 28 Apr 2017 12:54:24 +0900 (JST)
+From: =?Shift_JIS?B?k/qWe42RLIt+iYeL4Jdai0CNXIFzLZJTIJOWIIF0ktaMtA==?= <gtv4o@h2kbr73z5.net>
+To: lists-linux-kernel@bruce-guenter.dyndns.org
+Message-ID: <6222253.420722.1493351664997.JavaMail.return-932721058@h2kbr73z5.net>
+Subject: =?Shift_JIS?B?lntfk/oqgUEri+Arl2p+k/oqgsEqgsY=?=
+ =?Shift_JIS?B?LoLIfoLBOoLELoKoK4LoX4LcLYK3pYLM?=
+ =?Shift_JIS?B?KoLFMTWOnqWC8CqJ3yKCrCCC3CeCtw==?=
+ =?Shift_JIS?B?LILGKoviX41zLYLMLo+IfpedXoLJfpG9?=
+ =?Shift_JIS?B?II+tKoLMX4KoLo6eL4rUK4KqLIKpfg==?=
+ =?Shift_JIS?B?gsEvgsQugrUqgtwvgqJegtwtgrd+gsxe?=
+ =?Shift_JIS?B?gsUxNY6eL4LcLYLFK4LJKoKoXo7oKg==?=
+ =?Shift_JIS?B?kbEigqstgvClguY6gusugrUvgq0tgqgu?=
+ =?Shift_JIS?B?iugugqIvgrU6gtxfgrcqgUIgZ2Vz?=
+ =?Shift_JIS?B?dJdsLoLgL5TvpZdwIoLMOoKyKpdwOojT?=
+ =?Shift_JIS?B?X4KqLIy1L4K1KoKiLYKpJ4LGfoLNLA==?=
+ =?Shift_JIS?B?jnZfgqIvgtwtgrcugqo6gqiljugskbEn?=
+ =?Shift_JIS?B?gvAuiq46l7krgrMtgrkuguqlgs4xMg==?=
+ =?Shift_JIS?B?ia0yNTAwlpw7iX4ngqotkZcsi+BfgrM=?=
+ =?Shift_JIS?B?LYLqLoLcKoK3IoLMKoLFO4KyLpBoL5X4?=
+ =?Shift_JIS?B?L4LwfoKoXorofoKipYK1KoLcfoK3O4FC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+本/日/、*金;曜_日-っ*と_な'っ*て;お-り~ま-す-の_で15時'を^過^ぎ,ま'す-と,銀_行-の,処*理;に^多.少_の;お+時+間 が~か.っ/て_し/ま,い,ま,す/の*で15時:ま-で~に.お~手-続･き を~よ-ろ:し~く-お.願/い"し-ま;す~。 gest様~も~費_用-の*ご~用_意,が_厳/し:い*か+と は~思"い/ま^す*が+お/手/続/を,完-了,さ.せ れ/ば12億2500万 円~が_送.金;さ+れ,ま/す-の~で/ご 辛-抱+を*お~願:い/し'ま.す~。
+
+詳･　"細
+http://9bn6bj6e.h2kbr73z5.net/19ne25u8lhoqyk37n/69932211/m1538706956/4a26f61e78ee852dead8a0475f55a5076f2fd84b6dd58caf3cb082acd580a101
+
+2017/04/28 12:54

@@ -1,0 +1,54 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 4277 invoked from network); 03 May 2017 10:35:53 -0000
+Received: from mx03.futurequest.net (mx03.futurequest.net [69.5.6.174])
+  by 10.170.1.173 ([10.170.1.173])
+  with FQDP via TCP; 03 May 2017 10:35:53 -0000
+Received: (qmail 22130 invoked from network); 3 May 2017 10:35:53 -0000
+Received: from smtp-proxy001.phy.lolipop.jp (smtp-proxy001.phy.lolipop.jp [157.7.104.42])
+  by mx03.futurequest.net ([69.5.6.174])
+  with ESMTP via TCP; 03 May 2017 10:35:53 -0000
+Received: from smtp-proxy001.phy.lolipop.lan (HELO smtp-proxy001.phy.lolipop.jp) (172.19.44.42)
+  (smtp-auth username yoko@takefield.com, mechanism login)
+  by smtp-proxy001.phy.lolipop.jp (qpsmtpd/0.82) with ESMTPA; Wed, 03 May 2017 19:35:52 +0900
+Received: from 115.238.247.228 (115.238.247.228)
+ by smtp-proxy001.phy.lolipop.jp (LOLIPOP-Fsecure);
+ Wed, 03 May 2017 19:35:39 +0900 (JST)
+X-Spam-Status: Yes(LOLIPOP-Fsecure) with VIRUSGW/SPAM_RBL/115.238.247.228[bl.spamcop.net:127.0.0.2]
+X-Virus-Status: clean(LOLIPOP-Fsecure)
+Message-ID: <D5D066353EEAC427FBFEB707A357AB6A@outlook.com>
+From: "Super Diet" <Jillyj@outlook.com>
+To: <david_a._benner.lax1b@xerox.com>,
+	 <therriena@wit.edu>,
+	 <sjandebe@jhmi.edu>,
+	 <info@marylandheightsteambuilding.com>,
+	 <asc.soar-cpt.csa@canada.ca>,
+	 <gareth.kent@prp.com.au>,
+	 <bruce@untroubled.org>
+Subject: It is harder for you to get thin
+Date: Wed, 3 May 2017 13:35:45 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="e8f07fb082806d000d49eb9f1791"
+
+This is a multi-part message in MIME format.
+
+--e8f07fb082806d000d49eb9f1791
+Content-Type: text/plain; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+You know you want to lose those extra pounds.- https://goo.gl/iD53hh=A0
+
+--e8f07fb082806d000d49eb9f1791
+Content-Type: text/html; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows=
+-1251">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><FONT size=3D2 face=3DArial>You know you want to lose t=
+hose extra pounds.- <A=20
+href=3D"https://goo.gl/iD53hh">https://goo.gl/iD53hh</A>&nbsp;</FONT></DI=
+V></BODY></HTML>
+
+--e8f07fb082806d000d49eb9f1791--

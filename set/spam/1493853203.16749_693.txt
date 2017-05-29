@@ -1,0 +1,34 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 28679 invoked from network); 28 Apr 2017 11:22:16 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Apr 2017 11:22:16 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Apr 2017 11:22:16 -0000
+Received: (qmail 24667 invoked from network); 28 Apr 2017 11:22:15 -0000
+Received: from ec2-54-148-31-25.us-west-2.compute.amazonaws.com (HELO zxgwjhn.hyyw) (54.148.31.25)
+  by zak.futurequest.net with SMTP; 28 Apr 2017 11:22:15 -0000
+Date: Fri, 28 Apr 2017 20:22:09 +0900 (JST)
+From: =?Shift_JIS?B?k/qWe42Ri34uiYeL4Jdai0CNXCCBc5JTk5aBdJLWjLQ=?= <n0s5@h2kbr73z5.net>
+To: lists-linux-kernel@bruce-guenter.dyndns.org
+Message-ID: <1596285144.954382.1493378529566.JavaMail.return-933254433@h2kbr73z5.net>
+Subject: =?Shift_JIS?B?Z2VzdJdsJ4LwX41LfoK5OoLJfpOxLIKtO4jXLYLJX4KxLoKkO4K1Xw==?=
+ =?Shift_JIS?B?gsQskoUqi+AqgtwtgsUtjON+glAt?=
+ =?Shift_JIS?B?leBfgswuj4oggtwqgsU7guJ+gsFfgsQ=?=
+ =?Shift_JIS?B?O45RLYLoLoLcLoK1LYK9LIFCKozjL4LNZ2VzdJdsLYLMLIKofo7ofg==?=
+ =?Shift_JIS?B?kbE7gqs6gvAggqgtkdIvgr86grdfgukngr6lgq87gsUqgrc7gUJnZXN0?=
+ =?Shift_JIS?B?l2wqgswvgqgsjug6kbFfgqt+gsUngUExMomtMjUwMJacK4l+L4LNZw==?=
+ =?Shift_JIS?B?ZXN0l2wqgswqjPsvjcAigtYugswikZcri+AvgqoqjIh+kuhfgrMngupf?=
+ =?Shift_JIS?B?gtw6grcggUIqglErglArjp4rgtwtgsUsgsksgqhfjuhfkbFfgqs7gr1e?=
+ =?Shift_JIS?B?gr5fgq9fgtw6grcrguZfgqQvgqhf?=
+ =?Shift_JIS?B?iuilgqIigqJfgr07grUqgtwsgrcsgUI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+gest様_を*幸,せ'に+導 く~為~に/こ.う/し+て'着-金+ま で-後_１;歩.の'所+ま,で"や~っ.て_参.り･ま.し_た'。:後,はgest様'の-お"手.続.き:を^お･待_ち~す-る,だ+け,で+す,。gest様 の~お^手:続 き/で,、12億2500万~円,はgest様.の,口'座/へ*の*送+金_が:決*定.さ.れ;ま す'。-２_１.時-ま で_に/お'手^続"き^た/だ~け+ま す･よ-う:お_願'い/い_た_し,ま.す-。
+
+詳*　~細
+http://k2ek.h2kbr73z5.net/4cl9h8d76lvzbf04b/69932211/m3316028744/4a26f61e78ee852dead8a0475f55a5076f2fd84b6dd58caf3cb082acd580a101
+
+2017/04/28 20:20

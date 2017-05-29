@@ -1,0 +1,38 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 19947 invoked from network); 3 May 2017 09:37:50 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 03 May 2017 09:37:50 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 03 May 2017 09:37:50 -0000
+Received: (qmail 5281 invoked from network); 3 May 2017 09:37:49 -0000
+Received: from ayhlffadia.zdomht.com (113.212.133.169)
+  by zak.futurequest.net with SMTP; 3 May 2017 09:37:49 -0000
+Received: from tdymjgftmp.zdomht.com (unknown [113.212.133.163])
+	by scaverzsav.zdomht.com (Postfix) with ESMTP id 45AD5F44A75
+	for <bruce@bruce-guenter.dyndns.org>; Wed,  3 May 2017 18:34:37 +0900 (JST)
+Received: from 113.212.133.163 (111x223x202x52.adv-server.net [111.223.202.52])
+	by tdymjgftmp.zdomht.com (Postfix) with ESMTP id 31869CA08D1
+	for <bruce@bruce-guenter.dyndns.org>; Wed,  3 May 2017 18:32:57 +0900 (JST)
+To: bruce@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?56eB44Gu44CM5YCL5Lq65oOF5aCx44CN44KS5YWs6ZaL44GX44G+44GZ?=
+	=?UTF-8?B?44CC6YCj57Wh5YWI44Go5L2P5omA44CB44Gd44Gu5LuW44Gu5oOF5aCx44KC44CB?=
+	=?UTF-8?B?6LK05pa544GM56eB44Gu44GK6aGY44GE5LqL44KS6IGe44GE44Gm6aCC44GR44KL?=
+	=?UTF-8?B?44Gq44KJ44CB5L2V5LiA44Gk44Go44GX44Gm6Zqg44GZ5LqL54Sh44GP44CB6LK0?=
+	=?UTF-8?B?5pa544GM55+l44KK44Gf44GE5oOF5aCx44Gv5YWo44Gm44GK5Lyd44GI44GZ44KL?=
+	=?UTF-8?B?44Gk44KC44KK44Gn44GZ44CC5L2V5pWF44Gq44KJ44CB55aa44GX44GE5LqL44Gv?=
+	=?UTF-8?B?5L2V5LiA44Gk44Go44GX44Gm54Sh44GP44CB6Lqr5YiG44KC5L2V44KC44GL44KC?=
+	=?UTF-8?B?55+l44KJ44Gb44Gf44Go44GT44KN44Gn54m544Gr5ZWP6aGM44Gv44GC44KK44G+?=
+	=?UTF-8?B?44Gb44KT44CC?=
+From: =?UTF-8?B?44GK55+l44KJ44Gb?= <mailmaster@ad8k7cp5.com>
+Date: Wed, 03 May 2017 18:37:48 +0900
+Message-ID: <b6472955bd1ac7002f1b558e49b31d0ce2797a39>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: BASE64
+MIME-Version: 1.0
+
+PGEgaHJlZj0iaHR0cDovL2FkOGs3Y3A1LmNvbS9sb2dfaW5kZXgucGhwP3BhZ2U9bWVzc19taXJ1
+JnM9MTQ5MzgwMzk0NCZjaWQ9MTIzOTcmbWlkPTE1MTk4NTQmZGR2PTEwMDAxNjZkYjUxNTk4MDk1
+YmY1YTIwNmVhOTRiNGQ2Ij5odHRwOi8vYWQ4azdjcDUuY29tL1lnMC9VOS9RPC9hPjxicj4NCu+/
+oeOAiOKAsOKJoOKUt+KIh+KIiA==
+

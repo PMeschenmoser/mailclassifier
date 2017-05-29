@@ -1,0 +1,28 @@
+Delivered-To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Received: (qmail 3253 invoked from network); 1 May 2017 04:07:13 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 May 2017 04:07:13 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 May 2017 04:07:13 -0000
+Received: (qmail 26809 invoked from network); 1 May 2017 04:07:12 -0000
+Received: from flyzycz.ijagdad7.net (113.212.140.164)
+  by zak.futurequest.net with SMTP; 1 May 2017 04:07:12 -0000
+Received: from nrscboedyq (feotrwa.ijagdad7.net [113.212.140.163])
+	by dkocemk.ijagdad7.net (Postfix) with ESMTP id 8E5AA708B2E
+	for <lists-djb-ezmlm@bruce-guenter.dyndns.org>; Mon,  1 May 2017 13:07:10 +0900 (JST)
+Received: from localhost (61-63-36-host226.kbtelecom.net.tw [61.63.36.226])
+	by nrscboedyq (Postfix) with ESMTP id 5DA1F51136C
+	for <lists-djb-ezmlm@bruce-guenter.dyndns.org>; Mon,  1 May 2017 13:07:10 +0900 (JST)
+To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Message-ID: <6204d49a39dd6b9c3f2f8ffe6944a821@cw6vnk2d.com>
+Date: Mon, 01 May 2017 13:07:11 +0900
+From: "guide@cw6vnk2d.com" <guide@cw6vnk2d.com>
+Subject:  =?Shift_JIS?B?lXOIwILFgqKCwYLPgqKCxYK3gUKBQg==?= 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=Shift_JIS
+Content-Transfer-Encoding: base64
+
+IFuRsYKrgs2CsYK/guddDQogaHR0cDovL2NzY3hydHpwejJtem5nZ2NoeXouY3c2dm5rMmQuY29t
+DQoNCiBbjvOQTYN7g2KDToNYXQ0KIGh0dHA6Ly9jc2N4cnR6cHpqei5jdzZ2bmsyZC5jb20=
+

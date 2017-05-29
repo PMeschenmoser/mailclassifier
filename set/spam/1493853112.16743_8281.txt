@@ -1,0 +1,46 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 32306 invoked from network); 03 May 2017 13:54:34 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by 10.170.1.196 ([10.170.1.196])
+  with FQDP via TCP; 03 May 2017 13:54:34 -0000
+Received: (qmail 1600 invoked from network); 3 May 2017 13:54:34 -0000
+Received: from indigent.stagedi.us (107-173-27-189-host.colocrossing.com [107.173.27.189])
+  by mx04.futurequest.net ([69.5.6.175])
+  with ESMTP via TCP; 03 May 2017 13:54:34 -0000
+Date: Wed, 03 May 2017 16:35:25 -0700
+From: Sex Offender Alerts - KidsLiveSafe <SexOffenderAlerts-KidsLiveSafe@indigent.stagedi.us>
+To: <bruce@untroubled.org>
+Message-ID: <f8f706c3938feec43d1f111ad3c0a047.11523230.15806730@indigent.stagedi.us_as0>
+Mime-Version: 1.0
+Subject: Notification: Sex Offenders Registered
+Content-Transfer-Encoding: 8bit
+Content-Type: multipart/alternative; boundary="11523230_15806730_11523230"
+
+
+--11523230_15806730_11523230
+Content-Type: text/plain
+
+Notification: Sex Offenders Registered, Only Here: http://knowmore.stagedi.us/storm/11523230_live_safe
+
+
+
+--11523230_15806730_11523230
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+<meta http-equiv="Content-Language" content="en-us"/>
+</head>
+<body>
+<center><p><center><p><span style="font-family: arial, helvetica, sans-serif; font-size: 14pt; color: #000000;"><strong><a href="http://knowmore.stagedi.us/storm/11523230_live_safe">Notification: Sex Offenders Registered</a></strong></span></p>
+<p><a href="http://knowmore.stagedi.us/storm/11523230_live_safe"><img src="http://knowmore.stagedi.us/img/QpSU7Qg.png" alt="f8f706c3938feec43d1f111ad3c0a047" /></a></p>
+<p><br><br><br><br><br><br><br><br><br><br><a href="http://knowmore.stagedi.us/fun/15806730_break"><img src="http://knowmore.stagedi.us/img/XPUF0JD.png" alt="f8f706c3938feec43d1f111ad3c0a047" /></a></p>
+<p><br><br><br><br><br><br><br><span style="font-size: 12px; color: #f4f5f5;">f8f706c3938feec43d1f111ad3c0a047</span></p>
+</center>
+<img src="http://truth.awakenw.us/track01/?email=bruce@untroubled.org&sid=" alt="" />
+</body>
+</html>
+--11523230_15806730_11523230--

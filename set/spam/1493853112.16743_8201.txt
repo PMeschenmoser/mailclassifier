@@ -1,0 +1,21 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 28187 invoked from network); 1 May 2017 08:53:52 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 May 2017 08:53:52 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 May 2017 08:53:52 -0000
+Received: (qmail 3369 invoked from network); 1 May 2017 08:53:50 -0000
+Received: from unknown (HELO belofoavfvm.yhp) (103.236.182.15)
+  by zak.futurequest.net with SMTP; 1 May 2017 08:53:50 -0000
+Date: Mon, 1 May 2017 17:52:51 +0900 (JST)
+From: =?Shift_JIS?B?KoF5MzKJrTgwMH4wlpyJfoF6jdctkOySiSCQTSiNxY2CIJDTlEOO0i4p?= <ipho@k465rm-bf.biz>
+To: bruce@bruce-guenter.dyndns.org
+Message-ID: <Yc.PW0bGmM7dZN4+glK5>
+Subject: =?Shift_JIS?B?gXWOeCqJh4jhlL2BdoF1jngsiYeT7y6Wr4F2LILIgseCzZaz?=
+ =?Shift_JIS?B?LIrWjFeBSYFJkOKRzoLJjvMtgq+O5l+C6oLcgrdegWOBSYFJ?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+http://gvv.k465rm-bf.biz/3unv22u3ypwlizalq/14092644/m77875404556/435a1c1b839737dc869a48cc7855d194c2b4a85fcfa65ff8fceced7334d8739f

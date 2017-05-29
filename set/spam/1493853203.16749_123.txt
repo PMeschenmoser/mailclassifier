@@ -1,0 +1,30 @@
+Delivered-To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Received: (qmail 25281 invoked from network); 29 Apr 2017 08:35:38 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 29 Apr 2017 08:35:38 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 29 Apr 2017 08:35:38 -0000
+Received: (qmail 28624 invoked from network); 29 Apr 2017 08:35:37 -0000
+Received: from xvvgmhp.ijagdad7.net (113.212.140.185)
+  by zak.futurequest.net with SMTP; 29 Apr 2017 08:35:37 -0000
+Received: from gucizuczpt (feotrwa.ijagdad7.net [113.212.140.163])
+	by dkocemk.ijagdad7.net (Postfix) with ESMTP id 023FC700781
+	for <lists-reiserfs-list@bruce-guenter.dyndns.org>; Sat, 29 Apr 2017 17:35:35 +0900 (JST)
+Received: from localhost (61-63-36-host226.kbtelecom.net.tw [61.63.36.226])
+	by gucizuczpt (Postfix) with ESMTP id A181850194C
+	for <lists-reiserfs-list@bruce-guenter.dyndns.org>; Sat, 29 Apr 2017 17:35:35 +0900 (JST)
+To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Message-ID: <a4958f211afe8362260ce1dde157ee3e@s6yzrz4v.com>
+Date: Sat, 29 Apr 2017 17:35:36 +0900
+From: "guide@s6yzrz4v.com" <guide@s6yzrz4v.com>
+Subject: =?Shift_JIS?B?gXmBni2CsojEk+AtgZ6BepOWg1SDQ4NngvCWs5e/gsWCspeYl3CJwpRcgsaCyILogtyCtYK9gUI=?=
+ 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=Shift_JIS
+Content-Transfer-Encoding: base64
+
+IFuRsYKrgs2CsYK/guddDQogaHR0cDovL21mZm1pc2FzeWNzMTFhYm10YmFmYW1lai5zNnl6cno0
+di5jb20NCg0KIFuO85BNg3uDYoNOg1hdDQogaHR0cDovL21mZm1pc2FzeWNzY2ouczZ5enJ6NHYu
+Y29t
+

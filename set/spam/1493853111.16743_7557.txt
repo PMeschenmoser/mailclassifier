@@ -1,0 +1,27 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 1018 invoked from network); 28 Apr 2017 12:01:35 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Apr 2017 12:01:35 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Apr 2017 12:01:35 -0000
+Received: (qmail 25964 invoked from network); 28 Apr 2017 12:01:34 -0000
+Received: from ec2-52-88-255-162.us-west-2.compute.amazonaws.com (HELO moy.sgtvi) (52.88.255.162)
+  by zak.futurequest.net with SMTP; 28 Apr 2017 12:01:34 -0000
+Date: Fri, 28 Apr 2017 21:01:16 +0900 (JST)
+From: =?Shift_JIS?B?k/yL4JdcJ5bxiMST4INUgVuDcoNY?= <b8r@a8k519gnx.com>
+To: bruce@bruce-guenter.dyndns.org
+Message-ID: <7rh@75hgj5r.5h5>
+Subject: =?Shift_JIS?B?gXmNkYnGlEaS6JPBX5XKi34ujc+L4IF6J5P8i+A=?=
+ =?Shift_JIS?B?l1yW8YLNiq6XuSyCtYLEKoKoLYLogtyCt6WBQg==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+入/金^予約+案~内サー+ビス
+
+本 文 ▽
+http://ryosr.a8k519gnx.com/rd/bbfdh/__/11180664/m7436042408/4341264a68670ff2a74f5aaffbdc5ee4ce28760cfa1161ab6e39e860cdc113e6
+
+
+2017/04/28 21:00

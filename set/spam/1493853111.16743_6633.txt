@@ -1,0 +1,37 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 1193 invoked from network); 3 May 2017 11:20:52 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 03 May 2017 11:20:52 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 03 May 2017 11:20:52 -0000
+Received: (qmail 9908 invoked from network); 3 May 2017 11:20:52 -0000
+Received: from 124-248-242-196.as4646.net (HELO djna83.com) (124.248.242.196)
+  by zak.futurequest.net with SMTP; 3 May 2017 11:20:52 -0000
+Return-Path: <mail018100001029171@djna83.com>
+Date: Wed, 03 May 2017 20:20:48 +0900
+MIME-Version: 1.0
+From: =?ISO-2022-JP?B?GyRCIWclVSUhJUMlNyVnJXM7dkwzNkkhZxsoQg==?= <mail@djna83.com>
+To: bruce@bruce-guenter.dyndns.org
+Message-Id: 749903568_298105958f3876e1f146@djna83.com
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCIVobKEIxGyRCS3wxXyFbJVclbCU8JXMlSCJ2NEpDMSUiJXMlMSE8JUgkS0V6JCgkayRAJDEkRyVdJSQlcyVIGyhCR0VUGyRCInYhZyVVJSElQyU3JWclczt2TDM2SSFnGyhC?=
+
+grGCzJN4gs2TloNUg0ODZ4LwgrKXmJdwkriCq4LcgrWCxJC9gsmXTILok++CpIzkjcCCooLcgreB
+Qg0KDQqBmoH0jaGJ8YLNgsiC8YLGg0GDk4NQgVuDZ4LJgqiTmoKmkriCooK9ie+I9Zdsgs2RU4j1
+gsmKrpFTlrOXv4LJgsSBeTEwMDBQVIF6gvCDdoOMg1uDk4NngfSBmg0KDQqBYIH0gWCB9IFggfSB
+YIH0gWCB9IFgDQqJ74j1l2xJRCMjbW5vIyMNCoF5MYF6lE6X7g0KgXkygXqCqJa8kU8NCoF5M4F6
+grKQRYvGDQqBeTSBepeYl3CRvINUg0ODZ5a8DQqBeTWBeo1EgquCyIjZkKuCzINeg0ODdg0KgWCB
+9IFggfSBYIH0gWCB9IFggfSBYA0KDQqP44tMgsyV1JBNl+GC8I5Rj8aCyQ0KaW5mb0BmYXNoaW9u
+LXNheXMuY29tgtyCxYKokZeC6Im6grOCooFCDQoNCoGmgrGCv4LngsyP7pXxgs2TloNUg0ODZ4LJ
+gsSMtY9kiseXnYLMjLOBQY2hjOOCzINUg0ODZ4leiWOCyZbwl6eCxILEgqKCqYK5gsSSuIKrgtyC
+t4GmDQoNCg0KICCBpoGlie+I9VRPUINSg2CDiYGlgaYNCmh0dHA6Ly9zZDJ4a3MuY29tLyU3ZXhh
+L215cGFnZS9QQzo1MTgwNDkyNThmMzg3NmUxZTUxYS9JQzpOY1NVa2piVjUyS2V3QkNtWGRvdi8/
+Z3VpZD1PTg0KDQqBQIFAgUCBmo7zkE1CT1iBmg0KaHR0cDovL3NkMnhrcy5jb20vJTdleGEvbWFp
+bGJveC9QQzo1MTgwNDkyNThmMzg3NmUxZTUxYS9JQzpOY1NVa2piVjUyS2V3QkNtWGRvdi8/Z3Vp
+ZD1PTg0KDQoNCoK7gsyRvIFBgrKVc5a+gsiTX4LigrKOv5bigqqM5I3AgqKC3IK1gr2C54NSg2CD
+iYLcgsWCsphBl42JuoKzgqKBQg0KDQqBoYN0g0CDYoNWg4eDk46WlrGLxw0KDQqBoYKoluKCoo2H
+gu2CuSgyNI6eitSO85V0KQ0KaW5mb0BmYXNoaW9uLXNheXMuY29tDQoNCoKoi3GXbElEgUY0NzA4
+NjYNCg0K
+

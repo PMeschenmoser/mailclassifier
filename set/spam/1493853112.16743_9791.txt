@@ -1,0 +1,40 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 30346 invoked from network); 2 May 2017 00:13:34 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 02 May 2017 00:13:34 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 May 2017 00:13:34 -0000
+Received: (qmail 31095 invoked from network); 2 May 2017 00:13:33 -0000
+Received: from pgpvaqubnx.zdomht.com (113.212.133.174)
+  by zak.futurequest.net with SMTP; 2 May 2017 00:13:33 -0000
+Received: from tdymjgftmp.zdomht.com (unknown [113.212.133.163])
+	by scaverzsav.zdomht.com (Postfix) with ESMTP id 09407F40932
+	for <bruce@bruce-guenter.dyndns.org>; Tue,  2 May 2017 09:12:52 +0900 (JST)
+Received: from 113.212.133.163 (111x223x202x52.adv-server.net [111.223.202.52])
+	by tdymjgftmp.zdomht.com (Postfix) with ESMTP id A024CCA009D
+	for <bruce@bruce-guenter.dyndns.org>; Tue,  2 May 2017 09:12:51 +0900 (JST)
+To: bruce@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?6LK05pa544Gu5Y+j5bqn44Gr44CMMeWEhOWGhuOAjeOBruOAjOi/lA==?=
+	=?UTF-8?B?5riI5LiN6KaB44Gu5pSv5o+06YeR44CN44KS5oyv44KK6L6844G/44G+44GZ44CC?=
+	=?UTF-8?B?56eB44Gv5pyr5pyf44Gu55mM44Gr44Gm5L2Z5ZG944KS5a6j5ZGK44GV44KM44G+?=
+	=?UTF-8?B?44GX44Gf44CC56eB44Gu5Lq655Sf5pyA5b6M44Gu6aGY44GE44CB5oiR5L6t44Go?=
+	=?UTF-8?B?44Gq44KL5LqL44Gv6ZaT6YGV44GE54Sh44GE44Gn44GX44KH44GG44CC56eB44Gv?=
+	=?UTF-8?B?6LOH55Sj5a6244Gn44GZ44CC44GT44KM44G+44Gn44Gr5pWw44GI5YiH44KM44Gq?=
+	=?UTF-8?B?44GE44G744Gp44Gu5pSv5o+05rS75YuV44KS44GX44Gm44GN44G+44GX44Gf44Gu?=
+	=?UTF-8?B?44Gn44CB56K644GL44Gq5a6f57i+44KC57WM6aiT44KC44GC44KK44G+44GZ44CC?=
+	=?UTF-8?B?44Gd44KM44Gn44GT44Gu5Lq655Sf5pyA5b6M44Gr56eB44Gv6LK05pa544KS6YG4?=
+	=?UTF-8?B?44Gz44G+44GX44Gf44CC44GT44KM44KC5L2V44GL44Gu57iB44Gq44Gu44Gn44GX?=
+	=?UTF-8?B?44KH44GG44CC?=
+From: =?UTF-8?B?44GK55+l44KJ44Gb?= <mailmaster@ql72vdhb.com>
+Date: Tue, 02 May 2017 09:13:32 +0900
+Message-ID: <fc871c9289e9748d0745a04116936fa87693a8c8>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: BASE64
+MIME-Version: 1.0
+
+PGEgaHJlZj0iaHR0cDovL3FsNzJ2ZGhiLmNvbS9sb2dfaW5kZXgucGhwP3BhZ2U9bWVzc19taXJ1
+JnM9MTQ5MzY4MzkzMSZjaWQ9MTIzOTcmbWlkPTE1MTExMTkmZGR2PTEwMDAxNjZkYjUxNTk4MDk1
+YmY1YTIwNmVhOTRiNGQ2Ij5odHRwOi8vcWw3MnZkaGIuY29tL0tGWEJ6TTlUYVZpMWs5aC9zV2VF
+UlhFPC9hPjxicj4NCuKUt+KUneKIpeOAlcKo4pS/4oCw77+he8Kx77yF
+

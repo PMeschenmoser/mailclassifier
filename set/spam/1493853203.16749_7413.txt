@@ -1,0 +1,26 @@
+Delivered-To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Received: (qmail 21543 invoked from network); 1 May 2017 00:48:10 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 May 2017 00:48:10 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 May 2017 00:48:10 -0000
+Received: (qmail 20656 invoked from network); 1 May 2017 00:48:09 -0000
+Received: from ec2-52-202-103-44.compute-1.amazonaws.com (HELO zukdpxasa.ai) (52.202.103.44)
+  by zak.futurequest.net with SMTP; 1 May 2017 00:48:09 -0000
+Date: Mon, 1 May 2017 09:38:49 +0900 (JST)
+From: =?Shift_JIS?B?fmYnKidhbn4qfmalYTsqLW4q?= <vfen9ry@cq2nbhc.download>
+To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Message-ID: <389028014.396421.1493599129645.JavaMail.return-195478078@cq2nbhc.download>
+Subject: =?Shift_JIS?B?jmMqjYJsim0tlEYugsxgkU8ngsktgtwrgrhg?=
+ =?Shift_JIS?B?gs0ngqguldQrjpYngq1fguongtxsgrkrgvErgqk=?=
+ =?Shift_JIS?B?KoFIO4K7YILqX4KpLYLnQVRNgsk7kasqgvBs?=
+ =?Shift_JIS?B?iV47gvEugsU6gt06gsQnibovgrMvgqJfgUI7gUI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+éc+çÇläm/îF*ÇÃ/ëOÅOÇ…-Ç‹+Ç∏/ÇÕ`Ç®-ï‘/éñ*Ç≠/ÇÍ*Ç‹'Çπ/ÇÒ_Ç©ÅOÅHlÇª/ÇÍ.Ç©*ÇÁATMÇ…_ë´`Ç'â^'ÇÒ`Ç≈'Ç›*Çƒ.â∫_Ç≥_Ç¢*ÅB-ÅB
+
+
+ÇÌ`Ç∂;Ç◊+Ç`Ç‘ÅOÇ¶-ÇºÅOÇ§*Çµ:Ç‰http://cq2nbhc.download/mug3js3qzjk2hdm90/2/m6973610068/4a4e7446e3bd7c6643abf098071af5cc736c569e16a6c09ea78f47d8b9b08279

@@ -1,0 +1,51 @@
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 21949 invoked from network); 29 Apr 2017 16:26:59 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 29 Apr 2017 16:26:59 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 29 Apr 2017 16:26:59 -0000
+Received: (qmail 5730 invoked from network); 29 Apr 2017 16:26:58 -0000
+Received: from 94.76.82.164.freenet.com.ua (HELO srieedu.org) (94.76.82.164)
+  by zak.futurequest.net with SMTP; 29 Apr 2017 16:26:58 -0000
+Message-ID: <C096BE3D.9CB57519@srieedu.org>
+Date: Sat, 29 Apr 2017 18:26:38 +0200
+From: "USPS International" <wrsa044@srieedu.org>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; fr-FR; rv:1.7.5) Gecko/20041206 Thunderbird/1.0
+MIME-Version: 1.0
+To: <cvs@bruce-guenter.dyndns.org>
+Subject: Status of your USPS delivery ID: 710678341
+Content-Type: multipart/mixed;
+	boundary="------------535170063844462521806511"
+
+This is a multi-part message in MIME format.
+
+--------------535170063844462521806511
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+We can not deliver your parcel arrived at  Sat, 29 Apr 2017 18:26:38 +0200.
+
+Please check the attachment for details!
+
+Kind thoughts.
+Marylou Girone -  USPS Parcels Delivery Manager.
+
+
+
+
+--------------535170063844462521806511
+Content-Type: message/external-body; access-type=x-deleted; length=1464
+
+
+Content-Type: application/octet-stream;
+	name="DeliveryDetails.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="DeliveryDetails.zip"
+
+--------------535170063844462521806511--
+

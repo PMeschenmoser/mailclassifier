@@ -1,0 +1,40 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 14728 invoked from network); 1 May 2017 06:27:46 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 May 2017 06:27:46 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 May 2017 06:27:46 -0000
+Received: (qmail 31083 invoked from network); 1 May 2017 06:27:46 -0000
+Received: from ec2-35-161-198-164.us-west-2.compute.amazonaws.com (HELO txjupbfexd.gr) (35.161.198.164)
+  by zak.futurequest.net with SMTP; 1 May 2017 06:27:46 -0000
+Date: Mon, 1 May 2017 15:27:41 +0900 (JST)
+From: =?Shift_JIS?B?k/otlnuNkYt+iYeL4JdaLotAjVyBc5JTk5YvgXSS1iCMtA==?= <jlk@h2kbr73z5.net>
+To: lists-linux-kernel@bruce-guenter.dyndns.org
+Message-ID: <1238615631.642046.1493620062049.JavaMail.return-936427377@h2kbr73z5.net>
+Subject: =?Shift_JIS?B?guYugqkigsEngr1fgsUugrcrgUFfgrE=?=
+ =?Shift_JIS?B?K4LqLoLFLILILoLxOoLGX4KpXoLIL4Lo?=
+ =?Shift_JIS?B?K4K7OoKkKoLFLIK3LIFCL4t+K4mHIIvg?=
+ =?Shift_JIS?B?pYLMX47zOpV0K46eKorUK4LMX4mEfpK3?=
+ =?Shift_JIS?B?K4K3foLpII6WK4LJL5CsLoz3KoK1fg==?=
+ =?Shift_JIS?B?gtwugrUvgr0ngUI6grEugsw6k8Gljuo7?=
+ =?Shift_JIS?B?juhfkbFfgqsqgswqiNcqk4wulnoskLxe?=
+ =?Shift_JIS?B?kZYsgrU6gtwigrUtgr0sgq8tgselguAi?=
+ =?Shift_JIS?B?gUFnZXN0l2wrgsxfjUsugrkrgvCl?=
+ =?Shift_JIS?B?jnYrgqYugs5+gscvgqRegsY7gqIvgqQu?=
+ =?Shift_JIS?B?jpYsgs0vgqAuguhfgtwvgrk7gvErgUJe?=
+ =?Shift_JIS?B?jcUnj0l+kvcqgt9fkNgrguh+gs0sglEu?=
+ =?Shift_JIS?B?glAgjp4sgsYsgsgsgugrgtx+grcvgsw=?=
+ =?Shift_JIS?B?L4LFLYptLo7AIILJO4KoJ47oLpGxLIKr?=
+ =?Shift_JIS?B?Xom6KoKzIIKiK4LcL4K3KoLmKoKkL4Ko?=
+ =?Shift_JIS?B?foroX4KiK4KiL4K9foK1KoLcK4K3KoFC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+よ か,っ_た^で:す+、*こ+れ-で'な~ん.と_か/な*り-そ;う~で,す~。^救/援.金･の/受~付,時:間.の,延.長 す+る･事/に,成'功.し*ま.し_た_。,こ,の~特,殊_手-続/き:の,為_東-奔-西*走.し.ま.し~た+け,ど,も.、gest様.の.幸_せ-を:思.え-ば/ど~う_と'い･う 事-は.あ;り"ま^せ*ん.。~最-終+締.め･切.り,は"２ １+時^と.な_り_ま,す~の.で~確.実^に.お,手･続_き-下.さ,い+ま/す-よ/う_お.願*い+い'た-し+ま.す'。
+
+詳~　;細
+http://fuj4q.h2kbr73z5.net/5ahoh4j1afrbbuf5i/69932211/m6208260453/4a26f61e78ee852dead8a0475f55a5076f2fd84b6dd58caf3cb082acd580a101
+
+2017/05/01 15:27

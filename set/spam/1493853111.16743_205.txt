@@ -1,0 +1,209 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 15117 invoked from network); 28 Apr 2017 13:08:42 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by 10.170.1.183 ([10.170.1.183])
+  with FQDP via TCP; 28 Apr 2017 13:08:42 -0000
+Received: (qmail 16630 invoked from network); 28 Apr 2017 13:08:42 -0000
+Received: from mail.foryoutoslim.com ([104.254.214.23])
+  by mx06.futurequest.net ([69.5.6.177])
+  with ESMTP via TCP; 28 Apr 2017 13:08:42 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=foryoutoslim.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=mark.booker@foryoutoslim.com;
+ bh=HqIhDwyy5H5+NfjwPfYpaK1gLC8=;
+ b=cN7zlvoPFbAuHoCrLVlY+GMSqj7I79qes6WZfqRfj6qRd1+axqxCBuIgkZ5LdEfH2D/EDQhjQss8
+   5/Vkm+sotgwENF56g18oZ6nnFtBCDsQaesG9Yo1U+GQmbK4SLnsJy4TLhaJip/EPLROEfk1XhqvM
+   mKPe0RDVatWauDFbfCg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=foryoutoslim.com;
+ b=avCXuCQENMZ1YkgEnCceUEvpUMZi46ro+cqQg9h1n8oRPsE6WNvlTxnw+EzFa2I1WRYehSwhFcH7
+   xrlJ6Q4cGhPCHjaYAECT4bnmtV7l1CaE3ybhDo+DX8U5NDYbdKFielzM8UFdYY1yR1PDax2EagFS
+   +7zjaYPNIOAyrq/iJJQ=;
+Received: by mail.foryoutoslim.com id h0cv2i0001g3 for <bruce@untroubled.org>; Fri, 28 Apr 2017 09:00:23 -0400 (envelope-from <mark.booker-bruce=untroubled.org@foryoutoslim.com>)
+Date: Fri, 28 Apr 2017 09:00:23 -0400
+From: "Mark Booker" <mark.booker@foryoutoslim.com>
+To:   <bruce@untroubled.org>
+Subject: FOX News scandal ends Bill OReillys career
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_223_663338695.1493384585278"
+List-Unsubscribe: <http://www.foryoutoslim.com/3b389Jp11VMrPS271ALkVMOFVgUkhVLxONzhkr695/trapping-obsequious>
+Message-ID: <0.0.0.18.1D2C01F661FD104.29253F@mail.foryoutoslim.com>
+
+------=_Part_223_663338695.1493384585278
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head> 
+  <style>
+
+mh-related-content { margin-bottom: 20px; margin-bottom: 1.25rem; }
+mh-related-content .mh-posts-grid-title { font-size: 16px; font-size: 1rem; }
+
+
+
+mh-sitemap .page-title { margin-bottom: 20px; margin-bottom: 1.25rem; }
+mh-sitemap-list { margin-bottom: 20px; margin-bottom: 1.25rem; margin-left: 0; list-style: none; }
+mh-sitemap-list > li { border-bottom: 1px dotted #ebebeb; }
+mh-sitemap-list li a:first-child { display: inline-block; padding: 5px 0; }
+mh-sitemap-list li:first-child a { padding-top: 0; }
+mh-sitemap-list .children li { border-top: 1px dotted #ebebeb; }
+mh-sitemap-list .children li a { padding: 5px 0; }
+mh-sitemap-list .children li a:first-child { padding-top: 5px; }
+
+
+
+mh-loop-item, .mh-loop-ad { padding-bottom: 20px; padding-bottom: 1.25rem; margin-bottom: 20px; margin-bottom: 1.25rem; border-bottom: 1px solid #ebebeb; }
+mh-loop-header { margin-bottom: 10px; margin-bottom: 0.625rem; }
+mh-loop-meta { margin-top: 5px; }
+mh-loop-excerpt { overflow: hidden; }
+mh-loop-layout1 .mh-loop-thumb { float: left; margin-right: 20px; }
+mh-loop-layout1 .mh-loop-thumb img { width: 100%; max-width: 235px; }
+mh-loop-layout2 .mh-loop-thumb { position: relative; margin-bottom: 20px; margin-bottom: 1.25rem; }
+mh-loop-layout2 .mh-loop-caption { position: absolute; top: 0; font-size: 13px; font-size: 0.8125rem; font-weight: 700; color: #fff; padding: 10px 15px; background: #e64946; text-transform: uppercase; }
+mh-category-desc { color: #000; padding: 20px; margin-bottom: 20px; margin-bottom: 1.25rem; background: #f5f5f5; border-top: 3px solid #e64946; border-bottom: 3px solid #e64946; }
+
+
+
+post .pagination { padding-bottom: 20px; padding-bottom: 1.25rem; }
+page-numbers { display: inline-block; font-weight: 700; color: #000; padding: 10px 15px; background: #f5f5f5; }
+page-numbers:hover, .mh-loop-pagination .current, .mh-comments-pagination .current, a:hover .pagelink { color: #fff; background: #e64946; }
+page-numbers a { display: block; }
+pagelink { display: inline-block; font-weight: 700; color: #fff; padding: 10px 15px; background: #e64946; }
+a .pagelink { color: #000; background: #f5f5f5; }
+mh-post-nav-wrap { padding: 10px 20px; margin-bottom: 20px; margin-bottom: 1.25rem; background: #f5f5f5; text-transform: uppercase; }
+mh-post-nav { width: 48.75%; }
+mh-post-nav a { font-size: 14px; font-size: 0.875rem; font-weight: 700; color: #000; }
+mh-post-nav a:hover { color: #e64946; }
+mh-post-nav-prev { float: left; margin-right: 2.5%; }
+mh-post-nav-next { float: right; text-align: right; }
+
+
+
+mh-footer { font-size: 13px; font-size: 0.8125rem; color: #fff; padding: 25px 25px 0; background: #2a2a2a; }
+mh-footer a { color: #f7f7f7; }
+mh-copyright-wrap { border-top: 3px solid rgba(255, 255, 255, 0.3); background: #2a2a2a; }
+mh-copyright { font-size: 13px; font-size: 0.8125rem; color: #999; padding: 15px 20px; }
+mh-copyright a { color: #fff; }
+
+
+
+img { max-width: 100%; width: auto\9;  height: auto; vertical-align: bottom; }
+iframe, embed, object, video { max-width: 100%; }
+alignnone { display: block; margin: 20px 0; margin: 1.25rem 0; }
+aligncenter { display: block; margin: 20px auto; margin: 1.25rem auto; }
+alignleft { display: inline; float: left; margin: 5px 20px 20px 0; margin: 0.3125rem 1.25rem 1.25rem 0; }
+alignright { display: inline; float: right; margin: 5px 0 20px 20px; margin: 0.3125rem 0 1.25rem 1.25rem; }
+wp-caption { max-width: 100%; }
+wp-caption-text { display: block; font-size: 12px; font-size: 0.75rem; font-weight: 700; line-height: 1.4; color: #000; margin-top: 5px; }
+alignnone .wp-caption-text, .aligncenter .wp-caption-text, .alignleft .wp-caption-text, .alignright .wp-caption-text { margin-bottom: 0; }
+
+
+
+gallery { margin-bottom: 20px; }
+gallery:after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0; margin: 0; padding: 0; }
+gallery-item { float: left; margin: 0 4px 4px 0; overflow: hidden; position: relative; }
+gallery-columns-1 .gallery-item { max-width: 100%; }
+gallery-columns-2 .gallery-item { max-width: 48%; max-width: -webkit-calc(50% - 4px); max-width: calc(50% - 4px); }
+gallery-columns-3 .gallery-item { max-width: 32%; max-width: -webkit-calc(33.3% - 4px); max-width: calc(33.3% - 4px); }
+gallery-columns-4 .gallery-item { max-width: 23%; max-width: -webkit-calc(25% - 4px); max-width: calc(25% - 4px); }
+gallery-columns-5 .gallery-item { max-width: 19%; max-width: -webkit-calc(20% - 4px); max-width: calc(20% - 4px); }
+gallery-columns-6 .gallery-item { max-width: 15%; max-width: -webkit-calc(16.7% - 4px); max-width: calc(16.7% - 4px); }
+gallery-columns-7 .gallery-item { max-width: 13%; max-width: -webkit-calc(14.28% - 4px); max-width: calc(14.28% - 4px); }
+gallery-columns-8 .gallery-item { max-width: 11%; max-width: -webkit-calc(12.5% - 4px); max-width: calc(12.5% - 4px); }
+gallery-columns-9 .gallery-item { max-width: 9%; max-width: -webkit-calc(11.1% - 4px); max-width: calc(11.1% - 4px); }
+gallery-columns-1 .gallery-item:nth-of-type(1n), .gallery-columns-2 .gallery-item:nth-of-type(2n), .gallery-columns-3 .gallery-item:nth-of-type(3n), .gallery-columns-4 .gallery-item:nth-of-type(4n), .gallery-columns-5 .gallery-item:nth-of-type(5n), .gallery-columns-6 .gallery-item:nth-of-type(6n), .gallery-columns-7 .gallery-item:nth-of-type(7n), .gallery-columns-8 .gallery-item:nth-of-type(8n), .gallery-columns-9 .gallery-item:nth-of-type(9n) { margin-right: 0; }
+gallery-columns-1.gallery-size-medium figure.gallery-item:nth-of-type(1n+1), .gallery-columns-1.gallery-size-thumbnail figure.gallery-item:nth-of-type(1n+1), .gallery-columns-2.gallery-size-thumbnail figure.gallery-item:nth-of-type(2n+1), .gallery-columns-3.gallery-size-thumbnail figure.gallery-item:nth-of-type(3n+1) { clear: left; }
+gallery-caption { background-color: rgba(0, 0, 0, 0.7); -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; color: #fff; font-size: 12px; line-height: 1.5; margin: 0; max-height: 50%; opacity: 0; padding: 6px 8px; position: absolute; bottom: 0; left: 0; text-align: left; width: 100%; }
+gallery-caption:before { content: ""; height: 100%; min-height: 49px; position: absolute; top: 0; left: 0; width: 100%; }
+gallery-item:hover .gallery-caption { opacity: 1; }
+gallery-columns-7 .gallery-caption, .gallery-columns-8 .gallery-caption, .gallery-columns-9 .gallery-caption { display: none; }
+
+
+
+table { width: 100%; margin-bottom: 20px; margin-bottom: 1.25rem; border-left: 1px solid #ebebeb; border-top: 1px solid #ebebeb; }
+td, th { padding: 5px 10px; border-right: 1px solid #ebebeb; border-bottom: 1px solid #ebebeb; }
+th { font-weight: 600; color: #000; background-color: #f9f9f9; }
+mh-footer-widget table, .mh-footer-widget td, .mh-footer-widget th { border-color: rgba(255, 255, 255, 0.3); }
+mh-footer-widget th { color: #fff; background: rgba(255, 255, 255, 0.1); }
+
+
+
+mh-comment-body { padding: 25px; }
+mh-comment-list { color: #000; margin-bottom: 25px; margin-bottom: 1.5625rem; list-style: none; }
+mh-comment-list .children { margin: 0 25px; list-style: none; }
+mh-comment-list .depth-1 { background: #f5f5f5; }
+mh-comment-list .depth-2 { background: #f2f2f2; }
+mh-comment-list .depth-3 { background: #efefef; }
+mh-comment-list .depth-4 { background: #ececec; }
+mh-comment-list .depth-5 { background: #eaeaea; }
+mh-comment-list h1, .mh-comment-list h2, .mh-comment-list h3, .mh-comment-list h4, .mh-comment-list h5, .mh-comment-list h6 { margin-bottom: 20px; margin-bottom: 1.25rem; }
+mh-comment-meta { line-height: 2.5; padding: 15px; margin-bottom: 20px; margin-bottom: 1.25rem; background: #fff; }
+mh-comment-meta, .mh-comment-meta a { color: #2a2a2a; }
+mh-comment-meta-date { font-size: 10px; font-size: 0.625rem; text-transform: uppercase; }
+mh-comment-meta-links { font-weight: 700; text-align: right; text-transform: uppercase; }
+mh-comment-meta-links .comment-edit-link { margin-left: 10px; }
+bypostauthor .mh-comment-meta { border-bottom: 2px solid #e64946; }
+mh-comment-author .fn { font-size: 16px; font-size: 1rem; font-weight: 700; margin-right: 0; }
+mh-comment-gravatar { display: inline-block; }
+mh-comment-gravatar .avatar { width: 40px; height: 40px; padding: 2px; margin: 0 15px 0 0; border: 1px solid #f5f5f5; background: #fff; vertical-align: middle; }
+mh-comment-content a { font-weight: 600; color: #e64946; }
+mh-comment-content a:hover { color: #e64946; text-decoration: underline; }
+mh-comment-content p, .mh-comment-content blockquote { margin-bottom: 20px; margin-bottom: 1.25rem; }
+mh-comment-content blockquote p:last-child { margin: 0; }
+mh-comment-info { color: #e64946; margin: 20px 0; margin: 1.25rem 0; }
+mh-comments-pagination { margin-bottom: 20px; margin-bottom: 1.25rem; }
+mh-ping-list { margin-bottom: 20px; margin-bottom: 1.25rem; }
+mh-ping-list .mh-ping-item { padding: 10px 0; border-bottom: 1px dotted #ebebeb; }
+mh-ping-list .mh-ping-item:first-child { border-top: 1px dotted #ebebeb; }
+mh-ping-list .mh-ping-item .fa { margin-right: 15px; }
+
+</style> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+  <title>the world up side down</title> 
+ </head> 
+ <body style="margin: 0"> 
+  <dl style="margin: 0px"> 
+   <dd style="display: block; background-color: #000; font-size: 5px; padding-left: 0px; margin-left: 0px">
+    truth,and a persecution all the more needless and revolting since the Protestants were not in rebellion against the government, as in the tune of Charles IX. This diabolical persecution, justified however by some of the greatest men in France, had its intended results. The bigots who incited that crime had studied well the principles of successful warfare. As early as 1666 the King was urged to suppress the Protestant religion, and long
+   </dd> 
+   <dd style="font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif; font-weight: 900; font-size: 41px; border-bottom: solid 3px; margin-left: 0px">
+    Bill O Reilly Collaspse 
+    <span style="background-color: rgba(165,57,58,1.00); padding: 3px; display: inline-block">
+     <article style="color: #fff">
+      FOX News
+     </article></span> 
+    <hr style="margin: 0px 0px 2px 0px; border: none; background-color: #000; height: 1px" /> 
+   </dd> 
+   <dt style="padding: 14px; font-family: arial; width: 350px; font-size: 20px; display: inline-block">
+    He was in the middle of his show, and executives from the network pulled him off air in a shocking manner after they uncovered a new-scandal. 
+    <br /> 
+    <br /> He was fired from the network 
+    <a href="http://www.foryoutoslim.com/2a586sRdk71I271VLkVMOFVgUkhVLxONzhkrb25/chalice-spiders" style="color:#9A0600; ">for this very reason</a> 
+    <br /> 
+    <br /> 
+    <a href="http://www.foryoutoslim.com/2a586sRdk71I271VLkVMOFVgUkhVLxONzhkrb25/chalice-spiders" style="background-color: rgb(153, 1, 1) ; color: rgb(255, 255, 255) ; cursor: auto ; display: inline ; font-family: Helvetica Neue, Helvetica, Arial, sans-serif ; font-size: 20px ; height: auto ; line-height: 23.8px ; padding-bottom: 7.5px ; padding-left: 10px ; padding-right: 10px ; padding-top: 7.5px ; text-decoration-color: rgb(255, 255, 255) ; text-decoration-line: none ; text-decoration-style: solid ; text-size-adjust: 100% ; text-transform: uppercase ; width: auto ; ">See what happened &gt;&gt;</a>
+   </dt> 
+   <dt style="display: inline-block; width: 350px">
+    <img style="border-top: solid 4px #000; border-bottom: border-bottom: solid 4px #000" width="100%" src="http://www.foryoutoslim.com/milking-namers/e7cg7pad7m4Y271lLkVMOFVgUkhVLxONzhkr5c1" alt="big head" />
+   </dt> 
+   <br />
+   <br />
+   <br />
+   <br /> 
+   <dt style="display: block; border: solid 1px #eee; background-color: #F5F5F5; padding: 9px; font-family: arial"> 
+    <div style="color: #F5F5F5">
+     Catholics as servants; soldiers were unjustly quartered upon them; their taxes were multiplied, their petitions were unread. But in 1685 dragonnades subjected them to still greater cruelties; who tore up their linen for camp beds, and emptied their mattresses for litters. The poor, unoffending Protestants filled the prisons, and dyed the scaffolds with their blood. They were prohibited under the severest penalties from the exercise of their religion; their ministers were exiled, their  were baptized in the Catholic
+    </div>
+    <a href="http://www.foryoutoslim.com/repress-intrusion/9ccl86KdD72C271ALkVMOFVgUkhVLxONzhkr14d"><small><small>Typing your email on this page</small></small></a>
+    <small><small> will certify your discharge from our database of friends <br /> 297 Kingsbury Grade, Suite 100, Mail Box 4470, Lake Tahoe <br /> <br /> Cut out your name from our index by <a href="http://www.foryoutoslim.com/chalice-spiders/c9cK89Xd7T3m271xLkVMOFVgUkhVLxONzhkrc15">entering your preference right here</a><br /> Morales Neiland - 1551 Barton Orleans Rd Barton Vt * 05822-9394. You will not get these adverti.s.em-ents </small></small> 
+    <div style="color: #F5F5F5">
+     faith, their property was confiscated, and all attempts to flee the country were punished by the galleys. Two millions of people were disfranchised; two hundred thousand perished by the executioners, or in prisons, or in the galleys. All who could fly escaped to other countries; and those who escaped were among the most useful citizens, carrying their arts with them to enrich countries at war with France. Some two hundred thousand contrived to fly,thus weakening the kingdom, and filling Europe with their execrations.
+    </div> 
+   </dt> 
+  </dl>   
+ <img src="http://www.foryoutoslim.com/trapping-obsequious/8be8O5Cod75Mz271hLkVMOFVgUkhVLxONzhkr23e" alt=""/></body>
+</html>
+
+------=_Part_223_663338695.1493384585278--
+

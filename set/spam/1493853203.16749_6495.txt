@@ -1,0 +1,32 @@
+Delivered-To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Received: (qmail 17135 invoked from network); 28 Apr 2017 04:30:07 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Apr 2017 04:30:07 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Apr 2017 04:30:07 -0000
+Received: (qmail 13568 invoked from network); 28 Apr 2017 04:30:06 -0000
+Received: from ec2-35-164-181-132.us-west-2.compute.amazonaws.com (HELO ijxsbstlahes.tves) (35.164.181.132)
+  by zak.futurequest.net with SMTP; 28 Apr 2017 04:30:06 -0000
+Date: Fri, 28 Apr 2017 13:30:01 +0900 (JST)
+From: =?Shift_JIS?B?k/qWe42Ri36JhyCL4Jdai0CNXC6Bcy2SU5OWLIF0ktaMtA==?= <68n@h2kbr73z5.net>
+To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Message-ID: <1923806863.466039.1493353801741.JavaMail.return-932766381@h2kbr73z5.net>
+Subject: =?Shift_JIS?B?gr1fgsEtgr1fglB+gk+lgk8sgk8giX4ugUE6grMsgup+gscvglAr?=
+ =?Shift_JIS?B?gk8qgk8vgk8viX5fgUIuglAsgk+lgk8ngk8iiX5egsUulr5+k/or?=
+ =?Shift_JIS?B?gswqjUulgrktgvClkUlegtQsgqkugUEsjaEtgr4ggq8ugswtj6ws?=
+ =?Shift_JIS?B?grMsgsgrjUsvgrmlgvArkUkrgtQqgqkigUEvgrsuguoggs1nZXN0?=
+ =?Shift_JIS?B?l2x+gqpfjIgigt8uguksjpZfgsUvgrdfgUIsgrUrgqkrgrUvgUFn?=
+ =?Shift_JIS?B?ZXN0l2wvgs0slr4qk/p+gqkngud+gswtlqIrl4gqgqpegqAugugs?=
+ =?Shift_JIS?B?gtylgrdfgUIuk/oslnssjZFfi35+iYcgi+Bel1pfi0AvjVwsgs0s?=
+ =?Shift_JIS?B?grssgsw7lqIgl4hfgvAriZ4riYcggrUqgr0sgqIvgswsgsUggrc7gUI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+ÇΩ.Ç¡~ÇΩ ÇP"ÇO,ÇO.ÇO~â~+ÅA^Ç≥*ÇÍ'Ç«,ÇP*ÇO-ÇO,ÇO_â~'ÅB+ÇP.ÇO^ÇO~ÇO*â~~Ç≈.ñæ_ì˙,ÇÃ~çK/Çπ+Ç.ëI~Ç‘,Ç©_ÅA_ç°+Çæ/ÇØ_ÇÃ-è¨/Ç≥-Ç»;çK.Çπ;Ç/ëI_Ç‘+Ç©;ÅA_Çª_ÇÍ:ÇÕgestól_Ç™.åà•Çﬂ/ÇÈ*éñ,Ç≈,Ç∑^ÅB Çµ/Ç©.Çµ/ÅAgestól.ÇÕ-ñæ+ì˙^Ç©:ÇÁ*ÇÃ~ñ¢*óà/Ç™*Ç†+ÇË*Ç‹•Ç∑,ÅB^ì˙,ñ{/çë+ã~•âá ã‡•óZ_ã@~ç\"ÇÕ"Çª^ÇÃ,ñ¢-óà^Ç•âû-âá-Çµ.ÇΩ-Ç¢~ÇÃ~Ç≈~Ç∑'ÅB
+
+è⁄.Å@+ç◊
+http://xjah.h2kbr73z5.net/fvjn4ci7zb7mykyhv/69932211/m0972185990/c3f7e6dce3fc5f7f9b5a783bde9eaf4537ef2dfe8ee6834bd0ca79af86f858a3
+
+2017/04/28 13:29

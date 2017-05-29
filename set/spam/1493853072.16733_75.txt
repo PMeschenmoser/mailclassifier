@@ -1,0 +1,73 @@
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 23223 invoked from network); 1 May 2017 17:00:44 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 May 2017 17:00:44 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 May 2017 17:00:44 -0000
+Received: (qmail 17916 invoked from network); 1 May 2017 17:00:42 -0000
+Received: from 147.27.90.117.broad.zj.js.dynamic.163data.com.cn (HELO ct.com) (117.90.27.147)
+  by zak.futurequest.net with SMTP; 1 May 2017 17:00:42 -0000
+Received: from gyeb (unknown [141.242.215.93])
+	by ct with SMTP id hkEqulYIySDi38F1.1
+	for <cvs@bruce-guenter.dyndns.org>; Tue, 02 May 2017 01:00:09 +0800
+Message-ID: <20170502010009414662@ct.com>
+From: =?utf-8?B?57yR6Zuo5Li5?= <snhv@ct.com>
+To: <cvs@bruce-guenter.dyndns.org>
+Subject: =?utf-8?B?Y3ZzOumUgOWUruS6uuWRmOeuoeeQhuS4jumUgOWUruS4mue7qeeuoeeQhu+8nyBq?=
+	=?utf-8?B?ZmNs?=
+Date: Tue, 2 May 2017 01:00:01 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_02A1_01A04A82.109A8C10"
+X-mailer: Jiaxn 1
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_02A1_01A04A82.109A8C10
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_04B5_01A04A82.109A8C10"
+
+------=_NextPart_001_04B5_01A04A82.109A8C10
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+Y3Zz77ya5oKo5aW9DQrlpoLkvZXmiJDkuLrkuIDlkI3kvJjnp4DnmoTkuJrliqHkuLvnrqHvvIzl
+poLkvZXluKblpb3kuJrliqHlm6LpmJ/vvIzku47ogIzkuLrkvIHkuJrliJvpgKDmm7TlpKfnmoTn
+m4rjgILjgILjgIINCumZhOS7tuS4reeahOWGheWuueW4jOacm+iDveW4ruWKqeWIsOaCqOeahOW3
+peS9nCznu5nmgqjop6PlhrPlt6XkvZzkuK3nmoTng6bmgbzvvIENCmV0ZzJmDQoyMDE3LTUtMjE6
+MDA6MDg=
+
+------=_NextPart_001_04B5_01A04A82.109A8C10
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4NCjxIVE1MPjxIRUFEPg0KPE1FVEEgaHR0cC1lcXVpdj1Db250ZW50LVR5cGUgY29udGVu
+dD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjxNRVRBIGNvbnRlbnQ9Ik1TSFRNTCA2LjAw
+LjI5MDAuNjQ2MiIgbmFtZT1HRU5FUkFUT1I+PC9IRUFEPg0KPEJPRFkgYmFja2dyb3VuZD1maWxl
+Oi8vL0M6XERvY3VtZW50cyUyMGFuZCUyMFNldHRpbmdzXEFkbWluaXN0cmF0b3Jc5qGM6Z2iXOmD
+juWSuOW5sy5naWY+DQo8UD5jdnPvvJrmgqjlpb08L1A+DQo8UD7lpoLkvZXmiJDkuLrkuIDlkI3k
+vJjnp4DnmoTkuJrliqHkuLvnrqHvvIzlpoLkvZXluKblpb3kuJrliqHlm6LpmJ/vvIzku47ogIzk
+uLrkvIHkuJrliJvpgKDmm7TlpKfnmoTnm4rjgILjgILjgII8L1A+DQo8UD7pmYTku7bkuK3nmoTl
+hoXlrrnluIzmnJvog73luK7liqnliLDmgqjnmoTlt6XkvZws57uZ5oKo6Kej5Yaz5bel5L2c5Lit
+55qE54Om5oG877yBPC9QPg0KPFA+PEZPTlQgY29sb3I9d2hpdGU+MXVxYzg8L0ZPTlQ+PC9QPg0K
+PFA+PEZPTlQgY29sb3I9d2hpdGU+MjAxNy01LTIxOjAwOjA4PC9GT05UPjwvUD48L0JPRFk+PC9I
+VE1MPg0K
+
+------=_NextPart_001_04B5_01A04A82.109A8C10--
+
+------=_NextPart_000_02A1_01A04A82.109A8C10
+Content-Type: message/external-body; access-type=x-deleted; length=29102
+
+
+Content-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document;
+	name="=?utf-8?B?6ZSA5ZSu5Li7566hMuWkqeW8uuWMluiuree7g+iQpS5kb2N4?="
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="=?utf-8?B?6ZSA5ZSu5Li7566hMuWkqeW8uuWMluiuree7g+iQpS5kb2N4?="
+
+------=_NextPart_000_02A1_01A04A82.109A8C10--
+

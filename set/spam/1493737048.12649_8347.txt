@@ -1,0 +1,301 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 25088 invoked from network); 02 May 2017 14:50:54 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by 10.170.1.183 ([10.170.1.183])
+  with FQDP via TCP; 02 May 2017 14:50:54 -0000
+Received: (qmail 3092 invoked from network); 2 May 2017 14:50:54 -0000
+Received: from mail.updatednewyogaspecials.com (ih505398.dedic.myihor.ru [193.124.181.100])
+  by mx08.futurequest.net ([69.5.6.180])
+  with ESMTP via TCP; 02 May 2017 14:50:51 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=updatednewyogaspecials.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=yogaburn@updatednewyogaspecials.com;
+ bh=DW0ag7YjfYUwGlSn8B21hmb8VdU=;
+ b=Euih2wSl+Xk8Lr7bkMEWZ9iTNY3py9hiQNeTkDhtWmQVz39BHkEWhTF2X097CalLSYlRl0p46rgP
+   uLzcFtzQh/YiZMziYCpp83lku+p3ENk4AsMbGiKRuzFkj73dutOe+SUAueX0wf16DOA0gJkz4HJh
+   oKj1ozbUseZmH/ZnD4o=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=updatednewyogaspecials.com;
+ b=TLt8HKcGG7iUiC2hrS/Y+0h9HMK/fmMRuzFVbX5o1Z5NRMPD4eWixktK9F2Hf47wqHroI3A6npdZ
+   re7T0PW9fd2L9UgRAG7/4lRhpXC1D0WQuQBRX30zGb86RL/wLas7zz9erTr7MJLIoM5WYPlfZHHs
+   JZ7STuUEnH3GrQRQfJE=;
+Received: by mail.updatednewyogaspecials.com id h12rp60001g7 for <bruce@untroubled.org>; Tue, 2 May 2017 12:39:39 -0400 (envelope-from <yogaburn-bruce=untroubled.org@updatednewyogaspecials.com>)
+Date: Tue, 2 May 2017 12:39:39 -0400
+From: YogaBurn <yogaburn@updatednewyogaspecials.com>
+To:   <bruce@untroubled.org>
+Subject: This one yoga-trick can be your roadmap to a tiny-belly.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_643_553800841.1493736308925"
+List-Unsubscribe: <http://www.updatednewyogaspecials.com/decoupling-mythology/9cc8Mu9C1Bz1q11a_LkVMOFVgUkhVLxONzhkr3e2>
+Message-ID: <0.0.0.47.1D2C362B0FD968E.2DA27D@mail.updatednewyogaspecials.com>
+Content-Length: 14962
+
+------=_Part_643_553800841.1493736308925
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+YogaBurn
+
+This One Yoga-Trick can give you the Tiny-Belly that you've always wanted!
+
+Whether you are a beginner or you're experienced with Yoga, the movements you will learn in these yoga-lessons can take your workout to the next-level and get you started burning-flab quickly. 
+
+This program was designed by a certified yoga-instructor, certified personal-trainer and a female fitness-expert to bring you the exact-results you're looking for. 
+
+Watch this video below now to see exactly what you will get out of this instructional-guide:
+
+
+Go Here to Learn About This Yoga-Workout Now: http://www.updatednewyogaspecials.com/doomsday-prosodics/9728B6Y4bbU_B11aILkVMOFVgUkhVLxONzhkr658
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you're looking. to. end these yogaads-please visit_here: http://www.updatednewyogaspecials.com/spellbound-participle/f308t9L4buGcT11azLkVMOFVgUkhVLxONzhkr400
+#-_2885 Sanford-Avenue S. W.  No. #40442. 
+Grandville. M. l. #49418.  
+
+------=_Part_643_553800841.1493736308925
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+ <head>=20
+  <meta charset=3D"UTF-8" />=20
+  <title>Yoga-Specials</title>=20
+ </head>=20
+ <body>
+  <center>=20
+   <table width=3D"240" border=3D"0" cellpadding=3D"0">=20
+    <tbody>
+     <tr>=20
+      <td width=3D"236"><strong style=3D"font-size:30px; color:#FF00FF">Yog=
+a</strong><strong style=3D" font-size:30px; color:#000000">Burn</strong></t=
+d>=20
+     </tr>=20
+    </tbody>
+   </table>=20
+   <table bgcolor=3D"#C4C1C1" width=3D"601" border=3D"0" cellpadding=3D"0">=
+=20
+    <tbody>
+     <tr>=20
+      <td width=3D"597">&nbsp; </td>=20
+     </tr>=20
+    </tbody>
+   </table>=20
+   <table width=3D"410" border=3D"0" cellpadding=3D"2">=20
+    <tbody>
+     <tr>=20
+      <td style=3D"font-family:Constantia, 'Lucida Bright', 'DejaVu Serif',=
+ Georgia, serif" width=3D"406"><p>This One Yoga-Trick can give you the Tiny=
+-Belly that you've always wanted!</p> <p>Whether you are a beginner or you'=
+re experienced with Yoga, the movements you will learn in these yoga-lesson=
+s can take your workout to the next-level and get you started burning-flab =
+quickly.</p> <p>This program was designed by a certified yoga-instructor, c=
+ertified personal-trainer and a female fitness-expert to bring you the exac=
+t-results you're looking for.</p> <p>Watch this video below now to see exac=
+tly what you will get out of this instructional-guide:<br /> </p>
+       <center>
+        <a href=3D"http://www.updatednewyogaspecials.com/doomsday-prosodics/b70T86N4YbblX11aVLkVMOFVgUkhVLxONzhkrdf6"><img src=3D"http://www.updatednewyogaspecials.com/c05Z7ay4bdRN11aNLkVMOFVgUkhVLxONzhkrc8d/indiscretion-theological" width=3D"235" heigh=
+t=3D"165" /></a>
+       </center> <p></p> <p style=3D"font-weight: bold"><a href=3D"=
+http://www.updatednewyogaspecials.com/doomsday-prosodics/b70T86N4YbblX11aVLkVMOFVgUkhVLxONzhkrdf6">Go Here to Learn About This Yoga-Workout Now</a></p> <p></p></td>=20
+     </tr>=20
+    </tbody>
+   </table>=20
+   <table bgcolor=3D"#C4C1C1" width=3D"410" border=3D"0" cellpadding=3D"0">=
+=20
+    <tbody>
+     <tr>=20
+      <td width=3D"247">&nbsp; </td>=20
+     </tr>=20
+    </tbody>
+   </table>=20
+   <p><span style=3D"font-size:10px">If you're looking.to.end these yogaads=
+-please <a href=3D"http://www.updatednewyogaspecials.com/spellbound-participle/f308t9L4buGcT11azLkVMOFVgUkhVLxONzhkr400">visit_here</a>.<br /> #-_2885 Sanfor=
+d-Avenue S.W. No.#40442.<br /> Grandville.M.l.#49418. </span></p>=20
+   <table width=3D"485" border=3D"0" cellpadding=3D"0">=20
+    <tbody>
+     <tr>=20
+      <td style=3D"color:#000000; font-size: 7.8px; "><p>&nbsp; </p> <p>&nb=
+sp; </p> <p>&nbsp; </p> <p>&nbsp; </p> <p>&nbsp; </p> <p>&nbsp; </p> <p>&nb=
+sp; </p> <p>&nbsp; </p> <p>&nbsp; </p> <p>&nbsp; </p> <p>Scientific evidenc=
+e is mounting daily for what many have long sensed: that practices like min=
+dfulness, meditation, and yoga can help us address certain intractable indi=
+vidual and societal problems. Prominent companies &acirc;?? Google, General=
+ Mills, Target, Apple, Nike, AOL, and Procter &amp; Gamble among them &acir=
+c;?? and prominent individuals have already embraced this possibility. Tim =
+Ryan, the Ohio congressman who wrote the book A Mindful Nation, has been a =
+big proponent of bringing mindfulness to the masses. He, along with others,=
+ believes that mindfulness should be a part of everyone's day, to help wire=
+ our brains to deal with our many modern stressors.</p> <p>And, perhaps mor=
+e importantly for our global health, for kids dealing with extreme stressor=
+s, traumas and abuse, putting these practices into schools could be the dif=
+ference between failure and success. Last month, a group of American and Ca=
+nadian scholars, researchers, businesspeople, and yoga teachers came togeth=
+er for a weekend at Omega Institute to discuss how this group of practices =
+that helps us self-regulate as individuals could, quite possibly, help us r=
+egulate on a society level. The issues the country is facing &acirc;?? the =
+massive dropout rate of school kids, substance abuse among all age groups, =
+PTSD among veterans, the staggeringly high incarceration and recidivism rat=
+es &acirc;?? cost the country volumes in human potential, not to mention tr=
+illions in dollars. There are no single solutions, but the evidence suggest=
+s that some or all of these problems may be amenable to the practices that =
+have been shown to redirect attention, improve concentration, increase self=
+-control, and endow people with reliable and healthy coping mechanisms in t=
+he face of stress and trauma. Some of the faculty at Omega's conference hav=
+e been key players in making this happen. BK Bose, PhD, of the Niroga Insti=
+tute, a former Silicon Valley engineer who grew up practicing yoga, now wor=
+ks to make mindfulness/meditation/yoga the game-changer that many believe i=
+t can be. Rob Schware, PhD, who heads the Give Back Yoga Foundation and the=
+ Yoga Service Council, and writes for the Huffington Post, brought his two =
+decades of management experience with World Bank to help grow the movement =
+as a second career. Many, including Bose and Schware, say that the &acirc;?=
+?school-to-prison pipeline,&acirc;?=9D a famously insidious and costly prob=
+lem in lives lost and money wasted, is one of several that could be altered=
+ by a little mindfulness training early on in life.</p> <p>In terms of econ=
+omic cost alone, Cecelia Rouse at Princeton estimates that one high school =
+dropout &acirc;??costs&acirc;?=9D about $260,000 in lost earnings over his =
+or her lifetime. Given the fact that at least a million kids drop out of sc=
+hool every year, the annual cost of school failure alone is estimated at $2=
+60 billion. As Bose points out, &acirc;??Over ten years, the cost is upward=
+s of 3 trillion dollars. And this is just for dropping out alone.&acirc;?=
+=9D</p> <p>If you continue the trajectory a little further, he says, based =
+on the relatively common course that can include juvenile hall and prison, =
+the numbers grow. &acirc;??The school-to-prison pipeline is incredibly cost=
+ly,&acirc;?=9D says Bose. It can cost upwards of $250,000 per year to keep =
+an inmate in prison, if you factor in all the direct and indirect costs tha=
+t tend to come with it, like loss in productivity, damage to the family, th=
+e escalated health and mental health costs. &acirc;??Folks have been lookin=
+g at career criminals &acirc;?? and estimates over their lifetimes are betw=
+een $4-7 million. If you apply this to all those who land in jail over and =
+over again, the numbers become stratospheric.&acirc;?=9D</p> <p>One approac=
+h is to increase school retention; the national dropout rate is between 25 =
+and 35, and up to 50 in inner city schools. But if you go back a necessary =
+step, Bose argues, the real culprits are enormous stresses and traumas that=
+ are so often present in the kids' lives. &acirc;??The single common denomi=
+nator is stress: Chronic stress, toxic stress, traumatic stress, primary an=
+d secondary post-traumatic stress. Trauma is endemic. The tentacles of stre=
+ss and trauma run right through &acirc;?? domestic abuse, substances abuse,=
+ poverty, racism. And once a kid drops out, homelessness, substance abuse, =
+juvenile delinquency, crime, violence are just waiting to pounce. Not to me=
+ntion the boatload of chronic disease, metabolic syndrome, hypertension, di=
+abetes... You start to see this powerful trajectory between school failure =
+and adult outcomes.&acirc;?=9D</p> <p>And this is where the capacity to cop=
+e becomes highly relevant. Methods that train the brain attend differently,=
+ self-regulate, and respond to stressors are one part. &acirc;??If you look=
+ to neuroscience,&acirc;?=9D says Bose, &acirc;??it tells us that stress, a=
+mong other things, disrupts brain functioning, especially in the prefrontal=
+ cortex. And the same neuroscience is also saying there's also class of pra=
+ctices that mitigate all of this: Mindfulness.&acirc;?=9D</p> <p>There's so=
+me good evidence for the idea. In 2011, a Harvard study showed that mindful=
+ness is linked to increased gray matter density in certain cortical areas, =
+including the prefrontal cortex and regions involved in self-referential th=
+oughts and emotion regulation. There seems to be a strong connection betwee=
+n mindfulness and the brain machinery involved in self-regulation. Other wo=
+rk has shown mindfulness to be linked to relative de-activation of the defa=
+ult mode network (DMN), the brain system that's active during mind-wanderin=
+g and self-referential &acirc;??worry&acirc;?=9D thoughts, which are genera=
+lly stressful in nature. Indeed Jon Kabat-Zinn, MD at UMass has developed h=
+is career to developing the mindfulness-based stress reduction program (MBS=
+R) to helping people learn to change the stress response. (For nice reviews=
+ of the application of the practices in early childhood education, see this=
+ 2012 piece and this 2011 piece.)</p> <p>This is all well and good, Bose ad=
+ds, but there's an obvious caveat. When they're in the midst of stress and =
+trauma, few kids have the ability to sit still enough to take part in a sit=
+ting practice. &acirc;??If you're not ready to sit in classroom,&acirc;?=9D=
+ says Bose, &acirc;??you're not ready to do sitting meditation. If you have=
+ drugs and gangs and violence all around you, you simply can't sit still. T=
+eachers tell us that they often yell at kids 100 times a day to sit and pay=
+ attention. It doesn't work. And to ask them to do this in the context of m=
+editation can have a worse-than-neutral effect &acirc;?? it could be disast=
+rous.&acirc;?=9D</p> <p>So, you have to go beyond the neuroscience-of-medit=
+ation field and look to the trauma research, which tells us that physical a=
+ctivity can help the brain deal with stress and trauma. &acirc;??Trauma res=
+earch tell us that we hold trauma in our bodies&acirc;?&brvbar; The dorsola=
+teral prefrontal cortex doesn't even talk to the amygdala. Neuroscience say=
+s mindfulness; trauma research says movement. All of the sudden you've got =
+moving meditation or mindfulness in motion. Mindfulness alone isn't going t=
+o cut it for these kids.&acirc;?=9D One theory is that because the executiv=
+e areas of the brain can be affected by stress and trauma, &acirc;??getting=
+ in&acirc;?=9D through another avenue is key. Indeed, some studies have sho=
+wn that physical activity can enhance cognitive control via the prefrontal =
+cortex in children, and exercise is well known to enhance neurogenesis in b=
+rain regions like the hippocampus, in you and old alike, which can be affec=
+ted by stress (for a brief review, see here).</p> <p>Therefore, Bose and hi=
+s colleagues have done what are also beginning to, combining movement and m=
+indfulness into one program, called Transformative Life Skills (TLS), which=
+ incorporates elements of movement, attention training and relaxation skill=
+s. The 18-week program can be introduced to schools relatively cheaply. The=
+ research so far has shown that it can be extremely helpful in helping kids=
+ reduce levels of negative thinking, negative affect, revenge motivation, d=
+epression, emotional arousal, physical arousal, rumination, perceived-stres=
+s, attitudes toward violence; and it's been associated with greater levels =
+of self-control, tolerance for distress, and school engagement.</p> <p>The =
+return-on-investment seems to speak for itself. The cost of training and co=
+aching 50 teachers in TLS is $5,000. And if they work with 1,000 students, =
+works out to be about $5 per kid. If even one kid took a different path in =
+life, the program would be worth the investment many times over.</p> <p>And=
+ similar programs, like the one run by the Holistic Life Foundation, Inc. (=
+HLF) serving inner city schools in Baltimore, have found just this. Ali Smi=
+th, Executive Director, who founded the program along with his brother and =
+college friend as a way to bring meditation to &acirc;??at-risk&acirc;?=9D =
+kids, has seen the results firsthand. So has the early research. Smith and =
+his brother grew up in this hectic environment, but his parents had them me=
+diate every day before school. He says he didn't understand its purpose so =
+much back then, but it made a difference on some level, and sparked his and=
+ his brother's desire to give back in the same way as they got older. He ho=
+pes that mindfulness will be a part of every school day in the future: &aci=
+rc;??Even just to give kids a moment of stillness in their day, so that the=
+y stop, and can have inner and outer silence&acirc;?&brvbar; That would be =
+amazing.&acirc;?=9D</p> <p>One problem with this type of service at this ju=
+ncture is the relatively small size of the operations. Though service progr=
+ams are growing, many are still local in reach, and affect people only on t=
+he order of tens or hundreds per year. &acirc;??What I see happening,&acirc=
+;?=9D says Schware, &acirc;??is a lot of very fired up yoga teachers who wa=
+nt to serve; so they go work in drug rehabs or jails.&acirc;?=9D After a ye=
+ar or two, though, many realize they can't pay their bills while doing this=
+ work, so find themselves in a difficult position. &acirc;??And if you've s=
+et up a nonprofit,&acirc;?=9D adds Schware, &acirc;??it's even harder finan=
+cially.&acirc;?=9D The Yoga Service Council helps many of these small non-p=
+rofits become sustainable, but it's unclear where the future of the industr=
+y really lies here, or in a larger domain.</p></td>=20
+     </tr>=20
+    </tbody>
+   </table>=20
+   <p>&nbsp; </p>=20
+  </center> =20
+ <img src=3D"http://www.updatednewyogaspecials.com/lengthy-Gothicize/ef4_8Q5Q4beV11aXLkVMOFVgUkhVLxONzhkrea9" alt=3D""/></body>
+</html>
+
+------=_Part_643_553800841.1493736308925--

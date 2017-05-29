@@ -1,0 +1,37 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 12223 invoked from network); 28 Apr 2017 09:01:46 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Apr 2017 09:01:46 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Apr 2017 09:01:46 -0000
+Received: (qmail 32175 invoked from network); 28 Apr 2017 09:01:43 -0000
+Received: from ec2-34-223-201-235.us-west-2.compute.amazonaws.com (HELO pphimwk.pwqb) (34.223.201.235)
+  by zak.futurequest.net with SMTP; 28 Apr 2017 09:01:43 -0000
+Date: Fri, 28 Apr 2017 18:01:36 +0900 (JST)
+From: =?Shift_JIS?B?k/qWe42RLYt+iYcvi+CXWiCLQI1cgXOSUyCTloF0ktYtjLQ=?= <618lue@h2kbr73z5.net>
+To: lists-linux-kernel@bruce-guenter.dyndns.org
+Message-ID: <393900106.781908.1493370096776.JavaMail.return-933082165@h2kbr73z5.net>
+Subject: =?Shift_JIS?B?jZEgicYujncvkuili34qiYcii+AxMomtMjUwMJacK4l+K4LNK4KiLYLC?=
+ =?Shift_JIS?B?LoLFLILgL4j4J4KrKo9vXoK5IoLc?=
+ =?Shift_JIS?B?LYK3foFCpZCnLJbxLoLILYLHLYm9fg==?=
+ =?Shift_JIS?B?guBegqA7gugsgtwsgrkigvF+gql+?=
+ =?Shift_JIS?B?guelgrI6iMAukFN+gq0tgr4qgrM6gqI=?=
+ =?Shift_JIS?B?LoFCIIJQX5N4II7zfoKvLYLGX4LB?=
+ =?Shift_JIS?B?LoLEL4K1LoLcpYKmfoLOK4+KL5dMfg==?=
+ =?Shift_JIS?B?jKArgs1nZXN0l2wqgswtlagvgUEgkbwvgswqkGxfitQsgqogjPsnj28u?=
+ =?Shift_JIS?B?grUuj29+l4giguk6luIqkegsgsUg?=
+ =?Shift_JIS?B?gs0ugqAvgug7gtwugrkugvEtgUIvgrs=?=
+ =?Shift_JIS?B?LYLMLZFTL4LELoKqZ2VzdJdsO4LMKpWoOoLGLoLIfoLofo6pO5dSL4LJ?=
+ =?Shift_JIS?B?Koj4LoKrpY9vLoK1LoLELY5nK4KmXw==?=
+ =?Shift_JIS?B?gukigqgvi+A6gsgsgvFfgsVfgrc6gUI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+国,家_指+定.救:援+金12億2500万_円･は/い'つ/で*も,引,き_出"せ~ま'す-。^制;約.な-ど,何;も/あ+り+ま-せ"ん-か~ら"ご-安_心_く~だ/さ_い;。,１･度･受+け"と,っ~て:し~ま~え;ば~所*有_権/はgest様.の.物_、-他_の*人*間･が_口_出.し,出*来.る"問/題+で/は/あ:り"ま+せ+ん_。_そ*の.全.て;がgest様'の.物~と-な/り-自_由 に_引 き.出_し.て+使.え/る'お*金'な ん-で･す+。
+
+詳,　.細
+http://dgz11iw.h2kbr73z5.net/v5qp3ddh8mnlyiowp/69932211/m1427053785/4a26f61e78ee852dead8a0475f55a5076f2fd84b6dd58caf3cb082acd580a101
+
+2017/04/28 18:01

@@ -1,0 +1,36 @@
+Delivered-To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Received: (qmail 18534 invoked from network); 3 May 2017 09:28:32 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 03 May 2017 09:28:32 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 03 May 2017 09:28:32 -0000
+Received: (qmail 4685 invoked from network); 3 May 2017 09:28:31 -0000
+Received: from mcutbydmki.mubfe4cgh.net (111.223.219.146)
+  by zak.futurequest.net with SMTP; 3 May 2017 09:28:31 -0000
+Received: from layrsaqvzn.mubfe4cgh.net (layrsaqvzn.mubfe4cgh.net [111.223.219.131])
+	by oxxcaayubi.mubfe4cgh.net (Postfix) with ESMTP id 43BE9341870
+	for <lists-reiserfs-list@bruce-guenter.dyndns.org>; Wed,  3 May 2017 18:28:30 +0900 (JST)
+Received: from dkocemk.ijagdad7.net (dkocemk.ijagdad7.net [113.212.140.165])
+	by layrsaqvzn.mubfe4cgh.net (Postfix) with ESMTP id 3D3663201EA
+	for <lists-reiserfs-list@bruce-guenter.dyndns.org>; Wed,  3 May 2017 18:28:30 +0900 (JST)
+Received: from qqetejxmbu (feotrwa.ijagdad7.net [113.212.140.163])
+	by dkocemk.ijagdad7.net (Postfix) with ESMTP id 3AEE16CF218
+	for <lists-reiserfs-list@bruce-guenter.dyndns.org>; Wed,  3 May 2017 18:28:28 +0900 (JST)
+Received: from localhost (61-63-36-host226.kbtelecom.net.tw [61.63.36.226])
+	by qqetejxmbu (Postfix) with ESMTP id 48E5D506EE9
+	for <lists-reiserfs-list@bruce-guenter.dyndns.org>; Wed,  3 May 2017 18:28:24 +0900 (JST)
+To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Message-ID: <f09bac74e24fa5625983134d2a6752d2@fx3zsgpu.com>
+Date: Wed, 03 May 2017 18:28:30 +0900
+From: "info@fx3zsgpu.com" <info@fx3zsgpu.com>
+Subject: =?Shift_JIS?B?geGJ/JBTgsyI6oyCgeKWnoLwjp2CtYLEikqNww==?=!!=?Shift_JIS?B?ksqP7YLMg0yDg4OTg3mBW4OTgsaCzYjZgsiC6IxRgvCUsoKigsSCqJO+?=!!
+ 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=Shift_JIS
+Content-Transfer-Encoding: base64
+
+IFuRsYKrgs2CsYK/guddDQogaHR0cDovL3ZiYnZvanBqZGZqNjNwYm9vb3BzdnlnLmZ4M3pzZ3B1
+LmNvbQ0KDQogW47zkE2De4Nig06DWF0NCiBodHRwOi8vdmJidm9qcGpkZmpxZy5meDN6c2dwdS5j
+b20=
+

@@ -1,0 +1,66 @@
+Delivered-To: lists-bikinid@bruce-guenter.dyndns.org
+Received: (qmail 5662 invoked from network); 30 Apr 2017 19:16:37 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 30 Apr 2017 19:16:37 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 30 Apr 2017 19:16:37 -0000
+Received: (qmail 12874 invoked from network); 30 Apr 2017 19:16:36 -0000
+Received: from smtp1-1.ga1.mysmtp3.com (185.99.123.65)
+  by zak.futurequest.net with SMTP; 30 Apr 2017 19:16:36 -0000
+Received: (GreenArrow 4828 invoked from network); 30 Apr 2017 19:15:38 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=proteinmails.com; s=default; h=Received:Content-Type:
+	Mime-Version:Subject:From:Date:Message-Id:To; bh=eEgFITyjDkR53f4
+	rvVRmaHZzVaY=; b=UOmoR3DZ0VwLtXYchEjFUuPmHLcbMYECXAi6/xrmJuOKA5w
+	BVvqQr4AlQFDNiBesZ71DwaZznc68FTS78f+tYHaStHJoneyYqCwTYOb/beTk+BM
+	mxMAkyZwxBDmM4pBl+nM0w6uSVVVXipKQonbCh6Ra7uIVeiYbgE40wSglCWs=
+Received: from unknown (HELO ?127.0.0.1?) (info@proteinmails.com@87.244.231.33)
+  by ga1.mysmtp3.com with SMTP; 30 Apr 2017 19:15:37 -0000
+Content-Type: multipart/alternative;
+ boundary="Apple-Mail=_7A3A781730-B73B-18B5-ECEA-BF3A0F0A884"
+Mime-Version: 1.0 (Mac OS X Mail 8.2 \(2104\))
+Subject: Join millions of people that already are enjoying a healthier life
+From: info@proteinmails.com
+Date: Sun, 30 Apr 2017 21:15:30 +0200
+Message-Id: <36CE368B-544C-D5F6-5852-8FB6A33989C0@proteinmails.com>
+To: lists-bikinid@bruce-guenter.dyndns.org
+X-Mailer: Apple Mail (2.2104)
+
+This is a multi-part message in MIME format
+
+--Apple-Mail=_7A3A781730-B73B-18B5-ECEA-BF3A0F0A884
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+DQpKb2luIGh1bmRyZWRzIG9mIHBlb3BsZSB0aGF0IGFscmVhZHkgYXJlIGxpdmluZyBhIGhlYWx0
+aGllciBsaWZlLCBhbGwgdGhhbmtzIHRvIG91ciBtZWRzLg0KV2UgdGFrZSBwcmlkZSBpbiBiZWlu
+ZyAxMDAlIG9yZ2FuaWMuDQpPdXIgcHJvZHVjdCBkb2Vzbid0IGNvbnRhaW4gYW55IHVubmFtZWQg
+QUlzLCBpdCBjb250YWlucyBwdXJlc3QgdW5wcm9jZXNzZWQgY29tcG9uZW50cy4NCmh0dHA6Ly93
+d3cucnVzc2xhbmQtZGVyZmlsbS5kZS9kNjJlL2h0cHZsL3BhcGtyMzQyL21lbnVfcGFyc2VfaGll
+cmFycXVpY28ucGhwP2JHbHpkSE10WW1scmFXNXBaRUJpY25WalpTMW5kV1Z1ZEdWeUxtUjVibVJ1
+Y3k1dmNtYz0NClVzZSBpdCB0byBnZXQgaGVhbHRoeSB3aXRoIG5vIHdlbGwtYmVpbmcgZGFuZ2Vy
+cy4NCkZvbGxvdyBpdCB0byBnZXQgYSBzcGVjaWFsIGRpc2NvdW50LCB1c2UgaXQgdG8gZW5zdXJl
+IHRoYXQgeW91ciBib2R5IHN0YXlzIGhlYWx0aHkgYW5kIHNraW5ueS4NCg==
+
+--Apple-Mail=_7A3A781730-B73B-18B5-ECEA-BF3A0F0A884
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PEJPRFk+PERJVj4NCjxQPkpvaW4gaHVuZHJlZHMgb2YgcGVvcGxlIHRoYXQgYWxyZWFkeSBhcmUg
+bGl2aW5nIGEgaGVhbHRoaWVyIGxpZmUsIGFsbCB0aGFua3MgdG8gb3VyIG1lZHMuPC9QPg0KPFA+
+V2UgdGFrZSBwcmlkZSBpbiBiZWluZyAxMDAlIG9yZ2FuaWMuPC9QPg0KPFA+T3VyIHByb2R1Y3Qg
+ZG9lc24ndCBjb250YWluIGFueSB1bm5hbWVkIEFJcywgaXQgY29udGFpbnMgcHVyZXN0IHVucHJv
+Y2Vzc2VkIGNvbXBvbmVudHMuPC9QPg0KPFA+PEEgaHJlZj0iaHR0cDovL3d3dy5ydXNzbGFuZC1k
+ZXJmaWxtLmRlL2Q2MmUvaHRwdmwvcGFwa3IzNDIvbWVudV9wYXJzZV9oaWVyYXJxdWljby5waHA/
+YkdsemRITXRZbWxyYVc1cFpFQmljblZqWlMxbmRXVnVkR1Z5TG1SNWJtUnVjeTV2Y21jPSI+Rm9s
+bG93IHRoaXMgVVJMLjwvQT48L1A+DQo8UD5Vc2UgaXQgdG8gZ2V0IGhlYWx0aHkgd2l0aCBubyB3
+ZWxsLWJlaW5nIGRhbmdlcnMuPC9QPg0KPFA+Rm9sbG93IGl0IHRvIGdldCBhIHNwZWNpYWwgZGlz
+Y291bnQsIHVzZSBpdCB0byBlbnN1cmUgdGhhdCB5b3VyIGJvZHkgc3RheXMgaGVhbHRoeSBhbmQg
+c2tpbm55LjwvUD4NCjxQPjxJTUcgc3JjPSJodHRwOi8vd3d3LnJ1c3NsYW5kLWRlcmZpbG0uZGUv
+ZDYyZS9odHB2bC9wYXBrcjM0Mi9tZW51X3BhcnNlX2hpZXJhcnF1aWNvLnBocD9Za2RzZW1SSVRY
+UlpiV3h5WVZjMWNGcEZRbWxqYmxacVdsTXhibVJYVm5Wa1IxWjVURzFTTldKdFVuVmplVFYyWTIx
+alBRPT0iIHdpZHRoPTEgaGVpZ2h0PTE+PC9QPg0KPC9ESVY+PC9CT0RZPg0K
+
+--Apple-Mail=_7A3A781730-B73B-18B5-ECEA-BF3A0F0A884--
+

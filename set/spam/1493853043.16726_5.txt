@@ -1,0 +1,68 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 21231 invoked from network); 29 Apr 2017 16:08:07 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 29 Apr 2017 16:08:07 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 29 Apr 2017 16:08:07 -0000
+Received: (qmail 5392 invoked from network); 29 Apr 2017 16:08:03 -0000
+Received: from websmtp.sohu.com (HELO smtp?126.52) (220.181.19.144)
+  by zak.futurequest.net with SMTP; 29 Apr 2017 16:08:03 -0000
+Received: from JWP.gvsiq (unknown [210.79.126.137])
+	by smtp_126.52 (Postfix) with ESMTPA id 3wFbF33jCFzHr0Vx;
+	Sun, 30 Apr 2017 00:07:51 +0800 (CST)
+Message-ID: <3189ABC4685F6E9E3BFAD65434A2820E@JWP.gvsiq>
+From: "2017-04-30 00:21:43" <15221517070@sohu.com>
+To: <xgj@mail.wzptt.zj.cn>
+Subject: =?utf-8?B?6YKx54Kz5by6?=
+Date: Sun, 30 Apr 2017 00:21:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_0F2E_0198150D.1F45C9D0"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+X-Sohu-Gateway: 1
+X-Sohu-Antispam-Language: 0
+X-Sohu-Antispam-Score: 0.0578011211473
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0F2E_0198150D.1F45C9D0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0CB9_0198150D.1F45C9D0"
+
+------=_NextPart_001_0CB9_0198150D.1F45C9D0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+
+------=_NextPart_001_0CB9_0198150D.1F45C9D0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJhbnNpdGlvbmFs
+Ly9FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXRyYW5zaXRpb25h
+bC5kdGQiPg0KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiPg0KDQo8
+aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1s
+OyBjaGFyc2V0PXV0Zi04IiAvPg0KPC9oZWFkPg0KDQo8Ym9keT4NCg0KPHA+PGltZyBib3JkZXI9
+MCBzcmM9ImNpZDowMDA4OUYzMTg0NkZfMDEzNDFDMEVfMDhCQ0ExQUUiIC8+PC9wPg0KPHA+DQo8
+L3A+DQoNCjwvYm9keT4NCg0KPC9odG1sPg0K
+
+------=_NextPart_001_0CB9_0198150D.1F45C9D0--
+
+------=_NextPart_000_0F2E_0198150D.1F45C9D0
+Content-Type: message/external-body; access-type=x-deleted; length=7223
+
+
+Content-Type: image/gif;
+	name=jadax.gif
+Content-Transfer-Encoding: base64
+Content-ID: <00089F31846F_01341C0E_08BCA1AE>
+
+------=_NextPart_000_0F2E_0198150D.1F45C9D0--
+

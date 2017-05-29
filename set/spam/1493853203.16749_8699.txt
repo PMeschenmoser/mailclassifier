@@ -1,0 +1,722 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 11724 invoked from network); 2 May 2017 10:22:35 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 02 May 2017 10:22:35 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 May 2017 10:22:35 -0000
+Received: (qmail 22180 invoked from network); 2 May 2017 10:22:34 -0000
+Received: from m101.proqaz.com (77.89.255.101)
+  by zak.futurequest.net with SMTP; 2 May 2017 10:22:34 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=DKIM1; d=proqaz.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding; i=postmaster@proqaz.com;
+ bh=iU9Hdxb4lo6L/HrERPUDNWMzhMI=;
+ b=BmJnRQiwzmZ0iFzGFkx5UvGj6itdOZea9WCu973v7f4SvLxU8mBH6t+6t03QHMbMc9hMv6/OUkvc
+   d3if9brqgcjcUIXDSL1razWM4O2FltJif6dSWaDSr7oDJTif3XcX1HAnXsCQLEtb9hsacXjfRzmo
+   euGiD0LpABGdhOEt4/E=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=DKIM1; d=proqaz.com;
+ b=WuIuYkVSPu+GshZeliX4eicjEyYWTqLfF3XpPf5Ql0BqYh4lQf6W4ETEo8KGxgZhcD/H2btDzFM8
+   WWvYyUozTqGldzmfYs76h7QI8CmOP9rLXtkKG6BdJ328hrKuHRXG0d0BozElfTcUYWyO1GqwVQSA
+   d9nchTPCgzlbZ8Dqiio=;
+To: lists-linux-kernel@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?RW1wbG95ZXVyIDogQ29tbWVudCBzZSBkw6lmZW5kcmUgZGV2YW50IGxlIGNvbnNlaWwgZGVzIHBydWQnaG9tbWVzID8=?=
+Message-ID: <79664fd50dcb5903db982887654d864b@www.proqaz.com>
+Return-Path: bounce@proqaz.com
+Date: Tue, 02 May 2017 10:22:29 +0000
+From: "=?UTF-8?B?SnVkaWNpYWwsIHNww6ljaWFsaXN0ZSBkZSBsYSBwcm90ZWN0aW9uIGp1cmlkaXF1ZQ==?=" <info@proqaz.com>
+Reply-To: support@proqaz.com
+MIME-Version: 1.0
+X-Mailer-LID: 66
+X-Mailer-SID: 298
+X-Mailer-Sent-By: 1
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html
+xmlns="http://www.w3.org/1999/xhtml"
+xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"><head><meta
+http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport"
+content="width=device-width, initial-scale=1" /><meta
+http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta
+name="apple-mobile-web-app-capable" content="yes" /><meta
+name="apple-mobile-web-app-status-bar-style" content="black" /><meta
+name="format-detection" content="telephone=no"
+/><title>Judicial,sp&eacute;cialiste de la protection
+juridique</title><style type="text/css">
+        /* Resets */
+        .ReadMsgBody  width: 100%; background-color: #ebebeb;
+        .ExternalClass width: 100%; background-color: #ebebeb;
+        .ExternalClass, .ExternalClass p, .ExternalClass span,
+ExternalClass font, .ExternalClass td, .ExternalClass div
+line-height:100%;
+        body -webkit-text-size-adjust:none; -ms-text-size-adjust:none;
+        body margin:0; padding:0;
+        .yshortcuts a border-bottom: none !important;
+        .rnb-del-min-width min-width: 0 !important;
+
+        /* Add new outlook css start */
+        .templateContainer
+            max-width:590px !important;
+            width:auto !important;
+
+        /* Add new outlook css end */
+
+        /* Image width by default for 3 columns */
+        img[class="rnb-col-3-img"]
+        max-width:170px;
+
+
+        /* Image width by default for 2 columns */
+        img[class="rnb-col-2-img"]
+        max-width:264px;
+
+
+        /* Image width by default for 2 columns aside small size */
+        img[class="rnb-col-2-img-side-xs"]
+        max-width:180px;
+
+
+        /* Image width by default for 2 columns aside big size */
+        img[class="rnb-col-2-img-side-xl"]
+        max-width:350px;
+
+
+        /* Image width by default for 1 column */
+        img[class="rnb-col-1-img"]
+        max-width:550px;
+
+
+        /* Image width by default for header */
+        img[class="rnb-header-img"]
+        max-width:590px;
+
+
+        /* Ckeditor line-height spacing */
+        .rnb-force-col p, ul, olmargin:0px!important;
+        .rnb-del-min-width p, ul, olmargin:0px!important;
+
+        /* tmpl-2 preview */
+        .rnb-tmpl-width width:100%!important;
+
+        /* tmpl-11 preview */
+        .rnb-social-widthpadding-right:15px!important;
+
+        /* tmpl-11 preview */
+        .rnb-social-alignfloat:right!important;
+
+        @media only screen and (min-width:590px)
+        /* mac fix width */
+        .templateContainer{width:590px !important;
+        }
+
+        @media screen and (max-width: 360px)
+        /* yahoo app fix width "tmpl-2 tmpl-10 tmpl-13" in android devices
+*/
+        .rnb-yahoo-width{ width:360px!important;
+        }
+
+        @media screen and (max-width: 480px)
+        td[class="rnb-container-padding"] {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+
+
+        /* force container nav to (horizontal) blocks */
+        td[class="rnb-force-nav"]
+        display: block;
+
+        }
+
+        @media only screen and (max-width : 600px)
+
+        /* center the address &amp; social icons */
+        .rnb-text-center {text-align:center !important;
+
+        /* force container columns to (horizontal) blocks */
+        td[class~="rnb-force-col"]
+        display: block;
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+        width:100%;
+
+
+        table[class~="rnb-container"]
+         width: 100% !important;
+
+
+        table[class="rnb-btn-col-content"]
+        width: 100% !important;
+
+        table[class="rnb-col-3"]
+        /* unset table align="left/right" */
+        float: none !important;
+        width: 100% !important;
+
+        /* change left/right padding and margins to top/bottom ones */
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+        /*border-bottom: 1px solid #eee;*/
+
+
+        table[class="rnb-last-col-3"]
+        /* unset table align="left/right" */
+        float: none !important;
+        width: 100% !important;
+
+
+        table[class="rnb-col-2"]
+        /* unset table align="left/right" */
+        float: none !important;
+        width: 100% !important;
+
+        /* change left/right padding and margins to top/bottom ones */
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+        /*border-bottom: 1px solid #eee;*/
+
+
+        table[class="rnb-col-2-noborder-onright"]
+        /* unset table align="left/right" */
+        float: none !important;
+        width: 100% !important;
+
+        /* change left/right padding and margins to top/bottom ones */
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+
+
+        table[class="rnb-col-2-noborder-onleft"]
+        /* unset table align="left/right" */
+        float: none !important;
+        width: 100% !important;
+
+        /* change left/right padding and margins to top/bottom ones */
+        margin-top: 10px;
+        padding-top: 10px;
+
+
+        table[class="rnb-last-col-2"]
+        /* unset table align="left/right" */
+        float: none !important;
+        width: 100% !important;
+
+
+        table[class="rnb-col-1"]
+        /* unset table align="left/right" */
+        float: none !important;
+        width: 100% !important;
+
+
+        img[class="rnb-col-3-img"]
+        /**max-width:none !important;**/
+        width:100% !important;
+
+
+        img[class="rnb-col-2-img"]
+        /**max-width:none !important;**/
+        width:100% !important;
+
+
+        img[class="rnb-col-2-img-side-xs"]
+        /**max-width:none !important;**/
+        width:100% !important;
+
+
+        img[class="rnb-col-2-img-side-xl"]
+        /**max-width:none !important;**/
+        width:100% !important;
+
+
+        img[class="rnb-col-1-img"]
+        /**max-width:none !important;**/
+        width:100% !important;
+
+
+        img[class="rnb-header-img"]
+        /**max-width:none !important;**/
+        width:100% !important;
+        margin:0 auto;
+
+
+        img[class="rnb-logo-img"]
+        /**max-width:none !important;**/
+        width:100% !important;
+
+
+        td[class="rnb-mbl-float-none"]
+        float:inherit !important;
+
+
+        .img-block-centertext-align:center!important;
+
+        .logo-img-center
+
+            float:inherit!important;
+
+
+        /* tmpl-11 preview */
+        .rnb-social-alignmargin:0 auto!important;
+float:inherit!important;
+
+    }</style><!--[if gte mso 11]><style
+type="text/css">tableborder-spacing: 0; table td border-collapse:
+separate;</style><![endif]--><!--[if !mso]><!--><style
+type="text/css">tableborder-spacing: 0; table td border-collapse:
+collapse;</style> <!--<![endif]--><!--[if gte mso
+15]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--><!--[if
+gte mso
+9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--></head><body>
+<table border="0" align="center" cellpadding="0" cellspacing="0"
+class="main-template" bgcolor="#e3e3e3" style="background-color: #e3e3e3;
+width: 100%;">
+<tbody>
+<tr style="display: none !important; font-size: 1px; mso-hide: all;">
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td align="center" valign="top"><!--[if gte mso 9]>
+                        <table align="center" border="0" cellspacing="0"
+cellpadding="0" width="590" style="width:590px;">
+                        <tr>
+                        <td align="center" valign="top" width="590"
+style="width:590px;">
+                        <![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" class="templateContainer"
+style="width: 100%; max-width: 590px !important;">
+<tbody>
+<tr>
+<td align="center" valign="top" bgcolor="#555" style="background-color:
+#555;">
+<table class="rnb-del-min-width rnb-tmpl-width" cellpadding="0" border="0"
+cellspacing="0" bgcolor="#555" style="min-width: 590px; background-color:
+#555555; width: 100%;" name="Layout_19" id="Layout_19">
+<tbody>
+<tr>
+<td class="rnb-del-min-width" valign="top" align="center" style="min-width:
+590px; background-color: #555555;">Si vous ne visualisez pas correctement
+ce message, <a
+href="http://www.proqaz.com/link.php?M=3648695&N=298&L=36&F=H"
+target="_blank">consultez-le en ligne.</a>
+<table cellpadding="0" border="0" align="center" cellspacing="0">
+<tbody>
+<tr>
+<td height="10" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" height="20" style="font-size: 13px; color: #ffffff;
+font-weight: normal; text-align: center; font-family: Arial, Helvetica,
+sans-serif;"><span style="color: #ffffff; text-decoration: none;"> <a
+href="http://www.proqaz.com/link.php?M=3648695&N=298&L=35&F=H"
+style="text-decoration: none; color: #ffffff;" target="_blank">Voir la
+version en ligne</a></span></td>
+</tr>
+<tr>
+<td height="10" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" bgcolor="#555" style="background-color:
+#555;">
+<div><!--[if mso]>
+                <table align="left" border="0" cellspacing="0"
+cellpadding="0" width="100%" style="width:100%;">
+                <tr>
+                <![endif]--> <!--[if mso]>
+                <td valign="top" width="590" style="width:590px;">
+                <![endif]-->
+<table class="rnb-del-min-width" cellpadding="0" border="0" cellspacing="0"
+bgcolor="#555" style="min-width: 590px; background-color: #555555; width:
+100%;" name="Layout_18" id="Layout_18">
+<tbody>
+<tr>
+<td class="rnb-del-min-width" align="center" valign="top" bgcolor="#555"
+style="min-width: 590px; background-color: #555;">
+<table border="0" cellpadding="0" cellspacing="0" class="rnb-container"
+bgcolor="#555" style="background-color: #555555; border-radius: 0px;
+padding-left: 20px; padding-right: 20px; border-collapse: separate; width:
+100%;">
+<tbody>
+<tr>
+<td height="0" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" class="rnb-container-padding" bgcolor="#555"
+style="background-color: #555;" align="left">
+<table cellpadding="0" border="0" align="center" cellspacing="0"
+style="width: 100%;">
+<tbody>
+<tr>
+<td valign="top" align="center">
+<table cellpadding="0" border="0" align="center" cellspacing="0"
+ng-class="'logo-img-center':col.td.align" class="logo-img-center">
+<tbody>
+<tr>
+<td valign="middle" align="center">
+<div style="display: inline-block; border: 0px None #000;"><a
+href="http://www.proqaz.com/link.php?M=3648695&N=298&L=32&F=H"
+style="text-decoration: none;" target="_blank"><img width="120" vspace="0"
+hspace="0" border="0" alt="[&quot;Solucia PJ&quot;]" style="max-width:
+120px;" class="rnb-logo-img"
+src="http://img.mailinblue.com/1493622/images/rnb/original/586fc499140ba0b07d8b46e1.jpg"
+/></a></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="10" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]>
+                </td>
+                <![endif]--> <!--[if mso]>
+                </tr>
+                </table>
+                <![endif]--></div>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" bgcolor="#a5c400" style="background-color:
+#a5c400;">
+<div><!--[if mso]>
+                <table align="left" border="0" cellspacing="0"
+cellpadding="0" width="100%" style="width:100%;">
+                <tr>
+                <![endif]--> <!--[if mso]>
+                <td valign="top" width="590" style="width:590px;">
+                <![endif]-->
+<table cellpadding="0" border="0" cellspacing="0" bgcolor="#a5c400"
+style="background-color: #a5c400; width: 100%;" name="Layout_7"
+id="Layout_7">
+<tbody>
+<tr>
+<td align="center" valign="top" bgcolor="#a5c400" style="background-color:
+#a5c400;">
+<table border="0" cellpadding="0" cellspacing="0" class="rnb-container"
+bgcolor="#a5c400" style="height: 0px; background-color: #a5c400;
+border-radius: 0px; border-collapse: separate; padding-left: 20px;
+padding-right: 20px; width: 100%;">
+<tbody>
+<tr>
+<td class="rnb-container-padding" bgcolor="#a5c400"
+style="background-color: #a5c400; font-size: px;">
+<table border="0" cellpadding="0" cellspacing="0"
+class="rnb-columns-container" align="center" style="margin: auto;">
+<tbody>
+<tr>
+<td class="rnb-force-col" align="center">
+<table border="0" cellspacing="0" cellpadding="0" align="center"
+class="rnb-col-1">
+<tbody>
+<tr>
+<td height="10"></td>
+</tr>
+<tr>
+<td style="font-size: 18px; font-family: 'Arial',Helvetica,sans-serif;
+color: #999; font-weight: normal; text-align: center;"><span style="color:
+#999; font-weight: normal;"><span style="color: #ffffff;"><span
+style="font-size: 20px;">Le N&deg;1 de la protection
+Juridique</span></span></span></td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]>
+                </td>
+                <![endif]--> <!--[if mso]>
+                </tr>
+                </table>
+                <![endif]--></div>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" bgcolor="#ffffff" style="background-color:
+#ffffff;">
+<div><!--[if mso]>
+                <table align="left" border="0" cellspacing="0"
+cellpadding="0" width="100%" style="width:100%;">
+                <tr>
+                <![endif]--> <!--[if mso]>
+                <td valign="top" width="590" style="width:590px;">
+                <![endif]-->
+<table class="rnb-del-min-width" cellpadding="0" border="0" cellspacing="0"
+bgcolor="#ffffff" style="min-width: 100%; backface-visibility: hidden;
+line-height: 10px; background-color: #ffffff; width: 100%;" name="Layout_9"
+id="Layout_9">
+<tbody>
+<tr>
+<td class="rnb-del-min-width" valign="top" align="center" style="min-width:
+590px;">
+<table class="rnb-container" cellpadding="0" border="0" bgcolor="#ffffff"
+align="center" cellspacing="0" style="background-color: #ffffff; width:
+100%;">
+<tbody>
+<tr>
+<td valign="top" align="center">
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td>
+<div style="display: block; border-radius: 0px; width: 588; max-width:
+632px !important; border-collapse: separate; border: 1px Solid #9c9c9c;"><a
+href="http://www.proqaz.com/link.php?M=3648695&N=298&L=32&F=H"
+style="text-decoration: none;" target="_blank"> <img border="0" hspace="0"
+vspace="0" width="588" class="rnb-header-img" alt="" style="display: block;
+border-radius: 5px;"
+src="http://img.mailinblue.com/1493622/images/rnb/original/58d15e3a140ba0d81b8b4575.jpg"
+/> </a></div>
+<div style="display: block; border-radius: 0px; width: 588; max-width:
+632px !important; border-collapse: separate; border: 1px Solid
+#9c9c9c;"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]>
+                </td>
+                <![endif]--> <!--[if mso]>
+                </tr>
+                </table>
+                <![endif]--></div>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" bgcolor="#ffffff" style="background-color:
+#ffffff;">
+<div><!--[if mso]>
+                <table align="left" border="0" cellspacing="0"
+cellpadding="0" width="100%" style="width:100%;">
+                <tr>
+                <![endif]--> <!--[if mso]>
+                <td valign="top" width="590" style="width:590px;">
+                <![endif]-->
+<table class="rnb-del-min-width" cellpadding="0" border="0" cellspacing="0"
+bgcolor="#ffffff" style="min-width: 590px; background-color: #ffffff;
+width: 100%;" name="Layout_8" id="Layout_8">
+<tbody>
+<tr>
+<td class="rnb-del-min-width" align="center" valign="top" bgcolor="#ffffff"
+style="min-width: 590px; background-color: #ffffff;">
+<table border="0" cellpadding="0" cellspacing="0" class="mso-button-block
+rnb-container" bgcolor="#ffffff" style="background-color: #ffffff;
+border-bottom: 10px solid #555555; border-radius: 0px; padding-left: 20px;
+padding-right: 20px; border-collapse: separate; width: 100%;">
+<tbody>
+<tr>
+<td height="10" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" class="rnb-container-padding" bgcolor="#ffffff"
+style="background-color: #ffffff;" align="left">
+<table border="0" cellpadding="0" cellspacing="0"
+class="rnb-columns-container" style="width: 100%;">
+<tbody>
+<tr>
+<td class="rnb-force-col" valign="top">
+<table border="0" valign="top" cellspacing="0" cellpadding="0"
+align="center" class="rnb-col-1" style="width: 550px;">
+<tbody>
+<tr>
+<td valign="top">
+<table cellpadding="0" border="0" align="center" cellspacing="0"
+class="rnb-btn-col-content" style="margin: auto; border-collapse:
+separate;">
+<tbody>
+<tr>
+<td width="auto" valign="middle" bgcolor="#ee7f00" align="center"
+height="50" style="font-size: 18px; font-family:
+Arial,Helvetica,sans-serif; color: #ffffff; font-weight: normal;
+padding-left: 14px; padding-right: 14px; background-color: #ee7f00;
+border-radius: 4px; border: 0px None #9c9c9c;"><span style="color: #ffffff;
+font-weight: normal;"> <a
+href="http://www.proqaz.com/link.php?M=3648695&N=298&L=32&F=H"
+style="text-decoration: none; color: #ffffff; font-weight: normal;"
+target="_blank">DEVIS GRATUIT&nbsp;<u>ICI</u></a> </span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="10" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]>
+                </td>
+                <![endif]--> <!--[if mso]>
+                </tr>
+                </table>
+                <![endif]--></div>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" bgcolor="#555" style="background-color:
+#555;">
+<table class="rnb-del-min-width rnb-tmpl-width" cellpadding="0" border="0"
+cellspacing="0" bgcolor="#555" style="min-width: 590px; background-color:
+#555555; width: 100%;" name="Layout_3" id="Layout_3">
+<tbody>
+<tr>
+<td class="rnb-del-min-width" align="center" valign="top" bgcolor="#555"
+style="min-width: 590px; background-color: #555;">
+<table class="rnb-container" cellpadding="0" border="0" align="center"
+cellspacing="0" style="padding-right: 20px; padding-left: 20px; width:
+590px;">
+<tbody>
+<tr>
+<td height="10" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div style="font-size: 14px; color: #919191; font-weight: normal;
+text-align: center; font-family: 'Arial',Helvetica,sans-serif;">
+<div>
+<div><span style="font-size: 10px;">La protection juridique des dirigeants
+des PME avec JUDICIAL, Soci&eacute;t&eacute; par Actions Simplifi&eacute;e
+(SAS) au capital de 115.000 &euro; inscrite au RCS Paris sous le n&deg;392
+419 214 - Courtier d'assurance ou de r&eacute;assurance (COA)
+immatricul&eacute; &agrave; l'ORIAS sous le n&deg;003 882 - <a
+href="http://www.proqaz.com/link.php?M=3648695&N=298&L=31&F=H"
+style="text-decoration: none; color: #cccccc;">www.orias.fr</a> et dont le
+si&egrave;ge social est situ&eacute; 3 Boulevard Diderot - CS 21245 - 75590
+Paris Cedex 12 - Soumis &agrave; l'Autorit&eacute; de Contr&ocirc;le
+Prudentiel et de R&eacute;solution - 61 rue Taitbout - 75436 PARIS Cedex 09
+- <a href="http://www.proqaz.com/link.php?M=3648695&N=298&L=34&F=H"
+style="text-decoration: none; color:
+#cccccc;">http://acpr.banque-france.fr/accueil.html</a> - Tous droits
+r&eacute;serv&eacute;s - <a
+href="http://www.proqaz.com/link.php?M=3648695&N=298&L=33&F=H"
+style="text-decoration: none; color: #cccccc;">Mentions
+l&eacute;gales&nbsp;</a></span></div>
+<div><span style="font-size: 10px;">*Etude IPSOS : Les
+pr&eacute;occupations des chefs d'entreprise en 2015</span></div>
+</div>
+</div>
+<div style="font-size: 14px; font-weight: normal; text-align: center;
+font-family: 'Arial',Helvetica,sans-serif;">
+<div>Pour ne plus recevoir d'email de notre part : Se
+d&eacute;sinscrire</div>
+<div>&nbsp;</div>
+</div>
+</td>
+</tr>
+<tr>
+<td height="10" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" bgcolor="#333" style="background-color:
+#333;">
+<table class="rnb-del-min-width rnb-tmpl-width" cellpadding="0" border="0"
+cellspacing="0" bgcolor="#333" style="min-width: 590px; background-color:
+#333333; width: 100%;" name="Layout_4" id="Layout_4">
+<tbody>
+<tr>
+<td class="rnb-del-min-width" align="center" valign="top" bgcolor="#333"
+style="min-width: 590px; background-color: #333;">
+<table class="rnb-container rnb-yahoo-width" cellpadding="0" border="0"
+align="center" cellspacing="0" style="padding-right: 20px; padding-left:
+20px; width: 590px;">
+<tbody>
+<tr>
+<td height="20" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-size: 14px; color: #919191; font-weight: normal;
+text-align: center; font-family: Arial,Helvetica,sans-serif;">
+<div>
+<div>&copy; 2017 April Protection Juridique</div>
+</div>
+</td>
+</tr>
+<tr>
+<td height="20" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if gte mso 9]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--></td>
+</tr>
+</tbody>
+</table>
+<img
+src="http://track19451008.effimails22.com/servlet/effi.pixel?id_compteur=19451008"
+/>
+<img
+src="http://www.proqaz.com/open.php?M=3648695&L=66&N=298&F=H&image=.jpg"
+height="1" width="10"></body></html>
+

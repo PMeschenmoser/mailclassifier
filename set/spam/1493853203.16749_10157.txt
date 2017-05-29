@@ -1,0 +1,25 @@
+Delivered-To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Received: (qmail 22024 invoked from network); 28 Apr 2017 10:20:09 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Apr 2017 10:20:09 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Apr 2017 10:20:09 -0000
+Received: (qmail 22457 invoked from network); 28 Apr 2017 10:20:07 -0000
+Received: from ec2-35-166-180-152.us-west-2.compute.amazonaws.com (HELO rdwd.pib) (35.166.180.152)
+  by zak.futurequest.net with SMTP; 28 Apr 2017 10:20:07 -0000
+Date: Fri, 28 Apr 2017 19:19:09 +0900 (JST)
+From: =?Shift_JIS?B?jneS6JLxkWmSypJtmEGXjQ==?= <23i0nx@941mwdd6k.net>
+To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Message-ID: <9176vV38981A3P6H+dZf@941mwdd6k.net>
+Subject: =?Shift_JIS?B?gXmNw42QO4/zgXqR5Y6Ki32T4JdlK4LMim0u?=
+ =?Shift_JIS?B?lEaC8I1zOoLBgsQrgq2BT4K+gU+Cs4KibIFC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+http://reudgu4.941mwdd6k.net/y2p48pesre6pu1dnt/63951167/m76118269685/d9b26d2037fd098f98adbf4123bb868fcbf66712f6c522348af2edda24c20212
+
+HaertÅö_ÉâlÉCÉì
+
+

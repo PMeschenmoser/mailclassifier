@@ -1,0 +1,32 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 26129 invoked from network); 30 Apr 2017 04:23:20 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 30 Apr 2017 04:23:20 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 30 Apr 2017 04:23:20 -0000
+Received: (qmail 23536 invoked from network); 30 Apr 2017 04:23:19 -0000
+Received: from ec2-35-164-177-74.us-west-2.compute.amazonaws.com (HELO tgxzuhhdco.dcvlz) (35.164.177.74)
+  by zak.futurequest.net with SMTP; 30 Apr 2017 04:23:19 -0000
+Date: Sun, 30 Apr 2017 13:23:12 +0900 (JST)
+From: =?Shift_JIS?B?k/oglnsujZGLfomHi+CXWotAjVyBc5JTL5OWgXQsktaMtA==?= <5emr@h2kbr73z5.net>
+To: lists-linux-kernel@bruce-guenter.dyndns.org
+Message-ID: <1849800398.355997.1493526192914.JavaMail.return-935055555@h2kbr73z5.net>
+Subject: =?Shift_JIS?B?glN+jI4slpYvgsYugsgvguh+gtxegrcugswngsVfjaFfk/ongvA=?=
+ =?Shift_JIS?B?fo6dL4LBfoLELo2RIonGOo53LpLoK4t+pYmHO4vgLY7zXpfMXw==?=
+ =?Shift_JIS?B?juhfkbEtgqsigswvjvM6lXR+gq8igqouj0ktl7legsYsgsgqgug=?=
+ =?Shift_JIS?B?IILcLIK3foFCfo2hIJP6pYKxIIK/LILnfoLMLoKoLY7oLJGxfoKr?=
+ =?Shift_JIS?B?foLMIIquLJe5foLwJ4K1LYLELZK4IoKvLYLqLYLOpYt+LomHLA==?=
+ =?Shift_JIS?B?i+AxMomtMjUwMJacLol+pYLNO4KoKo7zLo7mLoLoIoKqO4LFIg==?=
+ =?Shift_JIS?B?gqsqgtwrgrcvgswugsV+glBfglQnjp4ugtwvgsV+gskugrJfkc4=?=
+ =?Shift_JIS?B?K4meLYLwIoLmLoLrfoK1L4KtXoKoLYroLoKiIoK1LoLcLIK3LYFC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+ÇS.åé_ññ+Ç∆;Ç»:ÇË^Ç‹~Ç∑~ÇÃ:Ç≈,ç°-ì˙.Ç,éù.Ç¡,Çƒ,çë"â∆.éw;íË ã~^âá-ã‡.éÛ^óÃ*éË"ë±'Ç´ ÇÃ+éÛ:ït*ÇØ;Ç™,èI-óπ*Ç∆*Ç».ÇË.Ç‹-Ç∑,ÅB,ç°^ì˙'Ç±-Çø.ÇÁ*ÇÃ~Ç®~éË+ë±;Ç´_ÇÃ.äÆ:óπ~Ç.Çµ"Çƒ:í∏.ÇØ+ÇÍ^ÇŒ~ã~^âá,ã‡12â≠2500ñú,â~.ÇÕ^Ç®,éÛ-éÊ"ÇË^Ç™ Ç≈:Ç´-Ç‹-Ç∑;ÇÃ_Ç≈"ÇP^ÇT.éû"Ç‹,Ç≈~Ç…~Ç≤~ëŒ-âû'Ç+ÇÊ+ÇÎ~Çµ Ç≠+Ç®"äË;Ç¢-Çµ;Ç‹~Ç∑*ÅB
+
+è⁄ Å@*ç◊
+http://l59xgfyp.h2kbr73z5.net/7kmqb84r4u4vbfweu/69932211/m6196750392/4a26f61e78ee852dead8a0475f55a5076f2fd84b6dd58caf3cb082acd580a101
+
+2017/04/30 13:21
