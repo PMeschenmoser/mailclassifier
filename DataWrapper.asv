@@ -1,0 +1,15 @@
+classdef DataWrapper
+    %UNTITLED Summary of this class goes here
+    %   Detailed explanation goes here
+    
+    properties
+    end
+    
+    methods
+        static function r = importFromFolder(path, max)
+            py.preprocessor.run(path,max)
+        end    
+    end
+    
+end
+
