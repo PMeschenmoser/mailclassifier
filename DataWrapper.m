@@ -1,3 +1,7 @@
+% Run via wrapper = new DataWrapper()
+% wrapper.importFromFolder('C:\Users\user\Documents\GitHub\mailclassifier\pre2006\enron1\ham\')
+% Wait a few seconds
+
 classdef DataWrapper
     properties
     end
