@@ -12,7 +12,8 @@ def run(paths):
     result = [];
     for file in paths:
         with open(file, 'r') as f:
-            sentences = sent_tokenize(f.read().lower())  # lower casing and sentence tokenization
+            init = re.sub(r'\d+', '',f.read().lower())
+            sentences = sent_tokenize(init)  # lower casing and sentence tokenization
             tokens = []
             for s in sentences:
                 tokens = tokens + [re.sub('[^A-Za-z0-9]+', '', lemmatizer.lemmatize(t)) for t in word_tokenize(s) if t not in stops]

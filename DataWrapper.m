@@ -3,7 +3,8 @@
 % Wait a few seconds
 
 classdef DataWrapper
-    properties
+    properties 
+        alltokens
     end
     
     methods
@@ -13,20 +14,33 @@ classdef DataWrapper
             if count(py.sys.path,'') == 0
                 insert(py.sys.path,int32(0),'');
             end
+            obj.alltokens = load('index.mat', 'alltokens'); 
+            display(obj.alltokens)
         end
-    end
-    
-    methods (Static)
-        function r = importFromFolder(path)
+
+        function r = importFromFolder(obj, path)
             dirlist = dir(strcat(path,'*.txt'));
-            a = 0; 
             c = {}; 
             for i = 1:length(dirlist)
                 c{1,i} = strcat(path,dirlist(i).name);
             end
             % we need a cell area over here
-            l = py.list(c); 
-            r = py.preprocessor.run(l); 
+            r = py.preprocessor.run(py.list(c)); 
+            for mail = r
+                dict = struct(mail{1}); 
+                tokens = fieldnames(orderfields(dict)); % ordered tokens 
+                for i = 1: length(tokens)
+                    if (ismember(obj.alltokens, tokens{i}))
+                        % token already contained 
+                    else 
+                        % token not contained
+                        obj.alltokens{length(obj.alltokens)+1} = tokens{i};
+                    end
+                end
+            end
+            sort(obj.alltokens);
+            alltokens = obj.alltokens;
+            save('index.mat', 'alltokens')
         end   
     end
 end
