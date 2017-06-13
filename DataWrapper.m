@@ -32,7 +32,6 @@ classdef DataWrapper
                 curr  = strcat(path,dirlist(i).name); 
                 tmpfiles{1,i} =curr;
             end
-            display(obj.allfiles)
             newfiles = sort(setdiff(tmpfiles, obj.allfiles)); 
             obj.allfiles = horzcat(obj.allfiles, newfiles); 
             
