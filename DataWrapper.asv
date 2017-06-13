@@ -19,7 +19,7 @@ classdef DataWrapper
             load('index.mat')
             obj.alltokens = savedtokenlist; 
             obj.allfiles = savedfilelist;
-            obj.tfmatrix = [0 0]; 
+            obj.tfmatrix = savedtf; 
         end
 
         
@@ -56,15 +56,24 @@ classdef DataWrapper
             obj.alltokens = sort(obj.alltokens);
             for i = 1: length(newtokens)
                 index = find(ismember(obj.alltokens,newtokens{i,1}));
-                %newcol = zeros(size(obj.tfmatrix,1)); 
-                %obj.tfmatrix = [obj.tfmatrix(:,1:index) newcol obj.tfmatrix(:,index+1:end)];
+                newcol = zeros(size(obj.tfmatrix,1),1); 
+                obj.tfmatrix = [obj.tfmatrix(:,1:index) newcol obj.tfmatrix(:,index+1:end)];
             end
-            display(obj.tfmatrix); 
-            
+            i = 1
+            for mail = mails
+                tokens = fieldnames(struct(mail{1})); % ordered tokens 
+                rowindex = find(ismember(obj.allfiles,newfiles{1,i}));
+                for j = 1: length(newtokens)
+                    colindex = find(ismember(obj.alltokens,newtokens{i,1}));
+                end
+                
+            end
+            savedtf = obj.tfmatrix; 
             savedtokenlist = obj.alltokens;
             savedfilelist = obj.allfiles;
             save('index.mat', 'savedtokenlist');
-            save('index.mat', 'savedfilelist', '-append'); 
+            save('index.mat', 'savedfilelist', '-append');
+            save('index.mat', 'savedtf', '-append'); 
         end   
     end
 end

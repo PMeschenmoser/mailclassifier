@@ -33,12 +33,12 @@ classdef DataWrapper
             newfiles = sort(setdiff(tmpfiles, obj.allfiles)); 
             obj.allfiles = sort(horzcat(obj.allfiles, newfiles)); 
             
+            display('building new rows');
+            newrow = zeros(1,size(obj.tfmatrix,2)); 
             for i = 1:length(newfiles)
-                index = find(ismember(obj.allfiles,newfiles{1,i}));
-                newrow = zeros(1,size(obj.tfmatrix,2)); 
+                index = find(ismember(obj.allfiles,newfiles{1,i}));   
                 obj.tfmatrix = [obj.tfmatrix(1:index,:); newrow; obj.tfmatrix(index+1:end,:)]; 
             end    
-            display(obj.tfmatrix); 
             % preprocessed data
             % [{token:count,...}{token:count,...}]
             mails = py.preprocessor.run(py.list(newfiles));
@@ -52,15 +52,28 @@ classdef DataWrapper
                      
             obj.alltokens = vertcat(obj.alltokens, newtokens); 
             
+            display('building new cols')
             %sort, unique and save cell array
             obj.alltokens = sort(obj.alltokens);
+            newcol = zeros(size(obj.tfmatrix,1),1); 
             for i = 1: length(newtokens)
+                display(i/length(newtokens))
                 index = find(ismember(obj.alltokens,newtokens{i,1}));
-                newcol = zeros(size(obj.tfmatrix,1),1); 
                 obj.tfmatrix = [obj.tfmatrix(:,1:index) newcol obj.tfmatrix(:,index+1:end)];
-                %TODO: FILL TF!
             end
-            
+            i = 1;
+            display('insert mails')
+            for mail = mails
+                display(i);
+                localdict = struct(mail{1}); 
+                tokens = fieldnames(localdict); 
+                rowindex = ismember(obj.allfiles,newfiles{1,i});
+                for j = 1: length(tokens)
+                    colindex = ismember(obj.alltokens,tokens{j,1});
+                    obj.tfmatrix(rowindex, colindex) =   1 ; 
+                end
+                i = i+1; 
+            end
             savedtf = obj.tfmatrix; 
             savedtokenlist = obj.alltokens;
             savedfilelist = obj.allfiles;
