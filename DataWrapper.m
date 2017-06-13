@@ -6,6 +6,7 @@ classdef DataWrapper
     properties 
         alltokens
         allfiles
+        allspam % for each file in the training set, we know whether spam or no spam
         tfmatrix
     end
     
@@ -19,10 +20,12 @@ classdef DataWrapper
         end
         
         function r = importFromFolder(obj, path)
-            load('index.mat')
+            load('index.mat');
             obj.alltokens = savedtokenlist; 
             obj.allfiles = savedfilelist;
             obj.tfmatrix = savedtf; 
+            obj.allspam = savedspam; 
+            
             dirlist = dir(strcat(path,'*.txt'));
             tmpfiles = {}; 
             for i = 1:length(dirlist)
@@ -33,11 +36,9 @@ classdef DataWrapper
             newfiles = sort(setdiff(tmpfiles, obj.allfiles)); 
             obj.allfiles = horzcat(obj.allfiles, newfiles); 
             
-            display('building new rows');
-            newrow = zeros(1,size(obj.tfmatrix,2)); 
-            for i = 1:length(newfiles)
-                obj.tfmatrix = [obj.tfmatrix; newrow]; 
-            end    
+            newrows = zeros(length(newfiles),size(obj.tfmatrix,2)); 
+            obj.tfmatrix = vertcat(obj.tfmatrix, newrows); 
+   
             % preprocessed data
             % [{token:count,...}{token:count,...}]
             mails = py.preprocessor.run(py.list(newfiles));
@@ -47,35 +48,46 @@ classdef DataWrapper
                 tokens = fieldnames(struct(mail{1})); % ordered tokens 
                 tmptokens = vertcat(tmptokens, tokens);  
             end
-            newtokens = setdiff(tmptokens, obj.alltokens); 
-                     
+            newtokens = setdiff(tmptokens, obj.alltokens);             
             obj.alltokens = vertcat(obj.alltokens, newtokens); 
-            
-            display('building new cols')
-            %sort, unique and save cell array
-            newcol = zeros(size(obj.tfmatrix,1),length(newtokens)); 
-            obj.tfmatrix = horzcat(obj.tfmatrix, newcol);
+           
+            newcols = zeros(size(obj.tfmatrix,1),length(newtokens)); 
+            obj.tfmatrix = horzcat(obj.tfmatrix, newcols);
            
             i = 1;
-            display('insert mails')
             for mail = mails
-                display(i);
+                display('Inserting Mail ' + i)
+                if (strfind(newfiles{1,i}, 'spam'))
+                    obj.allspam{end+1} = newfiles{1,i}; 
+                end 
                 localdict = struct(mail{1}); 
                 tokens = fieldnames(localdict); 
                 rowindex = ismember(obj.allfiles,newfiles{1,i});
                 for j = 1: length(tokens)
                     colindex = ismember(obj.alltokens,tokens{j,1});
-                    obj.tfmatrix(rowindex, colindex) =   1 ; 
+                    obj.tfmatrix(rowindex, colindex) = localdict.(tokens{i}) ; % insert actual counts 
                 end
                 i = i+1; 
             end
             savedtf = obj.tfmatrix; 
             savedtokenlist = obj.alltokens;
             savedfilelist = obj.allfiles;
+            savedspam = obj.allspam; 
             save('index.mat', 'savedtokenlist');
             save('index.mat', 'savedfilelist', '-append');
             save('index.mat', 'savedtf', '-append'); 
+            save('index.mat', 'savedspam', '-append'); 
         end   
+        function r = resetIndex(obj)
+            savedtf = [0]; 
+            savedtokenlist = {};
+            savedfilelist = {};
+            savedspam = {}; 
+            save('index.mat', 'savedtokenlist');
+            save('index.mat', 'savedfilelist', '-append');
+            save('index.mat', 'savedtf', '-append'); 
+            save('index.mat', 'savedspam', '-append'); 
+        end
     end
 end
 
