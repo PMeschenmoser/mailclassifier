@@ -87,6 +87,25 @@ classdef DataWrapper
             save('index.mat', 'savedtf', '-append'); 
             save('index.mat', 'savedspam', '-append'); 
         end
+        
+        function r= getTFIDF(obj)
+            % tf-idf
+            % tfidf = tf(i,j) * idf(i) = tf(i,j) * log(N/n(i)
+            % With:
+            % tf(i,j) -> frequency of term i in mail j
+            % idf(i) -> weight of term i 
+            % N -> number of all mails
+            % n(i) -> number of documents, where term i appears
+            % This improves the descriptor emails, where tokens appear often,
+            % while they appear rarely in other mails, 
+            
+            %
+            load('index.mat');
+            idf = savedtf; 
+            idf(idf>0) = 1;  % binary matrix, sum this up to get n(i)
+            idf = bsxfun(@rdivide, size(savedtf,1), sum(idf)) % divide N/n(i), element-wise
+            r =  bsxfun(@times, savedtf, log(idf)) % tf * idf 
+        end    
     end
 end
 

@@ -32,11 +32,9 @@ classdef DataWrapper
                 curr  = strcat(path,dirlist(i).name); 
                 tmpfiles{1,i} =curr;
             end
-            display(obj.allfiles)
             newfiles = sort(setdiff(tmpfiles, obj.allfiles)); 
             obj.allfiles = horzcat(obj.allfiles, newfiles); 
             
-
             newrows = zeros(length(newfiles),size(obj.tfmatrix,2)); 
             obj.tfmatrix = vertcat(obj.tfmatrix, newrows); 
    
@@ -51,8 +49,7 @@ classdef DataWrapper
             end
             newtokens = setdiff(tmptokens, obj.alltokens);             
             obj.alltokens = vertcat(obj.alltokens, newtokens); 
-            
-
+           
             newcols = zeros(size(obj.tfmatrix,1),length(newtokens)); 
             obj.tfmatrix = horzcat(obj.tfmatrix, newcols);
            
@@ -60,14 +57,14 @@ classdef DataWrapper
             for mail = mails
                 display('Inserting Mail ' + i)
                 if (strfind(newfiles{1,i}, 'spam'))
-                    obj.savedspam{end+1} = newfiles{1,i}
+                    obj.allspam{end+1} = newfiles{1,i}; 
                 end 
                 localdict = struct(mail{1}); 
                 tokens = fieldnames(localdict); 
                 rowindex = ismember(obj.allfiles,newfiles{1,i});
                 for j = 1: length(tokens)
                     colindex = ismember(obj.alltokens,tokens{j,1});
-                    obj.tfmatrix(rowindex, colindex) =   1 ; 
+                    obj.tfmatrix(rowindex, colindex) = localdict.(tokens{i}) ; % insert actual counts 
                 end
                 i = i+1; 
             end
@@ -78,7 +75,38 @@ classdef DataWrapper
             save('index.mat', 'savedtokenlist');
             save('index.mat', 'savedfilelist', '-append');
             save('index.mat', 'savedtf', '-append'); 
+            save('index.mat', 'savedspam', '-append'); 
         end   
+        function r = resetIndex(obj)
+            savedtf = [0]; 
+            savedtokenlist = {};
+            savedfilelist = {};
+            savedspam = {}; 
+            save('index.mat', 'savedtokenlist');
+            save('index.mat', 'savedfilelist', '-append');
+            save('index.mat', 'savedtf', '-append'); 
+            save('index.mat', 'savedspam', '-append'); 
+        end
+        
+        function r= getTFIDF(obj)
+            % tf-idf
+            % tfidf = tf(i,j) * idf(i) = tf(i,j) * log(N/n(i)
+            % With:
+            % tf(i,j) -> frequency of term i in mail j
+            % idf(i) -> weight of term i 
+            % N -> number of all mails
+            % n(i) -> number of documents, where term i appears
+            % This makes emails, where tokens appea
+            
+            
+            
+            %
+            load('index.mat');
+            idf = savedtf; 
+            idf(idf>0) = 1;  % binary matrix
+            idf = bsxfun(@rdivide, size(savedtf,1), sum(idf))
+            r =  bsxfun(@times, savedtf, log(idf))
+        end    
     end
 end
 
