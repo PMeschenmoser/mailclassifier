@@ -1,6 +1,6 @@
 % Run via wrapper = new DataWrapper()
 % wrapper.importFromFolder('C:\Users\user\Documents\GitHub\mailclassifier\pre2006\enron1\ham\')
-% Wait a few seconds
+% mdl = fitcknn(getTFIDF(wrapper),getLabelVector(wrapper)) knn-classifier!
 
 classdef DataWrapper
     properties 
@@ -105,7 +105,19 @@ classdef DataWrapper
             idf(idf>0) = 1;  % binary matrix, sum this up to get n(i)
             idf = bsxfun(@rdivide, size(savedtf,1), sum(idf)) % divide N/n(i), element-wise
             r =  bsxfun(@times, savedtf, log(idf)) % tf * idf 
-        end    
+        end
+        
+        function r = getLabelVector(obj)
+            % Spam -> 1 
+            % No spam -> 0
+            load('index.mat');
+            labels = zeros(size(savedtf,1),1);
+            for j = 1: length(savedspam)
+                index = ismember(savedfilelist,savedspam{1,j});
+                labels(index,1)  = 1; % insert actual counts 
+            end
+            r = labels
+        end
     end
 end
 

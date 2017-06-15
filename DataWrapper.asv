@@ -96,17 +96,25 @@ classdef DataWrapper
             % idf(i) -> weight of term i 
             % N -> number of all mails
             % n(i) -> number of documents, where term i appears
-            % This makes emails, where tokens appea
-            
-            
+            % This improves the descriptor emails, where tokens appear often,
+            % while they appear rarely in other mails, 
             
             %
             load('index.mat');
             idf = savedtf; 
-            idf(idf>0) = 1;  % binary matrix
-            idf = bsxfun(@rdivide, size(savedtf,1), sum(idf))
-            r =  bsxfun(@times, savedtf, log(idf))
-        end    
+            idf(idf>0) = 1;  % binary matrix, sum this up to get n(i)
+            idf = bsxfun(@rdivide, size(savedtf,1), sum(idf)) % divide N/n(i), element-wise
+            r =  bsxfun(@times, savedtf, log(idf)) % tf * idf 
+        end
+        
+        function r = getLabelVector(obj)
+            load('index.mat');
+            empty = zeros(length(saveffilelist),1);
+            for j = 1: length(savedspam)
+                    index = ismember(savedfilelist,savedspam{j,1});
+                    ob = localdict.(tokens{i}) ; % insert actual counts 
+            end
+        end
     end
 end
 
