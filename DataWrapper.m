@@ -1,6 +1,7 @@
 % Run via wrapper = new DataWrapper()
 % wrapper.importFromFolder('C:\Users\user\Documents\GitHub\mailclassifier\pre2006\enron1\ham\')
-% mdl = fitcknn(getTFIDF(wrapper),getLabelVector(wrapper)) knn-classifier!
+% mdl = fitcknn(getTFIDF(wrapper),getLabelVector(wrapper)) build the knn-classifier!
+% [label,score,cost] = predict(Mdl,YourVectorToPredict)
 
 classdef DataWrapper
     properties 
