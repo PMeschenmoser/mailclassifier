@@ -1,0 +1,108 @@
+classdef Tester
+    properties 
+        alltokens
+        tfmatrix
+        testmatrix
+        testfiles
+    end
+    
+    methods
+        function obj = Tester()
+            % Constructor
+            % Add the current folder to the python search path
+            if count(py.sys.path,'') == 0
+                insert(py.sys.path,int32(0),'');
+            end
+        end
+        
+        function r = run(obj, path)
+            load('index.mat');
+            obj.alltokens = savedtokenlist; 
+            obj.tfmatrix = savedtf; 
+            obj.testmatrix = [];
+            
+            dirlist = dir(strcat(path,'*.txt'));
+            obj.testfiles = {};
+            for i = 1:length(dirlist)
+                curr  = strcat(path,dirlist(i).name); 
+                obj.testfiles{1,i} =curr;
+            end
+            
+            newrows = zeros(length(dirlist),size(obj.tfmatrix,2)); 
+            obj.testmatrix = vertcat(obj.testmatrix, newrows); 
+
+   
+            % preprocessed data
+            % [{token:count,...}{token:count,...}]
+            mails = py.preprocessor.run(py.list(tmpfiles));
+            
+            tmptokens = {};  %build a list of tokens in the new files 
+            for mail = mails
+                tokens = fieldnames(struct(mail{1})); % ordered tokens 
+                tmptokens = vertcat(tmptokens, tokens);  
+            end
+            newtokens = intersect(tmptokens, obj.alltokens);             
+                        
+            i = 1;
+            for mail = mails
+                localdict = struct(mail{1}); 
+                tokens = fieldnames(localdict); 
+                for j = 1: length(tokens)
+                    colindex = ismember(obj.alltokens,tokens{j,1});
+                    obj.tfmatrix(i, colindex) = localdict.(tokens{i}) ; % insert actual counts 
+                end
+                i = i+1; 
+            end
+            savedtf = obj.tfmatrix; 
+            savedtokenlist = obj.alltokens;
+            savedfilelist = obj.allfiles;
+            savedspam = obj.allspam; 
+            save('index.mat', 'savedtokenlist');
+            save('index.mat', 'savedfilelist', '-append');
+            save('index.mat', 'savedtf', '-append'); 
+            save('index.mat', 'savedspam', '-append'); 
+        end   
+        function r = resetIndex(obj)
+            savedtf = [0]; 
+            savedtokenlist = {};
+            savedfilelist = {};
+            savedspam = {}; 
+            save('index.mat', 'savedtokenlist');
+            save('index.mat', 'savedfilelist', '-append');
+            save('index.mat', 'savedtf', '-append'); 
+            save('index.mat', 'savedspam', '-append'); 
+        end
+        
+        function r= getTFIDF(obj)
+            % tf-idf
+            % tfidf = tf(i,j) * idf(i) = tf(i,j) * log(N/n(i)
+            % With:
+            % tf(i,j) -> frequency of term i in mail j
+            % idf(i) -> weight of term i 
+            % N -> number of all mails
+            % n(i) -> number of documents, where term i appears
+            % This improves the descriptor emails, where tokens appear often,
+            % while they appear rarely in other mails, 
+            
+            %
+            load('index.mat');
+            idf = savedtf; 
+            idf(idf>0) = 1;  % binary matrix, sum this up to get n(i)
+            idf = bsxfun(@rdivide, size(savedtf,1), sum(idf)) % divide N/n(i), element-wise
+            r =  bsxfun(@times, savedtf, log(idf)) % tf * idf 
+        end
+        
+        function r = getLabelVector(obj)
+            % Spam -> 1 
+            % No spam -> 0
+            load('index.mat');
+            labels = zeros(size(savedtf,1),1);
+            for j = 1: length(savedspam)
+                index = ismember(savedfilelist,savedspam{1,j});
+                labels(index,1)  = 1; % insert actual counts 
+            end
+            r = labels
+        end
+    end
+end
+
