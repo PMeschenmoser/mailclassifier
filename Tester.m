@@ -1,3 +1,8 @@
+% 
+% mdl = fitcknn(getTF(wrapper),getLabelVector(wrapper),'NumNeighbors',20, 'Distance', 'jaccard')
+% importFromFolder(wrapper, 'D:\enron\enron1\ham\') 
+% importFromFolder(wrapper, 'D:\enron\enron2\spam\') 
+% run(t, 'D:\enron\sample\', mdl,getWeightingVector(wrapper));
 classdef Tester
     properties 
         alltokens
@@ -15,7 +20,7 @@ classdef Tester
             end
         end
         
-        function r = run(obj, path, weightingvector)
+        function r = run(obj, path, model, weightingVector)
             load('index.mat');
             obj.alltokens = savedtokenlist; 
             obj.tfmatrix = savedtf; 
@@ -41,11 +46,17 @@ classdef Tester
                 tokens = fieldnames(localdict); 
                 for j = 1: length(tokens)
                     colindex = ismember(obj.alltokens,tokens{j,1});
-                    obj.testmatrix(i, colindex) = localdict.(tokens{i}) ; % insert actual counts 
+                    obj.testmatrix(i, colindex) = localdict.(tokens{j}) ; % insert actual counts 
                 end
                 i = i+1; 
             end
-            r = obj.testmatrix; 
+            %obj.testmatrix =  bsxfun(@times, obj.testmatrix, weightingVector);
+            obj.testmatrix(isnan(obj.testmatrix)) = 0
+            for j= 1: i-1
+               display(obj.testfiles(1,j));
+               display(predict(model, obj.testmatrix(j,:))); 
+            end
+            r = 0;  
         end   
     end
 end

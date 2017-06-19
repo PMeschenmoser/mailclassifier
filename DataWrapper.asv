@@ -56,7 +56,7 @@ classdef DataWrapper
            
             i = 1;
             for mail = mails
-                display('Inserting Mail ' + i);
+                display('Inserting Mail ' + i)
                 if (strfind(newfiles{1,i}, 'spam'))
                     obj.allspam{end+1} = newfiles{1,i}; 
                 end 
@@ -104,15 +104,11 @@ classdef DataWrapper
             load('index.mat');
             idf = savedtf; 
             idf(idf>0) = 1;  % binary matrix, sum this up to get n(i)
-            idf = bsxfun(@rdivide, size(savedtf,1), sum(idf)); % divide N/n(i), element-wise
-            r =  bsxfun(@times, savedtf, log(idf)); % tf * idf 
+            idf = bsxfun(@rdivide, size(savedtf,1), sum(idf)) % divide N/n(i), element-wise
+            r =  bsxfun(@times, savedtf, log(idf)) % tf * idf 
             r(isnan(0)) = 0; 
         end
         
-        function r = getTF(obj)
-           load('index.mat');
-           r = savedtf; 
-        end
         function r = getWeightingVector(obj)
             load('index.mat');
             idf = savedtf; 
