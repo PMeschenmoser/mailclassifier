@@ -108,6 +108,13 @@ classdef DataWrapper
             r =  bsxfun(@times, savedtf, log(idf)) % tf * idf 
         end
         
+        function r = getWeightingVector(obj)
+            load('index.mat');
+            idf = savedtf; 
+            idf(idf>0) = 1;  % binary matrix, sum this up to get n(i)
+            r = log(bsxfun(@rdivide, size(savedtf,1), sum(idf))) % divide N/n(i), element-wise
+        end
+        
         function r = getLabelVector(obj)
             % Spam -> 1 
             % No spam -> 0
