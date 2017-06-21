@@ -11,7 +11,7 @@ def run(paths):
     stops = set(stopwords.words('english'))
     result = [];
     for file in paths:
-        with open(file, 'r') as f:
+        with open(file, 'r', encoding="utf-8", errors="replace") as f:
             init = re.sub(r'\d+', '',f.read().lower())
             sentences = sent_tokenize(init)  # lower casing and sentence tokenization
             tokens = []
