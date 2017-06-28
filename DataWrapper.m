@@ -64,7 +64,7 @@ classdef DataWrapper
                 tokens = fieldnames(localdict); 
                 rowindex = ismember(obj.allfiles,newfiles{1,i});
                 for j = 1: length(tokens)
-                    colindex = find(ismember(obj.alltokens,tokens{j,1}));
+                    colindex = ismember(obj.alltokens,tokens{j,1});
                     obj.tfmatrix(rowindex, colindex) = localdict.(tokens{j}); % insert actual counts 
                 end
                 i = i+1; 
@@ -73,9 +73,9 @@ classdef DataWrapper
             savedtokenlist = obj.alltokens;
             savedfilelist = obj.allfiles;
             savedspam = obj.allspam; 
-            save('index.mat', 'savedtokenlist');
+            save('index.mat', 'savedtf', '-v7.3'); 
+            save('index.mat', 'savedtokenlist', '-append');
             save('index.mat', 'savedfilelist', '-append');
-            save('index.mat', 'savedtf', '-append'); 
             save('index.mat', 'savedspam', '-append'); 
         end   
         function r = resetIndex(obj)
@@ -83,9 +83,9 @@ classdef DataWrapper
             savedtokenlist = {};
             savedfilelist = {};
             savedspam = {}; 
-            save('index.mat', 'savedtokenlist');
+            save('index.mat', 'savedtf', '-v7.3'); 
+            save('index.mat', 'savedtokenlist', '-append');
             save('index.mat', 'savedfilelist', '-append');
-            save('index.mat', 'savedtf', '-append'); 
             save('index.mat', 'savedspam', '-append'); 
         end
         
