@@ -21,7 +21,7 @@ classdef DataWrapper
         end
         
         function r = importFromFolder(obj, path)
-            load('index.mat');
+            load('indexsmall.mat');
             obj.alltokens = savedtokenlist; 
             obj.allfiles = savedfilelist;
             obj.tfmatrix = savedtf; 
@@ -73,20 +73,20 @@ classdef DataWrapper
             savedtokenlist = obj.alltokens;
             savedfilelist = obj.allfiles;
             savedspam = obj.allspam; 
-            save('index.mat', 'savedtf', '-v7.3'); 
-            save('index.mat', 'savedtokenlist', '-append');
-            save('index.mat', 'savedfilelist', '-append');
-            save('index.mat', 'savedspam', '-append'); 
+            save('indexsmall.mat', 'savedtf', '-v7.3'); 
+            save('indexsmall.mat', 'savedtokenlist', '-append');
+            save('indexsmall.mat', 'savedfilelist', '-append');
+            save('indexsmall.mat', 'savedspam', '-append'); 
         end   
         function r = resetIndex(obj)
             savedtf = [0]; 
             savedtokenlist = {};
             savedfilelist = {};
             savedspam = {}; 
-            save('index.mat', 'savedtf', '-v7.3'); 
-            save('index.mat', 'savedtokenlist', '-append');
-            save('index.mat', 'savedfilelist', '-append');
-            save('index.mat', 'savedspam', '-append'); 
+            save('indexsmall.mat', 'savedtf', '-v7.3'); 
+            save('indexsmall.mat', 'savedtokenlist', '-append');
+            save('indexsmall.mat', 'savedfilelist', '-append');
+            save('indexsmall.mat', 'savedspam', '-append'); 
         end
         
         function r= getTFIDF(obj)
@@ -101,7 +101,7 @@ classdef DataWrapper
             % while they appear rarely in other mails, 
             
             %
-            load('index.mat');
+            load('indexsmall.mat');
             idf = savedtf; 
             idf(idf>0) = 1;  % binary matrix, sum this up to get n(i)
             idf = bsxfun(@rdivide, size(savedtf,1), sum(idf)); % divide N/n(i), element-wise
@@ -110,11 +110,11 @@ classdef DataWrapper
         end
         
         function r = getTF(obj)
-           load('index.mat');
+           load('indexsmall.mat')
            r = savedtf; 
         end
         function r = getWeightingVector(obj)
-            load('index.mat');
+            load('indexsmall.mat');
             idf = savedtf; 
             idf(idf>0) = 1;  % binary matrix, sum this up to get n(i)
             r = log(bsxfun(@rdivide, size(savedtf,1), sum(idf))) % divide N/n(i), element-wise
@@ -123,7 +123,7 @@ classdef DataWrapper
         function r = getLabelVector(obj)
             % Spam -> 1 
             % No spam -> 0
-            load('index.mat');
+            load('indexsmall.mat');
             labels = zeros(size(savedtf,1),1);
             for j = 1: length(savedspam)
                 index = ismember(savedfilelist,savedspam{1,j});

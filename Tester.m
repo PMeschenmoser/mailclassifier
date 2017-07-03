@@ -21,7 +21,7 @@ classdef Tester
         end
         
         function r = run(obj, path, model, weightingVector)
-            load('index.mat');
+            load('indexsmall.mat');
             obj.alltokens = savedtokenlist; 
             obj.tfmatrix = savedtf; 
             obj.testmatrix = [];
