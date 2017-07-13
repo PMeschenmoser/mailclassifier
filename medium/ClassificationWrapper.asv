@@ -1,0 +1,19 @@
+classdef ClassificationWrapper
+    %UNTITLED2 Summary of this class goes here
+    %   Detailed explanation goes here
+    
+    properties
+    end
+    
+    methods
+        function r = computeKNN(obj, data, numneighbors, metric)
+            model = fitcknn(getTF(data),getLabelVector(data),'NumNeighbors',numneighbors, 'Distance', metric );
+            save(strcat('models/knn-',metric,'-',num2str(numneighbors),'.mat'), 'model', '-); 
+        end
+        function r = getModel(obj, modelname)
+            r = load(strcat('models/',modelname,'.mat'), 'model'); 
+        end
+    end
+    
+end
+
