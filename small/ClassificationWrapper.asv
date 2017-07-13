@@ -1,17 +1,27 @@
 classdef ClassificationWrapper
-    %UNTITLED2 Summary of this class goes here
-    %   Detailed explanation goes here
-    
     properties
     end
     
     methods
         function r = computeKNN(obj, data, numneighbors, metric)
             model = fitcknn(getTF(data),getLabelVector(data),'NumNeighbors',numneighbors, 'Distance', metric );
-            save(strcat('models/knn-',metric,'-',num2str(numneighbors),'.mat'), 'model', '-); 
+            save(strcat('models/knn-',metric,'-',num2str(numneighbors),'.mat'), 'model'); 
+        end
+        function r = computeNaiveBayes(obj, data)
+            model = fitcnb(getTF(data),getLabelVector(data),'DistributionNames','kernel','Kernel','box');
+            save('models/bayes.mat', 'model'); 
+        end
+        function r = computeSVM(obj, data)
+            model = fitcsvm(getTF(data),getLabelVector(data));
+            save('models/svm.mat', 'model'); 
+        end
+        function r = computeDT(obj, data)
+            model = fitcsvm(getTF(data),getLabelVector(data));
+            save('models/svm.mat', 'model'); 
         end
         function r = getModel(obj, modelname)
-            r = load(strcat('models/',modelname,'.mat'), 'model'); 
+            load(strcat('models/',modelname,'.mat'), 'model'); 
+            r = model; 
         end
     end
     

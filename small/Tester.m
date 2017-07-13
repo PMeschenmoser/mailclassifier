@@ -37,11 +37,13 @@ classdef Tester
             
             newrows = zeros(length(dirlist),size(obj.tfmatrix,2)); 
             obj.testmatrix = vertcat(obj.testmatrix, newrows); 
-
+            
+            display('run pre-processor');
    
             % preprocessed data
             % [{token:count,...}{token:count,...}]
             mails = py.preprocessor.run(py.list(obj.testfiles));     
+               display('end pre-processor');
             i = 1;
             for mail = mails
                 localdict = struct(mail{1}); 
@@ -51,19 +53,23 @@ classdef Tester
                     obj.testmatrix(i, colindex) = localdict.(tokens{j}) ; % insert actual counts 
                 end
                 i = i+1; 
+                display(i); 
             end
             %obj.testmatrix =  bsxfun(@times, obj.testmatrix, weightingVector);
             obj.testmatrix(isnan(obj.testmatrix)) = 0
             for j= 1: i-1
-               label = predict(model, obj.testmatrix(j,:));
-               if ((label == 0) && not(isempty(strfind(obj.testfiles(1,j),'ham'))))
+               prediction = predict(model, obj.testmatrix(j,:));
+               isham = strfind(obj.testfiles(1,j), 'ham'); 
+               isspam = strfind(obj.testfiles(1,j), 'spam'); 
+     
+               if ((prediction == 0) && ~isempty(isham{1}))
                    truecount = truecount +1; 
-                   display('Correct ham classification'); 
-               elseif ((label == 1) && not(isempty(strfind(obj.testfiles(1,j),'spam'))))
+                   display('Correct ham classification:' ); 
+               elseif ((prediction == 1) && ~isempty(isspam{1}))
                     truecount = truecount +1; 
-                     display('Correct spam classification'); 
+                    display('Correct spam classification:'); 
                else 
-                   display('Misclassified' + obj.testfiles(1,j)) 
+                   display('Misclassification');  
                end
                %display(predict(model, obj.testmatrix(j,:))); 
             end
